@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "13-07-2026",
+            "ottReleaseDate": "14-07-2026",
             "description": "Watch MTV Splitsvilla X6 on JioHotstar.",
             "episodes": [
                 {
@@ -20,13 +20,13 @@
                     "episodeCode": "S16-E1",
                     "episodeName": "Watch First Episode",
                     "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mtv-splitsvilla/1971002603/grand-premiere-pyaar-ya-paisa/1641016314/watch"
                 },
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "2",
-                    "duration": "The boys enter Splitsvilla as Sunny and Karan add a risky twist to their first meets. Vibe checks, dances, and rejections follow until a surprise girl shakes up the game.",
+                    "duration": "1h 26m",
                     "episodeCode": "S16-E2",
                     "episodeName": "Twist at the First Meet",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/734/1768049100734-h",
@@ -36,7 +36,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "3",
-                    "duration": "The mischief-makers ignite a bomb as jealousy simmers around Mohit. Fights erupt, flirty games begin, and a shocking twist splits the villa into Love and Money.",
+                    "duration": "1h 29m",
                     "episodeCode": "S16-E3",
                     "episodeName": "Flirt, Fight, Flip the Game!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8412/1768132228412-h",
@@ -46,7 +46,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "4",
-                    "duration": "The Splitsvillians get a dome session notification, sparking excitement. Chaos erupts between Ayush and Diksha, while everyone is thrilled after witnessing their first session.",
+                    "duration": "1h 26m",
                     "episodeCode": "S16-E4",
                     "episodeName": "First Dome Session of the Season!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2235/1768570812235-h",
@@ -56,7 +56,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "5",
-                    "duration": "Simran steps into Paisa Villa, grabbing attention. The 'Paisa Bolta Hai' game sparks chaos as villamates target each other to protect their stash, leaving low-coin players unsafe.",
+                    "duration": "1h 31m",
                     "episodeCode": "S16-E5",
                     "episodeName": "Race to Stay Safe",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9930/1783034159930-h",
@@ -66,7 +66,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "6",
-                    "duration": "Couples flex their cute pet names for each other. Sunny and Karan pump them up for the 'Love Charger' challenge to grab the ultimate power.",
+                    "duration": "1h 21m",
                     "episodeCode": "S16-E6",
                     "episodeName": "Pyaar Ka Power",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2936/1768740782936-h",
@@ -76,7 +76,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "7",
-                    "duration": "The Splitsvillians at Paisa Villa get a notification about their first dumping at the Power Chamber. Uorfi reveals that either Vishu or Kaira will hold the power. Who will it be?",
+                    "duration": "1h 39m",
                     "episodeCode": "S16-E7",
                     "episodeName": "Power Play at Paisa Villa",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/528/1782925910528-h",
@@ -86,7 +86,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "8",
-                    "duration": "The Splitsvillians gather for a high-voltage Dome Session at Pyaar Villa. When Karan and Sunny open the mischief box, a stunning twist reshapes the destiny of an ideal match.",
+                    "duration": "1h 34m",
                     "episodeCode": "S16-E8",
                     "episodeName": "When Fate Twists at Pyaar Villa",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5981/1769244025981-h",
@@ -96,7 +96,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "9",
-                    "duration": "Uorfi shows up in police mode to announce the new 'Looto' challenge for the Paisa Villa couples. Amid chaos, the 'Chor Bachaye More' results reveal the coins secured by each pair.",
+                    "duration": "1h 19m",
                     "episodeCode": "S16-E9",
                     "episodeName": "Looto Aur Jeeto",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8460/1769322928460-h",
@@ -106,7 +106,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "10",
-                    "duration": "The Splitsvillians at Pyaar Villa are summoned to the Mischief Den, where Uorfi and Nia ask to choose between pyaar and paisa. Later, Sunny announces the 'Khane Ka Kalesh' challenge.",
+                    "duration": "1h 15m",
                     "episodeCode": "S16-E10",
                     "episodeName": "Khane Ka Kalesh Begins",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6153/1769760356153-h",
@@ -116,7 +116,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "11",
-                    "duration": "Nia and Uorfi introduce a tense bidding game where only five Splitsvillians can be saved. However, a shocking twist hands ultimate power to Kaira and Deeptanshu. Who will survive?",
+                    "duration": "1h 43m",
                     "episodeCode": "S16-E11",
                     "episodeName": "New Plots Unfold at Paisa Villa",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6113/1769849896113-h",
@@ -126,7 +126,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "12",
-                    "duration": "As choices between Pyaar and Paisa loom for Splitsvillians, Uorfi and Nia storm the dome with Sunny and Karan, leaving the Splitsvillians on edge. What consequences await them?",
+                    "duration": "1h 53m",
                     "episodeCode": "S16-E12",
                     "episodeName": "Dome of Dilemmas, Pyaar Ya Paisa",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5245/1769954755245-h",
@@ -136,7 +136,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "13",
-                    "duration": "Villas collide in a wild pool party where a massive switch sparks flirty new connections and high-stakes mingling. Will these new pairs be the ideal match?",
+                    "duration": "2h 9m",
                     "episodeCode": "S16-E13",
                     "episodeName": "The Ultimate Poolside Flirt-Off",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6950/1770376986950-h",
@@ -146,7 +146,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "14",
-                    "duration": "Nia and Uorfi spill the deets on the 'Seal the Deal' challenge to bag Splitcoins for the Paisa Villa couples. Who'll outplay, outsmart, and vibe with Niharika to snag those sweet coins?",
+                    "duration": "1h 13m",
                     "episodeCode": "S16-E14",
                     "episodeName": "The 'Seal the Deal' Showdown",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/791/1770461510791-h",
@@ -156,7 +156,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "15",
-                    "duration": "The Dome erupts with accusations, broken connections and rule breaches. A shocking elimination rattles the villa, and a surprise wild card entry flips the game.",
+                    "duration": "1h 26m",
                     "episodeCode": "S16-E15",
                     "episodeName": "Dome Drama, Wild Card Shock",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3017/1770525173017-h",
@@ -166,7 +166,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "16",
-                    "duration": "Nia and Uorfi spin the Wheel of Power, saving the boys but leaving the girls in a tailspin. Kaira’s shock dump gags the villa and costs her coins!",
+                    "duration": "1h 38m",
                     "episodeCode": "S16-E16",
                     "episodeName": "The Wheel of Power's Fallout",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5410/1781328335410-h",
@@ -176,7 +176,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "17",
-                    "duration": "Excitement peaks at Pyaar Villa during the 'Puppy Lahari' challenge, until a shocking twist grants Anuska immunity, leaving the other contestants on edge. Who will be safe next?",
+                    "duration": "1h 41m",
                     "episodeCode": "S16-E17",
                     "episodeName": "Puppy Lahari: Hearts at Risk",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/505/1778419170505-h",
@@ -186,7 +186,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "18",
-                    "duration": "Chaos hits Pyaar Villa as Sadaaf storms at Anuska. Sunny and Nia launch the beachside Paisa Challenge, 'Ball Hai Shava Shava,' and tempers fly as balls go wild!",
+                    "duration": "1h 25m",
                     "episodeCode": "S16-E18",
                     "episodeName": "Shava Shava Showdown!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4434/1781328524434-h",
@@ -196,7 +196,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "19",
-                    "duration": "Romantic Challenge winners light up Pyaar Villa with dreamy dates and Love Den vibes. Meanwhile, in Paisa Villa, Keona's safe play charge sparks a meltdown and shakes the game.",
+                    "duration": "1h 9m",
                     "episodeCode": "S16-E19",
                     "episodeName": "Pyaar Wali Vibes",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4619/1778865124619-h",
@@ -206,7 +206,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "20",
-                    "duration": "The Power Match gains control to save and dump, shaking the villa. Nia and Uorfi reveal explosive updates from Pyaar Villa, igniting drama and betrayals.",
+                    "duration": "1h 11m",
                     "episodeCode": "S16-E20",
                     "episodeName": "Villa Under Power Shock",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9528/1781328619528-h",
@@ -216,7 +216,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "21",
-                    "duration": "Doom Session takes a dramatic turn as connections flip, and pranks get revealed. Later, Ideal Match Akanksha and Gauresh claim the throne and gain the dumping power.",
+                    "duration": "1h 19m",
                     "episodeCode": "S16-E21",
                     "episodeName": "Ideal Match on Spotlight",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3634/1781349893634-h",
@@ -226,7 +226,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "22",
-                    "duration": "Secrets spill in a blindfolded task that blurs loyalty and betrayal. Just as chaos brews, Sunny announces a shocking merger that flips the game.",
+                    "duration": "1h 20m",
                     "episodeCode": "S16-E22",
                     "episodeName": "Dil, Dosti Ya Dhoka?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2364/1772196552364-h",
@@ -236,7 +236,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "23",
-                    "duration": "Karan unveils two thrones, one for Pyaar and one for Paisa, while Sunny shuffles the Splitsvillians, igniting excitement for the ultimate challenge at the villa.",
+                    "duration": "1h 12m",
                     "episodeCode": "S16-E23",
                     "episodeName": "Villa Twist: The Throne Challenge",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9993/1772284119993-h",
@@ -256,7 +256,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "25",
-                    "duration": "Tejasswi makes her grand entrance as Karan’s \"Ideal Match\"! From the high-stakes \"Pyaar Ka Atyachar\" to coin splits and mini-challenges, the competition just hit a fever pitch.",
+                    "duration": "2h 7m",
                     "episodeCode": "S16-E25",
                     "episodeName": "Pyaar Ka Atyachar: Twist Mode",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8400/1772804328400-h",
@@ -266,7 +266,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "26",
-                    "duration": "Dome fights crack connections as eyes turn to the Oracle for the Ideal Match reveal. The mischief-makers reveal the Splitvillians' Paisa Ya Pyaar picks, triggering a lifeline twist",
+                    "duration": "2h 2m",
                     "episodeCode": "S16-E26",
                     "episodeName": "Lifeline Ka Twist",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1794/1772894861794-h",
@@ -276,7 +276,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "27",
-                    "duration": "Tensions explode in the villa after betrayal accusations shake alliances. The Jaadu Ki Jhappi challenge sparks intense face-offs as Split-coins begin to shift the power dynamic.",
+                    "duration": "1h 21m",
                     "episodeCode": "S16-E27",
                     "episodeName": "Jhappi Ka Powerplay",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3648/1772980223648-h",
@@ -286,7 +286,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "28",
-                    "duration": "Chaos ensues at the villa after the Split-coin Power Chart reveal, with drama and accusations flying. The vibe shifts as Elvish rolls in with Karan and the red-flag showdown begins.",
+                    "duration": "1h 17m",
                     "episodeCode": "S16-E28",
                     "episodeName": "Villa Freaks Over Coin Drama",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5293/1773403415293-h",
@@ -296,7 +296,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "29",
-                    "duration": "Karan drops the Tujhe Dhula Diya challenge, and the villa goes on full power mode. The celebration turns chaotic when Anuska calls out Vishu for flipping between the girls.",
+                    "duration": "1h 2m",
                     "episodeCode": "S16-E29",
                     "episodeName": "Tujhe Dhula Diya: Game Mode",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9411/1773486459411-h",
@@ -306,7 +306,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "30",
-                    "duration": "Tempers flare in the Dome as Sunny calls out Yogesh. Tayne and Sadhaaf turn into an ideal match. Elvish drops a wild mischief that shakes the game and brings Ruru into the villa.",
+                    "duration": "1h 33m",
                     "episodeCode": "S16-E30",
                     "episodeName": "The Wild Card Ka Hungama",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/608/1773579440608-h",
@@ -316,7 +316,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "31",
-                    "duration": "The secret is out and the cake is flying! Karan and Sunny's surprise notification turns the villa into a sugary battlefield as sweet statements lead to bitter confrontations.",
+                    "duration": "1h 25m",
                     "episodeCode": "S16-E31",
                     "episodeName": "Truths Unmasked at Splitsvilla",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9665/1774099969665-h",
@@ -326,7 +326,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "32",
-                    "duration": "Sunny's fiery vibe ignites the villa, but the party ends on an unexpected chill. Hamid drops a shocking twist, the night isn't over, and the real drama is just beginning.",
+                    "duration": "1h 9m",
                     "episodeCode": "S16-E32",
                     "episodeName": "Dance Floor Decoy: The Real Game",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/713/1782926040713-h",
@@ -336,7 +336,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "33",
-                    "duration": "Nia's performance proves the party is just getting started, but the heat rises as Karan and Sunny reveal the top three. The celebration masks a chilling twist. Who will survive?",
+                    "duration": "1h 0m",
                     "episodeCode": "S16-E33",
                     "episodeName": "Full on Entertainment Dhamaal",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3115/1774087803115-h",
@@ -346,7 +346,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "34",
-                    "duration": "Situation escalates at the Dome as the Bhaichara beef blows up. Lucky Splitsvillians survive the danger while Akanksha and Gauresh hit the oracle, slaying as the ideal match again!",
+                    "duration": "1h 38m",
                     "episodeCode": "S16-E34",
                     "episodeName": "Dome Drama: Bhaichara Kalesh!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8493/1774615178493-h",
@@ -356,7 +356,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "35",
-                    "duration": "Kashish stirs chaos in the dome while Suzzane gains power. Sunny unveils the 'Nem Boo Raa' challenge, as players split into teams and battle in an intense showdown.",
+                    "duration": "1h 19m",
                     "episodeCode": "S16-E35",
                     "episodeName": "Nem Boo Raa: Game Heats Up",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5694/1774707405694-h",
@@ -366,7 +366,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "36",
-                    "duration": "Prince's game-changing twist throws a safe couple into danger. As the Paisa Challenge alert erupts, the Villa descends into an all-out battle for coins, power, and survival.",
+                    "duration": "1h 15m",
                     "episodeCode": "S16-E36",
                     "episodeName": "Paisa Challenge Sparks Chaos",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7149/1774788927149-h",
@@ -376,7 +376,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "37",
-                    "duration": "Nia drops the 'Paiso Ki Baarish' bombshell, turning the Villa into a gold mine! But the real storm hits the Dome as Nia and Uorfi prepare to reveal the final Splitscoin count.",
+                    "duration": "1h 25m",
                     "episodeCode": "S16-E37",
                     "episodeName": "The Dome's Final Reckoning",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6033/1775222726033-h",
@@ -386,7 +386,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "38",
-                    "duration": "The villa is officially on fire! From high-stakes coin doubling to the ultimate romantic validation, the latest Dome session has completely shifted the power dynamics.",
+                    "duration": "1h 56m",
                     "episodeCode": "S16-E38",
                     "episodeName": "Stakes Are Higher, Dares Are Wilder",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8850/1776266538850-h",
@@ -396,7 +396,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "39",
-                    "duration": "Couples battle it out in the electrifying 'Pyaar ka Jhatka' challenge, testing wits and compatibility. Diksha and Himanshu falter, facing crushing disappointment.",
+                    "duration": "1h 52m",
                     "episodeCode": "S16-E39",
                     "episodeName": "Pyaar ka Jhatka: Oops Moments!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2468/1783034562468-h",
@@ -406,7 +406,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "40",
-                    "duration": "Tensions explode during a high-stakes task as rivalries clash. An underdog victory shocks all, but a secret decision and hidden meeting hint at a deeper twist.",
+                    "duration": "1h 15m",
                     "episodeCode": "S16-E40",
                     "episodeName": "Secrets Behind the Win",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/402/1775827030402-h",
@@ -416,7 +416,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "41",
-                    "duration": "Ruru's controversial coin grab propels her to the Power Throne, as Kushal and Kaira triumph as the Ideal Match. A vicious Mischief Box twist triggers shocking eliminations.",
+                    "duration": "1h 45m",
                     "episodeCode": "S16-E41",
                     "episodeName": "Thrones Claimed, Hearts Flamed",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1471/1776696431471-h",
@@ -426,7 +426,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "42",
-                    "duration": "Secret tasks ignite chaos and jealousy across the villa. As confrontations explode, shocking penalties and hidden agendas threaten to change the game completely.",
+                    "duration": "1h 44m",
                     "episodeCode": "S16-E42",
                     "episodeName": "Secrets, Lies, and Hidden Challenges",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1950/1780920971950-h",
@@ -446,7 +446,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "44",
-                    "duration": "In the 'Baby Ko Care Pasand Hai' challenge, boys enjoy beauty care, whereas girls struggle to complete their task. Saboteurs fuel chaos, and an immunity twist sparks clashes.",
+                    "duration": "1h 34m",
                     "episodeCode": "S16-E44",
                     "episodeName": "Care, Chaos and Clashes!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8040/1776516968040-h",
@@ -456,7 +456,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "45",
-                    "duration": "The Dome session turns into a battleground between Himanshu and Deeptanshu. Amid the chaos, Niharika and Sorab gain power, and an unexpected twist leaves everyone stunned.",
+                    "duration": "1h 37m",
                     "episodeCode": "S16-E45",
                     "episodeName": "Dome of Destiny",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2997/1776604772997-h",
@@ -466,7 +466,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "46",
-                    "duration": "Karan's twist doubles Split Coins for Vishu, Tayne, Suzzane, and Ruru. Uorfi's mischief jolts the villa as she unveils the explosive 'Paisa Phek, Tamasha Dekh' challenge.",
+                    "duration": "1h 10m",
                     "episodeCode": "S16-E46",
                     "episodeName": "Play, Grab, Earn!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3743/1777008923743-h",
@@ -476,7 +476,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "47",
-                    "duration": "Gauresh's choice lands him and Akanksha in the unsafe zone. The Splitsvillians brace for a fiery 'Truth or Fair' love test as couples face tough questions that shake their bonds.",
+                    "duration": "1h 28m",
                     "episodeCode": "S16-E47",
                     "episodeName": "Truth or Fair: Love Test",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5785/1781260525785-h",
@@ -486,7 +486,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "48",
-                    "duration": "Chaos erupts at the Dome as Karan and Sunny reveal their new powers. To save Zalak, everyone must unite and pool their Splitcoins to match the Power Wheel total. Will they succeed?",
+                    "duration": "1h 24m",
                     "episodeCode": "S16-E48",
                     "episodeName": "The Dome of Defiance",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1387/1777173381387-h",
@@ -496,7 +496,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "49",
-                    "duration": "Sunny Leone introduces contestants who dive into a messy beach boxing task with Digvijay and Hamid. As teams form, romance sparks, and rivalries begin to test trust.",
+                    "duration": "2h 1m",
                     "episodeCode": "S16-E49",
                     "episodeName": "Romance Meets Rivalry",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3944/1777640893944-h",
@@ -506,7 +506,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "50",
-                    "duration": "Contestants enter the Dome, where love meets money. Facing elimination, they navigate tasks, bonds, and rivalries, while fashion hampers add excitement and competition.",
+                    "duration": "1h 11m",
                     "episodeCode": "S16-E50",
                     "episodeName": "Connection Ya Confusion?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6924/1777726716924-h",
@@ -516,7 +516,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "51",
-                    "duration": "A high-voltage Dome session sparks dramatic turns as a new ideal match rises. A shocking dumping stuns the villa, as a power card saves one while the disadvantaged get eliminated.",
+                    "duration": "1h 0m",
                     "episodeCode": "S16-E51",
                     "episodeName": "Trump and Dump Twist",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6162/1777814346162-h",
@@ -526,7 +526,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "52",
-                    "duration": "Connections are tested as the Splitsvillans battle for the Ticket to Finale challenge. Friendships crack, betrayals unfold, and only one couple moves closer to the grand finale.",
+                    "duration": "1h 52m",
                     "episodeCode": "S16-E52",
                     "episodeName": "The Ticket To Finale Challenge",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8814/1778315218814-h",
@@ -536,7 +536,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "53",
-                    "duration": "Uorfi spices up the final Dome session. Bonds are shaken and loyalties are tested as tickets outweigh connections, leading to intense drama and emotional, tearful goodbyes.",
+                    "duration": "1h 24m",
                     "episodeCode": "S16-E53",
                     "episodeName": "The Final Dome: Heartbreak, Drama",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8147/1778332418147-h",
@@ -546,7 +546,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "54",
-                    "duration": "Karan's twist forces the contestants to pay a steep price in the semi-final challenge, resulting in one couple's elimination. Two strong pairs advance to the grand finale.",
+                    "duration": "2h 9m",
                     "episodeCode": "S16-E54",
                     "episodeName": "Battle for Semi-Final Glory",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5690/1778416255690-h",
@@ -556,7 +556,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "55",
-                    "duration": "Pyaar aur Paise ki jung ab aa chuki hai last stage mein. The Grand Finale is here with a grand challenge and some tempting mischief to shock our finalists!",
+                    "duration": "2h 24m",
                     "episodeCode": "S16-E55",
                     "episodeName": "The Grand Finale: Part 1",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6052/1781260476052-h",
@@ -566,7 +566,7 @@
                 {
                     "seasonNumber": "16",
                     "episodeNumber": "56",
-                    "duration": "The Grand Finale is here, and we are serving some khatarnaak khulaase on the Red Carpet. Kisne paaya janta ka pyaar, kisne kiya vaar, aur kaun hoga winner. Watch now!",
+                    "duration": "2h 13m",
                     "episodeCode": "S16-E56",
                     "episodeName": "The Grand Finale: Part 2",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8508/1778923148508-h",
@@ -580,7 +580,7 @@
                     "episodeCode": "S1-E57",
                     "episodeName": "50m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/4268/1779099144268-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/bro-talk-with-the-boys/1271642892/watch"
                 },
                 {
@@ -590,7 +590,7 @@
                     "episodeCode": "S1-E58",
                     "episodeName": "50m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/3564/1779095933564-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/yogesh-sorabs-unfiltered-bro-talk/1271642896/watch"
                 },
                 {
@@ -600,7 +600,7 @@
                     "episodeCode": "S1-E59",
                     "episodeName": "50m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/3022/1779098233022-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/dating-gone-wrong/1271642895/watch"
                 },
                 {
@@ -610,17 +610,17 @@
                     "episodeCode": "S1-E60",
                     "episodeName": "59m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/1340/1779096021340-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/boys-unfiltered-gossip/1271642894/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "61",
-                    "duration": "The Ultimate Bhaichaara Session",
+                    "duration": "45m",
                     "episodeCode": "S1-E61",
                     "episodeName": "48m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/1482/1779098281482-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-ultimate-bhaichaara-session/1271642893/watch"
                 },
                 {
@@ -630,7 +630,7 @@
                     "episodeCode": "S1-E62",
                     "episodeName": "1h 58m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/9198/1778737719198-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mtv-byog-bring-your-own-goss/1271401079/ruru-and-deeptanshu-betrayal-unlocked/1271641455/watch"
                 },
                 {
@@ -640,7 +640,7 @@
                     "episodeCode": "S1-E63",
                     "episodeName": "1h 18m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/888/1778093150888-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mtv-byog-bring-your-own-goss/1271401079/the-viral-jodi-niharika-and-sorab/1271639700/watch"
                 },
                 {
@@ -650,7 +650,7 @@
                     "episodeCode": "S1-E64",
                     "episodeName": "1h 38m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/7247/1777527397247-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mtv-byog-bring-your-own-goss/1271401079/the-goss-expert-spill-or-snap/1271635231/watch"
                 },
                 {
@@ -660,7 +660,7 @@
                     "episodeCode": "S1-E65",
                     "episodeName": "1h 27m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/3304/1776864243304-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mtv-byog-bring-your-own-goss/1271401079/hero-ya-hero-ka-bhai-bhaichara-edition/1271632491/watch"
                 },
                 {
@@ -670,7 +670,7 @@
                     "episodeCode": "S1-E66",
                     "episodeName": "1h 35m",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/9371/1775674689371-h",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mtv-byog-bring-your-own-goss/1271401079/friendship-survives-power-prevails/1271626885/watch"
                 },
                 {
@@ -680,17 +680,17 @@
                     "episodeCode": "S1-E67",
                     "episodeName": "Green Flags Turn Red: Secrets Spill",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mtv-byog-bring-your-own-goss/1271401079/green-flags-turn-red-secrets-spill/1271613860/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "68",
-                    "duration": "Ultimate Couch Confrontation",
+                    "duration": "1h 17m",
                     "episodeCode": "S1-E68",
                     "episodeName": "Ultimate Couch Confrontation",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mtv-byog-bring-your-own-goss/1271401079/ultimate-couch-confrontation/1271612249/watch"
                 },
                 {
@@ -700,7 +700,7 @@
                     "episodeCode": "S1-E69",
                     "episodeName": "Behen Villa ft. Preet, Khushi and Zalak",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mtv-byog-bring-your-own-goss/1271401079/behen-villa-ft-preet-khushi-and-zalak/1271608526/watch"
                 },
                 {
@@ -710,7 +710,7 @@
                     "episodeCode": "S1-E70",
                     "episodeName": "The Final Countdown: Who Will Win?",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-final-countdown-who-will-win/1271641979/watch"
                 },
                 {
@@ -720,27 +720,27 @@
                     "episodeCode": "S1-E71",
                     "episodeName": "Road to the Finale Ticket",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/road-to-the-finale-ticket/1271640033/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "72",
-                    "duration": "Hamid Leads as Aamir Sets the Stage",
+                    "duration": "30m",
                     "episodeCode": "S1-E72",
                     "episodeName": "Hamid Leads as Aamir Sets the Stage",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/hamid-leads-as-aamir-sets-the-stage/1271638267/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "73",
-                    "duration": "The Most Emotional Dome Ever",
+                    "duration": "30m",
                     "episodeCode": "S1-E73",
                     "episodeName": "The Most Emotional Dome Ever",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-most-emotional-dome-ever/1271633747/watch"
                 },
                 {
@@ -750,7 +750,7 @@
                     "episodeCode": "S1-E74",
                     "episodeName": "Behind The Villa: Pre-Task Fun",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/behind-the-villa-pre-task-fun/1271630924/watch"
                 },
                 {
@@ -760,7 +760,7 @@
                     "episodeCode": "S1-E75",
                     "episodeName": "Baseer's Mad Entry and BTS Fun!",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/baseers-mad-entry-and-bts-fun/1271627569/watch"
                 },
                 {
@@ -770,17 +770,17 @@
                     "episodeCode": "S1-E76",
                     "episodeName": "Karan's Funny FAB Challenge",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karans-funny-fab-challenge/1271617654/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "77",
-                    "duration": "Special Guest, Intense Dome Ahead",
+                    "duration": "32m",
                     "episodeCode": "S1-E77",
                     "episodeName": "Special Guest, Intense Dome Ahead",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/special-guest-intense-dome-ahead/1271615006/watch"
                 },
                 {
@@ -790,7 +790,7 @@
                     "episodeCode": "S1-E78",
                     "episodeName": "Yogesh’s Exit: Heartbreak and Regrets",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/yogeshs-exit-heartbreak-and-regrets/1271641977/watch"
                 },
                 {
@@ -800,7 +800,7 @@
                     "episodeCode": "S1-E79",
                     "episodeName": "Sorab - Niharika's Final Thoughts",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/sorab-niharikas-final-thoughts/1271641976/watch"
                 },
                 {
@@ -810,7 +810,7 @@
                     "episodeCode": "S1-E80",
                     "episodeName": "Unfair Voting in the Villa",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/unfair-voting-in-the-villa/1271641975/watch"
                 },
                 {
@@ -820,7 +820,7 @@
                     "episodeCode": "S1-E81",
                     "episodeName": "Goodbye to the Villa - Vishu and Suzzane",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/goodbye-to-the-villa-vishu-and-suzzane/1271640686/watch"
                 },
                 {
@@ -830,17 +830,17 @@
                     "episodeCode": "S1-E82",
                     "episodeName": "Sadhaaf-Deeptanshu Speak about the Betrayal",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/sadhaaf-deeptanshu-speak-about-the-betrayal/1271640683/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "83",
-                    "duration": "Himanshu-Diksha Bid Adieu",
+                    "duration": "30m",
                     "episodeCode": "S1-E83",
                     "episodeName": "Himanshu-Diksha Bid Adieu",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/himanshu-diksha-bid-adieu/1271640679/watch"
                 },
                 {
@@ -850,17 +850,17 @@
                     "episodeCode": "S1-E84",
                     "episodeName": "Mohit Opens Up on Eviction",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/mohit-opens-up-on-eviction/1271640032/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "85",
-                    "duration": "Asmita Speaks on Her Exit",
+                    "duration": "21m",
                     "episodeCode": "S1-E85",
                     "episodeName": "Asmita Speaks on Her Exit",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/asmita-speaks-on-her-exit/1271640031/watch"
                 },
                 {
@@ -870,7 +870,7 @@
                     "episodeCode": "S1-E86",
                     "episodeName": "Victory Byte with the Duo",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/victory-byte-with-the-duo/1271641978/watch"
                 },
                 {
@@ -880,7 +880,7 @@
                     "episodeCode": "S1-E87",
                     "episodeName": "Sorab-Niharika's Deserving Victory",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/sorab-niharikas-deserving-victory/1271640677/watch"
                 },
                 {
@@ -890,7 +890,7 @@
                     "episodeCode": "S1-E88",
                     "episodeName": "Hard-won Challenge for Yogesh",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/hard-won-challenge-for-yogesh/1271640674/watch"
                 },
                 {
@@ -900,17 +900,17 @@
                     "episodeCode": "S1-E89",
                     "episodeName": "The Winning Strategy: Kushal and Kaira",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-winning-strategy-kushal-and-kaira/1271640029/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "90",
-                    "duration": "Team Hamid's Winning Byte",
+                    "duration": "12m",
                     "episodeCode": "S1-E90",
                     "episodeName": "Team Hamid's Winning Byte",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/team-hamids-winning-byte/1271638005/watch"
                 },
                 {
@@ -920,17 +920,17 @@
                     "episodeCode": "S1-E91",
                     "episodeName": "Ruru's Resilient Victory",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/rurus-resilient-victory/1271633154/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "92",
-                    "duration": "Diksha - Himanshu: Flippers Beware!",
+                    "duration": "10m",
                     "episodeCode": "S1-E92",
                     "episodeName": "Diksha - Himanshu: Flippers Beware!",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/diksha-himanshu-flippers-beware/1271630921/watch"
                 },
                 {
@@ -940,7 +940,7 @@
                     "episodeCode": "S1-E93",
                     "episodeName": "Deeptanshu - Soundharya: Power Play",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/deeptanshu-soundharya-power-play/1271630920/watch"
                 },
                 {
@@ -950,7 +950,7 @@
                     "episodeCode": "S1-E94",
                     "episodeName": "Instax Villa Diaries Round Table",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/instax-villa-diaries-round-table/1271641683/watch"
                 },
                 {
@@ -960,7 +960,7 @@
                     "episodeCode": "S1-E95",
                     "episodeName": "The Snake Prank",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-snake-prank/1271638001/watch"
                 },
                 {
@@ -970,7 +970,7 @@
                     "episodeCode": "S1-E96",
                     "episodeName": "Anuska's Revenge and New Plan",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/anuskas-revenge-and-new-plan/1271529969/watch"
                 },
                 {
@@ -980,37 +980,37 @@
                     "episodeCode": "S1-E97",
                     "episodeName": "Uorfi vs Nia: Uncensored",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/uorfi-vs-nia-uncensored/1271522741/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "98",
-                    "duration": "Uorfi Drops Bombs",
+                    "duration": "7m",
                     "episodeCode": "S1-E98",
                     "episodeName": "Uorfi Drops Bombs",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/uorfi-drops-bombs/1271521960/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "99",
-                    "duration": "Nia Sharma Brings Real Talk",
+                    "duration": "10m",
                     "episodeCode": "S1-E99",
                     "episodeName": "Nia Sharma Brings Real Talk",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/nia-sharma-brings-real-talk/1271521959/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "100",
-                    "duration": "Karan Unleashes the Real Game",
+                    "duration": "6m",
                     "episodeCode": "S1-E100",
                     "episodeName": "Karan Unleashes the Real Game",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karan-unleashes-the-real-game/1271521956/watch"
                 },
                 {
@@ -1020,7 +1020,7 @@
                     "episodeCode": "S1-E101",
                     "episodeName": "Sunny Sets the Villa on Fire",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/sunny-sets-the-villa-on-fire/1271521683/watch"
                 },
                 {
@@ -1030,7 +1030,7 @@
                     "episodeCode": "S1-E102",
                     "episodeName": "Heartbreak and Villa Rivalries",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/heartbreak-and-villa-rivalries/1271640832/watch"
                 },
                 {
@@ -1040,7 +1040,7 @@
                     "episodeCode": "S1-E103",
                     "episodeName": "Sadhaaf Reveals The Betrayal",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/sadhaaf-reveals-the-betrayal/1271640830/watch"
                 },
                 {
@@ -1050,7 +1050,7 @@
                     "episodeCode": "S1-E104",
                     "episodeName": "Villa Expose: New Bonds, True Faces",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/villa-expose-new-bonds-true-faces/1271633339/watch"
                 },
                 {
@@ -1060,7 +1060,7 @@
                     "episodeCode": "S1-E105",
                     "episodeName": "Bhaichaara Over Alliances",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/bhaichaara-over-alliances/1271633338/watch"
                 },
                 {
@@ -1070,37 +1070,37 @@
                     "episodeCode": "S1-E106",
                     "episodeName": "Chakshdeep's Pain and Anisha's Flips",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/chakshdeeps-pain-and-anishas-flips/1271543608/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "107",
-                    "duration": "Yogesh's Pre-Merger Ultimatum",
+                    "duration": "7m",
                     "episodeCode": "S1-E107",
                     "episodeName": "Yogesh's Pre-Merger Ultimatum",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/yogeshs-pre-merger-ultimatum/1271543599/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "108",
-                    "duration": "Asmita Confronts Ron's Lies",
+                    "duration": "6m",
                     "episodeCode": "S1-E108",
                     "episodeName": "Asmita Confronts Ron's Lies",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/asmita-confronts-rons-lies/1271543589/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "109",
-                    "duration": "Tayne's Merger Dilemma",
+                    "duration": "3m",
                     "episodeCode": "S1-E109",
                     "episodeName": "Tayne's Merger Dilemma",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/taynes-merger-dilemma/1271543245/watch"
                 },
                 {
@@ -1110,17 +1110,17 @@
                     "episodeCode": "S1-E110",
                     "episodeName": "The Power Couple",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-power-couple/1271640827/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "111",
-                    "duration": "The Lemon and Spoon Challenge",
+                    "duration": "22m",
                     "episodeCode": "S1-E111",
                     "episodeName": "The Lemon and Spoon Challenge",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-lemon-and-spoon-challenge/1271640028/watch"
                 },
                 {
@@ -1130,7 +1130,7 @@
                     "episodeCode": "S1-E112",
                     "episodeName": "Gullu and Kaira's Win",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/gullu-and-kairas-win/1271638002/watch"
                 },
                 {
@@ -1140,17 +1140,17 @@
                     "episodeCode": "S1-E113",
                     "episodeName": "Mohit and Anuska’s Power Play Win",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/mohit-and-anuskas-power-play-win/1271634956/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "114",
-                    "duration": "Mouths, Ice and Punishment Shots",
+                    "duration": "24m",
                     "episodeCode": "S1-E114",
                     "episodeName": "Mouths, Ice and Punishment Shots",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/mouths-ice-and-punishment-shots/1271633155/watch"
                 },
                 {
@@ -1160,7 +1160,7 @@
                     "episodeCode": "S1-E115",
                     "episodeName": "Gauresh and Zalak's Spicy Win",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/gauresh-and-zalaks-spicy-win/1271630909/watch"
                 },
                 {
@@ -1170,7 +1170,7 @@
                     "episodeCode": "S1-E116",
                     "episodeName": "Mohit - Anuska’s Sticky Win",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/mohit-anuskas-sticky-win/1271627512/watch"
                 },
                 {
@@ -1180,7 +1180,7 @@
                     "episodeCode": "S1-E117",
                     "episodeName": "Sorab and Niharika: Power Couple!",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/sorab-and-niharika-power-couple/1271629686/watch"
                 },
                 {
@@ -1190,17 +1190,17 @@
                     "episodeCode": "S1-E118",
                     "episodeName": "Nia Vs. Uorfi: The Riddle Battle",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/nia-vs-uorfi-the-riddle-battle/1271638011/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "119",
-                    "duration": "Digvijay’s Take on Villa Dramas",
+                    "duration": "19m",
                     "episodeCode": "S1-E119",
                     "episodeName": "Digvijay’s Take on Villa Dramas",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/digvijays-take-on-villa-dramas/1271633748/watch"
                 },
                 {
@@ -1210,7 +1210,7 @@
                     "episodeCode": "S1-E120",
                     "episodeName": "Baseer's Winner Circle",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/baseers-winner-circle/1271630922/watch"
                 },
                 {
@@ -1220,7 +1220,7 @@
                     "episodeCode": "S1-E121",
                     "episodeName": "Nia - Uorfi: Dance, Win, Fun",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/nia-uorfi-dance-win-fun/1271617652/watch"
                 },
                 {
@@ -1230,7 +1230,7 @@
                     "episodeCode": "S1-E122",
                     "episodeName": "Prince's Reality Check Reigns",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/princes-reality-check-reigns/1271614255/watch"
                 },
                 {
@@ -1240,17 +1240,17 @@
                     "episodeCode": "S1-E123",
                     "episodeName": "Elvish's Splitsvilla Fairy Tale",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/elvishs-splitsvilla-fairy-tale/1271608819/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "124",
-                    "duration": "TejRan: Imperfectly Perfect Love",
+                    "duration": "24m",
                     "episodeCode": "S1-E124",
                     "episodeName": "TejRan: Imperfectly Perfect Love",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/tejran-imperfectly-perfect-love/1271547749/watch"
                 },
                 {
@@ -1260,7 +1260,7 @@
                     "episodeCode": "S1-E125",
                     "episodeName": "Karan and Nia: The Insider Grill",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karan-and-nia-the-insider-grill/1271546500/watch"
                 },
                 {
@@ -1270,17 +1270,17 @@
                     "episodeCode": "S1-E126",
                     "episodeName": "Under the Sheet: Girls' Power and Pain",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/under-the-sheet-girls-power-and-pain/1271616291/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "127",
-                    "duration": "Niharika and Asmita: Gossip & Glow-Up!",
+                    "duration": "43m",
                     "episodeCode": "S1-E127",
                     "episodeName": "Niharika and Asmita: Gossip & Glow-Up!",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/niharika-and-asmita-gossip-and-glow-up/1271616292/watch"
                 },
                 {
@@ -1290,7 +1290,7 @@
                     "episodeCode": "S1-E128",
                     "episodeName": "The Chidiya Ud Truth",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-chidiya-ud-truth/1271616293/watch"
                 },
                 {
@@ -1300,7 +1300,7 @@
                     "episodeCode": "S1-E129",
                     "episodeName": "Kaira and Zalak's Unfiltered Hangout",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/kaira-and-zalaks-unfiltered-hangout/1271616290/watch"
                 },
                 {
@@ -1310,7 +1310,7 @@
                     "episodeCode": "S1-E130",
                     "episodeName": "Under the Sheet: Secrets and Gossip",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/under-the-sheet-secrets-and-gossip/1271616289/watch"
                 },
                 {
@@ -1320,17 +1320,17 @@
                     "episodeCode": "S1-E131",
                     "episodeName": "Ruru's Harsh Villa Predictions",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/rurus-harsh-villa-predictions/1271612434/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "132",
-                    "duration": "Vishu’s Villa Enemies Exposed",
+                    "duration": "15m",
                     "episodeCode": "S1-E132",
                     "episodeName": "Vishu’s Villa Enemies Exposed",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/vishus-villa-enemies-exposed/1271526378/watch"
                 },
                 {
@@ -1340,7 +1340,7 @@
                     "episodeCode": "S1-E133",
                     "episodeName": "Anuska’s Hit List Exposed",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/anuskas-hit-list-exposed/1271526377/watch"
                 },
                 {
@@ -1350,7 +1350,7 @@
                     "episodeCode": "S1-E134",
                     "episodeName": "Cringe Vibes and Green Flags",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/cringe-vibes-and-green-flags/1271526299/watch"
                 },
                 {
@@ -1360,7 +1360,7 @@
                     "episodeCode": "S1-E135",
                     "episodeName": "Khushi’s Villain Predictions",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/khushis-villain-predictions/1271526298/watch"
                 },
                 {
@@ -1370,7 +1370,7 @@
                     "episodeCode": "S1-E136",
                     "episodeName": "Suzzane’s Savage Villa Ratings",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/suzzanes-savage-villa-ratings/1271525407/watch"
                 },
                 {
@@ -1380,7 +1380,7 @@
                     "episodeCode": "S1-E137",
                     "episodeName": "Sorab’s Spicy Villa Predictions",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/sorabs-spicy-villa-predictions/1271525405/watch"
                 },
                 {
@@ -1390,7 +1390,7 @@
                     "episodeCode": "S1-E138",
                     "episodeName": "Zalak’s Savage Scorecard",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/zalaks-savage-scorecard/1271525275/watch"
                 },
                 {
@@ -1400,7 +1400,7 @@
                     "episodeCode": "S1-E139",
                     "episodeName": "Ruru's Mission Love",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/rurus-mission-love/1271611639/watch"
                 },
                 {
@@ -1410,7 +1410,7 @@
                     "episodeCode": "S1-E140",
                     "episodeName": "Sadhaaf Knows What She Wants",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/sadhaaf-knows-what-she-wants/1271520501/watch"
                 },
                 {
@@ -1420,7 +1420,7 @@
                     "episodeCode": "S1-E141",
                     "episodeName": "Gauresh Means Business",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/gauresh-means-business/1271521039/watch"
                 },
                 {
@@ -1430,7 +1430,7 @@
                     "episodeCode": "S1-E142",
                     "episodeName": "Deeptanshu: the 'Dheet' Devil",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/deeptanshu-the-dheet-devil/1271521046/watch"
                 },
                 {
@@ -1440,7 +1440,7 @@
                     "episodeCode": "S1-E143",
                     "episodeName": "Anushka Plays to Rule",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/anushka-plays-to-rule/1271521048/watch"
                 },
                 {
@@ -1450,7 +1450,7 @@
                     "episodeCode": "S1-E144",
                     "episodeName": "Niharika Wants Loyalty and Love",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/niharika-wants-loyalty-and-love/1271521054/watch"
                 },
                 {
@@ -1460,37 +1460,37 @@
                     "episodeCode": "S1-E145",
                     "episodeName": "Harshit: No Lies, Only Love",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/harshit-no-lies-only-love/1271520491/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "146",
-                    "duration": "Anisha with Her Killer Smile",
+                    "duration": "12m",
                     "episodeCode": "S1-E146",
                     "episodeName": "Anisha with Her Killer Smile",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/anisha-with-her-killer-smile/1271520490/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "147",
-                    "duration": "Intimacy Secrets Exposed",
+                    "duration": "18m",
                     "episodeCode": "S1-E147",
                     "episodeName": "Intimacy Secrets Exposed",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/intimacy-secrets-exposed/1271638806/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "148",
-                    "duration": "Yogesh and Ruru's Intimate Desires",
+                    "duration": "15m",
                     "episodeCode": "S1-E148",
                     "episodeName": "Yogesh and Ruru's Intimate Desires",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/yogesh-and-rurus-intimate-desires/1271634385/watch"
                 },
                 {
@@ -1500,7 +1500,7 @@
                     "episodeCode": "S1-E149",
                     "episodeName": "Akanksha’s Secret Fantasies",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/akankshas-secret-fantasies/1271629937/watch"
                 },
                 {
@@ -1510,7 +1510,7 @@
                     "episodeCode": "S1-E150",
                     "episodeName": "Suzzane and Vishu: Double Trouble",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/suzzane-and-vishu-double-trouble/1271626642/watch"
                 },
                 {
@@ -1520,7 +1520,7 @@
                     "episodeCode": "S1-E151",
                     "episodeName": "Soundharya and Deeptanshu's Desires",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/soundharya-and-deeptanshus-desires/1271619090/watch"
                 },
                 {
@@ -1530,7 +1530,7 @@
                     "episodeCode": "S1-E152",
                     "episodeName": "Gauresh and Zalak's Wild Confessions",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/gauresh-and-zalaks-wild-confessions/1271615007/watch"
                 },
                 {
@@ -1540,7 +1540,7 @@
                     "episodeCode": "S1-E153",
                     "episodeName": "Mohit and Anuska's Blue Balls",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/mohit-and-anuskas-blue-balls/1271608304/watch"
                 },
                 {
@@ -1550,17 +1550,17 @@
                     "episodeCode": "S1-E154",
                     "episodeName": "Blue Balls: Fantasies and Spice",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/blue-balls-fantasies-and-spice/1271544775/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "155",
-                    "duration": "Karan on the Semi Final Drama",
+                    "duration": "13m",
                     "episodeCode": "S1-E155",
                     "episodeName": "Karan on the Semi Final Drama",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karan-on-the-semi-final-drama/1271641980/watch"
                 },
                 {
@@ -1570,27 +1570,27 @@
                     "episodeCode": "S1-E156",
                     "episodeName": "Karan's Critical Villa Insights",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karans-critical-villa-insights/1271633157/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "157",
-                    "duration": "Karan's X6 Game Dissected",
+                    "duration": "19m",
                     "episodeCode": "S1-E157",
                     "episodeName": "Karan's X6 Game Dissected",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karans-x6-game-dissected/1271613143/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "158",
-                    "duration": "Karan's Villa Insights and Drama",
+                    "duration": "14m",
                     "episodeCode": "S1-E158",
                     "episodeName": "Karan's Villa Insights and Drama",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karans-villa-insights-and-drama/1271547756/watch"
                 },
                 {
@@ -1600,27 +1600,27 @@
                     "episodeCode": "S1-E159",
                     "episodeName": "Karan's Villa Affairs Exposed",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karans-villa-affairs-exposed/1271543610/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "160",
-                    "duration": "Karan’s Verdict: Game On!",
+                    "duration": "13m",
                     "episodeCode": "S1-E160",
                     "episodeName": "Karan’s Verdict: Game On!",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karans-verdict-game-on/1271530802/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "161",
-                    "duration": "Karan’s Verdict: Smart vs. Shady",
+                    "duration": "12m",
                     "episodeCode": "S1-E161",
                     "episodeName": "Karan’s Verdict: Smart vs. Shady",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/karans-verdict-smart-vs-shady/1271527848/watch"
                 },
                 {
@@ -1630,7 +1630,7 @@
                     "episodeCode": "S1-E162",
                     "episodeName": "And the Winner Is....",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/and-the-winner-is/1271642345/watch"
                 },
                 {
@@ -1640,7 +1640,7 @@
                     "episodeCode": "S1-E163",
                     "episodeName": "The Grand Finale Showdown",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-grand-finale-showdown/1271641964/watch"
                 },
                 {
@@ -1650,17 +1650,17 @@
                     "episodeCode": "S1-E164",
                     "episodeName": "The Ticket to Finale, Mischief Awaits!",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-ticket-to-finale-mischief-awaits/1271640233/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "165",
-                    "duration": "Boxing, Clash and Mischief Dome",
+                    "duration": "1m",
                     "episodeCode": "S1-E165",
                     "episodeName": "Boxing, Clash and Mischief Dome",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/boxing-clash-and-mischief-dome/1271638123/watch"
                 },
                 {
@@ -1670,7 +1670,7 @@
                     "episodeCode": "S1-E166",
                     "episodeName": "The Arrival of the Disruptor",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-arrival-of-the-disruptor/1271633324/watch"
                 },
                 {
@@ -1680,7 +1680,7 @@
                     "episodeCode": "S1-E167",
                     "episodeName": "The Action-Reaction Fallout",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/the-action-reaction-fallout/1271630879/watch"
                 },
                 {
@@ -1690,7 +1690,7 @@
                     "episodeCode": "S1-E168",
                     "episodeName": "Broken Beats and Bitter Rivals",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/broken-beats-and-bitter-rivals/1271627007/watch"
                 },
                 {
@@ -1700,7 +1700,7 @@
                     "episodeCode": "S1-E169",
                     "episodeName": "Winners' Joy and Pathetic Act!",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/winners-joy-and-pathetic-act/1271630910/watch"
                 },
                 {
@@ -1710,7 +1710,7 @@
                     "episodeCode": "S1-E170",
                     "episodeName": "Preet's Bitter Truths",
                     "episodeBanner": "https://img10.hotstar.comdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/clips/preets-bitter-truths/1271630928/watch"
                 }
             ]
