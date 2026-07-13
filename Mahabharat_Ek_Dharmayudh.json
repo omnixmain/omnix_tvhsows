@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "13-07-2026",
+            "ottReleaseDate": "14-07-2026",
             "description": "The greatest Indian story brought to life through artificial intelligence, delving deep into the themes of dharma, power and fate. Watch Mahabharat: Ek Dharmayudh - Hindi Telugu Tamil Kannada Malayalam Marathi Bengali Mythology Adventure Drama serial on JioHotstar now.",
             "episodes": [
                 {
@@ -20,13 +20,13 @@
                     "episodeCode": "S1-E1",
                     "episodeName": "Watch First Episode",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8137/1775843468137-i",
-                    "updateDate": "13-07-2026",
+                    "updateDate": "14-07-2026",
                     "episodeUrl": "https://www.hotstar.com/in/shows/mahabharat-ek-dharmayudh/1271499005/shantanus-dilemma/1271499405/watch"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "2",
-                    "duration": "Shantanu watches in silent agony as Ganga drowns their newborns until his patience shatters. Years later, Shantanu comes across a fierce, noble warrior and a wise boatwoman.",
+                    "duration": "21m",
                     "episodeCode": "S1-E2",
                     "episodeName": "An Impossible Choice",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2145/1761897582145-h",
@@ -36,7 +36,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "3",
-                    "duration": "Shantanu health begins to fade as he yearns for Satyavati. Concerned, Devavrata visits the Nishad King with Shantanu's marriage proposal but receives a condition in return.",
+                    "duration": "21m",
                     "episodeCode": "S1-E3",
                     "episodeName": "Devavrata's Vow",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2157/1762510932157-h",
@@ -46,7 +46,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "4",
-                    "duration": "Hastinapur mourns the death of another king. When Vichitravirya is crowned, the time comes for him to marry. Meanwhile, the King of Kashi declares the swayamvar of his daughters.",
+                    "duration": "21m",
                     "episodeCode": "S1-E4",
                     "episodeName": "Three Princesses",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9670/1763110459670-h",
@@ -56,7 +56,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "5",
-                    "duration": "Overjoyed when Bhishma grants her freedom, Amba returns to King Salva. However, the monarch rejects her. Furious, Amba faces Bhishma and demands justice, vowing harsh consequences.",
+                    "duration": "23m",
                     "episodeCode": "S1-E5",
                     "episodeName": "Amba's Revenge",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7301/1763715477301-h",
@@ -66,7 +66,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "6",
-                    "duration": "After Vichitravirya dies, Satyavati asks Bhishma to break his lifelong vow and ascend the throne. When Hastinapur falls into bad times, Satyavati seeks the help of Sage Vyas.",
+                    "duration": "24m",
                     "episodeCode": "S1-E6",
                     "episodeName": "The Empty Throne",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7681/1764322087681-h",
@@ -86,7 +86,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "8",
-                    "duration": "After their gurukul training, the three princes return to Hastinapur where Pandu is declared king. This shatters Dhritarashtra, prompting Bhishma and Satyavati to find him a bride.",
+                    "duration": "22m",
                     "episodeCode": "S1-E8",
                     "episodeName": "The Successor of Hastinapur",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7223/1765547387223-h",
@@ -96,7 +96,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "9",
-                    "duration": "Gandhari's parents worry when Bhishma informs them that she is to wed the blind prince Dhritarashtra and not Pandu. Overhearing them, the princess quietly accepts her fate.",
+                    "duration": "23m",
                     "episodeCode": "S1-E9",
                     "episodeName": "Gandhari's Destiny",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3352/1766139423352-h",
@@ -106,7 +106,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "10",
-                    "duration": "Shakuni condemns Gandhari’s marriage to a blind prince, yet he vows his lifelong support to his sister. Later, the sight of the blindfolded bride shocks Hastinapur's royal family.",
+                    "duration": "21m",
                     "episodeCode": "S1-E10",
                     "episodeName": "Gandhari's Firm Decision",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4678/1766585894678-h",
@@ -116,7 +116,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "11",
-                    "duration": "After Dhritarashtra and Gandhari’s wedding, Shakuni opts to stay in Hastinapur. Bhishma proposes Pandu’s marriage to Princess Kunti, but she is haunted by a secret from her past.",
+                    "duration": "22m",
                     "episodeCode": "S1-E11",
                     "episodeName": "Kunti's Buried Secret",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9000/1767246089000-h",
@@ -126,7 +126,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "12",
-                    "duration": "Kunti accepts King Pandu as her husband and is welcomed warmly in Hastinapur. She feels shattered when Pandu returns from the Digvijay expedition with Madri as his second wife.",
+                    "duration": "22m",
                     "episodeCode": "S1-E12",
                     "episodeName": "Kunti's Shattered Dream",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8083/1767946188083-h",
@@ -136,7 +136,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "13",
-                    "duration": "Kunti accepts Pandu and Madri’s union. Pandu’s Digvijay Yatra is successful. Shakuni’s manipulations fuels Dhritarashtra’s insecurity. Cracks begin to form within the royal family.",
+                    "duration": "23m",
                     "episodeCode": "S1-E13",
                     "episodeName": "Raj Dharma",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2989/1768567202989-h",
@@ -146,7 +146,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "14",
-                    "duration": "Pandu leaves Hastinapur for Dhritarashtra. In the forest, he encounters Sage Kindam and his wife. Meanwhile, Gandhari receives the boon of motherhood.",
+                    "duration": "23m",
                     "episodeCode": "S1-E14",
                     "episodeName": "Sage Kindam's Curse",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4956/1769169854956-h",
@@ -156,7 +156,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "15",
-                    "duration": "Dhritarashtra reluctantly agrees to rule Hastinapur. Sage Kindam's curse stops Pandu from fathering children, and Gandhari’s delayed pregnancy creates anxiety in the palace.",
+                    "duration": "23m",
                     "episodeCode": "S1-E15",
                     "episodeName": "Crown and Curse",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9315/1769766119315-h",
@@ -166,7 +166,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "16",
-                    "duration": "After two years, Gandhari gives birth to a lifeless mass. Sage Ved Vyasa explains it's a divine process, splitting the mass into one hundred and one parts to mature over time.",
+                    "duration": "23m",
                     "episodeCode": "S1-E16",
                     "episodeName": "Blessing and Curse",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9036/1770359289036-h",
@@ -176,7 +176,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "17",
-                    "duration": "Bheem and Duryodhan are born into contrasting worlds. Indra Dev blesses Kunti with a heroic son, Arjun. Pandu’s tragic death has Kunti leading her sons towards their destiny.",
+                    "duration": "24m",
                     "episodeCode": "S1-E17",
                     "episodeName": "The Beginning of a Dynasty",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1470/1770967571470-h",
@@ -186,7 +186,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "18",
-                    "duration": "Kunti and the Pandavas’ return to Hastinapur marks a silent rivalry within the Kuru dynasty. Destiny signals a war of hatred after Duryodhan maliciously invites Bheem to a feast.",
+                    "duration": "24m",
                     "episodeCode": "S1-E18",
                     "episodeName": "Royal Rivals",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6038/1771575156038-h",
@@ -196,7 +196,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "19",
-                    "duration": "A jealous Duryodhan poisons Bheem and throws him in the river. He reaches Naglok and gets blessed with divine elixir. On returning to Hastinapur, he exposes Duryodhan’s treachery.",
+                    "duration": "23m",
                     "episodeCode": "S1-E19",
                     "episodeName": "Bheem Returns",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1247/1772186491247-h",
@@ -206,7 +206,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "20",
-                    "duration": "After seeing Acharya Drona's skill, Bhishma appoints him the Royal Guru of the Kuru princes. This angers Karn, who feels insulted and leaves the Gurukul, vowing to surpass Arjun.",
+                    "duration": "23m",
                     "episodeCode": "S1-E20",
                     "episodeName": "Arjun and Karn",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/737/1772784090737-h",
@@ -216,7 +216,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "21",
-                    "duration": "At the Gurukul, Drona trains the Pandavas and Kauravas. They meet Eklavya, who secretly learnt archery by watching Drona. When Drona finds out, he asks for Eklavya's right thumb.",
+                    "duration": "24m",
                     "episodeCode": "S1-E21",
                     "episodeName": "Eklavya's Sacrifice",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/294/1773386280294-h",
@@ -226,7 +226,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "22",
-                    "duration": "Karn gracefully accepts Parshuram’s curse and the Vijay bow. Arjun saves Guru Drona from a crocodile. Bhishma stops as Karn dares Arjun to a duel, leaving their rivalry unresolved.",
+                    "duration": "26m",
                     "episodeCode": "S1-E22",
                     "episodeName": "Rivalry Begins",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4658/1774012704658-h",
@@ -236,7 +236,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "23",
-                    "duration": "After completing their training, the Pandavas and Kauravas return to Hastinapur. But the celebrations are cut short when Drona demands King Drupad's capture as his Gurudakshina.",
+                    "duration": "24m",
                     "episodeCode": "S1-E23",
                     "episodeName": "The Debt of Drona",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7503/1774615827503-h",
@@ -246,7 +246,7 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "24",
-                    "duration": "When the Kauravas fail to defeat Drupad, the Pandavas step forward to fulfil Drona's command. Back in Hastinapur, the people shower love upon the Pandavas, especially Yudhishthir.",
+                    "duration": "26m",
                     "episodeCode": "S1-E24",
                     "episodeName": "Rise of Dharma",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/53/1775216900053-h",
