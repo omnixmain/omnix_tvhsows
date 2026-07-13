@@ -1,0 +1,139 @@
+{
+    "tvShows": [
+        {
+            "name": "Sairaab",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3632/1779808433632-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "13-07-2026",
+            "description": "Single mother Dr. Nayanika lives a serene life with her daughter, Ujjaini. Then enters pop star Ishaan, reigniting her world, albeit with uncalled chaos! Watch Sairaab - Hindi Romance Drama serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "Ujjaini defends Nayanika as the family discusses Rohan's birthday, ignoring Nayanika's health. Later, the doctors advise Nayanika to undergo treatment in Mumbai.",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Where Will Nayanika Seek Treatment?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/810/1783904770810-h",
+                    "updateDate": "13 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/where-will-nayanika-seek-treatment/1641026410/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "As Nayanika feels dizzy, Ishaan lets her rest in his room. Ujjaini apologises to Ishaan for her rude conduct, after which he suggests taking Nayanika to Mumbai for treatment.",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Ishaan's Advice to Ujjaini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5421/1783817405421-h",
+                    "updateDate": "12 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/ishaans-advice-to-ujjaini/1641026288/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "Ujjaini expresses remorse to Nayanika for her possessive behaviour. Eena lodges a complaint against Ishaan, while Angana informs Nayanika about Rohan's birthday party.",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Ujjaini Apologises to Nayanika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8642/1783733308642-h",
+                    "updateDate": "11 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/ujjaini-apologises-to-nayanika/1641026183/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "21m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Ishaan Reveals Nayanika's Condition",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1946/1783646501946-h",
+                    "updateDate": "10 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/ishaan-reveals-nayanikas-condition/1641026091/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "Nayanika returns home and faces the family's questions about her stay at Ishaan's house. As tensions rise, Ujjaini pressures her to reveal the reason behind her stay.",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Nayanika Gets Interrogated",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1159/1783559731159-h",
+                    "updateDate": "9 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/nayanika-gets-interrogated/1641025987/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "Ujjaini's remarks and accusations during the video call leave Nayanika heartbroken. Ishaan comforts her, while Angana and Indranil invite the family to Rohan's birthday party.",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Ujjaini's Accusations Hurt Nayanika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5088/1783479605088-h",
+                    "updateDate": "8 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/ujjainis-accusations-hurt-nayanika/1641025832/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "As Ujjaini misjudges Nayanika, Shirsho tries to change her perspective. Elsewhere, Ishaan gives a fitting reply to Eena as she taunts Nayanika's stay at his house.",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Ishaan Defends Nayanika Against Eena",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1636/1783385131636-h",
+                    "updateDate": "7 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/ishaan-defends-nayanika-against-eena/1641025707/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "Ishaan makes Nayanika feel special and stands by her as she opens up about her failed marriage. While the family questions Ujjaini's behaviour, she blames Nayanika instead.",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Ishaan Comforts Nayanika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3300/1783348963300-h",
+                    "updateDate": "6 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/ishaan-comforts-nayanika/1641025589/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "20m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Angana Probes Indranil's Feelings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5137/1783212525137-h",
+                    "updateDate": "5 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/angana-probes-indranils-feelings/1641025439/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "Ujjaini confronts Ishaan when Nayanika admits to her family that she is staying with him. Meanwhile, Nayanika feels grateful to Ishaan for caring for her.",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Nayanika feels Grateful",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9635/1783124929635-h",
+                    "updateDate": "4 Jul 2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/sairaab/1271643812/nayanika-feels-grateful/1641025376/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "45m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "44m",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/3428/1781794523428-h",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/clips/ek-kahaani-jazbaaton-ki/1641024050/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "45m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "2m",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/7620/1782218587620-h",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/clips/sairaab-title-track/1271657008/watch"
+                }
+            ]
+        }
+    ]
+}
