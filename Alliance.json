@@ -1,0 +1,239 @@
+{
+    "tvShows": [
+        {
+            "name": "Alliance",
+            "banner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
+            "genre": "Action, Drama",
+            "rating": "8.5",
+            "year": "2026",
+            "ageRating": "16+",
+            "streaming": "Prime Video",
+            "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+            "language": "English / Hindi",
+            "ottReleaseDate": "13-07-2026",
+            "description": "Watch Alliance on Prime Video.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Episode 1",
+                    "episodeBanner": "https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white._CB554929912_SY90_FMpng_.png",
+                    "updateDate": "15-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Episode 2",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7786a66d4de357955dfbda31e8acf858cdc27d9280f7b77d587af2553d548ddb._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "14-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Episode 3",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/3382dd6ada56f8578e88ebb070ffca33fec5556f294cc5d9756d4369c25f209c._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "45m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Episode 4",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/895d4a861803ae805e5fd30f4010168511b20dee716aa2fca79b3fd8dd712970._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "12-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "45m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Episode 5",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/38434c3b056cddab58ee9c32dcbcc4dc54d8609d17a42a4353784f5de779f174._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "11-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "45m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Episode 6",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/6b68101267aa3ea1d46b8e98783897db7790a3547d9897f398cc74207dd6dbc1._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "45m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Episode 7",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/10b23dbb37e9c5cb7f6cc3a40e8abd4656d3adcb4c772dcd6482cec61cac17c8._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "45m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Episode 8",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/a7f5d73fb095df57f18ddc5b0ba2b9a1bf2583c51d18af83caea8908023b34de._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "45m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Episode 9",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/2a2a354a5234ee431b45bbbc9327b5beeff9a4348b700b82b009a3a7b9b13f83._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "45m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Episode 10",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/cf381072f5c14cc4e509f72db0626780baa7a83f1e988e091e6257d3ec8fabe8._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "45m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Episode 11",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/acb503473341af280e36dfc9419753136a528b75f70b4bf87013da516d354dbc._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "45m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Episode 12",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d1529c3d98bf12abfe95a47790dd7f3a0b5220f720f94b600c3aaa66a716e62._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "05-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "45m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Episode 13",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/f4f5d0e0c3d04596de2a0783c7496470a4512ba1c04eddd353298ea71a08eed9._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "45m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Episode 14",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/2de6e791acf2e686fae3a70f07e04e183abc9fb0e3984deb84ae9337076f88ff._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "45m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Episode 15",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/9a9337cb00022c0594184cc5a8b54c6f6652160d10059184594dbe015c2b8f9e._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "45m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Episode 16",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/baa0eea0f7ba35e1865651250b106c827b56a30dcb8ed63978b8d2614bce93a2._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "02-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "45m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Episode 17",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/b8f4adbe4d6c91ef0389a7f88999b82845122c74dc891281a83d053fc173d64b._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "01-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "45m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Episode 18",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/5373065ce3a8c613e75968d16f1174023af93ab614d8933c04b2b10f28f42cf3._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "30-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "45m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Episode 19",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/ede0dd1e754dab97ca51aafce7ec199fb029a00a6fd7f13e2a63ce4910d886c1._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "29-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "45m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Episode 20",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/88ca25c6411cf07f2d0082f5562489936540c8e68066902dabd3ad84485280c3._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "28-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "45m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Episode 21",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/009829eb88cf947dae47891d7fb12cd3e8810fa8328f5f5d3c0e011ec16b8218._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "27-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "45m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Episode 22",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/c8d1849406b30a827d7d0ae966a3c6f27833247f11268312c4c562021dbd464e._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
