@@ -1,0 +1,89 @@
+{
+    "tvShows": [
+        {
+            "name": "KAISI TERI DILLAGI",
+            "banner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-source_image-xl_image_16_9.jpg",
+            "genre": "drama, family",
+            "rating": "0.0",
+            "year": "",
+            "ageRating": "U",
+            "streaming": "DangalPlay",
+            "streamingLogo": "https://www.dangalplay.com/assets/images/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "",
+            "description": "When a poor, street-smart girl is transformed into a sophisticated woman by the man she loves, she discovers that she is merely a pawn in his ruthless quest for revenge. Torn between her unrequited love for her manipulative mentor and the sincere affection of the man she is forced to marry, Kajri must break free from the strings that control her life and choose her own destiny.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "22m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "EP 7 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a53d27ea73b9c3dd6cf6a5b-1783878270723-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-07-1"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "24m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "EP 6 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2006-13072026125648",
+                    "updateDate": "11-07-2026",
+                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-06"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "24m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "EP 5 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2005-13072026124252",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-05"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "24m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "EP 4 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2004-10072026162327",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-04"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "24m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "EP 3 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920-1080-03-0907202600511",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-03"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "24m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "EP 2 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4e975aa73b9c3dd6cf69af-1783535451098-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-02-1"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "26m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "EP 1 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920-1080-01-0907202600440",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-01"
+                }
+            ]
+        }
+    ]
+}
