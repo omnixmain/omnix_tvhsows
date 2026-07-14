@@ -624,6 +624,746 @@
                     "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/the-battle-for-the-naagmani-reaches-fever-pitch/1971059371/watch?search_query=Naagin"
                 },
                 {
+                    "seasonNumber": "2",
+                    "episodeNumber": "1",
+                    "duration": "47m",
+                    "episodeCode": "S2-E1",
+                    "episodeName": "Season Premiere: The saga continues",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1317/1734181311317-h",
+                    "updateDate": "08-10-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/season-premiere-the-saga-continues/1971073644/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "2",
+                    "duration": "47m",
+                    "episodeCode": "S2-E2",
+                    "episodeName": "Will Shivangi and Ruchika cross paths?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9733/1734181339733-h",
+                    "updateDate": "09-10-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-shivangi-and-ruchika-cross-paths/1971073673/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "3",
+                    "duration": "42m",
+                    "episodeCode": "S2-E3",
+                    "episodeName": "Shivangi confesses her love for Rocky",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/316/1734181310316-h",
+                    "updateDate": "15-10-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-confesses-her-love-for-rocky/1971073643/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "4",
+                    "duration": "42m",
+                    "episodeCode": "S2-E4",
+                    "episodeName": "Shivanya urges Shivangi to get married to Rocky",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/904/1734181330904-h",
+                    "updateDate": "16-10-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivanya-urges-shivangi-to-get-married-to-rocky/1971073664/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "5",
+                    "duration": "43m",
+                    "episodeCode": "S2-E5",
+                    "episodeName": "Yamini stabs Shivanya!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5755/1734181335755-h",
+                    "updateDate": "22-10-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/yamini-stabs-shivanya/1971073669/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "6",
+                    "duration": "43m",
+                    "episodeCode": "S2-E6",
+                    "episodeName": "Tragic: The wedding turns into a bloodbath!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9073/1734181139073-h",
+                    "updateDate": "23-10-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/tragic-the-wedding-turns-into-a-bloodbath/1971073481/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "7",
+                    "duration": "43m",
+                    "episodeCode": "S2-E7",
+                    "episodeName": "Shivangi vows to avenge Shivanya's killers!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2950/1734181132950-h",
+                    "updateDate": "29-10-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-vows-to-avenge-shivanyas-killers/1971073475/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "8",
+                    "duration": "45m",
+                    "episodeCode": "S2-E8",
+                    "episodeName": "Shivangi to transform into a 'naagin'?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5880/1734181135880-h",
+                    "updateDate": "30-10-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-to-transform-into-a-naagin/1971073478/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "9",
+                    "duration": "44m",
+                    "episodeCode": "S2-E9",
+                    "episodeName": "Shivangi attempts suicide!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7994/1734181337994-h",
+                    "updateDate": "05-11-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-attempts-suicide/1971073671/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "10",
+                    "duration": "44m",
+                    "episodeCode": "S2-E10",
+                    "episodeName": "Shivangi learns her powers!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4722/1734181334722-h",
+                    "updateDate": "06-11-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-learns-her-powers/1971073668/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "11",
+                    "duration": "44m",
+                    "episodeCode": "S2-E11",
+                    "episodeName": "Shivangi's first step towards vengeance!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7332/1734181137332-h",
+                    "updateDate": "12-11-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangis-first-step-towards-vengeance/1971073479/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "12",
+                    "duration": "44m",
+                    "episodeCode": "S2-E12",
+                    "episodeName": "Shivangi gets her first victim!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1804/1734181331804-h",
+                    "updateDate": "13-11-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-gets-her-first-victim/1971073665/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "13",
+                    "duration": "44m",
+                    "episodeCode": "S2-E13",
+                    "episodeName": "Shivangi and the 'Naag' join forces",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6841/1734181336841-h",
+                    "updateDate": "19-11-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-and-the-naag-join-forces/1971073670/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "14",
+                    "duration": "43m",
+                    "episodeCode": "S2-E14",
+                    "episodeName": "Yamini threatens to expose Shivangi's identity!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8762/1734181338762-h",
+                    "updateDate": "20-11-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/yamini-threatens-to-expose-shivangis-identity/1971073672/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "15",
+                    "duration": "44m",
+                    "episodeCode": "S2-E15",
+                    "episodeName": "Shivangi has the venom to kill Rani Avantika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2303/1734181132303-h",
+                    "updateDate": "26-11-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-has-the-venom-to-kill-rani-avantika/1971073474/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "16",
+                    "duration": "44m",
+                    "episodeCode": "S2-E16",
+                    "episodeName": "Mahishmatis get a 'kawach'",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7998/1734181137998-h",
+                    "updateDate": "27-11-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/mahishmatis-get-a-kawach/1971073480/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "17",
+                    "duration": "44m",
+                    "episodeCode": "S2-E17",
+                    "episodeName": "Rudra is killed by the Mahishmatis",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4931/1734181134931-h",
+                    "updateDate": "03-12-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rudra-is-killed-by-the-mahishmatis/1971073477/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "18",
+                    "duration": "47m",
+                    "episodeCode": "S2-E18",
+                    "episodeName": "Shivangi brings Rudra back to life",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3153/1734181333153-h",
+                    "updateDate": "04-12-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-brings-rudra-back-to-life/1971073666/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "19",
+                    "duration": "41m",
+                    "episodeCode": "S2-E19",
+                    "episodeName": "Shivangi creates a rift between Yamini and Akhilesh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9959/1734181329959-h",
+                    "updateDate": "10-12-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-creates-a-rift-between-yamini-and-akhilesh/1971073663/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "20",
+                    "duration": "44m",
+                    "episodeCode": "S2-E20",
+                    "episodeName": "Rift between Shivangi and Rocky",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3789/1734181133789-h",
+                    "updateDate": "11-12-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rift-between-shivangi-and-rocky/1971073476/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "21",
+                    "duration": "44m",
+                    "episodeCode": "S2-E21",
+                    "episodeName": "Shivangi's 'naagin' avatar exposed!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8673/1734181328673-h",
+                    "updateDate": "17-12-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangis-naagin-avatar-exposed/1971073662/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "22",
+                    "duration": "43m",
+                    "episodeCode": "S2-E22",
+                    "episodeName": "Rudra's double identity is exposed!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3683/1734181333683-h",
+                    "updateDate": "18-12-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rudras-double-identity-is-exposed/1971073667/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "23",
+                    "duration": "45m",
+                    "episodeCode": "S2-E23",
+                    "episodeName": "Shivangi's plan to save the 'Nagamani'",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/704/1734181320704-h",
+                    "updateDate": "24-12-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangis-plan-to-save-the-nagamani/1971073654/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "24",
+                    "duration": "45m",
+                    "episodeCode": "S2-E24",
+                    "episodeName": "Shivangi in a fix in her search for Rudra",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7495/1734181267495-h",
+                    "updateDate": "25-12-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-in-a-fix-in-her-search-for-rudra/1971073601/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "25",
+                    "duration": "43m",
+                    "episodeCode": "S2-E25",
+                    "episodeName": "So close, yet so far- Yamini loses the Naagmani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2051/1734181322051-h",
+                    "updateDate": "31-12-2016",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/so-close-yet-so-far-yamini-loses-the-naagmani/1971073655/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "26",
+                    "duration": "43m",
+                    "episodeCode": "S2-E26",
+                    "episodeName": "Shivangi learns Rocky's impeccable truth!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3846/1734181323846-h",
+                    "updateDate": "01-01-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-learns-rockys-impeccable-truth/1971073657/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "27",
+                    "duration": "43m",
+                    "episodeCode": "S2-E27",
+                    "episodeName": "Shivangi avenges from Kapalika!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5598/1734181325598-h",
+                    "updateDate": "07-01-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-avenges-from-kapalika/1971073659/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "28",
+                    "duration": "43m",
+                    "episodeCode": "S2-E28",
+                    "episodeName": "Shivangi in dilemma over Rocky's accident",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4861/1734181324861-h",
+                    "updateDate": "14-01-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-in-dilemma-over-rockys-accident/1971073658/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "29",
+                    "duration": "44m",
+                    "episodeCode": "S2-E29",
+                    "episodeName": "Akhilesh stabs Shivangi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2566/1734181322566-h",
+                    "updateDate": "15-01-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/akhilesh-stabs-shivangi/1971073656/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "30",
+                    "duration": "43m",
+                    "episodeCode": "S2-E30",
+                    "episodeName": "Mahesh knows Shivangi's true identity",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6567/1734181326567-h",
+                    "updateDate": "21-01-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/mahesh-knows-shivangis-true-identity/1971073660/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "31",
+                    "duration": "44m",
+                    "episodeCode": "S2-E31",
+                    "episodeName": "Shivangi unveils Mahesh's real motives!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7670/1734181327670-h",
+                    "updateDate": "22-01-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-unveils-maheshs-real-motives/1971073661/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "32",
+                    "duration": "43m",
+                    "episodeCode": "S2-E32",
+                    "episodeName": "Shivangi freezes Mahesh to death!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6775/1734181316775-h",
+                    "updateDate": "28-01-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-freezes-mahesh-to-death/1971073650/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "33",
+                    "duration": "43m",
+                    "episodeCode": "S2-E33",
+                    "episodeName": "Will Shivangi be able to save Rocky?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8830/1734181318830-h",
+                    "updateDate": "29-01-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-shivangi-be-able-to-save-rocky/1971073652/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "34",
+                    "duration": "44m",
+                    "episodeCode": "S2-E34",
+                    "episodeName": "Shivangi and Ruchika join forces",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7701/1734181317701-h",
+                    "updateDate": "04-02-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-and-ruchika-join-forces/1971073651/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "35",
+                    "duration": "44m",
+                    "episodeCode": "S2-E35",
+                    "episodeName": "Shivangi kills Mahish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5629/1734181315629-h",
+                    "updateDate": "05-02-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-kills-mahish/1971073649/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "36",
+                    "duration": "44m",
+                    "episodeCode": "S2-E36",
+                    "episodeName": "Shivangi warns Gautami",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3961/1734181313961-h",
+                    "updateDate": "11-02-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-warns-gautami/1971073647/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "37",
+                    "duration": "44m",
+                    "episodeCode": "S2-E37",
+                    "episodeName": "Shivangi reveals her true self to Yamini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2875/1734181312875-h",
+                    "updateDate": "12-02-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-reveals-her-true-self-to-yamini/1971073646/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "38",
+                    "duration": "44m",
+                    "episodeCode": "S2-E38",
+                    "episodeName": "Will Yamini expose Shivangi?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5097/1734181315097-h",
+                    "updateDate": "18-02-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-yamini-expose-shivangi/1971073648/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "39",
+                    "duration": "44m",
+                    "episodeCode": "S2-E39",
+                    "episodeName": "Will Shivangi be able to stop Vikram?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8591/1734181308591-h",
+                    "updateDate": "19-02-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-shivangi-be-able-to-stop-vikram/1971073641/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "41",
+                    "duration": "43m",
+                    "episodeCode": "S2-E41",
+                    "episodeName": "Is Shivangi's identity at stake?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5801/1734181265801-h",
+                    "updateDate": "26-02-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/is-shivangis-identity-at-stake/1971073600/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "42",
+                    "duration": "44m",
+                    "episodeCode": "S2-E42",
+                    "episodeName": "Will Rocky find out Shivangi's secret?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7719/1734181307719-h",
+                    "updateDate": "04-03-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-rocky-find-out-shivangis-secret/1971073640/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "43",
+                    "duration": "44m",
+                    "episodeCode": "S2-E43",
+                    "episodeName": "Shivangi reveals her true self to Rocky",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9636/1734181309636-h",
+                    "updateDate": "05-03-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-reveals-her-true-self-to-rocky/1971073642/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "44",
+                    "duration": "43m",
+                    "episodeCode": "S2-E44",
+                    "episodeName": "Shivangi in a fix",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4664/1734181304664-h",
+                    "updateDate": "11-03-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-in-a-fix/1971073638/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "45",
+                    "duration": "44m",
+                    "episodeCode": "S2-E45",
+                    "episodeName": "Will Rudra and Shivangi be successful in their mission?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1661/1734181301661-h",
+                    "updateDate": "12-03-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-rudra-and-shivangi-be-successful-in-their-mission/1971073635/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "46",
+                    "duration": "43m",
+                    "episodeCode": "S2-E46",
+                    "episodeName": "Shivangi is devastated by Rudra's death",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2722/1734181302722-h",
+                    "updateDate": "18-03-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-is-devastated-by-rudras-death/1971073636/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "47",
+                    "duration": "42m",
+                    "episodeCode": "S2-E47",
+                    "episodeName": "Is Shivangi close to unravelling the secret?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6091/1734181306091-h",
+                    "updateDate": "19-03-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/is-shivangi-close-to-unravelling-the-secret/1971073639/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "48",
+                    "duration": "43m",
+                    "episodeCode": "S2-E48",
+                    "episodeName": "Will Shivangi kill Avantika?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3812/1734181303812-h",
+                    "updateDate": "25-03-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-shivangi-kill-avantika/1971073637/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "49",
+                    "duration": "43m",
+                    "episodeCode": "S2-E49",
+                    "episodeName": "Shivangi kills Avantika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/21/1734181300021-h",
+                    "updateDate": "26-03-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-kills-avantika/1971073633/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "50",
+                    "duration": "44m",
+                    "episodeCode": "S2-E50",
+                    "episodeName": "Will Shivangi realise that Nidhi is a murderer?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8191/1734181298191-h",
+                    "updateDate": "01-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-shivangi-realise-that-nidhi-is-a-murderer/1971073631/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "51",
+                    "duration": "44m",
+                    "episodeCode": "S2-E51",
+                    "episodeName": "Shivangi kills Sushant",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2219/1734181292219-h",
+                    "updateDate": "02-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-kills-sushant/1971073625/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "52",
+                    "duration": "44m",
+                    "episodeCode": "S2-E52",
+                    "episodeName": "Shivangi kills Nidhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3399/1734181293399-h",
+                    "updateDate": "08-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-kills-nidhi/1971073626/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "53",
+                    "duration": "43m",
+                    "episodeCode": "S2-E53",
+                    "episodeName": "Shivangi's true identity exposed!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/523/1734181290523-h",
+                    "updateDate": "09-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangis-true-identity-exposed/1971073623/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "54",
+                    "duration": "43m",
+                    "episodeCode": "S2-E54",
+                    "episodeName": "Shivangi confronts Takshika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6872/1734181296872-h",
+                    "updateDate": "15-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-confronts-takshika/1971073630/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "55",
+                    "duration": "43m",
+                    "episodeCode": "S2-E55",
+                    "episodeName": "Shivangi kills Yamini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4208/1734181294208-h",
+                    "updateDate": "16-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-kills-yamini/1971073627/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "56",
+                    "duration": "43m",
+                    "episodeCode": "S2-E56",
+                    "episodeName": "Shivangi's powers are back!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4863/1734181294863-h",
+                    "updateDate": "22-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangis-powers-are-back/1971073628/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "57",
+                    "duration": "44m",
+                    "episodeCode": "S2-E57",
+                    "episodeName": "Can Shivangi win Rocky back?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6062/1734181296062-h",
+                    "updateDate": "23-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/can-shivangi-win-rocky-back/1971073629/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "58",
+                    "duration": "44m",
+                    "episodeCode": "S2-E58",
+                    "episodeName": "Shivangi learns a terrible truth!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1169/1734181291169-h",
+                    "updateDate": "29-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-learns-a-terrible-truth/1971073624/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "59",
+                    "duration": "59m",
+                    "episodeCode": "S2-E59",
+                    "episodeName": "Shivangi uncovers a series of disturbing secrets!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7683/1734181287683-h",
+                    "updateDate": "30-04-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-uncovers-a-series-of-disturbing-secrets/1971073621/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "60",
+                    "duration": "44m",
+                    "episodeCode": "S2-E60",
+                    "episodeName": "Shivangi stumbles upon a horrifying truth!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9810/1734181279810-h",
+                    "updateDate": "06-05-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-stumbles-upon-a-horrifying-truth/1971073613/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "61",
+                    "duration": "44m",
+                    "episodeCode": "S2-E61",
+                    "episodeName": "Rocky is out for a kill",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1751/1734181281751-h",
+                    "updateDate": "07-05-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rocky-is-out-for-a-kill/1971073615/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "62",
+                    "duration": "43m",
+                    "episodeCode": "S2-E62",
+                    "episodeName": "Shivangi must conceal Rocky's identity!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8114/1734181278114-h",
+                    "updateDate": "13-05-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-must-conceal-rockys-identity/1971073612/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "63",
+                    "duration": "44m",
+                    "episodeCode": "S2-E63",
+                    "episodeName": "Rocky learns how to transform",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2813/1734181282813-h",
+                    "updateDate": "14-05-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rocky-learns-how-to-transform/1971073616/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "64",
+                    "duration": "41m",
+                    "episodeCode": "S2-E64",
+                    "episodeName": "Rocky brings Ruchika home",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1231/1734181281231-h",
+                    "updateDate": "20-05-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rocky-brings-ruchika-home/1971073614/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "65",
+                    "duration": "42m",
+                    "episodeCode": "S2-E65",
+                    "episodeName": "Rocky and Shivangi back together?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6760/1734181286760-h",
+                    "updateDate": "21-05-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rocky-and-shivangi-back-together/1971073620/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "66",
+                    "duration": "42m",
+                    "episodeCode": "S2-E66",
+                    "episodeName": "Ruchika executes her plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3740/1734181283740-h",
+                    "updateDate": "27-05-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/ruchika-executes-her-plan/1971073617/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "67",
+                    "duration": "46m",
+                    "episodeCode": "S2-E67",
+                    "episodeName": "Rocky discovers Tanya's secret",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6776/1734181276776-h",
+                    "updateDate": "28-05-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rocky-discovers-tanyas-secret/1971073611/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "68",
+                    "duration": "42m",
+                    "episodeCode": "S2-E68",
+                    "episodeName": "Shivangi forms an alliance",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5815/1734181285815-h",
+                    "updateDate": "03-06-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-forms-an-alliance/1971073619/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "69",
+                    "duration": "42m",
+                    "episodeCode": "S2-E69",
+                    "episodeName": "Rocky learns the truth about Ruchika and Yamini!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8710/1734181268710-h",
+                    "updateDate": "04-06-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rocky-learns-the-truth-about-ruchika-and-yamini/1971073603/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "70",
+                    "duration": "42m",
+                    "episodeCode": "S2-E70",
+                    "episodeName": "Shivangi and Rocky swear vengeance",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2739/1734181272739-h",
+                    "updateDate": "10-06-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-and-rocky-swear-vengeance/1971073607/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "71",
+                    "duration": "42m",
+                    "episodeCode": "S2-E71",
+                    "episodeName": "Shivangi is out for revenge!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4792/1734181274792-h",
+                    "updateDate": "11-06-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-is-out-for-revenge/1971073609/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "72",
+                    "duration": "42m",
+                    "episodeCode": "S2-E72",
+                    "episodeName": "Shivangi and Rocky out to avenge Avni's death!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3748/1734181273748-h",
+                    "updateDate": "17-06-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shivangi-and-rocky-out-to-avenge-avnis-death/1971073608/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "73",
+                    "duration": "42m",
+                    "episodeCode": "S2-E73",
+                    "episodeName": "Ruchika kills Tanya!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1703/1734181271703-h",
+                    "updateDate": "18-06-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/ruchika-kills-tanya/1971073606/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "74",
+                    "duration": "46m",
+                    "episodeCode": "S2-E74",
+                    "episodeName": "Ruchika receives a marriage proposal from Rocky!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9691/1734181269691-h",
+                    "updateDate": "24-06-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/ruchika-receives-a-marriage-proposal-from-rocky/1971073604/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "75",
+                    "duration": "46m",
+                    "episodeCode": "S2-E75",
+                    "episodeName": "Rocky betrays Shivangi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/972/1734181270972-h",
+                    "updateDate": "25-06-2017",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/rocky-betrays-shivangi/1971073605/watch?search_query=Naagin"
+                },
+                {
                     "seasonNumber": "3",
                     "episodeNumber": "1",
                     "duration": "37m",
@@ -1024,6 +1764,636 @@
                     "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/belas-search-for-her-adversary/1971073743/watch?search_query=Naagin"
                 },
                 {
+                    "seasonNumber": "3",
+                    "episodeNumber": "41",
+                    "duration": "42m",
+                    "episodeCode": "S3-E41",
+                    "episodeName": "Will Bela kill Mahir?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2354/1734181412354-h",
+                    "updateDate": "21-10-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-bela-kill-mahir/1971073734/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "42",
+                    "duration": "42m",
+                    "episodeCode": "S3-E42",
+                    "episodeName": "Bela to kill Mahir?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9257/1734181409257-h",
+                    "updateDate": "27-10-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-to-kill-mahir/1971073731/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "43",
+                    "duration": "42m",
+                    "episodeCode": "S3-E43",
+                    "episodeName": "Vikrant to make Mahir's life hell",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/541/1734181410541-h",
+                    "updateDate": "28-10-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vikrant-to-make-mahirs-life-hell/1971073732/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "44",
+                    "duration": "42m",
+                    "episodeCode": "S3-E44",
+                    "episodeName": "Bela finds a clue",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1227/1734181411227-h",
+                    "updateDate": "03-11-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-finds-a-clue/1971073733/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "45",
+                    "duration": "42m",
+                    "episodeCode": "S3-E45",
+                    "episodeName": "Vikrant tries to frame Bela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3008/1734181413008-h",
+                    "updateDate": "04-11-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vikrant-tries-to-frame-bela/1971073735/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "46",
+                    "duration": "41m",
+                    "episodeCode": "S3-E46",
+                    "episodeName": "Is Vyom an infiltrator?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6637/1734181406637-h",
+                    "updateDate": "10-11-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/is-vyom-an-infiltrator/1971073728/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "47",
+                    "duration": "42m",
+                    "episodeCode": "S3-E47",
+                    "episodeName": "Revenge is served, Vikrant!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6104/1734181406104-h",
+                    "updateDate": "11-11-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/revenge-is-served-vikrant/1971073727/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "48",
+                    "duration": "42m",
+                    "episodeCode": "S3-E48",
+                    "episodeName": "Has Bela identified her enemy?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4718/1734181404718-h",
+                    "updateDate": "17-11-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/has-bela-identified-her-enemy/1971073726/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "49",
+                    "duration": "42m",
+                    "episodeCode": "S3-E49",
+                    "episodeName": "The trio plans to defeat Vyom",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8095/1734181408095-h",
+                    "updateDate": "18-11-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/the-trio-plans-to-defeat-vyom/1971073729/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "50",
+                    "duration": "41m",
+                    "episodeCode": "S3-E50",
+                    "episodeName": "Vyom plans to expose Bela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9537/1734181409537-h",
+                    "updateDate": "24-11-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vyom-plans-to-expose-bela/1971073730/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "51",
+                    "duration": "41m",
+                    "episodeCode": "S3-E51",
+                    "episodeName": "Vyom misleads Mahir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2129/1734181402129-h",
+                    "updateDate": "25-11-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vyom-misleads-mahir/1971073724/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "52",
+                    "duration": "42m",
+                    "episodeCode": "S3-E52",
+                    "episodeName": "Bela's horrific nightmare",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9088/1734181399088-h",
+                    "updateDate": "01-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/belas-horrific-nightmare/1971073721/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "53",
+                    "duration": "42m",
+                    "episodeCode": "S3-E53",
+                    "episodeName": "Will Juhi become the Naagrani?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8075/1734181398075-h",
+                    "updateDate": "02-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-juhi-become-the-naagrani/1971073720/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "54",
+                    "duration": "42m",
+                    "episodeCode": "S3-E54",
+                    "episodeName": "Bela forced to give in!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3946/1734181393946-h",
+                    "updateDate": "08-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-forced-to-give-in/1971073716/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "55",
+                    "duration": "42m",
+                    "episodeCode": "S3-E55",
+                    "episodeName": "Mahir learns about Bela's conspiracy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6012/1734181396012-h",
+                    "updateDate": "09-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/mahir-learns-about-belas-conspiracy/1971073718/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "56",
+                    "duration": "41m",
+                    "episodeCode": "S3-E56",
+                    "episodeName": "Mahir seeks an ex-policeman's help",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6949/1734181396949-h",
+                    "updateDate": "15-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/mahir-seeks-an-ex-policemans-help/1971073719/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "57",
+                    "duration": "42m",
+                    "episodeCode": "S3-E57",
+                    "episodeName": "Bela begs for forgiveness!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/264/1734181400264-h",
+                    "updateDate": "16-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-begs-for-forgiveness/1971073722/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "58",
+                    "duration": "43m",
+                    "episodeCode": "S3-E58",
+                    "episodeName": "Sumitra reveals her identity!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5003/1734181395003-h",
+                    "updateDate": "22-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/sumitra-reveals-her-identity/1971073717/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "59",
+                    "duration": "42m",
+                    "episodeCode": "S3-E59",
+                    "episodeName": "Yuvraj is alive?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1011/1734181401011-h",
+                    "updateDate": "23-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/yuvraj-is-alive/1971073723/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "60",
+                    "duration": "41m",
+                    "episodeCode": "S3-E60",
+                    "episodeName": "Is Vish dead?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3630/1734181403630-h",
+                    "updateDate": "29-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/is-vish-dead/1971073725/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "61",
+                    "duration": "42m",
+                    "episodeCode": "S3-E61",
+                    "episodeName": "Is Vish pregnant?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7098/1734181387098-h",
+                    "updateDate": "30-12-2018",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/is-vish-pregnant/1971073709/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "62",
+                    "duration": "37m",
+                    "episodeCode": "S3-E62",
+                    "episodeName": "Bela fights for Mahir's love",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2013/1734181392013-h",
+                    "updateDate": "05-01-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-fights-for-mahirs-love/1971073714/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "63",
+                    "duration": "38m",
+                    "episodeCode": "S3-E63",
+                    "episodeName": "Will Sumitra kill Bela's mother?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3159/1734181393159-h",
+                    "updateDate": "06-01-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-sumitra-kill-belas-mother/1971073715/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "64",
+                    "duration": "42m",
+                    "episodeCode": "S3-E64",
+                    "episodeName": "Bela pushed from the hill",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9043/1734181389043-h",
+                    "updateDate": "12-01-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-pushed-from-the-hill/1971073711/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "65",
+                    "duration": "41m",
+                    "episodeCode": "S3-E65",
+                    "episodeName": "Sumitra's evil business!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9924/1734181389924-h",
+                    "updateDate": "13-01-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/sumitras-evil-business/1971073712/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "66",
+                    "duration": "42m",
+                    "episodeCode": "S3-E66",
+                    "episodeName": "Bela hits back!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6342/1734181386342-h",
+                    "updateDate": "19-01-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-hits-back/1971073708/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "67",
+                    "duration": "41m",
+                    "episodeCode": "S3-E67",
+                    "episodeName": "Mahir's life at stake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8146/1734181388146-h",
+                    "updateDate": "20-01-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/mahirs-life-at-stake/1971073710/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "68",
+                    "duration": "41m",
+                    "episodeCode": "S3-E68",
+                    "episodeName": "No turning back for Bela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4334/1734181384334-h",
+                    "updateDate": "26-01-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/no-turning-back-for-bela/1971073706/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "69",
+                    "duration": "40m",
+                    "episodeCode": "S3-E69",
+                    "episodeName": "Sumitra loses the Naagmani",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/999/1734181390999-h",
+                    "updateDate": "27-01-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/sumitra-loses-the-naagmani/1971073713/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "70",
+                    "duration": "42m",
+                    "episodeCode": "S3-E70",
+                    "episodeName": "Sumitra falls for Vish's trap",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5111/1734181385111-h",
+                    "updateDate": "02-02-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/sumitra-falls-for-vishs-trap/1971073707/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "71",
+                    "duration": "42m",
+                    "episodeCode": "S3-E71",
+                    "episodeName": "Vish, Vikrant and Bela outsmart Sumitra",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1279/1734181381279-h",
+                    "updateDate": "03-02-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vish-vikrant-and-bela-outsmart-sumitra/1971073703/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "72",
+                    "duration": "42m",
+                    "episodeCode": "S3-E72",
+                    "episodeName": "Bela sends Mahir to Naaglok",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2065/1734181382065-h",
+                    "updateDate": "09-02-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-sends-mahir-to-naaglok/1971073704/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "73",
+                    "duration": "40m",
+                    "episodeCode": "S3-E73",
+                    "episodeName": "Bela confesses her love for Mahir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/17/1734181380017-h",
+                    "updateDate": "10-02-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-confesses-her-love-for-mahir/1971073702/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "74",
+                    "duration": "52m",
+                    "episodeCode": "S3-E74",
+                    "episodeName": "Bela returns the Naagmani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8149/1734181378149-h",
+                    "updateDate": "16-02-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-returns-the-naagmani/1971073700/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "75",
+                    "duration": "41m",
+                    "episodeCode": "S3-E75",
+                    "episodeName": "Mysterious figures kidnap Bela!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9077/1734181379077-h",
+                    "updateDate": "17-02-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/mysterious-figures-kidnap-bela/1971073701/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "76",
+                    "duration": "42m",
+                    "episodeCode": "S3-E76",
+                    "episodeName": "Bela meets Mahir's lookalike!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6996/1734181376996-h",
+                    "updateDate": "23-02-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-meets-mahirs-lookalike/1971073699/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "77",
+                    "duration": "41m",
+                    "episodeCode": "S3-E77",
+                    "episodeName": "Ruhi is back?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6173/1734181376173-h",
+                    "updateDate": "24-02-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/ruhi-is-back/1971073698/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "78",
+                    "duration": "42m",
+                    "episodeCode": "S3-E78",
+                    "episodeName": "The new Naagrani of Naaglok!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4943/1734181374943-h",
+                    "updateDate": "02-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/the-new-naagrani-of-naaglok/1971073697/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "79",
+                    "duration": "42m",
+                    "episodeCode": "S3-E79",
+                    "episodeName": "Bela challenges Huzoor!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4174/1734181374174-h",
+                    "updateDate": "03-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-challenges-huzoor/1971073696/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "80",
+                    "duration": "42m",
+                    "episodeCode": "S3-E80",
+                    "episodeName": "Bela's plan: Mahir's lookalike",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3220/1734181373220-h",
+                    "updateDate": "09-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/belas-plan-mahirs-lookalike/1971073695/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "81",
+                    "duration": "42m",
+                    "episodeCode": "S3-E81",
+                    "episodeName": "Ruhi plans to overpower Bela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9020/1734181369020-h",
+                    "updateDate": "10-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/ruhi-plans-to-overpower-bela/1971073690/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "82",
+                    "duration": "41m",
+                    "episodeCode": "S3-E82",
+                    "episodeName": "Bela to take the ultimate risk",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1684/1734181371684-h",
+                    "updateDate": "16-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-to-take-the-ultimate-risk/1971073693/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "83",
+                    "duration": "42m",
+                    "episodeCode": "S3-E83",
+                    "episodeName": "Hukum captures Bela!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/855/1734181370855-h",
+                    "updateDate": "17-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/hukum-captures-bela/1971073692/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "84",
+                    "duration": "42m",
+                    "episodeCode": "S3-E84",
+                    "episodeName": "Can Bela trust Ritvik?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9858/1734181369858-h",
+                    "updateDate": "23-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/can-bela-trust-ritvik/1971073691/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "85",
+                    "duration": "42m",
+                    "episodeCode": "S3-E85",
+                    "episodeName": "Hukum takes Vish captive",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7602/1734181367602-h",
+                    "updateDate": "24-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/hukum-takes-vish-captive/1971073689/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "86",
+                    "duration": "41m",
+                    "episodeCode": "S3-E86",
+                    "episodeName": "Bela in trouble!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2430/1734181362430-h",
+                    "updateDate": "30-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-in-trouble/1971073684/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "87",
+                    "duration": "42m",
+                    "episodeCode": "S3-E87",
+                    "episodeName": "Vish slits Vikrant's throat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4221/1734181364221-h",
+                    "updateDate": "31-03-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vish-slits-vikrants-throat/1971073686/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "88",
+                    "duration": "42m",
+                    "episodeCode": "S3-E88",
+                    "episodeName": "Bela's mission to protect Vish's child",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6812/1734181366812-h",
+                    "updateDate": "06-04-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/belas-mission-to-protect-vishs-child/1971073688/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "89",
+                    "duration": "42m",
+                    "episodeCode": "S3-E89",
+                    "episodeName": "Sumitra takes away Vish's child",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6188/1734181366188-h",
+                    "updateDate": "07-04-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/sumitra-takes-away-vishs-child/1971073687/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "90",
+                    "duration": "41m",
+                    "episodeCode": "S3-E90",
+                    "episodeName": "Vikrant plans to trap Hukum!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3480/1734181363480-h",
+                    "updateDate": "13-04-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vikrant-plans-to-trap-hukum/1971073685/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "91",
+                    "duration": "41m",
+                    "episodeCode": "S3-E91",
+                    "episodeName": "Taamsi to perform the ritual?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3078/1734181353078-h",
+                    "updateDate": "14-04-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/taamsi-to-perform-the-ritual/1971073675/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "92",
+                    "duration": "41m",
+                    "episodeCode": "S3-E92",
+                    "episodeName": "Taamsi's power unleashed!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6096/1734181356096-h",
+                    "updateDate": "20-04-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/taamsis-power-unleashed/1971073678/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "93",
+                    "duration": "41m",
+                    "episodeCode": "S3-E93",
+                    "episodeName": "Taamsi hold Mahir hostage!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7205/1734181357205-h",
+                    "updateDate": "21-04-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/taamsi-hold-mahir-hostage/1971073679/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "94",
+                    "duration": "42m",
+                    "episodeCode": "S3-E94",
+                    "episodeName": "Taamsi gets the Naagmani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1893/1734181351893-h",
+                    "updateDate": "27-04-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/taamsi-gets-the-naagmani/1971073674/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "95",
+                    "duration": "40m",
+                    "episodeCode": "S3-E95",
+                    "episodeName": "Bela and Mahir are reborn!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9461/1734181359461-h",
+                    "updateDate": "28-04-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-and-mahir-are-reborn/1971073681/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "96",
+                    "duration": "41m",
+                    "episodeCode": "S3-E96",
+                    "episodeName": "Bela-Mahir meet again!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8502/1734181358502-h",
+                    "updateDate": "04-05-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-mahir-meet-again/1971073680/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "97",
+                    "duration": "41m",
+                    "episodeCode": "S3-E97",
+                    "episodeName": "Bela is back!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5175/1734181355175-h",
+                    "updateDate": "05-05-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-is-back/1971073677/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "98",
+                    "duration": "42m",
+                    "episodeCode": "S3-E98",
+                    "episodeName": "Bela at Mahir's engagement!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4158/1734181354158-h",
+                    "updateDate": "11-05-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-at-mahirs-engagement/1971073676/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "99",
+                    "duration": "41m",
+                    "episodeCode": "S3-E99",
+                    "episodeName": "Bela's parents are dead!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/874/1734181360874-h",
+                    "updateDate": "12-05-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/belas-parents-are-dead/1971073682/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "100",
+                    "duration": "45m",
+                    "episodeCode": "S3-E100",
+                    "episodeName": "Bela learns about Shivangi's fate!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3921/1734181563921-h",
+                    "updateDate": "18-05-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-learns-about-shivangis-fate/1971073872/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "101",
+                    "duration": "41m",
+                    "episodeCode": "S3-E101",
+                    "episodeName": "Bela-Shivangi join forces!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1793/1734181561793-h",
+                    "updateDate": "19-05-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bela-shivangi-join-forces/1971073870/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "102",
+                    "duration": "42m",
+                    "episodeCode": "S3-E102",
+                    "episodeName": "Yamini returns to kill Shivangi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2733/1734181562733-h",
+                    "updateDate": "25-05-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/yamini-returns-to-kill-shivangi/1971073871/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "103",
+                    "duration": "42m",
+                    "episodeCode": "S3-E103",
+                    "episodeName": "The ultimate war for the Naagmani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4752/1734181564752-h",
+                    "updateDate": "26-05-2019",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/the-ultimate-war-for-the-naagmani/1971073873/watch?search_query=Naagin"
+                },
+                {
                     "seasonNumber": "4",
                     "episodeNumber": "1",
                     "duration": "43m",
@@ -1122,6 +2492,246 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4673/1734181544673-h",
                     "updateDate": "25-01-2020",
                     "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brinda-to-help-manyata/1971073853/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "14",
+                    "duration": "42m",
+                    "episodeCode": "S4-E14",
+                    "episodeName": "Nayantara on the run!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2604/1734181542604-h",
+                    "updateDate": "26-01-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/nayantara-on-the-run/1971073851/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "15",
+                    "duration": "42m",
+                    "episodeCode": "S4-E15",
+                    "episodeName": "Nayantara falls off the cliff!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7239/1734181547239-h",
+                    "updateDate": "01-02-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/nayantara-falls-off-the-cliff/1971073855/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "16",
+                    "duration": "42m",
+                    "episodeCode": "S4-E16",
+                    "episodeName": "Brinda seeks an eye for an eye!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9872/1734181539872-h",
+                    "updateDate": "02-02-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brinda-seeks-an-eye-for-an-eye/1971073848/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "17",
+                    "duration": "41m",
+                    "episodeCode": "S4-E17",
+                    "episodeName": "Nayantara eyes the Naagin powers!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8899/1734181538899-h",
+                    "updateDate": "08-02-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/nayantara-eyes-the-naagin-powers/1971073847/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "18",
+                    "duration": "41m",
+                    "episodeCode": "S4-E18",
+                    "episodeName": "A deceitful trap for Brinda!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1559/1734181541559-h",
+                    "updateDate": "09-02-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/a-deceitful-trap-for-brinda/1971073850/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "19",
+                    "duration": "42m",
+                    "episodeCode": "S4-E19",
+                    "episodeName": "Vishaka deceives Brinda!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7838/1734181537838-h",
+                    "updateDate": "15-02-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vishaka-deceives-brinda/1971073846/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "20",
+                    "duration": "42m",
+                    "episodeCode": "S4-E20",
+                    "episodeName": "Brinda gets a divine vision!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5723/1734181545723-h",
+                    "updateDate": "16-02-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brinda-gets-a-divine-vision/1971073854/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "21",
+                    "duration": "41m",
+                    "episodeCode": "S4-E21",
+                    "episodeName": "Naagin ka sach aaya bahar!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5882/1734181535882-h",
+                    "updateDate": "22-02-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/naagin-ka-sach-aaya-bahar/1971073844/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "22",
+                    "duration": "41m",
+                    "episodeCode": "S4-E22",
+                    "episodeName": "Vishaka's diabolic plan!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6745/1734181536745-h",
+                    "updateDate": "23-02-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vishakas-diabolic-plan/1971073845/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "23",
+                    "duration": "42m",
+                    "episodeCode": "S4-E23",
+                    "episodeName": "Vishaka to end Dev's life?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2663/1734181532663-h",
+                    "updateDate": "29-02-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vishaka-to-end-devs-life/1971073841/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "24",
+                    "duration": "41m",
+                    "episodeCode": "S4-E24",
+                    "episodeName": "Dev defends Brinda's honour!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3643/1734181533643-h",
+                    "updateDate": "01-03-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/dev-defends-brindas-honour/1971073842/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "25",
+                    "duration": "42m",
+                    "episodeCode": "S4-E25",
+                    "episodeName": "Brinda to the rescue",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4704/1734181534704-h",
+                    "updateDate": "07-03-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brinda-to-the-rescue/1971073843/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "26",
+                    "duration": "42m",
+                    "episodeCode": "S4-E26",
+                    "episodeName": "Brinda loses Manyata!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7627/1734181527627-h",
+                    "updateDate": "08-03-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brinda-loses-manyata/1971073836/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "27",
+                    "duration": "41m",
+                    "episodeCode": "S4-E27",
+                    "episodeName": "Nayantara becomes Shalakha!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6596/1734181526596-h",
+                    "updateDate": "14-03-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/nayantara-becomes-shalakha/1971073835/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "28",
+                    "duration": "43m",
+                    "episodeCode": "S4-E28",
+                    "episodeName": "Brinda returns to Dev!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9374/1734181529374-h",
+                    "updateDate": "15-03-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brinda-returns-to-dev/1971073837/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "29",
+                    "duration": "40m",
+                    "episodeCode": "S4-E29",
+                    "episodeName": "Brinda threatens to kill Nayantara!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/946/1734181530946-h",
+                    "updateDate": "21-03-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brinda-threatens-to-kill-nayantara/1971073839/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "30",
+                    "duration": "40m",
+                    "episodeCode": "S4-E30",
+                    "episodeName": "Shalakha honey-traps Dev!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9846/1734181529846-h",
+                    "updateDate": "22-03-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shalakha-honey-traps-dev/1971073838/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "31",
+                    "duration": "43m",
+                    "episodeCode": "S4-E31",
+                    "episodeName": "Vishaka's identity gets exposed!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5960/1734181525960-h",
+                    "updateDate": "18-07-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/vishakas-identity-gets-exposed/1971073834/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "32",
+                    "duration": "42m",
+                    "episodeCode": "S4-E32",
+                    "episodeName": "Brinda's Naagin avatar exposed!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3659/1734181523659-h",
+                    "updateDate": "19-07-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brindas-naagin-avatar-exposed/1971073832/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "33",
+                    "duration": "46m",
+                    "episodeCode": "S4-E33",
+                    "episodeName": "Can Brinda convince Dev?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9798/1734181519798-h",
+                    "updateDate": "25-07-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/can-brinda-convince-dev/1971073828/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "34",
+                    "duration": "47m",
+                    "episodeCode": "S4-E34",
+                    "episodeName": "Shalakha manipulates Dev!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/598/1734181520598-h",
+                    "updateDate": "26-07-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/shalakha-manipulates-dev/1971073829/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "35",
+                    "duration": "42m",
+                    "episodeCode": "S4-E35",
+                    "episodeName": "Brinda's mother is murdered!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1604/1734181521604-h",
+                    "updateDate": "01-08-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brindas-mother-is-murdered/1971073830/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "36",
+                    "duration": "42m",
+                    "episodeCode": "S4-E36",
+                    "episodeName": "Brinda swears to avenge!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4454/1734181524454-h",
+                    "updateDate": "02-08-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/brinda-swears-to-avenge/1971073833/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "37",
+                    "duration": "41m",
+                    "episodeCode": "S4-E37",
+                    "episodeName": "Can Dev protect his family?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2686/1734181522686-h",
+                    "updateDate": "08-08-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/can-dev-protect-his-family/1971073831/watch?search_query=Naagin"
                 },
                 {
                     "seasonNumber": "5",
@@ -1322,6 +2932,316 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7887/1734159167887-h",
                     "updateDate": "17-10-2020",
                     "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/aakesh-saves-bani/1971053259/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "21",
+                    "duration": "41m",
+                    "episodeCode": "S5-E21",
+                    "episodeName": "Jay lays a trap for Bani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6060/1734156506060-h",
+                    "updateDate": "18-10-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/jay-lays-a-trap-for-bani/1971050827/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "22",
+                    "duration": "42m",
+                    "episodeCode": "S5-E22",
+                    "episodeName": "Bani is perplexed",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3330/1734160423330-h",
+                    "updateDate": "24-10-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-is-perplexed/1971054376/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "23",
+                    "duration": "42m",
+                    "episodeCode": "S5-E23",
+                    "episodeName": "The end of Shakura?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6589/1734150756589-h",
+                    "updateDate": "25-10-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/the-end-of-shakura/1971045516/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "24",
+                    "duration": "42m",
+                    "episodeCode": "S5-E24",
+                    "episodeName": "Jay casts a spell on Bani",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/292/1734163970292-h",
+                    "updateDate": "31-10-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/jay-casts-a-spell-on-bani/1971057659/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "25",
+                    "duration": "43m",
+                    "episodeCode": "S5-E25",
+                    "episodeName": "Jay's killer plan!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8657/1734157118657-h",
+                    "updateDate": "01-11-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/jays-killer-plan/1971051390/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "26",
+                    "duration": "42m",
+                    "episodeCode": "S5-E26",
+                    "episodeName": "Veer in the trap!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/735/1734158860735-h",
+                    "updateDate": "07-11-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/veer-in-the-trap/1971053004/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "27",
+                    "duration": "43m",
+                    "episodeCode": "S5-E27",
+                    "episodeName": "Bani attacks a cheel!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8650/1734150358650-h",
+                    "updateDate": "08-11-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-attacks-a-cheel/1971045150/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "28",
+                    "duration": "41m",
+                    "episodeCode": "S5-E28",
+                    "episodeName": "A teary reunion for Veer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8034/1734164978034-h",
+                    "updateDate": "14-11-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/a-teary-reunion-for-veer/1971058598/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "29",
+                    "duration": "38m",
+                    "episodeCode": "S5-E29",
+                    "episodeName": "Bani's biggest enemy arrives!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2882/1734162722882-h",
+                    "updateDate": "15-11-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/banis-biggest-enemy-arrives/1971056504/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "30",
+                    "duration": "42m",
+                    "episodeCode": "S5-E30",
+                    "episodeName": "Bani faces her enemy!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1507/1734156561507-h",
+                    "updateDate": "21-11-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-faces-her-enemy/1971050874/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "31",
+                    "duration": "41m",
+                    "episodeCode": "S5-E31",
+                    "episodeName": "Bani confronts Jay",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5471/1734161085471-h",
+                    "updateDate": "22-11-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-confronts-jay/1971054987/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "32",
+                    "duration": "42m",
+                    "episodeCode": "S5-E32",
+                    "episodeName": "Battle of serpents!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2523/1734156602523-h",
+                    "updateDate": "28-11-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/battle-of-serpents/1971050915/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "33",
+                    "duration": "41m",
+                    "episodeCode": "S5-E33",
+                    "episodeName": "Bani tries to convince Veer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1721/1734156771721-h",
+                    "updateDate": "29-11-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-tries-to-convince-veer/1971051067/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "34",
+                    "duration": "42m",
+                    "episodeCode": "S5-E34",
+                    "episodeName": "Bani is trapped",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2199/1734154662199-h",
+                    "updateDate": "05-12-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-is-trapped/1971049124/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "35",
+                    "duration": "41m",
+                    "episodeCode": "S5-E35",
+                    "episodeName": "Bani gets a vision",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1063/1734155301063-h",
+                    "updateDate": "06-12-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-gets-a-vision/1971049712/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "36",
+                    "duration": "41m",
+                    "episodeCode": "S5-E36",
+                    "episodeName": "Bani's ultimate sacrifice!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9707/1734163189707-h",
+                    "updateDate": "12-12-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/banis-ultimate-sacrifice/1971056939/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "37",
+                    "duration": "42m",
+                    "episodeCode": "S5-E37",
+                    "episodeName": "Bani is heartbroken!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9546/1734162859546-h",
+                    "updateDate": "13-12-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-is-heartbroken/1971056631/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "38",
+                    "duration": "41m",
+                    "episodeCode": "S5-E38",
+                    "episodeName": "Bani-Veer's romantic date!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1801/1734158041801-h",
+                    "updateDate": "19-12-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-veers-romantic-date/1971052248/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "39",
+                    "duration": "42m",
+                    "episodeCode": "S5-E39",
+                    "episodeName": "Bani fails to find Veer!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3386/1734164573386-h",
+                    "updateDate": "20-12-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-fails-to-find-veer/1971058225/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "40",
+                    "duration": "41m",
+                    "episodeCode": "S5-E40",
+                    "episodeName": "Will Bani marry Jay?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5259/1734152995259-h",
+                    "updateDate": "26-12-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/will-bani-marry-jay/1971047583/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "41",
+                    "duration": "42m",
+                    "episodeCode": "S5-E41",
+                    "episodeName": "Veer loses his powers?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/301/1734162260301-h",
+                    "updateDate": "27-12-2020",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/veer-loses-his-powers/1971056070/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "42",
+                    "duration": "41m",
+                    "episodeCode": "S5-E42",
+                    "episodeName": "Veer gets attacked!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8096/1734157748096-h",
+                    "updateDate": "02-01-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/veer-gets-attacked/1971051968/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "44",
+                    "duration": "40m",
+                    "episodeCode": "S5-E44",
+                    "episodeName": "New threat to Bani's life",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6956/1734163076956-h",
+                    "updateDate": "09-01-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/new-threat-to-banis-life/1971056835/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "45",
+                    "duration": "41m",
+                    "episodeCode": "S5-E45",
+                    "episodeName": "Farishta shocks Bani",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4709/1734164554709-h",
+                    "updateDate": "10-01-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/farishta-shocks-bani/1971058207/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "46",
+                    "duration": "42m",
+                    "episodeCode": "S5-E46",
+                    "episodeName": "A mysterious package in the house",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3267/1734150383267-h",
+                    "updateDate": "16-01-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/a-mysterious-package-in-the-house/1971045166/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "47",
+                    "duration": "42m",
+                    "episodeCode": "S5-E47",
+                    "episodeName": "Jay works on his plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2286/1734149772286-h",
+                    "updateDate": "17-01-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/jay-works-on-his-plan/1971044604/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "48",
+                    "duration": "42m",
+                    "episodeCode": "S5-E48",
+                    "episodeName": "Jay unleashes his wrath!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4593/1734155084593-h",
+                    "updateDate": "23-01-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/jay-unleashes-his-wrath/1971049512/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "49",
+                    "duration": "42m",
+                    "episodeCode": "S5-E49",
+                    "episodeName": "Jay's plan in motion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2011/1734158662011-h",
+                    "updateDate": "24-01-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/jays-plan-in-motion/1971052818/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "50",
+                    "duration": "41m",
+                    "episodeCode": "S5-E50",
+                    "episodeName": "Bani creates a protective shield",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2163/1734154062163-h",
+                    "updateDate": "30-01-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-creates-a-protective-shield/1971048565/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "51",
+                    "duration": "42m",
+                    "episodeCode": "S5-E51",
+                    "episodeName": "Bani is shocked",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8423/1734162258423-h",
+                    "updateDate": "31-01-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/bani-is-shocked/1971056068/watch?search_query=Naagin"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "52",
+                    "duration": "42m",
+                    "episodeCode": "S5-E52",
+                    "episodeName": "Jay overpowers Bani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8087/1734158438087-h",
+                    "updateDate": "06-02-2021",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/naagin/1971002157/jay-overpowers-bani/1971052610/watch?search_query=Naagin"
                 },
                 {
                     "seasonNumber": "6",
