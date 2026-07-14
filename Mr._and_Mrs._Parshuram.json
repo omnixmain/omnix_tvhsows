@@ -1,0 +1,1619 @@
+{
+    "tvShows": [
+        {
+            "name": "Mr. and Mrs. Parshuram",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6826/1775723706826-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "14-07-2026",
+            "description": "Shivprasad and Shalini juggle middle-class family life with their two kids. But hush! Shivprasad is also a secret agent, how long can he keep up his cover? Watch Mr. and Mrs. Parshuram - Hindi Drama Action serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "160",
+                    "duration": "21m",
+                    "episodeCode": "S1-E160",
+                    "episodeName": "Shalini Stuns Sheetal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3183/1783992973183-h",
+                    "updateDate": "14-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-stuns-sheetal/1641026484/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "159",
+                    "duration": "21m",
+                    "episodeCode": "S1-E159",
+                    "episodeName": "Shashank Investigates About Sheetal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7143/1783904617143-h",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shashank-investigates-about-sheetal/1641026351/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "158",
+                    "duration": "21m",
+                    "episodeCode": "S1-E158",
+                    "episodeName": "Parshuram Hints at Deeper Links",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6591/1783817476591-h",
+                    "updateDate": "12-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-hints-at-deeper-links/1641026296/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "157",
+                    "duration": "21m",
+                    "episodeCode": "S1-E157",
+                    "episodeName": "Shalini's Secret Plan for Vicky",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6512/1783731256512-h",
+                    "updateDate": "11-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalinis-secret-plan-for-vicky/1641026116/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "156",
+                    "duration": "21m",
+                    "episodeCode": "S1-E156",
+                    "episodeName": "Shalini Agrees to Marry Vicky",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4797/1783646324797-h",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-agrees-to-marry-vicky/1641026032/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "155",
+                    "duration": "21m",
+                    "episodeCode": "S1-E155",
+                    "episodeName": "Shalini Finds Shivprasad Alive",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6606/1783571966606-h",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-finds-shivprasad-alive/1641025942/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "154",
+                    "duration": "21m",
+                    "episodeCode": "S1-E154",
+                    "episodeName": "Shivprasad Learns the Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8422/1783479548422-h",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-learns-the-truth/1641025794/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "153",
+                    "duration": "21m",
+                    "episodeCode": "S1-E153",
+                    "episodeName": "Parshuram Hunts for the Shooter",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2113/1783388512113-h",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-hunts-for-the-shooter/1641025622/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "152",
+                    "duration": "21m",
+                    "episodeCode": "S1-E152",
+                    "episodeName": "Vicky Faces Shalini's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1568/1783347381568-h",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/vicky-faces-shalinis-wrath/1641025564/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "151",
+                    "duration": "21m",
+                    "episodeCode": "S1-E151",
+                    "episodeName": "Shalini's Dance Shocks Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6688/1783212356688-h",
+                    "updateDate": "05-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalinis-dance-shocks-shivprasad/1641025420/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "150",
+                    "duration": "20m",
+                    "episodeCode": "S1-E150",
+                    "episodeName": "Vicky Stuns the Dixit Family",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1209/1783123591209-h",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/vicky-stuns-the-dixit-family/1641025307/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "149",
+                    "duration": "21m",
+                    "episodeCode": "S1-E149",
+                    "episodeName": "Shalini's Life in Danger?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4367/1783043014367-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalinis-life-in-danger/1641025188/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "148",
+                    "duration": "21m",
+                    "episodeCode": "S1-E148",
+                    "episodeName": "Shivprasad Tests Vicky",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7527/1783001547527-h",
+                    "updateDate": "02-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-tests-vicky/1641025152/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "147",
+                    "duration": "21m",
+                    "episodeCode": "S1-E147",
+                    "episodeName": "Shalini's Stern Warning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2268/1782857322268-h",
+                    "updateDate": "01-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalinis-stern-warning/1641025063/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "146",
+                    "duration": "21m",
+                    "episodeCode": "S1-E146",
+                    "episodeName": "Vicky Alerts Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2933/1782760042933-h",
+                    "updateDate": "30-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/vicky-alerts-shalini/1641024930/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "145",
+                    "duration": "21m",
+                    "episodeCode": "S1-E145",
+                    "episodeName": "Shivprasad Interrogates Raju",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8353/1782682098353-h",
+                    "updateDate": "29-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-interrogates-raju/1641024864/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "144",
+                    "duration": "21m",
+                    "episodeCode": "S1-E144",
+                    "episodeName": "Shalini's Troubles Deepen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6678/1782591636678-h",
+                    "updateDate": "28-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalinis-troubles-deepen/1641024764/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "143",
+                    "duration": "22m",
+                    "episodeCode": "S1-E143",
+                    "episodeName": "Shivprasad Hunts Shalini's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/171/1782506300171-h",
+                    "updateDate": "27-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-hunts-shalinis-truth/1641024668/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "142",
+                    "duration": "21m",
+                    "episodeCode": "S1-E142",
+                    "episodeName": "Shivprasad Places Trust in Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3233/1782442583233-h",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-places-trust-in-shalini/1641024592/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "141",
+                    "duration": "21m",
+                    "episodeCode": "S1-E141",
+                    "episodeName": "Abhay's Death Deepens the Mystery",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6062/1782350706062-h",
+                    "updateDate": "25-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/abhays-death-deepens-the-mystery/1641024495/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "140",
+                    "duration": "21m",
+                    "episodeCode": "S1-E140",
+                    "episodeName": "Shivprasad Comes Home in Disguise",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2625/1782262702625-h",
+                    "updateDate": "24-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-comes-home-in-disguise/1641024436/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "139",
+                    "duration": "21m",
+                    "episodeCode": "S1-E139",
+                    "episodeName": "Malhar Breaks Ties with Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7509/1782175867509-h",
+                    "updateDate": "23-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/malhar-breaks-ties-with-shalini/1641024395/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "138",
+                    "duration": "21m",
+                    "episodeCode": "S1-E138",
+                    "episodeName": "Shalini Stands Up for Herself",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9988/1782102269988-h",
+                    "updateDate": "22-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-stands-up-for-herself/1641024283/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "137",
+                    "duration": "21m",
+                    "episodeCode": "S1-E137",
+                    "episodeName": "Vicky's Claim Targets Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8439/1782069438439-h",
+                    "updateDate": "21-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/vickys-claim-targets-shalini/1641024204/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "136",
+                    "duration": "21m",
+                    "episodeCode": "S1-E136",
+                    "episodeName": "Shivprasad Assigns Balram a Mission",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8732/1781908338732-h",
+                    "updateDate": "20-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-assigns-balram-a-mission/1641024171/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "135",
+                    "duration": "20m",
+                    "episodeCode": "S1-E135",
+                    "episodeName": "Karan Creates Trouble for Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9533/1781833719533-h",
+                    "updateDate": "19-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-creates-trouble-for-shalini/1641024072/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "134",
+                    "duration": "20m",
+                    "episodeCode": "S1-E134",
+                    "episodeName": "Deepali Stands by Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7961/1781755167961-h",
+                    "updateDate": "18-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/deepali-stands-by-shalini/1641024027/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "133",
+                    "duration": "20m",
+                    "episodeCode": "S1-E133",
+                    "episodeName": "Sheetal Plots to Frame Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4358/1781671524358-h",
+                    "updateDate": "17-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetal-plots-to-frame-shalini/1641023961/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "132",
+                    "duration": "21m",
+                    "episodeCode": "S1-E132",
+                    "episodeName": "Shalini Confronts Allegations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8345/1781622898345-h",
+                    "updateDate": "16-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-confronts-allegations/1641023887/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "131",
+                    "duration": "30m",
+                    "episodeCode": "S1-E131",
+                    "episodeName": "Can Shivprasad Trace the Truth?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/558/1781482590558-h",
+                    "updateDate": "15-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/can-shivprasad-trace-the-truth/1641023811/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "130",
+                    "duration": "21m",
+                    "episodeCode": "S1-E130",
+                    "episodeName": "Sheetal's Master Plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4619/1781385554619-h",
+                    "updateDate": "14-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetals-master-plan/1641023734/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "129",
+                    "duration": "20m",
+                    "episodeCode": "S1-E129",
+                    "episodeName": "Sheetal Influences Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6168/1781323596168-h",
+                    "updateDate": "13-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetal-influences-shivprasad/1641023683/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "128",
+                    "duration": "21m",
+                    "episodeCode": "S1-E128",
+                    "episodeName": "Nandini Stands by Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7042/1781228787042-h",
+                    "updateDate": "12-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/nandini-stands-by-shalini/1641023614/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "127",
+                    "duration": "20m",
+                    "episodeCode": "S1-E127",
+                    "episodeName": "Sheetal's Secret Plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2852/1781133682852-h",
+                    "updateDate": "11-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetals-secret-plan/1641023518/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "126",
+                    "duration": "21m",
+                    "episodeCode": "S1-E126",
+                    "episodeName": "A Tragic Turn for Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7494/1781055137494-h",
+                    "updateDate": "10-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/a-tragic-turn-for-shalini/1641023448/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "125",
+                    "duration": "21m",
+                    "episodeCode": "S1-E125",
+                    "episodeName": "Shivprasad's Holiday Harmony",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4838/1780964404838-h",
+                    "updateDate": "09-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasads-holiday-harmony/1641023372/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "124",
+                    "duration": "21m",
+                    "episodeCode": "S1-E124",
+                    "episodeName": "Kabir's Master Plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1954/1780913481954-h",
+                    "updateDate": "08-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/kabirs-master-plan/1641023289/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "123",
+                    "duration": "21m",
+                    "episodeCode": "S1-E123",
+                    "episodeName": "Sheetal Vows Revenge on Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7199/1780793647199-h",
+                    "updateDate": "07-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetal-vows-revenge-on-shivprasad/1641023225/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "122",
+                    "duration": "21m",
+                    "episodeCode": "S1-E122",
+                    "episodeName": "Kabir's Bail Brings Joy to Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2570/1780710632570-h",
+                    "updateDate": "06-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/kabirs-bail-brings-joy-to-karan/1641023148/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "121",
+                    "duration": "20m",
+                    "episodeCode": "S1-E121",
+                    "episodeName": "Shalini Confronts Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6248/1780637466248-h",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-confronts-shivprasad/1641023073/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "120",
+                    "duration": "20m",
+                    "episodeCode": "S1-E120",
+                    "episodeName": "Parshuram Shields Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6225/1780544906225-h",
+                    "updateDate": "04-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-shields-shalini/1641022986/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "119",
+                    "duration": "34m",
+                    "episodeCode": "S1-E119",
+                    "episodeName": "Sankalp Targets Shalini's Kids",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8526/1780460128526-h",
+                    "updateDate": "03-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sankalp-targets-shalinis-kids/1641022919/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "118",
+                    "duration": "1h 1m",
+                    "episodeCode": "S1-E118",
+                    "episodeName": "Malhar Spots Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/169/1780551550169-h",
+                    "updateDate": "02-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/malhar-spots-shivprasad/1641022833/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "117",
+                    "duration": "21m",
+                    "episodeCode": "S1-E117",
+                    "episodeName": "Chintu and Pihu in Danger?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3054/1780175233054-h",
+                    "updateDate": "31-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/chintu-and-pihu-in-danger/1641022653/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "116",
+                    "duration": "21m",
+                    "episodeCode": "S1-E116",
+                    "episodeName": "Manish Pleads for Aradhya's Life",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7982/1780088897982-h",
+                    "updateDate": "30-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manish-pleads-for-aradhyas-life/1641022590/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "115",
+                    "duration": "20m",
+                    "episodeCode": "S1-E115",
+                    "episodeName": "Bhargavi Denies Aradhya's Request",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8637/1780017598637-h",
+                    "updateDate": "29-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/bhargavi-denies-aradhyas-request/1641022479/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "114",
+                    "duration": "21m",
+                    "episodeCode": "S1-E114",
+                    "episodeName": "Shivprasad Faces Danger",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9957/1779941279957-h",
+                    "updateDate": "28-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-faces-danger/1641022452/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "113",
+                    "duration": "20m",
+                    "episodeCode": "S1-E113",
+                    "episodeName": "Shivprasad's Birthday Celebration",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5896/1779841525896-h",
+                    "updateDate": "27-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasads-birthday-celebration/1641022338/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "112",
+                    "duration": "21m",
+                    "episodeCode": "S1-E112",
+                    "episodeName": "Shivprasad Eases Shalini's Fear",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3740/1779757363740-h",
+                    "updateDate": "26-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-eases-shalinis-fear/1641022257/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "111",
+                    "duration": "20m",
+                    "episodeCode": "S1-E111",
+                    "episodeName": "Manish's Challenge to Nandini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9453/1779671859453-h",
+                    "updateDate": "25-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manishs-challenge-to-nandini/1641022213/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "110",
+                    "duration": "21m",
+                    "episodeCode": "S1-E110",
+                    "episodeName": "Shalini Turns Down Aradhya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5513/1779591235513-h",
+                    "updateDate": "24-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-turns-down-aradhya/1641022142/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "109",
+                    "duration": "22m",
+                    "episodeCode": "S1-E109",
+                    "episodeName": "A Mystery Deepens for Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1491/1779524381491-h",
+                    "updateDate": "23-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/a-mystery-deepens-for-karan/1641022064/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "108",
+                    "duration": "23m",
+                    "episodeCode": "S1-E108",
+                    "episodeName": "Karan's Plan Unfolds",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3399/1779420323399-h",
+                    "updateDate": "22-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karans-plan-unfolds/1641022000/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "107",
+                    "duration": "23m",
+                    "episodeCode": "S1-E107",
+                    "episodeName": "Malhar's Stern Warning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/927/1779326770927-h",
+                    "updateDate": "21-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/malhars-stern-warning/1641021935/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "106",
+                    "duration": "21m",
+                    "episodeCode": "S1-E106",
+                    "episodeName": "Parshuram's Ultimatum to Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9364/1779233319364-h",
+                    "updateDate": "20-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshurams-ultimatum-to-karan/1641021809/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "105",
+                    "duration": "21m",
+                    "episodeCode": "S1-E105",
+                    "episodeName": "Karan Attacks Shivprasad, Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2774/1779154122774-h",
+                    "updateDate": "19-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-attacks-shivprasad-shalini/1641021770/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "104",
+                    "duration": "21m",
+                    "episodeCode": "S1-E104",
+                    "episodeName": "Trouble Looms for Pihu, Chintu",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8434/1779081678434-h",
+                    "updateDate": "18-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/trouble-looms-for-pihu-chintu/1641021690/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "103",
+                    "duration": "21m",
+                    "episodeCode": "S1-E103",
+                    "episodeName": "Parshuram in Action",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1659/1778982391659-h",
+                    "updateDate": "17-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-in-action/1641021630/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "102",
+                    "duration": "20m",
+                    "episodeCode": "S1-E102",
+                    "episodeName": "Aradhya Questions Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2669/1778909532669-h",
+                    "updateDate": "16-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/aradhya-questions-shalini/1641021551/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "101",
+                    "duration": "21m",
+                    "episodeCode": "S1-E101",
+                    "episodeName": "Nandini Persuades Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9016/1778807799016-h",
+                    "updateDate": "15-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/nandini-persuades-shalini/1700104195/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "100",
+                    "duration": "21m",
+                    "episodeCode": "S1-E100",
+                    "episodeName": "Will Shalini Save Kabir?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/335/1778727870335-h",
+                    "updateDate": "14-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/will-shalini-save-kabir/1700104153/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "99",
+                    "duration": "21m",
+                    "episodeCode": "S1-E99",
+                    "episodeName": "Karan Under Interrogation",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3419/1778634253419-h",
+                    "updateDate": "13-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-under-interrogation/1700104078/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "98",
+                    "duration": "21m",
+                    "episodeCode": "S1-E98",
+                    "episodeName": "Chintu's Terrifying Encounter",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8478/1778560758478-h",
+                    "updateDate": "12-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/chintus-terrifying-encounter/1700104026/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "97",
+                    "duration": "21m",
+                    "episodeCode": "S1-E97",
+                    "episodeName": "Nandini Faces Malhar's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4668/1778461754668-h",
+                    "updateDate": "11-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/nandini-faces-malhars-wrath/1700103937/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "96",
+                    "duration": "20m",
+                    "episodeCode": "S1-E96",
+                    "episodeName": "Karan Suspects Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3666/1778384043666-h",
+                    "updateDate": "10-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-suspects-shivprasad/1700103888/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "95",
+                    "duration": "20m",
+                    "episodeCode": "S1-E95",
+                    "episodeName": "Chintu, Pihu's Future at Stake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3922/1778330183922-h",
+                    "updateDate": "09-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/chintu-pihus-future-at-stake/1700103851/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "94",
+                    "duration": "22m",
+                    "episodeCode": "S1-E94",
+                    "episodeName": "Sheetal's Ultimatum to Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/706/1778203670706-h",
+                    "updateDate": "08-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetals-ultimatum-to-shivprasad/1700103776/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "93",
+                    "duration": "23m",
+                    "episodeCode": "S1-E93",
+                    "episodeName": "Parshuram Cautions Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6556/1778115026556-h",
+                    "updateDate": "07-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-cautions-karan/1700103712/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "92",
+                    "duration": "22m",
+                    "episodeCode": "S1-E92",
+                    "episodeName": "Shalini's Open Challenge to Manish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8018/1778029238018-h",
+                    "updateDate": "06-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalinis-open-challenge-to-manish/1700103646/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "91",
+                    "duration": "20m",
+                    "episodeCode": "S1-E91",
+                    "episodeName": "Aradhya's Revelation Shocks Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3116/1777941883116-h",
+                    "updateDate": "05-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/aradhyas-revelation-shocks-karan/1700103555/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "90",
+                    "duration": "21m",
+                    "episodeCode": "S1-E90",
+                    "episodeName": "Shivprasad Stands by Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1836/1777857111836-h",
+                    "updateDate": "04-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-stands-by-shalini/1700103449/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "89",
+                    "duration": "20m",
+                    "episodeCode": "S1-E89",
+                    "episodeName": "Malhar Blocks Deepali's Visit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9550/1777777869550-h",
+                    "updateDate": "03-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/malhar-blocks-deepalis-visit/1700103441/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "88",
+                    "duration": "20m",
+                    "episodeCode": "S1-E88",
+                    "episodeName": "Karan Faces Serious Trouble",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1739/1777722701739-h",
+                    "updateDate": "02-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-faces-serious-trouble/1700103379/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "87",
+                    "duration": "23m",
+                    "episodeCode": "S1-E87",
+                    "episodeName": "Manish Confronts Nandini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1886/1777585541886-h",
+                    "updateDate": "01-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manish-confronts-nandini/1700103320/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "86",
+                    "duration": "21m",
+                    "episodeCode": "S1-E86",
+                    "episodeName": "Karan Threatens Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7975/1777509347975-h",
+                    "updateDate": "30-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-threatens-shalini/1700103289/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "85",
+                    "duration": "21m",
+                    "episodeCode": "S1-E85",
+                    "episodeName": "Karan Targets Shalini's Kids",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1486/1777426671486-h",
+                    "updateDate": "29-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-targets-shalinis-kids/1700103190/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "84",
+                    "duration": "20m",
+                    "episodeCode": "S1-E84",
+                    "episodeName": "Chintu Faces Karan's Warning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7651/1777336587651-h",
+                    "updateDate": "28-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/chintu-faces-karans-warning/1700103120/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "83",
+                    "duration": "20m",
+                    "episodeCode": "S1-E83",
+                    "episodeName": "Aradhya's Bold Stand for Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2820/1777249222820-h",
+                    "updateDate": "27-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/aradhyas-bold-stand-for-kabir/1700103067/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "82",
+                    "duration": "22m",
+                    "episodeCode": "S1-E82",
+                    "episodeName": "Shalini Worries about Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2921/1777172662921-h",
+                    "updateDate": "26-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-worries-about-shivprasad/1700103007/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "81",
+                    "duration": "21m",
+                    "episodeCode": "S1-E81",
+                    "episodeName": "Tension Brews between Karan, Manish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4608/1777110384608-h",
+                    "updateDate": "25-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/tension-brews-between-karan-manish/1700102958/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "80",
+                    "duration": "21m",
+                    "episodeCode": "S1-E80",
+                    "episodeName": "Manish's Plot for Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9672/1776992579672-h",
+                    "updateDate": "24-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manishs-plot-for-shivprasad/1700102847/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "79",
+                    "duration": "22m",
+                    "episodeCode": "S1-E79",
+                    "episodeName": "Shalini Rescues Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/807/1776913280807-h",
+                    "updateDate": "23-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-rescues-shivprasad/1700102829/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "78",
+                    "duration": "24m",
+                    "episodeCode": "S1-E78",
+                    "episodeName": "Aradhya Takes Charge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/741/1776822790741-h",
+                    "updateDate": "22-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/aradhya-takes-charge/1700102732/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "77",
+                    "duration": "23m",
+                    "episodeCode": "S1-E77",
+                    "episodeName": "Sheetal Plots Against Parshuram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7281/1776784697281-h",
+                    "updateDate": "21-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetal-plots-against-parshuram/1700102670/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "76",
+                    "duration": "21m",
+                    "episodeCode": "S1-E76",
+                    "episodeName": "Shalini Springs Into Action",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7363/1776666247363-h",
+                    "updateDate": "20-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-springs-into-action/1700102612/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "75",
+                    "duration": "21m",
+                    "episodeCode": "S1-E75",
+                    "episodeName": "Shalini Defies Karan's Threat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5741/1776568555741-h",
+                    "updateDate": "19-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-defies-karans-threat/1700102536/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "74",
+                    "duration": "20m",
+                    "episodeCode": "S1-E74",
+                    "episodeName": "A Shocker for Sheetal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5227/1776470765227-h",
+                    "updateDate": "18-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/a-shocker-for-sheetal/1700102497/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "73",
+                    "duration": "20m",
+                    "episodeCode": "S1-E73",
+                    "episodeName": "Shalini's Concern for Parshuram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5254/1776371635254-h",
+                    "updateDate": "17-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalinis-concern-for-parshuram/1700102410/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "72",
+                    "duration": "20m",
+                    "episodeCode": "S1-E72",
+                    "episodeName": "Manish Fumes at Boomika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4392/1776314504392-h",
+                    "updateDate": "16-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manish-fumes-at-boomika/1700102348/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "71",
+                    "duration": "20m",
+                    "episodeCode": "S1-E71",
+                    "episodeName": "Kabir Behind Bars",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5447/1776219945447-h",
+                    "updateDate": "15-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/kabir-behind-bars/1700102289/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "20m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "Karan Faces Nandini's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1995/1776138271995-h",
+                    "updateDate": "14-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-faces-nandinis-wrath/1700102213/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "69",
+                    "duration": "21m",
+                    "episodeCode": "S1-E69",
+                    "episodeName": "Aradhya Seeks Mercy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3207/1776085733207-h",
+                    "updateDate": "13-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/aradhya-seeks-mercy/1700102116/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "68",
+                    "duration": "43m",
+                    "episodeCode": "S1-E68",
+                    "episodeName": "Mahasangam: Anjali Saves the Day",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2737/1776080752737-h",
+                    "updateDate": "12-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/mahasangam-anjali-saves-the-day/1700102043/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "67",
+                    "duration": "20m",
+                    "episodeCode": "S1-E67",
+                    "episodeName": "Shivprasad Steals the Show",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4155/1775866844155-h",
+                    "updateDate": "11-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-steals-the-show/1700102010/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "66",
+                    "duration": "20m",
+                    "episodeCode": "S1-E66",
+                    "episodeName": "Maya Alerts Parshuram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9698/1775801629698-h",
+                    "updateDate": "10-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/maya-alerts-parshuram/1700101921/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "20m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "Shalini Under Pressure",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1935/1775698591935-h",
+                    "updateDate": "09-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-under-pressure/1700101859/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "64",
+                    "duration": "22m",
+                    "episodeCode": "S1-E64",
+                    "episodeName": "Karan Threatens Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9369/1775609059369-h",
+                    "updateDate": "08-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-threatens-shalini/1700101777/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "22m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "Sheetal Targets Parshuram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7368/1775526767368-h",
+                    "updateDate": "07-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetal-targets-parshuram/1700101696/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "15m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "Karan Threatens Shalini, Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/282/1775438930282-h",
+                    "updateDate": "06-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-threatens-shalini-shivprasad/1700101582/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "15m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "Kabir and Aradhya's Ashirvad Ceremony",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7488/1775347107488-h",
+                    "updateDate": "05-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/kabir-and-aradhyas-ashirvad-ceremony/1700101493/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "15m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Shivprasad's Entry Stuns Everyone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6335/1775254896335-h",
+                    "updateDate": "04-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasads-entry-stuns-everyone/1700101393/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "15m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Manish Pressures Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5047/1775182065047-h",
+                    "updateDate": "03-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manish-pressures-shalini/1700101295/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "16m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Shivprasad's Daring Act",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6926/1775074786926-h",
+                    "updateDate": "02-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasads-daring-act/1700101160/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "15m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Shivprasad Surprises Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1324/1775002791324-h",
+                    "updateDate": "01-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-surprises-shalini/1700101050/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "15m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Boomika Confronts Malhar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7871/1774934247871-h",
+                    "updateDate": "31-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/boomika-confronts-malhar/1700100884/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "15m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Karan Warns Shivprasad's Kids",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/365/1774855600365-h",
+                    "updateDate": "30-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/karan-warns-shivprasads-kids/1700100834/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "15m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Parshuram Warns Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5348/1774744615348-h",
+                    "updateDate": "29-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-warns-kabir/1700100812/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "16m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Shalini Hosts Aradhya's Kelvan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/485/1774658670485-h",
+                    "updateDate": "28-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-hosts-aradhyas-kelvan/1700100660/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "16m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Aradhya Manipulates Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5678/1774579575678-h",
+                    "updateDate": "27-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/aradhya-manipulates-shalini/1700100533/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "15m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Aradhya Schemes to Save Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6191/1774491856191-h",
+                    "updateDate": "26-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/aradhya-schemes-to-save-kabir/1700100481/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "16m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Sheetal Fumes at Babbar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5326/1774415205326-h",
+                    "updateDate": "25-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetal-fumes-at-babbar/1700100366/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "15m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Shivprasad, Shalini's Sweet Romance",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9484/1774340869484-h",
+                    "updateDate": "24-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-shalinis-sweet-romance/1700100292/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "16m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "Chintu Sparks Manish's Fury",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5728/1774166965728-h",
+                    "updateDate": "22-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/chintu-sparks-manishs-fury/1700100108/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "15m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Shivprasad Learns of Sheetal's Ploy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9286/1774058309286-h",
+                    "updateDate": "21-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-learns-of-sheetals-ploy/1700100076/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "15m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Shalini Faces a Deadly Blow",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9086/1773973269086-h",
+                    "updateDate": "20-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-faces-a-deadly-blow/1700099978/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "16m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Shivprasad Faces a Deadly Attack",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4900/1773881294900-h",
+                    "updateDate": "19-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-faces-a-deadly-attack/1700099873/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "16m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Shivprasad Blocks Manish's Plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6479/1773817476479-h",
+                    "updateDate": "18-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-blocks-manishs-plan/1700099720/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "16m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "Parshuram on Babbar's Trail",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8972/1773750608972-h",
+                    "updateDate": "17-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-on-babbars-trail/1700099651/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "18m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Sheetal Plots Against Parshuram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2303/1773638272303-h",
+                    "updateDate": "16-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/sheetal-plots-against-parshuram/1700099538/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "19m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Shalini Rejects Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3062/1773538283062-h",
+                    "updateDate": "15-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-rejects-kabir/1700099443/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "18m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Manish Reassures Aradhya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5111/1773457625111-h",
+                    "updateDate": "14-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manish-reassures-aradhya/1700099358/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "16m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Shivprasad Slams Ayushi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1299/1773398001299-h",
+                    "updateDate": "13-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-slams-ayushi/1700099222/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "18m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Nandini Alerts Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/604/1773306360604-h",
+                    "updateDate": "12-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/nandini-alerts-shalini/1700099122/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "19m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Manish Schemes to Save Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/185/1773203570185-h",
+                    "updateDate": "11-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manish-schemes-to-save-kabir/1700098976/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "19m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Manish's Growing Suspicion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2161/1773122332161-h",
+                    "updateDate": "10-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manishs-growing-suspicion/1700098856/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "15m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Shivprasad Faces Mallar's Scorn",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9956/1773034049956-h",
+                    "updateDate": "09-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-faces-mallars-scorn/1700098749/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "19m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Aradhya's Plea to Namrata",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3273/1772953993273-h",
+                    "updateDate": "08-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/aradhyas-plea-to-namrata/1700098656/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "17m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Shivprasad's Growing Suspicion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5362/1772866585362-h",
+                    "updateDate": "07-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasads-growing-suspicion/1700098575/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "16m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Parshuram Defends Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3697/1772779633697-h",
+                    "updateDate": "06-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-defends-shalini/1700098447/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "24m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Shivprasad's Holi Glimpse",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/145/1772692160145-h",
+                    "updateDate": "05-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasads-holi-glimpse/1700098352/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "23m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Action Unfolds to Rescue Chintu",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5699/1772605305699-h",
+                    "updateDate": "04-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/action-unfolds-to-rescue-chintu/1700098267/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "17m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Shalini Faces Dilemma",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1384/1772516241384-h",
+                    "updateDate": "03-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-faces-dilemma/1700098140/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "17m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Nandini Challenged by Manish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2643/1772410392643-h",
+                    "updateDate": "02-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/nandini-challenged-by-manish/1700098029/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "25m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "Shalini Under Threat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4772/1772334754772-h",
+                    "updateDate": "01-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-under-threat/1700097953/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "17m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Shalini Confronts Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6370/1772257656370-h",
+                    "updateDate": "28-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-confronts-shivprasad/1700097823/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "16m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "Shivprasad Sparks Manish's Rage",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2185/1772154322185-h",
+                    "updateDate": "27-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-sparks-manishs-rage/1700097743/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "16m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Shalini Takes a Stand",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3254/1772075803254-h",
+                    "updateDate": "26-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-takes-a-stand/1700097667/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "16m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Parshuram Saves the Day",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8128/1772020948128-h",
+                    "updateDate": "25-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-saves-the-day/1700097557/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "16m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Parshuram Springs Into Action",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5939/1778184255939-h",
+                    "updateDate": "24-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-springs-into-action/1700097399/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "16m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Manish's Plea for Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8756/1771865448756-h",
+                    "updateDate": "23-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manishs-plea-for-kabir/1700097293/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "16m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Parshuram Loses Control",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6721/1771736776721-h",
+                    "updateDate": "22-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshuram-loses-control/1700097206/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "16m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Shalini Draws the Line",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/902/1771635270902-h",
+                    "updateDate": "21-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-draws-the-line/1700097122/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "18m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Parshuram's Stern Warning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9480/1771557119480-h",
+                    "updateDate": "20-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshurams-stern-warning/1700096981/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "18m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Shalini Faces a New Threat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4400/1771461564400-h",
+                    "updateDate": "19-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-faces-a-new-threat/1700096900/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "23m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Parshuram's Master Plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2662/1771384452662-h",
+                    "updateDate": "18-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/parshurams-master-plan/1700096712/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "22m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Manish Plays a Dangerous Game",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4272/1771317184272-h",
+                    "updateDate": "17-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/manish-plays-a-dangerous-game/1700096595/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "23m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Shivprasad's Ultimatum to Manish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7338/1771321087338-h",
+                    "updateDate": "16-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasads-ultimatum-to-manish/1700096496/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "27m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Shalini Stands by Her Complaint",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8254/1773895718254-h",
+                    "updateDate": "15-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-stands-by-her-complaint/1700096401/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "23m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Shalini Faces Manish's Warning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7065/1777715237065-h",
+                    "updateDate": "14-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-faces-manishs-warning/1700096348/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "22m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Shivprasad's Brave Stand",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5238/1770950385238-h",
+                    "updateDate": "13-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasads-brave-stand/1700096193/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "22m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Kabir Threatens Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2300/1770853282300-h",
+                    "updateDate": "12-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/kabir-threatens-shalini/1700096078/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "22m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Shalini Refuses to Stay Silent",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6062/1771008106062-h",
+                    "updateDate": "11-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-refuses-to-stay-silent/1700095990/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "20m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Shivprasad Senses a Hidden Threat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8860/1772020938860-h",
+                    "updateDate": "10-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-senses-a-hidden-threat/1700095861/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "20m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Is Shivprasad in Danger?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9688/1771009029688-h",
+                    "updateDate": "09-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/is-shivprasad-in-danger/1700095770/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "20m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Shivprasad Surprises Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3832/1770633613832-h",
+                    "updateDate": "08-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-surprises-shalini/1700095650/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "20m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Shivprasad Faces Shalini's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5540/1771008395540-h",
+                    "updateDate": "07-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shivprasad-faces-shalinis-wrath/1700095547/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "20m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Nandini Confronts Manish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3560/1770889173560-h",
+                    "updateDate": "06-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/nandini-confronts-manish/1700095446/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "20m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Kabir and Aradhya's Ring Ceremony",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3960/1770287393960-h",
+                    "updateDate": "05-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/kabir-and-aradhyas-ring-ceremony/1700095297/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "21m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Shalini Confronts Ayushi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1174/1770192761174-h",
+                    "updateDate": "04-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/shalini-confronts-ayushi/1700095177/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "26m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Meet Shivprasad A.K.A. Parshuram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5992/1770073825992-h",
+                    "updateDate": "03-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/mr-and-mrs-parshuram/1271524483/meet-shivprasad-a-k-a-parshuram/1700095077/watch"
+                }
+            ]
+        }
+    ]
+}
