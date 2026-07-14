@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "22m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "EP 8 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a559108a73b9c3dd6cf6ad6-1783992584964-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "updateDate": "14-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "7",
                     "duration": "22m",
                     "episodeCode": "S1-E7",
                     "episodeName": "EP 7 | KAISI TERI DILLAGI",
                     "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a53d27ea73b9c3dd6cf6a5b-1783878270723-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
                     "updateDate": "13-07-2026",
-                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-07-1"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -31,7 +41,7 @@
                     "episodeName": "EP 6 | KAISI TERI DILLAGI",
                     "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2006-13072026125648",
                     "updateDate": "11-07-2026",
-                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-06"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -41,7 +51,7 @@
                     "episodeName": "EP 5 | KAISI TERI DILLAGI",
                     "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2005-13072026124252",
                     "updateDate": "10-07-2026",
-                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-05"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -51,7 +61,7 @@
                     "episodeName": "EP 4 | KAISI TERI DILLAGI",
                     "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2004-10072026162327",
                     "updateDate": "09-07-2026",
-                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-04"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -61,7 +71,7 @@
                     "episodeName": "EP 3 | KAISI TERI DILLAGI",
                     "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920-1080-03-0907202600511",
                     "updateDate": "08-07-2026",
-                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-03"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -71,7 +81,7 @@
                     "episodeName": "EP 2 | KAISI TERI DILLAGI",
                     "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4e975aa73b9c3dd6cf69af-1783535451098-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
                     "updateDate": "07-07-2026",
-                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-02-1"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -81,7 +91,7 @@
                     "episodeName": "EP 1 | KAISI TERI DILLAGI",
                     "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920-1080-01-0907202600440",
                     "updateDate": "06-07-2026",
-                    "episodeUrl": "https://www.dangalplay.com//shows/kaisi-teri-dillagi/kaisi-teri-dillagi-ep-number-01"
+                    "episodeUrl": ""
                 }
             ]
         }
