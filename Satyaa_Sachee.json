@@ -1,0 +1,719 @@
+{
+    "tvShows": [
+        {
+            "name": "Satyaa Sachee",
+            "banner": "https://sund-images.sunnxt.com/236973/1920x1080_SatyaSachee_236973_f45595e2-e3d7-4ee5-a357-18720c472458.jpg",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "SunNXT",
+            "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "14-07-2026",
+            "description": "Drawn into the Swarup family by fate, Sachee marries the troubled Shaurya. Determined to protect her sister, Satyaa chooses to wed his cousin. In a patriarchal home filled with secrets, their love for each other becomes their hope & strength.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "163",
+                    "duration": "22m",
+                    "episodeCode": "S1-E163",
+                    "episodeName": "E163 - Apr 24, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/249673/1920x1080_SatyaaSacheeApr242026_249673_d3713b3a-12eb-4332-ae40-b7b32b666267.jpg",
+                    "updateDate": "24-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "164",
+                    "duration": "22m",
+                    "episodeCode": "S1-E164",
+                    "episodeName": "E164 - Apr 25, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/249675/1920x1080_SatyaaSacheeApr252026_249675_b5a18884-6a55-4fdf-b2d2-f988da8aff35.jpg",
+                    "updateDate": "25-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "165",
+                    "duration": "22m",
+                    "episodeCode": "S1-E165",
+                    "episodeName": "E165 - Apr 27, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250168/1920x1080_SatyaaSacheeApr272026_250168_7de9ff0e-8768-4baa-8920-0dd1687da1a3.jpg",
+                    "updateDate": "27-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "166",
+                    "duration": "22m",
+                    "episodeCode": "S1-E166",
+                    "episodeName": "E166 - Apr 28, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250170/1920x1080_SatyaaSacheeApr282026_250170_b109cc94-3998-4002-9f63-af8048f5f461.jpg",
+                    "updateDate": "28-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "167",
+                    "duration": "22m",
+                    "episodeCode": "S1-E167",
+                    "episodeName": "E167 - Apr 29, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250172/1920x1080_SatyaaSacheeApr292026_250172_75a6906a-81de-4a86-b40e-7941d8cdc7ce.jpg",
+                    "updateDate": "29-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "168",
+                    "duration": "22m",
+                    "episodeCode": "S1-E168",
+                    "episodeName": "E168 - Apr 30, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250174/1920x1080_SatyaaSacheeApr302026_250174_a36842cd-caee-4ca6-898c-5fa64addffe6.jpg",
+                    "updateDate": "30-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "169",
+                    "duration": "22m",
+                    "episodeCode": "S1-E169",
+                    "episodeName": "E169 - May 01, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250176/1920x1080_SatyaaSacheeMay012026_250176_154aa158-31d0-4b3c-b471-dcebcf3e9449.jpg",
+                    "updateDate": "01-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "170",
+                    "duration": "22m",
+                    "episodeCode": "S1-E170",
+                    "episodeName": "E170 - May 02, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250178/1920x1080_SatyaaSacheeMay022026_250178_760afff9-bdcd-4c97-89bc-a57eafb384bf.jpg",
+                    "updateDate": "02-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "171",
+                    "duration": "22m",
+                    "episodeCode": "S1-E171",
+                    "episodeName": "E171 - May 04, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250696/1920x1080_SatyaaSacheeMay042026_250696_dbe01d6f-04f1-4a39-83b9-321db823e192.jpg",
+                    "updateDate": "04-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "172",
+                    "duration": "22m",
+                    "episodeCode": "S1-E172",
+                    "episodeName": "E172 - May 05, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250698/1920x1080_SatyaaSacheeMay052026_250698_0c7deda6-4524-4001-ba5d-0063203a7037.jpg",
+                    "updateDate": "05-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "173",
+                    "duration": "22m",
+                    "episodeCode": "S1-E173",
+                    "episodeName": "E173 - May 06, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250700/1920x1080_SatyaaSacheeMay062026_250700_3041d05c-4f40-4aaf-94e1-bab07260a80f.jpg",
+                    "updateDate": "06-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "174",
+                    "duration": "22m",
+                    "episodeCode": "S1-E174",
+                    "episodeName": "E174 - May 07, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250180/1920x1080_SatyaaSacheeMay032026_250180_da0c0113-aa3b-4b39-a26d-e34e26f3deb0.jpg",
+                    "updateDate": "07-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "175",
+                    "duration": "22m",
+                    "episodeCode": "S1-E175",
+                    "episodeName": "E175 - May 08, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250704/1920x1080_SatyaaSacheeMay082026_250704_58db8088-f4ca-4f98-a6c5-51e436ff13ce.jpg",
+                    "updateDate": "08-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "176",
+                    "duration": "22m",
+                    "episodeCode": "S1-E176",
+                    "episodeName": "E176 - May 09, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/250706/1920x1080_SatyaaSacheeMay092026_250706_a5632170-db77-4c96-b252-adf342ab2f51.jpg",
+                    "updateDate": "09-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "177",
+                    "duration": "22m",
+                    "episodeCode": "S1-E177",
+                    "episodeName": "E177 - May 11, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251235/1920x1080_SatyaaSacheeMay112026_251235_d123f7e1-a6f4-4cf3-92d0-a2afe154fb57.jpg",
+                    "updateDate": "11-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "178",
+                    "duration": "22m",
+                    "episodeCode": "S1-E178",
+                    "episodeName": "E178 - May 12, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251237/1920x1080_SatyaaSacheeMay122026_251237_3b5320d9-e82f-4692-b809-38d64dbabe69.jpg",
+                    "updateDate": "12-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "179",
+                    "duration": "22m",
+                    "episodeCode": "S1-E179",
+                    "episodeName": "E179 - May 13, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251239/1920x1080_SatyaaSacheeMay132026_251239_cb2e5564-71e7-4e3a-a607-4afd75264a59.jpg",
+                    "updateDate": "13-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "180",
+                    "duration": "22m",
+                    "episodeCode": "S1-E180",
+                    "episodeName": "E180 - May 14, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251241/1920x1080_SatyaaSacheeMay142026_251241_bfb2d8e6-8958-475a-96c9-98af9a57aa65.jpg",
+                    "updateDate": "14-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "181",
+                    "duration": "22m",
+                    "episodeCode": "S1-E181",
+                    "episodeName": "E181 - May 15, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251243/1920x1080_SatyaaSacheeMay152026_251243_021a36b6-a373-4efe-9497-4d81281bbfe1.jpg",
+                    "updateDate": "15-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "182",
+                    "duration": "22m",
+                    "episodeCode": "S1-E182",
+                    "episodeName": "E182 - May 16, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251245/1920x1080_SatyaaSacheeMay162026_251245_5d05abd8-80e4-4f18-b75b-cbda17bd8f2c.jpg",
+                    "updateDate": "16-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "183",
+                    "duration": "22m",
+                    "episodeCode": "S1-E183",
+                    "episodeName": "E183 - May 18, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251815/1920x1080_SatyaaSacheeMay182026_251815_fd6543af-7201-4c1b-9ecc-967ddb4464d6.jpg",
+                    "updateDate": "18-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "184",
+                    "duration": "22m",
+                    "episodeCode": "S1-E184",
+                    "episodeName": "E184 - May 19, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251817/1920x1080_SatyaaSacheeMay192026_251817_3b5f1e3f-69f3-4736-a5dc-5008d59ed115.jpg",
+                    "updateDate": "19-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "185",
+                    "duration": "22m",
+                    "episodeCode": "S1-E185",
+                    "episodeName": "E185 - May 20, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251819/1920x1080_SatyaaSacheeMay202026_251819_dfc5b703-7592-4467-981d-5fd91b569ef5.jpg",
+                    "updateDate": "20-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "186",
+                    "duration": "22m",
+                    "episodeCode": "S1-E186",
+                    "episodeName": "E186 - May 21, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251821/1920x1080_SatyaaSacheeMay212026_251821_e54d1fc9-2dc6-4a0a-8651-e7190d24531c.jpg",
+                    "updateDate": "21-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "187",
+                    "duration": "22m",
+                    "episodeCode": "S1-E187",
+                    "episodeName": "E187 - May 22, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251823/1920x1080_SatyaaSacheeMay222026_251823_ebcdd85a-25bc-417a-bb84-dc5cf78cce14.jpg",
+                    "updateDate": "22-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "188",
+                    "duration": "22m",
+                    "episodeCode": "S1-E188",
+                    "episodeName": "E188 - May 23, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/251825/1920x1080_SatyaaSacheeMay232026_251825_0cec4bbe-6c51-44cd-bbb8-b2b0ff391a35.jpg",
+                    "updateDate": "23-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "189",
+                    "duration": "22m",
+                    "episodeCode": "S1-E189",
+                    "episodeName": "E189 - May 25, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252338/1920x1080_SatyaaSacheeMay252026_252338_7a8d94e2-0dba-4f56-ad22-174c9d2e394c.jpg",
+                    "updateDate": "25-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "190",
+                    "duration": "22m",
+                    "episodeCode": "S1-E190",
+                    "episodeName": "E190 - May 26, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252340/1920x1080_SatyaaSacheeMay262026_252340_f430211c-92d4-4dc7-ad81-35ac2fb9a2f4.jpg",
+                    "updateDate": "26-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "191",
+                    "duration": "22m",
+                    "episodeCode": "S1-E191",
+                    "episodeName": "E191 - May 27, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252342/1920x1080_SatyaaSacheeMay272026_252342_215b5d44-1881-4a92-944c-bed00a80da1f.jpg",
+                    "updateDate": "27-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "192",
+                    "duration": "22m",
+                    "episodeCode": "S1-E192",
+                    "episodeName": "E192 - May 28, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252344/1920x1080_SatyaaSacheeMay282026_252344_91fd86cc-82f1-4e81-a27f-8e70fbdc46df.jpg",
+                    "updateDate": "28-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "193",
+                    "duration": "22m",
+                    "episodeCode": "S1-E193",
+                    "episodeName": "E193 - May 29, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252346/1920x1080_SatyaaSacheeMay292026_252346_583d88e1-bfa0-4272-bcab-603a77751163.jpg",
+                    "updateDate": "29-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "194",
+                    "duration": "22m",
+                    "episodeCode": "S1-E194",
+                    "episodeName": "E194 - May 30, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252348/1920x1080_SatyaaSacheeMay302026_252348_6890010e-5375-4ba9-a72b-e5fa4a0b4ae9.jpg",
+                    "updateDate": "30-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "195",
+                    "duration": "22m",
+                    "episodeCode": "S1-E195",
+                    "episodeName": "E195 - Jun 01, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252905/1920x1080_SatyaaSacheeJun012026_252905_ca877f8f-adcd-45a4-95ca-21c07926d8c0.jpg",
+                    "updateDate": "01-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "196",
+                    "duration": "22m",
+                    "episodeCode": "S1-E196",
+                    "episodeName": "E196 - Jun 02, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252907/1920x1080_SatyaaSacheeJun022026_252907_5d41ea18-80ae-4dde-856a-85a7af708a84.jpg",
+                    "updateDate": "02-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "197",
+                    "duration": "22m",
+                    "episodeCode": "S1-E197",
+                    "episodeName": "E197 - Jun 03, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252909/1920x1080_SatyaaSacheeJun032026_252909_20e013d1-c605-4edf-80c3-bd2c647aaffb.jpg",
+                    "updateDate": "03-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "198",
+                    "duration": "22m",
+                    "episodeCode": "S1-E198",
+                    "episodeName": "E198 - Jun 04, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252911/1920x1080_SatyaaSacheeJun042026_252911_a6592598-d611-4ae1-9520-3fdb585f31b5.jpg",
+                    "updateDate": "04-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "199",
+                    "duration": "22m",
+                    "episodeCode": "S1-E199",
+                    "episodeName": "E199 - Jun 05, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252913/1920x1080_SatyaaSacheeJun052026_252913_e2d76a76-5bdb-43e8-bb6c-6e732cb352d6.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "200",
+                    "duration": "22m",
+                    "episodeCode": "S1-E200",
+                    "episodeName": "E200 - Jun 06, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/252915/1920x1080_SatyaaSacheeJun062026_252915_356c3df2-ba40-4906-a594-772dd2cd89d0.jpg",
+                    "updateDate": "06-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "201",
+                    "duration": "22m",
+                    "episodeCode": "S1-E201",
+                    "episodeName": "E201 - Jun 08, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253383/1920x1080_SatyaaSacheeJun082026_253383_2786b7dc-380a-4d81-a97f-1167703ee59c.jpg",
+                    "updateDate": "08-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "202",
+                    "duration": "22m",
+                    "episodeCode": "S1-E202",
+                    "episodeName": "E202 - Jun 09, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253385/1920x1080_SatyaaSacheeJun092026_253385_6a265648-312f-4706-b616-30de2bf16c40.jpg",
+                    "updateDate": "09-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "203",
+                    "duration": "22m",
+                    "episodeCode": "S1-E203",
+                    "episodeName": "E203 - Jun 10, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253387/1920x1080_SatyaaSacheeJun102026_253387_2d6966d6-3958-4bec-a548-fe19551e5f33.jpg",
+                    "updateDate": "10-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "204",
+                    "duration": "22m",
+                    "episodeCode": "S1-E204",
+                    "episodeName": "E204 - Jun 11, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253389/1920x1080_SatyaaSacheeJun112026_253389_f02d635e-99a6-4495-858a-f1d40c9ad8c6.jpg",
+                    "updateDate": "11-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "205",
+                    "duration": "22m",
+                    "episodeCode": "S1-E205",
+                    "episodeName": "E205 - Jun 12, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253391/1920x1080_SatyaaSacheeJun122026_253391_92d6165d-077f-43a0-b996-1ca0cbc291f0.jpg",
+                    "updateDate": "12-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "206",
+                    "duration": "22m",
+                    "episodeCode": "S1-E206",
+                    "episodeName": "E206 - Jun 13, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253393/1920x1080_SatyaaSacheeJun132026_253393_1c7dcd8c-5839-4f45-ad45-29a6e4044d58.jpg",
+                    "updateDate": "13-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "207",
+                    "duration": "22m",
+                    "episodeCode": "S1-E207",
+                    "episodeName": "E207 - Jun 15, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253970/1920x1080_SatyaaSacheeJun152026_253970_6100c19d-3d07-4751-8606-c5b6d96760d8.jpg",
+                    "updateDate": "15-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "208",
+                    "duration": "22m",
+                    "episodeCode": "S1-E208",
+                    "episodeName": "E208 - Jun 16, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253972/1920x1080_SatyaaSacheeJun162026_253972_1e577ce1-def3-40d4-9e13-a616f2491232.jpg",
+                    "updateDate": "16-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "209",
+                    "duration": "22m",
+                    "episodeCode": "S1-E209",
+                    "episodeName": "E209 - Jun 17, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253974/1920x1080_SatyaaSacheeJun172026_253974_d9c181a6-5c5d-47d4-a046-20a8733ffac7.jpg",
+                    "updateDate": "17-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "210",
+                    "duration": "22m",
+                    "episodeCode": "S1-E210",
+                    "episodeName": "E210 - Jun 18, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253976/1920x1080_SatyaaSacheeJun182026_253976_f50324c3-a245-4825-b0f1-275527a42a5c.jpg",
+                    "updateDate": "18-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "211",
+                    "duration": "22m",
+                    "episodeCode": "S1-E211",
+                    "episodeName": "E211 - Jun 19, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253978/1920x1080_SatyaaSacheeJun192026_253978_14def987-eac8-49c1-bbf7-f41eda745c08.jpg",
+                    "updateDate": "19-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "212",
+                    "duration": "22m",
+                    "episodeCode": "S1-E212",
+                    "episodeName": "E212 - Jun 20, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/253980/1920x1080_SatyaaSacheeJun202026_253980_d5877571-c8be-4927-8b2e-a291c1730e49.jpg",
+                    "updateDate": "20-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "213",
+                    "duration": "22m",
+                    "episodeCode": "S1-E213",
+                    "episodeName": "E213 - Jun 22, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254477/1920x1080_SatyaaSacheeJun222026_254477_5e158a42-7fa8-4aae-9589-20f6067da78c.jpg",
+                    "updateDate": "22-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "214",
+                    "duration": "22m",
+                    "episodeCode": "S1-E214",
+                    "episodeName": "E214 - Jun 23, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254479/1920x1080_SatyaaSacheeJun232026_254479_f521cd6f-d69c-4fdc-931b-61a46b025b49.jpg",
+                    "updateDate": "23-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "215",
+                    "duration": "22m",
+                    "episodeCode": "S1-E215",
+                    "episodeName": "E215 - Jun 24, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254481/1920x1080_SatyaaSacheeJun242026_254481_0f7688fd-96e5-47f7-a87c-d15577e383ed.jpg",
+                    "updateDate": "24-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "216",
+                    "duration": "22m",
+                    "episodeCode": "S1-E216",
+                    "episodeName": "E216 - Jun 25, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254483/1920x1080_SatyaaSacheeJun252026_254483_e3ab350d-d56e-4255-960a-0a4b6ddcf55d.jpg",
+                    "updateDate": "25-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "217",
+                    "duration": "22m",
+                    "episodeCode": "S1-E217",
+                    "episodeName": "E217 - Jun 26, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254485/1920x1080_SatyaaSacheeJun262026_254485_000b7b11-8a7d-4dfc-9e83-6aa82abaefde.jpg",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "218",
+                    "duration": "22m",
+                    "episodeCode": "S1-E218",
+                    "episodeName": "E218 - Jun 27, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254487/1920x1080_SatyaaSacheeJun272026_254487_b6e22c46-8485-4ab4-92bf-2004a78ffcac.jpg",
+                    "updateDate": "27-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "219",
+                    "duration": "22m",
+                    "episodeCode": "S1-E219",
+                    "episodeName": "E219 - Jun 29, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254865/1920x1080_SatyaaSacheeJun292026_254865_70635ab6-93f2-4521-8b94-7f9217029e25.jpg",
+                    "updateDate": "29-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "220",
+                    "duration": "22m",
+                    "episodeCode": "S1-E220",
+                    "episodeName": "E220 - Jun 30, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254867/1920x1080_SatyaaSacheeJun302026_254867_1b928ef1-f425-4539-848a-3e16c2a501b4.jpg",
+                    "updateDate": "30-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "221",
+                    "duration": "22m",
+                    "episodeCode": "S1-E221",
+                    "episodeName": "E221 - Jul 01, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254869/1920x1080_SatyaaSacheeJul012026_254869_0ebe1c8a-b01b-42f1-a93a-a8dfa2d35126.jpg",
+                    "updateDate": "01-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "222",
+                    "duration": "22m",
+                    "episodeCode": "S1-E222",
+                    "episodeName": "E222 - Jul 02, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254871/1920x1080_SatyaaSacheeJul022026_254871_f263955d-3a90-4bd3-a344-65fb05900b15.jpg",
+                    "updateDate": "02-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "223",
+                    "duration": "22m",
+                    "episodeCode": "S1-E223",
+                    "episodeName": "E223 - Jul 03, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254873/1920x1080_SatyaaSacheeJul032026_254873_8cf1181e-2d11-400a-b27b-916e9cc149b6.jpg",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "224",
+                    "duration": "22m",
+                    "episodeCode": "S1-E224",
+                    "episodeName": "E224 - Jul 04, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/254875/1920x1080_SatyaaSacheeJul042026_254875_b2a485b6-01bb-4f71-a6c3-0b7bf2d1b8a6.jpg",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "225",
+                    "duration": "22m",
+                    "episodeCode": "S1-E225",
+                    "episodeName": "E225 - Jul 06, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255383/1920x1080_SatyaaSacheeJul062026_255383_947a55b8-399d-48a1-821a-b1e26c9d62ef.jpg",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "226",
+                    "duration": "22m",
+                    "episodeCode": "S1-E226",
+                    "episodeName": "E226 - Jul 07, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255385/1920x1080_SatyaaSacheeJul072026_255385_cba7cce0-0f86-4eb5-b7a9-6fdb7c59a91f.jpg",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "227",
+                    "duration": "22m",
+                    "episodeCode": "S1-E227",
+                    "episodeName": "E227 - Jul 08, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255387/1920x1080_SatyaaSacheeJul082026_255387_a2c702aa-3892-405b-8a05-45ef9ce5c537.jpg",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "228",
+                    "duration": "22m",
+                    "episodeCode": "S1-E228",
+                    "episodeName": "E228 - Jul 09, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255389/1920x1080_SatyaaSacheeJul092026_255389_ea8841b8-5e08-44ba-a8d0-88f64baf8819.jpg",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "229",
+                    "duration": "22m",
+                    "episodeCode": "S1-E229",
+                    "episodeName": "E229 - Jul 10, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255391/1920x1080_SatyaaSacheeJul102026_255391_25311a57-a508-4e53-871a-e350dd8b2612.jpg",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "230",
+                    "duration": "22m",
+                    "episodeCode": "S1-E230",
+                    "episodeName": "E230 - Jul 11, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255393/1920x1080_SatyaaSacheeJul112026_255393_2d51fecf-a141-4cd7-a628-d79c509eb39e.jpg",
+                    "updateDate": "11-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "231",
+                    "duration": "22m",
+                    "episodeCode": "S1-E231",
+                    "episodeName": "E231 - Jul 13, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255943/1920x1080_SatyaaSacheeJul132026_255943_9fb78bfb-1f17-4b6f-9c6d-7135447f1564.jpg",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "232",
+                    "duration": "22m",
+                    "episodeCode": "S1-E232",
+                    "episodeName": "E232 - Jul 14, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255946/1920x1080_SatyaaSacheeJul142026_255946_d61939ca-4ac3-4293-b7e9-a5bbe88bd565.jpg",
+                    "updateDate": "14-07-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
