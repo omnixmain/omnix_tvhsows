@@ -1,0 +1,49 @@
+{
+    "tvShows": [
+        {
+            "name": "Second Love",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5731/1783880345731-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "14-07-2026",
+            "description": "12 singles in their 30s who have ended prior relationships move into a villa to find love and give it another chance. Watch Second Love - Hindi Telugu Tamil Kannada Malayalam Reality Romance serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "53m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "A Leap of Faith",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8784/1783679888784-h",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "47m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Beyond First Impressions",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4798/1783679904798-h",
+                    "updateDate": "14-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "48m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Bridges, Truths and New Doubts",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6453/1783679916453-h",
+                    "updateDate": "15-07-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
