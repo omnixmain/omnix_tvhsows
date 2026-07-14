@@ -1,0 +1,1629 @@
+{
+    "tvShows": [
+        {
+            "name": "Seher Hone Ko Hai",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3344/1783988373344-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "14-07-2026",
+            "description": "After a tragic separation, Mahid and Seher lead different lives, albeit with lingering pain! But destined to be together, will 'MaHer' reunite? Watch Seher Hone Ko Hai - Hindi Drama Romance serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "31m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Jab Seher Met Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3248/1764646793248-h",
+                    "updateDate": "02-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/jab-seher-met-mahid/1641015236/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "25m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Kausar Comforts Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9111/1764750509111-h",
+                    "updateDate": "03-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-comforts-seher/1641015258/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "25m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Kausar's New Beginning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4909/1764820394909-h",
+                    "updateDate": "04-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausars-new-beginning/1641015283/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "28m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Mahid - Seher's Alliance",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3775/1764931753775-h",
+                    "updateDate": "05-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-sehers-alliance/1641015328/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "42m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Kausar's Plea to Parvez",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9935/1765139149935-h",
+                    "updateDate": "08-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausars-plea-to-parvez/1641015386/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "42m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Mahid Confronts Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6327/1765246786327-h",
+                    "updateDate": "09-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-confronts-seher/1641015414/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "41m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Moulana Stands Up for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4457/1765354254457-h",
+                    "updateDate": "10-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/moulana-stands-up-for-seher/1641015443/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "42m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Parvez's Stern Warning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6348/1765422426348-h",
+                    "updateDate": "11-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/parvezs-stern-warning/1641015473/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "39m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Mahid Remembers His Mother",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8692/1765515788692-h",
+                    "updateDate": "12-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-remembers-his-mother/1641015506/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "41m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Kausar Saves Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8699/1765765638699-h",
+                    "updateDate": "15-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-saves-seher/1641015577/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "42m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Mahid Loses Himself in Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5770/1765900135770-h",
+                    "updateDate": "16-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-loses-himself-in-seher/1641015631/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "40m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Kausar's Fight for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4282/1765994254282-h",
+                    "updateDate": "17-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausars-fight-for-seher/1641015665/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "34m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Seher Prays for Her Mother",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4213/1766073704213-h",
+                    "updateDate": "18-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-prays-for-her-mother/1641015696/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "32m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Mahid Invites Seher's Family",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4317/1766186214317-h",
+                    "updateDate": "19-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-invites-sehers-family/1641015737/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "24m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Seher Questions Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3385/1766456703385-h",
+                    "updateDate": "22-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-questions-kausar/1641015777/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "29m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Secrets Surface at a Family Picnic",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3216/1766501193216-h",
+                    "updateDate": "23-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/secrets-surface-at-a-family-picnic/1641009455/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "23m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Seher Flies a Kite With Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2428/1766594512428-h",
+                    "updateDate": "24-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-flies-a-kite-with-mahid/1641015861/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "23m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Seher Diverts Mahid's Attention",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/511/1766677040511-h",
+                    "updateDate": "25-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-diverts-mahids-attention/1641015891/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "24m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Kausar Feels Betrayed",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6724/1766760406724-h",
+                    "updateDate": "26-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-feels-betrayed/1641015911/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "23m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Mahid's Stern Warning to Nazima",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8128/1766989908128-h",
+                    "updateDate": "29-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-stern-warning-to-nazima/1641015968/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "23m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Seher's Risky Move",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5948/1767080455948-h",
+                    "updateDate": "30-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-risky-move/1641015991/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "22m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Kausar, Seher Outsmart Safiya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4757/1767142084757-h",
+                    "updateDate": "31-12-2025",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-seher-outsmart-safiya/1641016034/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "24m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Mahid Strikes Ayesha's Beau",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5383/1767281475383-h",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-strikes-ayeshas-beau/1641016079/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "24m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Kausar's Advice to Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6317/1767384726317-h",
+                    "updateDate": "02-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausars-advice-to-seher/1641016116/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "24m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "Mahid's Silent Protection",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4701/1767606004701-h",
+                    "updateDate": "05-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-silent-protection/1641016166/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "23m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Seher's Worry for Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6259/1767667356259-h",
+                    "updateDate": "06-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-worry-for-kausar/1641016208/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "24m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "Sultana's Shocking Revelation",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8016/1767754198016-h",
+                    "updateDate": "07-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sultanas-shocking-revelation/1641016248/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "23m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Mahid Faces Dilemma",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3284/1767840013284-h",
+                    "updateDate": "08-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-faces-dilemma/1641016276/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "24m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Seher's Secret Disguise",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/456/1767952120456-h",
+                    "updateDate": "09-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-secret-disguise/1641016313/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "23m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Nazima's Sinister Plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2434/1768184622434-h",
+                    "updateDate": "12-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/nazimas-sinister-plan/1641016390/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "22m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Seher Hides Her True Feelings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3026/1768271193026-h",
+                    "updateDate": "13-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-hides-her-true-feelings/1641016419/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "23m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Moulana Cautions Parvez",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7843/1768395887843-h",
+                    "updateDate": "14-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/moulana-cautions-parvez/1641016463/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "23m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Seher's Forced Sacrifice",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9675/1768482399675-h",
+                    "updateDate": "15-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-forced-sacrifice/1641016498/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "25m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Seher's Dangerous Wedding Day",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8651/1768579268651-h",
+                    "updateDate": "16-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-dangerous-wedding-day/1641016530/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "24m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Mahid Suspects Nazima",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4029/1768822954029-h",
+                    "updateDate": "19-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-suspects-nazima/1641016600/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "24m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Fareed Rescues Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6911/1768924476911-h",
+                    "updateDate": "20-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/fareed-rescues-kausar/1641016641/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "23m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Mahid, Seher Get Married",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6505/1769008806505-h",
+                    "updateDate": "21-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-seher-get-married/1641016673/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "23m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Mahid's World Crumbles",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4691/1769096404691-h",
+                    "updateDate": "22-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-world-crumbles/1641016706/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "24m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Mufti's Collapse Sparks Tension",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/474/1769189300474-h",
+                    "updateDate": "23-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/muftis-collapse-sparks-tension/1641016734/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "24m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Seher, Kausar in Danger",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1325/1769436361325-h",
+                    "updateDate": "26-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-kausar-in-danger/1641016804/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "23m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Mahid Saves Seher's Life",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2405/1769526592405-h",
+                    "updateDate": "27-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-saves-sehers-life/1641016830/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "23m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Seher Faces a Painful Moment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3336/1769613253336-h",
+                    "updateDate": "28-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-faces-a-painful-moment/1641016864/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "24m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "Seher Faces a Cold Welcome",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/887/1769699220887-h",
+                    "updateDate": "29-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-faces-a-cold-welcome/1641016902/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "24m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Seher Trapped in Mahid's Rules",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8749/1769785068749-h",
+                    "updateDate": "30-01-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-trapped-in-mahids-rules/1641016930/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "24m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "A New Responsibility for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1169/1770007461169-h",
+                    "updateDate": "02-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/a-new-responsibility-for-seher/1641016991/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "24m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Can Seher Truly Hide Her Pain?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5125/1770108185125-h",
+                    "updateDate": "03-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/can-seher-truly-hide-her-pain/1641017037/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "22m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Mahid and Seher's Reception",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2728/1770214712728-h",
+                    "updateDate": "04-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-and-sehers-reception/1641017090/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "23m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "Seher Reassures Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5555/1770301275555-h",
+                    "updateDate": "05-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-reassures-kausar/1641017124/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "24m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Fareed Confides in Sultana",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5490/1770388905490-h",
+                    "updateDate": "06-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/fareed-confides-in-sultana/1641017161/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "22m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Seher's Freedom Put on Trial",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5864/1770602495864-h",
+                    "updateDate": "09-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-freedom-put-on-trial/1641017222/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "24m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Seher's Struggle to Prove Innocence",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5536/1770706875536-h",
+                    "updateDate": "10-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-struggle-to-prove-innocence/1641017269/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "23m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Amaal's Artistic Aspirations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7149/1770780887149-h",
+                    "updateDate": "11-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/amaals-artistic-aspirations/1641017298/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "23m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Seher Earns the Niazis' Trust",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2064/1770863262064-h",
+                    "updateDate": "12-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-earns-the-niazis-trust/1641017339/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "23m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Sultana's Concern for Amaal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9765/1770996209765-h",
+                    "updateDate": "13-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sultanas-concern-for-amaal/1641017380/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "24m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Mahid's Gift for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4947/1771321124947-h",
+                    "updateDate": "16-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-gift-for-seher/1641017475/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "23m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Kausar's Concern for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6054/1771317316054-h",
+                    "updateDate": "17-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausars-concern-for-seher/1641017499/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "23m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Seher's Risky Escape",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5521/1771389915521-h",
+                    "updateDate": "18-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-risky-escape/1641017543/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "23m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Mahid Hunts for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5482/1771472735482-h",
+                    "updateDate": "19-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-hunts-for-seher/1641017577/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "23m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Seher's Ambition Unveiled",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9262/1771566749262-h",
+                    "updateDate": "20-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-ambition-unveiled/1641017623/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "23m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Seher Stands Her Ground",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7509/1771831817509-h",
+                    "updateDate": "23-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-stands-her-ground/1641017699/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "24m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "Mahid Conceals Seher's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2251/1771903792251-h",
+                    "updateDate": "24-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-conceals-sehers-truth/1641017734/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "23m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "Husna Forces Kausar to Reveal Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2532/1772020672532-h",
+                    "updateDate": "25-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/husna-forces-kausar-to-reveal-truth/1641017775/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "22m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "Mahid Saves Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7691/1772106107691-h",
+                    "updateDate": "26-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-saves-seher/1641017811/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "64",
+                    "duration": "22m",
+                    "episodeCode": "S1-E64",
+                    "episodeName": "Mahid Fights Back",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8714/1772159278714-h",
+                    "updateDate": "27-02-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-fights-back/1641017835/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "22m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "Seher, Mahid Face Forest Trouble",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1265/1772429201265-h",
+                    "updateDate": "02-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-mahid-face-forest-trouble/1641017905/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "66",
+                    "duration": "22m",
+                    "episodeCode": "S1-E66",
+                    "episodeName": "Seher Faces the Jungle's Threat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1588/1772517431588-h",
+                    "updateDate": "03-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-faces-the-jungles-threat/1641017950/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "67",
+                    "duration": "22m",
+                    "episodeCode": "S1-E67",
+                    "episodeName": "Amaal Seeks the Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3385/1772605313385-h",
+                    "updateDate": "04-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/amaal-seeks-the-truth/1641017980/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "68",
+                    "duration": "22m",
+                    "episodeCode": "S1-E68",
+                    "episodeName": "Mahid Haunted by Memories",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/374/1772722540374-h",
+                    "updateDate": "05-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-haunted-by-memories/1641018010/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "69",
+                    "duration": "23m",
+                    "episodeCode": "S1-E69",
+                    "episodeName": "Wasim Schemes Against Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7703/1772779647703-h",
+                    "updateDate": "06-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/wasim-schemes-against-mahid/1641018044/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "24m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "Seher in a Fix",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/206/1773006830206-h",
+                    "updateDate": "09-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-in-a-fix/1641018127/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "71",
+                    "duration": "25m",
+                    "episodeCode": "S1-E71",
+                    "episodeName": "Kausar Confronts Parvez",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/445/1773118940445-h",
+                    "updateDate": "10-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-confronts-parvez/1641018157/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "72",
+                    "duration": "25m",
+                    "episodeCode": "S1-E72",
+                    "episodeName": "Seher Suspects Husna",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9573/1773201409573-h",
+                    "updateDate": "11-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-suspects-husna/1641018197/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "73",
+                    "duration": "25m",
+                    "episodeCode": "S1-E73",
+                    "episodeName": "Husna Turns Mahid Against Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6018/1773308366018-h",
+                    "updateDate": "12-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/husna-turns-mahid-against-kausar/1641018237/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "74",
+                    "duration": "24m",
+                    "episodeCode": "S1-E74",
+                    "episodeName": "Mahid's Heart in Turmoil",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/331/1773643900331-h",
+                    "updateDate": "13-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-heart-in-turmoil/1641018274/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "75",
+                    "duration": "24m",
+                    "episodeCode": "S1-E75",
+                    "episodeName": "Seher in a Conundrum",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7195/1773664707195-h",
+                    "updateDate": "16-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-in-a-conundrum/1641018344/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "76",
+                    "duration": "23m",
+                    "episodeCode": "S1-E76",
+                    "episodeName": "Kausar Receives Shocking News",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4585/1773714524585-h",
+                    "updateDate": "17-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-receives-shocking-news/1641018376/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "77",
+                    "duration": "22m",
+                    "episodeCode": "S1-E77",
+                    "episodeName": "Will Seher Sit for Exam?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/348/1773817750348-h",
+                    "updateDate": "18-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/will-seher-sit-for-exam/1641018412/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "78",
+                    "duration": "23m",
+                    "episodeCode": "S1-E78",
+                    "episodeName": "Mahid Protects Seher's Secret",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1047/1773892291047-h",
+                    "updateDate": "19-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-protects-sehers-secret/1641018439/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "79",
+                    "duration": "24m",
+                    "episodeCode": "S1-E79",
+                    "episodeName": "Seher Follows Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7279/1774006747279-h",
+                    "updateDate": "20-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-follows-mahid/1641018487/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "80",
+                    "duration": "25m",
+                    "episodeCode": "S1-E80",
+                    "episodeName": "Seher Sparks Mahid's Anger",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7330/1774253747330-h",
+                    "updateDate": "23-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-sparks-mahids-anger/1641018563/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "81",
+                    "duration": "26m",
+                    "episodeCode": "S1-E81",
+                    "episodeName": "Nazima's Hidden Delight",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2873/1774332662873-h",
+                    "updateDate": "24-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/nazimas-hidden-delight/1641018598/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "82",
+                    "duration": "26m",
+                    "episodeCode": "S1-E82",
+                    "episodeName": "Mahid's Promise to Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3964/1774430603964-h",
+                    "updateDate": "25-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-promise-to-seher/1641018632/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "83",
+                    "duration": "27m",
+                    "episodeCode": "S1-E83",
+                    "episodeName": "Husna and Nazima's Scheme",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1241/1774523941241-h",
+                    "updateDate": "26-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/husna-and-nazimas-scheme/1641018675/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "84",
+                    "duration": "26m",
+                    "episodeCode": "S1-E84",
+                    "episodeName": "Seher Fears Losing Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8108/1774596918108-h",
+                    "updateDate": "27-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-fears-losing-mahid/1641018707/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "85",
+                    "duration": "26m",
+                    "episodeCode": "S1-E85",
+                    "episodeName": "Mahid's Fear for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/376/1774857590376-h",
+                    "updateDate": "30-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-fear-for-seher/1641018781/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "86",
+                    "duration": "26m",
+                    "episodeCode": "S1-E86",
+                    "episodeName": "Mahid Confronts Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4817/1774958824817-h",
+                    "updateDate": "31-03-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-confronts-seher/1641018807/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "87",
+                    "duration": "25m",
+                    "episodeCode": "S1-E87",
+                    "episodeName": "Mahid Ends His Marriage with Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/192/1775023270192-h",
+                    "updateDate": "01-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-ends-his-marriage-with-seher/1641018848/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "88",
+                    "duration": "26m",
+                    "episodeCode": "S1-E88",
+                    "episodeName": "Seher’s Heart Shattered",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1981/1775115831981-h",
+                    "updateDate": "02-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-heart-shattered/1641018885/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "89",
+                    "duration": "26m",
+                    "episodeCode": "S1-E89",
+                    "episodeName": "Parvez Reveals Hidden Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3664/1775212673664-h",
+                    "updateDate": "03-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/parvez-reveals-hidden-truth/1641018934/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "90",
+                    "duration": "27m",
+                    "episodeCode": "S1-E90",
+                    "episodeName": "Mahid Dwells on Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3497/1775455313497-h",
+                    "updateDate": "06-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-dwells-on-seher/1641019020/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "91",
+                    "duration": "26m",
+                    "episodeCode": "S1-E91",
+                    "episodeName": "Parvez Targets Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9945/1775543969945-h",
+                    "updateDate": "07-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/parvez-targets-kausar/1641019067/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "92",
+                    "duration": "25m",
+                    "episodeCode": "S1-E92",
+                    "episodeName": "Seher Finds Her Freedom",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7/1775632220007-h",
+                    "updateDate": "08-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-finds-her-freedom/1641019133/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "93",
+                    "duration": "25m",
+                    "episodeCode": "S1-E93",
+                    "episodeName": "Mahid's Frantic Search for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4554/1775742784554-h",
+                    "updateDate": "09-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-frantic-search-for-seher/1641019220/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "94",
+                    "duration": "26m",
+                    "episodeCode": "S1-E94",
+                    "episodeName": "Mahid Urges Seher to Move On",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9817/1775839199817-h",
+                    "updateDate": "10-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-urges-seher-to-move-on/1641019316/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "95",
+                    "duration": "26m",
+                    "episodeCode": "S1-E95",
+                    "episodeName": "Husna Showers Praise on Hyder",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5881/1776085835881-h",
+                    "updateDate": "13-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/husna-showers-praise-on-hyder/1641019447/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "96",
+                    "duration": "27m",
+                    "episodeCode": "S1-E96",
+                    "episodeName": "Seher Fights for Life",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4434/1776173634434-h",
+                    "updateDate": "14-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-fights-for-life/1641019554/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "97",
+                    "duration": "25m",
+                    "episodeCode": "S1-E97",
+                    "episodeName": "Mahid Senses Danger",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2589/1776257622589-h",
+                    "updateDate": "15-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-senses-danger/1641019614/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "98",
+                    "duration": "27m",
+                    "episodeCode": "S1-E98",
+                    "episodeName": "Mahid Saves Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/580/1776352650580-h",
+                    "updateDate": "16-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-saves-seher/1641019695/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "99",
+                    "duration": "25m",
+                    "episodeCode": "S1-E99",
+                    "episodeName": "Mahid's Shocking Decision",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9865/1776440319865-h",
+                    "updateDate": "17-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-shocking-decision/1641019758/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "100",
+                    "duration": "27m",
+                    "episodeCode": "S1-E100",
+                    "episodeName": "Kausar Confronts Parvez",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2369/1776697272369-h",
+                    "updateDate": "20-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-confronts-parvez/1641019894/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "101",
+                    "duration": "27m",
+                    "episodeCode": "S1-E101",
+                    "episodeName": "Seher Uncovers Ghazala's Diary",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3373/1776784683373-h",
+                    "updateDate": "21-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-uncovers-ghazalas-diary/1641019952/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "102",
+                    "duration": "27m",
+                    "episodeCode": "S1-E102",
+                    "episodeName": "Safiya's Advice to Parvez",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2445/1776822852445-h",
+                    "updateDate": "22-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/safiyas-advice-to-parvez/1641020032/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "103",
+                    "duration": "26m",
+                    "episodeCode": "S1-E103",
+                    "episodeName": "Seher Guides Mahid's Path",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2132/1776934292132-h",
+                    "updateDate": "23-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-guides-mahids-path/1641020109/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "104",
+                    "duration": "26m",
+                    "episodeCode": "S1-E104",
+                    "episodeName": "Seher Finds a Hidden Letter",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7405/1776997557405-h",
+                    "updateDate": "24-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-finds-a-hidden-letter/1641020166/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "105",
+                    "duration": "23m",
+                    "episodeCode": "S1-E105",
+                    "episodeName": "Seher's Moment of Heartbreak",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9253/1777257989253-h",
+                    "updateDate": "27-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-moment-of-heartbreak/1641020327/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "106",
+                    "duration": "24m",
+                    "episodeCode": "S1-E106",
+                    "episodeName": "Mahid's Emotional Breakdown",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4155/1777342054155-h",
+                    "updateDate": "28-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-emotional-breakdown/1641020405/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "107",
+                    "duration": "22m",
+                    "episodeCode": "S1-E107",
+                    "episodeName": "Seher Uncovers a Deadly Plot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5107/1777432215107-h",
+                    "updateDate": "29-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-uncovers-a-deadly-plot/1641020478/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "108",
+                    "duration": "21m",
+                    "episodeCode": "S1-E108",
+                    "episodeName": "Mahid's Quest for Ghazala",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6255/1777539256255-h",
+                    "updateDate": "30-04-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-quest-for-ghazala/1641020574/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "109",
+                    "duration": "23m",
+                    "episodeCode": "S1-E109",
+                    "episodeName": "Seher Uncovers a Hidden Plot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/199/1777618500199-h",
+                    "updateDate": "01-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-uncovers-a-hidden-plot/1641020635/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "110",
+                    "duration": "23m",
+                    "episodeCode": "S1-E110",
+                    "episodeName": "Seher's Plan with Tahir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/418/1777882220418-h",
+                    "updateDate": "04-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-plan-with-tahir/1641020779/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "111",
+                    "duration": "24m",
+                    "episodeCode": "S1-E111",
+                    "episodeName": "Fatima and Wasim's Web of Deceit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8388/1777974748388-h",
+                    "updateDate": "05-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/fatima-and-wasims-web-of-deceit/1641020870/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "112",
+                    "duration": "23m",
+                    "episodeCode": "S1-E112",
+                    "episodeName": "Mahid's Unforgotten Love for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8356/1778033888356-h",
+                    "updateDate": "06-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-unforgotten-love-for-seher/1641020917/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "113",
+                    "duration": "22m",
+                    "episodeCode": "S1-E113",
+                    "episodeName": "Seher Cautions Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8486/1778117518486-h",
+                    "updateDate": "07-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-cautions-mahid/1641020982/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "114",
+                    "duration": "24m",
+                    "episodeCode": "S1-E114",
+                    "episodeName": "Seher Rushes to Save Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1654/1778226451654-h",
+                    "updateDate": "08-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-rushes-to-save-mahid/1641021066/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "115",
+                    "duration": "24m",
+                    "episodeCode": "S1-E115",
+                    "episodeName": "Seher and Mahid Grow Closer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6674/1778478936674-h",
+                    "updateDate": "11-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-and-mahid-grow-closer/1641021156/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "116",
+                    "duration": "24m",
+                    "episodeCode": "S1-E116",
+                    "episodeName": "Mahid Calls the Police Home",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1058/1778554611058-h",
+                    "updateDate": "12-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-calls-the-police-home/1641021272/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "117",
+                    "duration": "22m",
+                    "episodeCode": "S1-E117",
+                    "episodeName": "Parvez Plots Against Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3111/1778657633111-h",
+                    "updateDate": "13-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/parvez-plots-against-kausar/1641021365/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "118",
+                    "duration": "24m",
+                    "episodeCode": "S1-E118",
+                    "episodeName": "Mahid Fumes at Parvez",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1332/1778738441332-h",
+                    "updateDate": "14-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-fumes-at-parvez/1641021413/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "119",
+                    "duration": "23m",
+                    "episodeCode": "S1-E119",
+                    "episodeName": "Mahid Gets Seher and Kausar Home",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3244/1778840333244-h",
+                    "updateDate": "15-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-gets-seher-and-kausar-home/1641021496/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "120",
+                    "duration": "24m",
+                    "episodeCode": "S1-E120",
+                    "episodeName": "Seher's Unwavering Promise to Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6334/1779706756334-h",
+                    "updateDate": "18-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-unwavering-promise-to-mahid/1641021686/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "121",
+                    "duration": "24m",
+                    "episodeCode": "S1-E121",
+                    "episodeName": "Kausar Admires Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8392/1779176438392-h",
+                    "updateDate": "19-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-admires-mahid/1641021777/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "122",
+                    "duration": "23m",
+                    "episodeCode": "S1-E122",
+                    "episodeName": "Seher and Mahid Spy on the Family",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2682/1779235442682-h",
+                    "updateDate": "20-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-and-mahid-spy-on-the-family/1641021826/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "123",
+                    "duration": "22m",
+                    "episodeCode": "S1-E123",
+                    "episodeName": "Mahid and Wasim's Violent Clash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8943/1779696338943-h",
+                    "updateDate": "21-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-and-wasims-violent-clash/1641021893/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "124",
+                    "duration": "23m",
+                    "episodeCode": "S1-E124",
+                    "episodeName": "Wasim Kidnaps Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3868/1779413433868-h",
+                    "updateDate": "22-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/wasim-kidnaps-seher/1641021991/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "125",
+                    "duration": "25m",
+                    "episodeCode": "S1-E125",
+                    "episodeName": "Seher Hints Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4087/1779674614087-h",
+                    "updateDate": "25-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-hints-mahid/1641022168/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "126",
+                    "duration": "22m",
+                    "episodeCode": "S1-E126",
+                    "episodeName": "Wasim Faces Mahid's Fury",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1889/1779869691889-h",
+                    "updateDate": "26-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/wasim-faces-mahids-fury/1641022270/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "127",
+                    "duration": "23m",
+                    "episodeCode": "S1-E127",
+                    "episodeName": "Husna's Big Move to Win Mahid's Trust",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1305/1779869541305-h",
+                    "updateDate": "27-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/husnas-big-move-to-win-mahids-trust/1641022354/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "128",
+                    "duration": "24m",
+                    "episodeCode": "S1-E128",
+                    "episodeName": "Seher Learns the Hidden Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/96/1779965200096-h",
+                    "updateDate": "28-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-learns-the-hidden-truth/1641022463/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "129",
+                    "duration": "23m",
+                    "episodeCode": "S1-E129",
+                    "episodeName": "Seher's Result Overjoys Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4623/1780043174623-h",
+                    "updateDate": "29-05-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-result-overjoys-kausar/1641022544/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "130",
+                    "duration": "23m",
+                    "episodeCode": "S1-E130",
+                    "episodeName": "Mufti Opposes Seher's Education",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2001/1780259512001-h",
+                    "updateDate": "01-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mufti-opposes-sehers-education/1641022743/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "131",
+                    "duration": "23m",
+                    "episodeCode": "S1-E131",
+                    "episodeName": "Seher Fights for Her Education",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2339/1780371692339-h",
+                    "updateDate": "02-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-fights-for-her-education/1641022816/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "132",
+                    "duration": "23m",
+                    "episodeCode": "S1-E132",
+                    "episodeName": "Seher Leaves Niyazi Manzil",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5233/1780460045233-h",
+                    "updateDate": "03-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-leaves-niyazi-manzil/1641022899/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "133",
+                    "duration": "23m",
+                    "episodeCode": "S1-E133",
+                    "episodeName": "Mahid Seeks Forgiveness",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7657/1780557077657-h",
+                    "updateDate": "04-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-seeks-forgiveness/1641022999/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "134",
+                    "duration": "22m",
+                    "episodeCode": "S1-E134",
+                    "episodeName": "Mahid Takes a Bold Stand",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/487/1780655070487-h",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-takes-a-bold-stand/1641023113/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "135",
+                    "duration": "21m",
+                    "episodeCode": "S1-E135",
+                    "episodeName": "Fareed Comforts Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6206/1780913456206-h",
+                    "updateDate": "08-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/fareed-comforts-kausar/1641023281/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "136",
+                    "duration": "22m",
+                    "episodeCode": "S1-E136",
+                    "episodeName": "Kausar and Amaal Finally Reunite",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4683/1780971214683-h",
+                    "updateDate": "09-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-and-amaal-finally-reunite/1641023343/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "137",
+                    "duration": "21m",
+                    "episodeCode": "S1-E137",
+                    "episodeName": "Mahid, Seher's Bonfire Celebration",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2028/1781080552028-h",
+                    "updateDate": "10-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-sehers-bonfire-celebration/1641023465/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "138",
+                    "duration": "21m",
+                    "episodeCode": "S1-E138",
+                    "episodeName": "Husna's Deadly Revenge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6909/1781180506909-h",
+                    "updateDate": "11-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/husnas-deadly-revenge/1641023537/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "139",
+                    "duration": "21m",
+                    "episodeCode": "S1-E139",
+                    "episodeName": "Kausar Reassures Amaal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7061/1781249277061-h",
+                    "updateDate": "12-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/kausar-reassures-amaal/1641023611/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "140",
+                    "duration": "21m",
+                    "episodeCode": "S1-E140",
+                    "episodeName": "Husna Frames Kausar for Murder",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8006/1781509508006-h",
+                    "updateDate": "15-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/husna-frames-kausar-for-murder/1641023804/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "141",
+                    "duration": "24m",
+                    "episodeCode": "S1-E141",
+                    "episodeName": "Seher, Kausar Run for Their Lives",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2590/1781558612590-h",
+                    "updateDate": "16-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-kausar-run-for-their-lives/1641023850/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "142",
+                    "duration": "22m",
+                    "episodeCode": "S1-E142",
+                    "episodeName": "Mahid's Promise to Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/909/1781677870909-h",
+                    "updateDate": "17-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-promise-to-seher/1641023938/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "143",
+                    "duration": "22m",
+                    "episodeCode": "S1-E143",
+                    "episodeName": "Mahid's Plea for Forgiveness",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2448/1781766812448-h",
+                    "updateDate": "18-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-plea-for-forgiveness/1641024039/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "144",
+                    "duration": "21m",
+                    "episodeCode": "S1-E144",
+                    "episodeName": "Husna Plans Hyder's Future",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8248/1781850108248-h",
+                    "updateDate": "19-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/husna-plans-hyders-future/1641024102/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "145",
+                    "duration": "21m",
+                    "episodeCode": "S1-E145",
+                    "episodeName": "Mahid Faces the Nawab's Decision",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8139/1782087358139-h",
+                    "updateDate": "22-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-faces-the-nawabs-decision/1641024277/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "146",
+                    "duration": "21m",
+                    "episodeCode": "S1-E146",
+                    "episodeName": "Seher's Bold Stand for Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4610/1782185494610-h",
+                    "updateDate": "23-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-bold-stand-for-kausar/1641024354/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "147",
+                    "duration": "21m",
+                    "episodeCode": "S1-E147",
+                    "episodeName": "Mahid Against the Niyazi Family",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6673/1782375676673-h",
+                    "updateDate": "24-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-against-the-niyazi-family/1641024469/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "148",
+                    "duration": "21m",
+                    "episodeCode": "S1-E148",
+                    "episodeName": "Mahid Reassures Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3717/1782358593717-h",
+                    "updateDate": "25-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-reassures-seher/1641024539/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "149",
+                    "duration": "21m",
+                    "episodeCode": "S1-E149",
+                    "episodeName": "Amaal and Tahir's Bold Move",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2364/1782473962364-h",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/amaal-and-tahirs-bold-move/1641024639/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "150",
+                    "duration": "21m",
+                    "episodeCode": "S1-E150",
+                    "episodeName": "Husna Warns Hyder",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7032/1782717387032-h",
+                    "updateDate": "29-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/husna-warns-hyder/1641024856/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "151",
+                    "duration": "21m",
+                    "episodeCode": "S1-E151",
+                    "episodeName": "Mahid's Hidden Fears Surface",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5124/1782765715124-h",
+                    "updateDate": "30-06-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-hidden-fears-surface/1641024921/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "152",
+                    "duration": "22m",
+                    "episodeCode": "S1-E152",
+                    "episodeName": "Mahid's Ascension as Mufti",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2464/1782898562464-h",
+                    "updateDate": "01-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahids-ascension-as-mufti/1641025066/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "153",
+                    "duration": "21m",
+                    "episodeCode": "S1-E153",
+                    "episodeName": "Mahid and Seher Search for Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5212/1782987695212-h",
+                    "updateDate": "02-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-and-seher-search-for-kausar/1641025207/watch"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "154",
+                    "duration": "23m",
+                    "episodeCode": "S1-E154",
+                    "episodeName": "Seher Walks Out of Mahid's Life",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4692/1783094844692-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-walks-out-of-mahids-life/1641025333/watch"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "161",
+                    "duration": "22m",
+                    "episodeCode": "S2-E161",
+                    "episodeName": "Seher's Career at Stake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3675/1783988253675-h",
+                    "updateDate": "14-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/sehers-career-at-stake/1641026529/watch"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "160",
+                    "duration": "21m",
+                    "episodeCode": "S2-E160",
+                    "episodeName": "Seher Gets a New Opportunity",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/635/1783910090635-h",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-gets-a-new-opportunity/1641026364/watch"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "159",
+                    "duration": "21m",
+                    "episodeCode": "S2-E159",
+                    "episodeName": "Seher Saves Qais's Life",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6437/1783692136437-h",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-saves-qaiss-life/1641026149/watch"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "158",
+                    "duration": "20m",
+                    "episodeCode": "S2-E158",
+                    "episodeName": "Mahid Saves Seher Again",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6510/1783609386510-h",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-saves-seher-again/1641026016/watch"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "157",
+                    "duration": "22m",
+                    "episodeCode": "S2-E157",
+                    "episodeName": "Mahid and Seher's Paths Cross",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3937/1783532813937-h",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/mahid-and-sehers-paths-cross/1641025916/watch"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "156",
+                    "duration": "22m",
+                    "episodeCode": "S2-E156",
+                    "episodeName": "Seher Faces a New Challenge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2052/1783402252052-h",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-faces-a-new-challenge/1641025717/watch"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "155",
+                    "duration": "24m",
+                    "episodeCode": "S2-E155",
+                    "episodeName": "Seher, Mahid on New Paths",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8894/1783330778894-h",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": "https://www.hotstar.com/in/shows/seher-hone-ko-hai/1271510714/seher-mahid-on-new-paths/1641025586/watch"
+                }
+            ]
+        }
+    ]
+}
