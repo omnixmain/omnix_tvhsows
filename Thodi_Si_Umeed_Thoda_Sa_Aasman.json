@@ -102,6 +102,16 @@
                     "episodeBanner": "https://sund-images.sunnxt.com/255945/1920x1080_ThodiSiUmeedThodaSaAasmanJul142026_255945_bf3a5a52-269e-4c57-ae60-bd4370531859.jpg",
                     "updateDate": "14-07-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "22m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "E9 - Jul 15, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255948/1920x1080_ThodiSiUmeedThodaSaAasmanJul152026_255948_93632742-0fae-47d6-a392-e11b28b37cda.jpg",
+                    "updateDate": "15-07-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
