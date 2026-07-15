@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "14-07-2026",
+            "ottReleaseDate": "15-07-2026",
             "description": "After a tragic separation, Mahid and Seher lead different lives, albeit with lingering pain! But destined to be together, will 'MaHer' reunite? Watch Seher Hone Ko Hai - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
                 {
@@ -1551,6 +1551,16 @@
                     "episodeName": "Seher Walks Out of Mahid's Life",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4692/1783094844692-h",
                     "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "162",
+                    "duration": "21m",
+                    "episodeCode": "S2-E162",
+                    "episodeName": "Mahid Secretly Helps Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4607/1784091344607-h",
+                    "updateDate": "15-07-2026",
                     "episodeUrl": ""
                 },
                 {
