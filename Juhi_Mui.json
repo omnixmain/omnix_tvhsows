@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "14-07-2026",
+            "ottReleaseDate": "15-07-2026",
             "description": "Sharp-witted Juhi is an autistic prodigy, often ridiculed by the world! When chaos strikes, she dons the lawyer’s cape, with her brother as the guiding light. Watch Juhi Mui - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "25m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Juhi Persuades Nambhair",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/551/1784079330551-h",
+                    "updateDate": "15-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "13",
