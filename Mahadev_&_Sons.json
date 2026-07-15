@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "14-07-2026",
+            "ottReleaseDate": "15-07-2026",
             "description": "Mahadev's 'perfect' family is breaking apart, all because of Mogra, his beloved daughter-in-law. Can Rajji and Dheeraj protect the family and Mahadev's legacy? Watch Mahadev & Sons - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "138",
+                    "duration": "22m",
+                    "episodeCode": "S1-E138",
+                    "episodeName": "Dheeraj Falls Sick",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9209/1784079389209-h",
+                    "updateDate": "15-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "137",
@@ -1201,176 +1211,6 @@
                     "episodeName": "Mahadev's Firm Guidance",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4946/1769532214946-h",
                     "updateDate": "28-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "17",
-                    "duration": "22m",
-                    "episodeCode": "S1-E17",
-                    "episodeName": "Bhanu Blocks the Alliance",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2041/1769502532041-h",
-                    "updateDate": "27-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "16",
-                    "duration": "22m",
-                    "episodeCode": "S1-E16",
-                    "episodeName": "Ashish Faces Mahadev's Wrath",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9747/1769404679747-h",
-                    "updateDate": "26-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "15",
-                    "duration": "23m",
-                    "episodeCode": "S1-E15",
-                    "episodeName": "Mahadev's Move Stuns His Sons",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6879/1769168996879-h",
-                    "updateDate": "23-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "14",
-                    "duration": "22m",
-                    "episodeCode": "S1-E14",
-                    "episodeName": "Vidya Learns Ashish's Sacrifice",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1678/1769018401678-h",
-                    "updateDate": "22-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "13",
-                    "duration": "22m",
-                    "episodeCode": "S1-E13",
-                    "episodeName": "Bhanu Plots Her Revenge",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9407/1768964639407-h",
-                    "updateDate": "21-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "12",
-                    "duration": "23m",
-                    "episodeCode": "S1-E12",
-                    "episodeName": "Ashish Endures Heartbreak",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9175/1768875419175-h",
-                    "updateDate": "20-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "11",
-                    "duration": "22m",
-                    "episodeCode": "S1-E11",
-                    "episodeName": "Narmada Faces Alliance Trouble",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7130/1768759897130-h",
-                    "updateDate": "19-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "10",
-                    "duration": "22m",
-                    "episodeCode": "S1-E10",
-                    "episodeName": "Bhanu Defends Priya",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7470/1768535407470-h",
-                    "updateDate": "16-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "9",
-                    "duration": "22m",
-                    "episodeCode": "S1-E9",
-                    "episodeName": "Satya Confronts Mahadev",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7780/1768444167780-h",
-                    "updateDate": "15-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "8",
-                    "duration": "22m",
-                    "episodeCode": "S1-E8",
-                    "episodeName": "Rajji's Misunderstood Truth",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8656/1768357828656-h",
-                    "updateDate": "14-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "7",
-                    "duration": "22m",
-                    "episodeCode": "S1-E7",
-                    "episodeName": "Bhanu Confronts Mahadev's Family",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2614/1768271202614-h",
-                    "updateDate": "13-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "6",
-                    "duration": "22m",
-                    "episodeCode": "S1-E6",
-                    "episodeName": "Dheeraj Blamed for Ketan's Crime",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1789/1768184631789-h",
-                    "updateDate": "12-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "5",
-                    "duration": "25m",
-                    "episodeCode": "S1-E5",
-                    "episodeName": "Mahadev Fears Family Divide",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5590/1767931965590-h",
-                    "updateDate": "09-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "23m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Mahadev's Empty Celebration",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/310/1767840060310-h",
-                    "updateDate": "08-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "26m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Dheeraj's Grand Announcement",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9529/1767754089529-h",
-                    "updateDate": "07-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "34m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Bhanu Draws the Battle Line",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1665/1767667231665-h",
-                    "updateDate": "06-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "37m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "The Journey of Mahadev, Vidya",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6123/1767577426123-h",
-                    "updateDate": "05-01-2026",
                     "episodeUrl": ""
                 }
             ]
