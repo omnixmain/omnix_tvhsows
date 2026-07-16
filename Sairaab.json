@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "21m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Nayanika Sets Off for Mumbai",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3484/1784173203484-h",
+                    "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "44",
                     "duration": "22m",
                     "episodeCode": "S1-E44",
