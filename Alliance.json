@@ -10,7 +10,7 @@
             "streaming": "Prime Video",
             "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
             "language": "English / Hindi",
-            "ottReleaseDate": "15-07-2026",
+            "ottReleaseDate": "16-07-2026",
             "description": "Watch Alliance on Prime Video.",
             "episodes": [
                 {
@@ -18,9 +18,9 @@
                     "episodeNumber": "1",
                     "duration": "45m",
                     "episodeCode": "S1-E1",
-                    "episodeName": "Episodes 25-2",
+                    "episodeName": "Episodes 26-3",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "15-07-2026",
+                    "updateDate": "16-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -28,19 +28,9 @@
                     "episodeNumber": "2",
                     "duration": "45m",
                     "episodeCode": "S1-E2",
-                    "episodeName": "Episodes 1-1",
+                    "episodeName": "Episodes 2-1",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "15-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "45m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Episode 2",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/009829eb88cf947dae47891d7fb12cd3e8810fa8328f5f5d3c0e011ec16b8218._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "27-06-2026",
+                    "updateDate": "16-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -259,7 +249,7 @@
                     "duration": "45m",
                     "episodeCode": "S1-E24",
                     "episodeName": "Episode 24 - Week 3 Recap",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0453a5375c694bfda292839df363b7a43d7441f34178b24aad38224d3b3332ac._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "16-07-2026",
                     "episodeUrl": ""
                 },
@@ -271,6 +261,16 @@
                     "episodeName": "Episode 25",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "45m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Episode 26",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "18-07-2026",
                     "episodeUrl": ""
                 }
             ]
