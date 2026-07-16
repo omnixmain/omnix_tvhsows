@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "94",
+                    "duration": "42m",
+                    "episodeCode": "S1-E94",
+                    "episodeName": "Baldev Strikes a Deal with Shivaay",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8745/1784168798745-h",
+                    "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "93",
                     "duration": "42m",
                     "episodeCode": "S1-E93",
