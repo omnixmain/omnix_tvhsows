@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "139",
+                    "duration": "22m",
+                    "episodeCode": "S1-E139",
+                    "episodeName": "Mogra Warns Mahadev",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8705/1784168818705-h",
+                    "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "138",
                     "duration": "22m",
                     "episodeCode": "S1-E138",
