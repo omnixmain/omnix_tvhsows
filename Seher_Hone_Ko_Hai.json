@@ -1555,6 +1555,16 @@
                 },
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "163",
+                    "duration": "21m",
+                    "episodeCode": "S2-E163",
+                    "episodeName": "Fareed Stands by Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9772/1784168809772-h",
+                    "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "162",
                     "duration": "21m",
                     "episodeCode": "S2-E162",
