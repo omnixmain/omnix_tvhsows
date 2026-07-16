@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "22m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "EP 10 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a587e42a73b9c3dd6cf6b28-1784184386641-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "9",
                     "duration": "22m",
                     "episodeCode": "S1-E9",
