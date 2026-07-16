@@ -99,7 +99,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E8",
                     "episodeName": "E8 - Jul 14, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/255945/1920x1080_ThodiSiUmeedThodaSaAasmanJul142026_255945_bf3a5a52-269e-4c57-ae60-bd4370531859.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255945/1920x1080_ThodiSiUmeedThodaSaAasmanJul142026_255945_de38c6ec-2838-48d3-93f7-8f0393c21695.jpg",
                     "updateDate": "14-07-2026",
                     "episodeUrl": ""
                 },
@@ -111,6 +111,16 @@
                     "episodeName": "E9 - Jul 15, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/255948/1920x1080_ThodiSiUmeedThodaSaAasmanJul152026_255948_93632742-0fae-47d6-a392-e11b28b37cda.jpg",
                     "updateDate": "15-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "22m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "E10 - Jul 16, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255951/1920x1080_ThodiSiUmeedThodaSaAasmanJul162026_255951_057b784e-a404-44e4-a5b1-86451b13452c.jpg",
+                    "updateDate": "16-07-2026",
                     "episodeUrl": ""
                 }
             ]
