@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "87",
+                    "duration": "26m",
+                    "episodeCode": "S1-E87",
+                    "episodeName": "Rashmi Comforts Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/671/1784167430671-h",
+                    "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "86",
                     "duration": "26m",
                     "episodeCode": "S1-E86",
