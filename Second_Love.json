@@ -52,6 +52,16 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1201/1783679931201-h",
                     "updateDate": "16-07-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "43m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "A Chance to Connect",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9852/1783679949852-h",
+                    "updateDate": "17-07-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
