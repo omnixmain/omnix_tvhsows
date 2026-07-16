@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "21m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Sangam's Guilt Deepens",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6801/1784168686801-h",
+                    "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "29",
                     "duration": "21m",
                     "episodeCode": "S1-E29",
