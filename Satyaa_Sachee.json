@@ -15,16 +15,6 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "165",
-                    "duration": "22m",
-                    "episodeCode": "S1-E165",
-                    "episodeName": "E165 - Apr 27, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/250168/1920x1080_SatyaaSacheeApr272026_250168_7de9ff0e-8768-4baa-8920-0dd1687da1a3.jpg",
-                    "updateDate": "27-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "166",
                     "duration": "22m",
                     "episodeCode": "S1-E166",
@@ -711,6 +701,16 @@
                     "episodeName": "E234 - Jul 16, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/255952/1920x1080_SatyaaSacheeJul162026_255952_ce5cf7ee-cc1c-4aa7-a755-dc6c95956af1.jpg",
                     "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "235",
+                    "duration": "22m",
+                    "episodeCode": "S1-E235",
+                    "episodeName": "E235 - Jul 17, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255955/1920x1080_SatyaaSacheeJul172026_255955_25274024-e5f2-4039-8712-9207bccb666e.jpg",
+                    "updateDate": "17-07-2026",
                     "episodeUrl": ""
                 }
             ]
