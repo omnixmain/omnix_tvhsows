@@ -10,19 +10,9 @@
             "streaming": "SunNXT",
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
             "language": "Hindi",
-            "ottReleaseDate": "16-07-2026",
+            "ottReleaseDate": "17-07-2026",
             "description": "Drawn into the Swarup family by fate, Sachee marries the troubled Shaurya. Determined to protect her sister, Satyaa chooses to wed his cousin. In a patriarchal home filled with secrets, their love for each other becomes their hope & strength.",
             "episodes": [
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "164",
-                    "duration": "22m",
-                    "episodeCode": "S1-E164",
-                    "episodeName": "E164 - Apr 25, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/249675/1920x1080_SatyaaSacheeApr252026_249675_b5a18884-6a55-4fdf-b2d2-f988da8aff35.jpg",
-                    "updateDate": "25-04-2026",
-                    "episodeUrl": ""
-                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "165",
@@ -711,6 +701,16 @@
                     "episodeName": "E233 - Jul 15, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/255949/1920x1080_SatyaaSacheeJul152026_255949_ad4efef2-b0bc-4428-8c66-26d683b281eb.jpg",
                     "updateDate": "15-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "234",
+                    "duration": "22m",
+                    "episodeCode": "S1-E234",
+                    "episodeName": "E234 - Jul 16, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255952/1920x1080_SatyaaSacheeJul162026_255952_ce5cf7ee-cc1c-4aa7-a755-dc6c95956af1.jpg",
+                    "updateDate": "16-07-2026",
                     "episodeUrl": ""
                 }
             ]
