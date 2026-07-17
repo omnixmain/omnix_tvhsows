@@ -122,6 +122,16 @@
                     "episodeBanner": "https://sund-images.sunnxt.com/255951/1920x1080_ThodiSiUmeedThodaSaAasmanJul162026_255951_057b784e-a404-44e4-a5b1-86451b13452c.jpg",
                     "updateDate": "16-07-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "22m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "E11 - Jul 17, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255954/1920x1080_ThodiSiUmeedThodaSaAasmanJul172026_255954_3b1d4506-232c-42dd-9528-33efebc3b2a7.jpg",
+                    "updateDate": "17-07-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
