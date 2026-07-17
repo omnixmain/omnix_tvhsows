@@ -864,6 +864,36 @@
                     "episodeUrl": ""
                 },
                 {
+                    "seasonNumber": "2",
+                    "episodeNumber": "52",
+                    "duration": "1h 32m",
+                    "episodeCode": "S2-E52",
+                    "episodeName": "TV's Biggest Frame in the Semi-finale!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2026/1752902512026-h",
+                    "updateDate": "20-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "53",
+                    "duration": "1h 22m",
+                    "episodeCode": "S2-E53",
+                    "episodeName": "Grand Finale Party Begins!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/911/1753504510911-h",
+                    "updateDate": "26-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "54",
+                    "duration": "1h 29m",
+                    "episodeCode": "S2-E54",
+                    "episodeName": "The Grand Cook-off! Who Takes the Trophy ?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4805/1753504664805-h",
+                    "updateDate": "27-07-2025",
+                    "episodeUrl": ""
+                },
+                {
                     "seasonNumber": "3",
                     "episodeNumber": "68",
                     "duration": "1h 22m",
