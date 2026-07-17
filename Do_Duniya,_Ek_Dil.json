@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "16-07-2026",
+            "ottReleaseDate": "17-07-2026",
             "description": "Honest tech visionary Shivaay grows averse to technology after a scam. When he falls for digital influencer Aadhya, two worlds clash, albeit with love! Watch Do Duniya, Ek Dil - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "95",
+                    "duration": "42m",
+                    "episodeCode": "S1-E95",
+                    "episodeName": "Sonam, Suraj's New Plot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7613/1784252907613-h",
+                    "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "94",
@@ -901,56 +911,6 @@
                     "episodeName": "Sonam Humiliates Suraj",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1887/1773638331887-h",
                     "updateDate": "16-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "5",
-                    "duration": "27m",
-                    "episodeCode": "S1-E5",
-                    "episodeName": "Shivaay, Baldev's Agreement",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2647/1773397952647-h",
-                    "updateDate": "13-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "27m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Aadhya persuades Shivaay",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/947/1773306410947-h",
-                    "updateDate": "12-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "27m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Aadhya Seeks Shivaay's Forgiveness",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9298/1773201389298-h",
-                    "updateDate": "11-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "27m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Shivaay's Plea to Baldev",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9635/1773118989635-h",
-                    "updateDate": "10-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "27m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Shivaay's New Beginnings",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7296/1773061067296-h",
-                    "updateDate": "09-03-2026",
                     "episodeUrl": ""
                 }
             ]
