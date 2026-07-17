@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "16-07-2026",
+            "ottReleaseDate": "17-07-2026",
             "description": "Mahadev's 'perfect' family is breaking apart, all because of Mogra, his beloved daughter-in-law. Can Rajji and Dheeraj protect the family and Mahadev's legacy? Watch Mahadev & Sons - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "140",
+                    "duration": "23m",
+                    "episodeCode": "S1-E140",
+                    "episodeName": "Vidya Starts a New Journey",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6475/1784252966475-h",
+                    "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "139",
