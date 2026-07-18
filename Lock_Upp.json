@@ -1,0 +1,119 @@
+{
+    "tvShows": [
+        {
+            "name": "Lock Upp",
+            "banner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+            "genre": "Reality Programming",
+            "rating": "8.5",
+            "year": "2026",
+            "ageRating": "U/A 16+",
+            "streaming": "Netflix",
+            "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "01-01-2026",
+            "description": "",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "69m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Ep. 18 - Shock and Terminate",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWW74g4jYCAvfGVyGHC4nBO4LpFpTZuv3sqV8eSBLy1iIG54ttDIWFt0eUwMvMIooYQBF5U_CoDJJNxLAh3rH0cByhaCPpKhRsdKHfxl2C4l8FyqNRsut_EC.jpg?r=020",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/82622732"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "66m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Ep. 17 -  Messy Business",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXsauEL0j37SAE3JwwT_EpJYtWLmpiyfXOsFY889J-SWVXhXo0Q8zbmvUmtHfVnfodaXSB_pglUs5wFstExJlmJXBMtcv_gjTTsX9MnYPPVNADZqz77grvvX.jpg?r=e65",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/83054096"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "61m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Ep. 16 - Nothing stays fun",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZfNRPO2EODQknWnzO0-ALQky-QLmg4AejiJwonfRp8_lOsXjGLpGdVNANLbbmzUUk4e50F-qVgIo0bUddZ-q4483NvIKu_Av9UxxCWmObAH6pAbzzU2HIua.jpg?r=15b",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/82622731"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "62m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Ep. 15 - Powers, Secrets, Termination",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQeONvE8hq9QA0rhZYjKKNiX_Nawp2vQbQLTXFcFA_q5mKy7iC8jhFc0q8Xa0e9hN4MV6N_rstfeSEZg2UM_ItEHO4kK1EtYyrm6PDFtsU3juglZ9fnWaCXj.jpg?r=277",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/82622730"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "62m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Ep. 14 - The Price of Control",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABci0tEn_Prnx5Mk0BR0S9hb6Rp-Q-DEj2uC2-SkTYvY9-Os35ZjrXy7-SUHtZV_X2KhHTLz8B6X_gr1fwrBMZ1FVjeuLXerVwCyUgvh7Cxp2a7EGUkuVcy7M.jpg?r=d10",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/82622729"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "60m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Ep. 13 - Control or Chaos",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSPRPevt-ATJlDo2ydCysj1yGcLQsff3dlboalD17UDux_1xSwWX4C3csiBkDQ3bi_B4qRuLeDoGs-FBIpJEdK-kByIdYHeUlkNffATiyLgmtA9EX_zn05FF.jpg?r=4c5",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/82622728"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "72m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Ep. 12 - The Storm Arrives",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZWhrQfufhCBI-0s6aB_xPOWtsEuCOHI14ngNfhLPlOwQD-kIVojBVQtJ0EVu1ftCELF9bKrBRFseHfVctbNQ4GICg4dzKDJROcV9vonWuvU2G8XzCbCpgnW.jpg?r=a2e",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/82622727"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "60m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Ep. 11 - The Visitor",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABamMZVLBh5sL3Sy4t-i8Xr-cFXZ5rR-qwIh5ai7AwKRcDX9SpoD2lnknXukFzEiRcmODz7Xe3YQLfK3PGme_yDd4KUcGPhivr01j078en4LVlXkD_chjsRnY.jpg?r=f1f",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/83054095"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "58m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Ep. 10 - Love and War",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU2qtlUcsnZ_rsSWJESxtp34aC7A7OV3acM8YZAS6rm4_r6qzYQSfx3lI1uwpj4FPdcUzsNGounmKG52aTv6rjgw6ymkeoLUI3O3iphlw1NiqSAgjkYfRGOz.jpg?r=7f9",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/82622726"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "62m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Ep. 9 - Greed v/s Need",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbSuy27PatYiNH72fK2Dh9jfdjYkYJtOTUsCemgiogknnnfMaYfvRVA-THR7NJJgKrHdr6MXFwyVNGfVwno4k7tI-23OV6ZXiTqL045Lc0da-XXtI-6jDkFX.jpg?r=cfe",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.netflix.com/watch/82622725"
+                }
+            ]
+        }
+    ]
+}
