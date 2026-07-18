@@ -18,7 +18,7 @@
                     "episodeNumber": "1",
                     "duration": "45m",
                     "episodeCode": "S1-E1",
-                    "episodeName": "Episodes 27-4",
+                    "episodeName": "Episodes 29-6",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
                     "updateDate": "18-07-2026",
                     "episodeUrl": ""
@@ -28,29 +28,9 @@
                     "episodeNumber": "2",
                     "duration": "45m",
                     "episodeCode": "S1-E2",
-                    "episodeName": "Episodes 3-1",
+                    "episodeName": "Episodes 5-1",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
                     "updateDate": "18-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "45m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Episode 4",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/ede0dd1e754dab97ca51aafce7ec199fb029a00a6fd7f13e2a63ce4910d886c1._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "29-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "5",
-                    "duration": "45m",
-                    "episodeCode": "S1-E5",
-                    "episodeName": "Episode 5",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/5373065ce3a8c613e75968d16f1174023af93ab614d8933c04b2b10f28f42cf3._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "30-06-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -271,6 +251,26 @@
                     "episodeName": "Episode 27",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "19-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "45m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Episode 28",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "45m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Episode 29",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "21-07-2026",
                     "episodeUrl": ""
                 }
             ]
