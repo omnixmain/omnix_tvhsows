@@ -1,0 +1,29 @@
+{
+    "tvShows": [
+        {
+            "name": "Humari Radha",
+            "banner": "https://via.placeholder.com/800x450.png?text=ZEE5+Banner+Not+Found",
+            "genre": "Drama",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 16+",
+            "streaming": "ZEE5",
+            "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Zee5_Official_Logo.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "01-01-2026",
+            "description": "Watch Humari Radha on ZEE5.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Episode 1",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=ZEE5+Banner+Not+Found",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
