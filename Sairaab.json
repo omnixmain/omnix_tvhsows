@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "17-07-2026",
+            "ottReleaseDate": "18-07-2026",
             "description": "Single mother Dr. Nayanika lives a serene life with her daughter, Ujjaini. Then enters pop star Ishaan, reigniting her world, albeit with uncalled chaos! Watch Sairaab - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "20m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Nayanika Seeks Police Help",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4344/1784332154344-h",
+                    "updateDate": "18-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "46",
