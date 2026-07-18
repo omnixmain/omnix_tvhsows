@@ -895,6 +895,16 @@
                 },
                 {
                     "seasonNumber": "3",
+                    "episodeNumber": "69",
+                    "duration": "1h 40m",
+                    "episodeCode": "S3-E69",
+                    "episodeName": "Khatron Ke Khiladi in the Kitchen!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7403/1784367107403-h",
+                    "updateDate": "18-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
                     "episodeNumber": "68",
                     "duration": "1h 22m",
                     "episodeCode": "S3-E68",
