@@ -72,6 +72,16 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8853/1783679978853-h",
                     "updateDate": "18-07-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "42m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Truths Unleashed",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/892/1783680000892-h",
+                    "updateDate": "19-07-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
