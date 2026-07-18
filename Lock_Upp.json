@@ -14,104 +14,884 @@
             "description": "",
             "episodes": [
                 {
+                    "seasonNumber": "2",
+                    "episodeNumber": "17",
+                    "duration": "45m",
+                    "episodeCode": "S2-E17",
+                    "episodeName": "Episode 17",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "16",
+                    "duration": "45m",
+                    "episodeCode": "S2-E16",
+                    "episodeName": "Episode 16",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "15-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "15",
+                    "duration": "1h 1m",
+                    "episodeCode": "S2-E15",
+                    "episodeName": "Ep. 15 - Powers, Secrets, Termination",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581475.jpg",
+                    "updateDate": "14-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "14",
+                    "duration": "1h 2m",
+                    "episodeCode": "S2-E14",
+                    "episodeName": "Ep. 14 - The Price of Control",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581122.jpg",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "13",
+                    "duration": "1h",
+                    "episodeCode": "S2-E13",
+                    "episodeName": "Ep. 13 - Control or Chaos",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580588.jpg",
+                    "updateDate": "12-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "12",
+                    "duration": "1h 12m",
+                    "episodeCode": "S2-E12",
+                    "episodeName": "Ep. 12 - The Storm Arrives",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580587.jpg",
+                    "updateDate": "11-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "11",
+                    "duration": "1h",
+                    "episodeCode": "S2-E11",
+                    "episodeName": "Ep. 11 - The Visitor",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580586.jpg",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "10",
+                    "duration": "58m",
+                    "episodeCode": "S2-E10",
+                    "episodeName": "Ep. 10 - Love and War",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580585.jpg",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "9",
+                    "duration": "1h 1m",
+                    "episodeCode": "S2-E9",
+                    "episodeName": "Ep. 9 - Greed v/s Need",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580584.jpg",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "8",
+                    "duration": "50m",
+                    "episodeCode": "S2-E8",
+                    "episodeName": "Ep. 8 - The Bid and The Bomb",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580583.jpg",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "7",
+                    "duration": "56m",
+                    "episodeCode": "S2-E7",
+                    "episodeName": "Ep. 7 - Hungry for More",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580582.jpg",
+                    "updateDate": "05-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "6",
+                    "duration": "56m",
+                    "episodeCode": "S2-E6",
+                    "episodeName": "Ep. 6 - Judgement Day",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580581.jpg",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "5",
+                    "duration": "53m",
+                    "episodeCode": "S2-E5",
+                    "episodeName": "Ep. 5 - Survive the Crackdown",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1577485.jpg",
+                    "updateDate": "01-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "4",
+                    "duration": "54m",
+                    "episodeCode": "S2-E4",
+                    "episodeName": "Ep. 4 - The First Chargesheet",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1577484.jpg",
+                    "updateDate": "30-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "3",
+                    "duration": "58m",
+                    "episodeCode": "S2-E3",
+                    "episodeName": "Ep. 3 - The Jailer’s Bargain",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576337.jpg",
+                    "updateDate": "29-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "2",
+                    "duration": "59m",
+                    "episodeCode": "S2-E2",
+                    "episodeName": "Ep. 2 - Tagged and Targeted",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576336.jpg",
+                    "updateDate": "28-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "1",
+                    "duration": "1h 29m",
+                    "episodeCode": "S2-E1",
+                    "episodeName": "Ep. 1 - Famous, Accused, Locked.",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576335.jpg",
+                    "updateDate": "27-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "71",
+                    "duration": "45m",
+                    "episodeCode": "S1-E71",
+                    "episodeName": "Grand Finale",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "07-05-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "45m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "Day 68",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "06-05-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "69",
+                    "duration": "45m",
+                    "episodeCode": "S1-E69",
+                    "episodeName": "Day 67",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "05-05-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "68",
+                    "duration": "45m",
+                    "episodeCode": "S1-E68",
+                    "episodeName": "Day 66",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "04-05-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "67",
+                    "duration": "45m",
+                    "episodeCode": "S1-E67",
+                    "episodeName": "Day 65",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "03-05-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "66",
+                    "duration": "45m",
+                    "episodeCode": "S1-E66",
+                    "episodeName": "Day 64",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "02-05-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "45m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "Day 63",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "01-05-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "64",
+                    "duration": "45m",
+                    "episodeCode": "S1-E64",
+                    "episodeName": "Day 62",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "30-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "45m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "Day 61",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "29-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "45m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "Day 60",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "28-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "45m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "Day 59",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "27-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "45m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Day 58",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "26-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "45m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Day 57",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "25-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "45m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Day 56",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "24-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "45m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Day 55",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "23-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "45m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Day 54",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "22-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "45m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Day 53",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "21-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "45m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Day 52",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "20-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "45m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Day 51",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "19-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "45m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Day 50 Part 2",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "18-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "45m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Day 50 Part 1",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "18-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "45m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Day 49",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "17-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "45m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Day 48",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "16-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "45m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "Day 47",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "15-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "45m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Day 46",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "14-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "45m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Day 45",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "13-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "45m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Day 44",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "12-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "45m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Day 43",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "11-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "45m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "Day 42",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "10-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "45m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Day 41",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "09-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "45m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Day 40",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "08-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "45m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Day 39",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "07-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "45m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Day 38",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "06-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "45m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Day 37",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "05-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "45m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Day 36",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "04-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "45m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Day 35",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "03-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "45m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Day 34",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "02-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "45m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Day 33",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "01-04-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "45m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Day 32",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "31-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "45m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Day 31",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "30-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "45m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Day 30",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "29-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "45m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Day 29",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "28-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "45m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Day 28",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "27-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "45m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Day 27",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "26-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "45m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "Day 26",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "25-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "45m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Day 25",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "24-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "45m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "Day 24",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "23-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "45m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Day 23",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "22-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "45m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Day 22",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "21-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "45m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Day 21",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "20-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "45m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Day 20",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "19-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "45m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Day 19",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "18-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "45m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Day 18",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "17-03-2022",
+                    "episodeUrl": ""
+                },
+                {
                     "seasonNumber": "1",
                     "episodeNumber": "18",
-                    "duration": "69m",
+                    "duration": "45m",
                     "episodeCode": "S1-E18",
-                    "episodeName": "Ep. 18 - Shock and Terminate",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWW74g4jYCAvfGVyGHC4nBO4LpFpTZuv3sqV8eSBLy1iIG54ttDIWFt0eUwMvMIooYQBF5U_CoDJJNxLAh3rH0cByhaCPpKhRsdKHfxl2C4l8FyqNRsut_EC.jpg?r=020",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/82622732"
+                    "episodeName": "Day 17",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "16-03-2022",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "17",
-                    "duration": "66m",
+                    "duration": "45m",
                     "episodeCode": "S1-E17",
-                    "episodeName": "Ep. 17 -  Messy Business",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXsauEL0j37SAE3JwwT_EpJYtWLmpiyfXOsFY889J-SWVXhXo0Q8zbmvUmtHfVnfodaXSB_pglUs5wFstExJlmJXBMtcv_gjTTsX9MnYPPVNADZqz77grvvX.jpg?r=e65",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/83054096"
+                    "episodeName": "Day 16",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "15-03-2022",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "16",
-                    "duration": "61m",
+                    "duration": "45m",
                     "episodeCode": "S1-E16",
-                    "episodeName": "Ep. 16 - Nothing stays fun",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZfNRPO2EODQknWnzO0-ALQky-QLmg4AejiJwonfRp8_lOsXjGLpGdVNANLbbmzUUk4e50F-qVgIo0bUddZ-q4483NvIKu_Av9UxxCWmObAH6pAbzzU2HIua.jpg?r=15b",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/82622731"
+                    "episodeName": "Day 15",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "14-03-2022",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "15",
-                    "duration": "62m",
+                    "duration": "45m",
                     "episodeCode": "S1-E15",
-                    "episodeName": "Ep. 15 - Powers, Secrets, Termination",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQeONvE8hq9QA0rhZYjKKNiX_Nawp2vQbQLTXFcFA_q5mKy7iC8jhFc0q8Xa0e9hN4MV6N_rstfeSEZg2UM_ItEHO4kK1EtYyrm6PDFtsU3juglZ9fnWaCXj.jpg?r=277",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/82622730"
+                    "episodeName": "Day 14",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "13-03-2022",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "14",
-                    "duration": "62m",
+                    "duration": "45m",
                     "episodeCode": "S1-E14",
-                    "episodeName": "Ep. 14 - The Price of Control",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABci0tEn_Prnx5Mk0BR0S9hb6Rp-Q-DEj2uC2-SkTYvY9-Os35ZjrXy7-SUHtZV_X2KhHTLz8B6X_gr1fwrBMZ1FVjeuLXerVwCyUgvh7Cxp2a7EGUkuVcy7M.jpg?r=d10",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/82622729"
+                    "episodeName": "Day 13",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "12-03-2022",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "13",
-                    "duration": "60m",
+                    "duration": "45m",
                     "episodeCode": "S1-E13",
-                    "episodeName": "Ep. 13 - Control or Chaos",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSPRPevt-ATJlDo2ydCysj1yGcLQsff3dlboalD17UDux_1xSwWX4C3csiBkDQ3bi_B4qRuLeDoGs-FBIpJEdK-kByIdYHeUlkNffATiyLgmtA9EX_zn05FF.jpg?r=4c5",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/82622728"
+                    "episodeName": "Day 12",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "11-03-2022",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "12",
-                    "duration": "72m",
+                    "duration": "45m",
                     "episodeCode": "S1-E12",
-                    "episodeName": "Ep. 12 - The Storm Arrives",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZWhrQfufhCBI-0s6aB_xPOWtsEuCOHI14ngNfhLPlOwQD-kIVojBVQtJ0EVu1ftCELF9bKrBRFseHfVctbNQ4GICg4dzKDJROcV9vonWuvU2G8XzCbCpgnW.jpg?r=a2e",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/82622727"
+                    "episodeName": "Day 11",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "10-03-2022",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "11",
-                    "duration": "60m",
+                    "duration": "45m",
                     "episodeCode": "S1-E11",
-                    "episodeName": "Ep. 11 - The Visitor",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABamMZVLBh5sL3Sy4t-i8Xr-cFXZ5rR-qwIh5ai7AwKRcDX9SpoD2lnknXukFzEiRcmODz7Xe3YQLfK3PGme_yDd4KUcGPhivr01j078en4LVlXkD_chjsRnY.jpg?r=f1f",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/83054095"
+                    "episodeName": "Day 10",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "09-03-2022",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "10",
-                    "duration": "58m",
+                    "duration": "45m",
                     "episodeCode": "S1-E10",
-                    "episodeName": "Ep. 10 - Love and War",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU2qtlUcsnZ_rsSWJESxtp34aC7A7OV3acM8YZAS6rm4_r6qzYQSfx3lI1uwpj4FPdcUzsNGounmKG52aTv6rjgw6ymkeoLUI3O3iphlw1NiqSAgjkYfRGOz.jpg?r=7f9",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/82622726"
+                    "episodeName": "Day 9",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "08-03-2022",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "9",
-                    "duration": "62m",
+                    "duration": "45m",
                     "episodeCode": "S1-E9",
-                    "episodeName": "Ep. 9 - Greed v/s Need",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbSuy27PatYiNH72fK2Dh9jfdjYkYJtOTUsCemgiogknnnfMaYfvRVA-THR7NJJgKrHdr6MXFwyVNGfVwno4k7tI-23OV6ZXiTqL045Lc0da-XXtI-6jDkFX.jpg?r=cfe",
-                    "updateDate": "01-01-2026",
-                    "episodeUrl": "https://www.netflix.com/watch/82622725"
+                    "episodeName": "Day 8",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "07-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "45m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Day 7",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "06-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "45m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Day 6",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "05-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "45m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Day 5",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "04-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "45m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Day 4",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "03-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "45m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Day 3",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "02-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Day 2",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "01-03-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Day 1",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "28-02-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Launch Episode",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+                    "updateDate": "27-02-2022",
+                    "episodeUrl": ""
                 }
             ]
         }
