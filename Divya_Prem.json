@@ -15,16 +15,6 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "313",
-                    "duration": "22m",
-                    "episodeCode": "S1-E313",
-                    "episodeName": "E313 - Apr 28, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/250169/1920x1080_DivyaPremApr282026_250169_3e069c75-d4b9-4161-b239-b423ec738443.jpg",
-                    "updateDate": "28-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "314",
                     "duration": "22m",
                     "episodeCode": "S1-E314",
@@ -711,6 +701,16 @@
                     "episodeName": "E382 - Jul 17, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/255953/1920x1080_DivyaPremJul172026_255953_7bfd6396-167a-423e-8914-24eb85081303.jpg",
                     "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "383",
+                    "duration": "22m",
+                    "episodeCode": "S1-E383",
+                    "episodeName": "E383 - Jul 18, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/255956/1920x1080_DivyaPremJul182026_255956_dd733619-0d60-46ed-83d7-32a560ea55a4.jpg",
+                    "updateDate": "18-07-2026",
                     "episodeUrl": ""
                 }
             ]
