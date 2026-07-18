@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "17-07-2026",
+            "ottReleaseDate": "18-07-2026",
             "description": "12 singles in their 30s who have ended prior relationships move into a villa to find love and give it another chance. Watch Second Love - Hindi Tamil Telugu Kannada Malayalam Reality Romance serial on JioHotstar now.",
             "episodes": [
                 {
@@ -61,6 +61,16 @@
                     "episodeName": "A Chance to Connect",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9852/1783679949852-h",
                     "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "39m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Feelings Take Centre Stage",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8853/1783679978853-h",
+                    "updateDate": "18-07-2026",
                     "episodeUrl": ""
                 }
             ]
