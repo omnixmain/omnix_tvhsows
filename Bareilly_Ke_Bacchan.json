@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "17-07-2026",
+            "ottReleaseDate": "18-07-2026",
             "description": "Young and ambitious, Sangam ends up marrying the carefree Krishna Bacchan! But the Bacchans have never lived with a woman, so how will the ‘new Bahu’ fare? Watch Bareilly Ke Bacchan - Hindi Drama Family Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "24m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Extra Bawaal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2690/1784323182690-h",
+                    "updateDate": "18-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "31",
