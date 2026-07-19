@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "18-07-2026",
+            "ottReleaseDate": "19-07-2026",
             "description": "Once an AIPMT topper, Aarambhi’s life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance? Watch Dr. Aarambhi - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
                 {
@@ -1011,6 +1011,206 @@
                     "episodeName": "Manmeet in Danger",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1422/1773419901422-h",
                     "updateDate": "13-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "21m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Aarambhi Races to Save Manmeet",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/288/1773298390288-h",
+                    "updateDate": "12-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "44m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Aarambhi Outsmarts Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1344/1773234601344-h",
+                    "updateDate": "11-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "40m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Vishwas Faces Avantika's Wish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7536/1773133217536-h",
+                    "updateDate": "10-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "47m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Raj Supports Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2149/1773008452149-h",
+                    "updateDate": "09-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "23m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Aarambhi Walks Out",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7325/1772779657325-h",
+                    "updateDate": "06-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "23m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Dimple Hits Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8526/1773126368526-h",
+                    "updateDate": "05-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "34m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "Aarambhi Takes Up the Nurse's Role",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1221/1772636981221-h",
+                    "updateDate": "04-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "24m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Vishwas, Avantika Face-off",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3627/1772533433627-h",
+                    "updateDate": "03-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "23m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "Aarambhi's Suspicion about Saniya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1036/1772429221036-h",
+                    "updateDate": "02-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "23m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Vishwas Fumes at Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2018/1772159212018-h",
+                    "updateDate": "27-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "23m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Dimple Insults Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4930/1772077174930-h",
+                    "updateDate": "26-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "23m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Aarambhi's Exam Battle",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7857/1772020707857-h",
+                    "updateDate": "25-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "23m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Vishwas's Dark Intent",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2672/1771903782672-h",
+                    "updateDate": "24-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "23m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Vihaan Confronts Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4342/1771825664342-h",
+                    "updateDate": "23-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "23m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Aarambhi's Silent Battle",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9305/1771559509305-h",
+                    "updateDate": "20-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "25m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Vishwas Doubts Aarambhi's Moves",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7285/1771472217285-h",
+                    "updateDate": "19-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "23m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Koushiki's Decision to Part Ways",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8041/1771395378041-h",
+                    "updateDate": "18-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "23m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Manju Seeks Aarambhi's Forgiveness",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7677/1771317397677-h",
+                    "updateDate": "17-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "23m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Aarambhi Seeks the Donor's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6221/1771321096221-h",
+                    "updateDate": "16-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "21m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Tandons' Family Celebration",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9500/1770983879500-h",
+                    "updateDate": "13-02-2026",
                     "episodeUrl": ""
                 }
             ]
