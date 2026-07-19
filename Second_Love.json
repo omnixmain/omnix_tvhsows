@@ -10,8 +10,8 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "19-07-2026",
-            "description": "12 singles in their 30s who have ended prior relationships move into a villa to find love and give it another chance. Watch Second Love - Tamil Telugu Malayalam Kannada Hindi Reality Romance serial on JioHotstar now.",
+            "ottReleaseDate": "20-07-2026",
+            "description": "12 singles in their 30s who have ended prior relationships move into a villa to find love and give it another chance. Watch Second Love - Hindi Telugu Tamil Kannada Malayalam Reality Romance serial on JioHotstar now.",
             "episodes": [
                 {
                     "seasonNumber": "1",
@@ -81,6 +81,76 @@
                     "episodeName": "Truths Unleashed",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/892/1783680000892-h",
                     "updateDate": "19-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "42m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Conversations That Matter",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6149/1783680016149-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "43m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "A Dish, A Choice, A Surprise",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8947/1783680028947-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "41m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Lost in a Maze, Found in Connection",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4777/1783680044777-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "42m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Eyes Don't Lie",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4955/1783664364955-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "42m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Conversations That Change Everything",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4955/1783664364955-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "46m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Letters, Apologies, Unspoken Emotions",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4955/1783664364955-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "41m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Headphones, Spice Jars, Heartfelt Moments",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6204/1784011836204-h",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 }
             ]
