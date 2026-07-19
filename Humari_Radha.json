@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Humari Radha",
-            "banner": "https://via.placeholder.com/800x450.png?text=ZEE5+Banner+Not+Found",
+            "banner": "https://via.placeholder.com/800x450.png?text=ZEE5+Banner",
             "genre": "Drama",
             "rating": "8.0",
             "year": "2026",
@@ -19,7 +19,7 @@
                     "duration": "45m",
                     "episodeCode": "S1-E1",
                     "episodeName": "Episode 1",
-                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=ZEE5+Banner+Not+Found",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=ZEE5+Banner",
                     "updateDate": "01-01-2026",
                     "episodeUrl": ""
                 }
