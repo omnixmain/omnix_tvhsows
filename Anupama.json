@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "19-07-2026",
+            "ottReleaseDate": "20-07-2026",
             "description": "From broken ambitions to changing relationships, Anupama has seen it all! A new journey brings her to the serene Goa. Will her passion find a new home? Watch Anupama - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
                 {
@@ -2815,72 +2815,1372 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "281",
+                    "episodeNumber": "1804",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1804",
+                    "episodeName": "Prem's Concern for Rahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9493/1760677169493-h",
+                    "updateDate": "17-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1803",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1803",
+                    "episodeName": "Anupama's Quest for Rahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/666/1760589680666-h",
+                    "updateDate": "16-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1802",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1802",
+                    "episodeName": "Rahi Caught in Prakash's Trap",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8886/1760494938886-h",
+                    "updateDate": "15-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1801",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1801",
+                    "episodeName": "Leela's Concern for Hasmukh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5265/1760404965265-h",
+                    "updateDate": "14-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1800",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1800",
+                    "episodeName": "Anupama's Promise for Justice",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2402/1760321272402-h",
+                    "updateDate": "13-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1799",
+                    "duration": "25m",
+                    "episodeCode": "S1-E1799",
+                    "episodeName": "Anupama Protects Girija",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7295/1760198927295-h",
+                    "updateDate": "12-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1798",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1798",
+                    "episodeName": "Anupama's Shocking Discovery",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8405/1760146448405-h",
+                    "updateDate": "11-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1797",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1797",
+                    "episodeName": "Girija Reveals Prakash's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5200/1760058465200-h",
+                    "updateDate": "10-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1796",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1796",
+                    "episodeName": "Ishani's Return Raises Suspicion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4923/1759973354923-h",
+                    "updateDate": "09-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1795",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1795",
+                    "episodeName": "Anupama Confronts Prakash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/99/1759888010099-h",
+                    "updateDate": "08-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1794",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1794",
+                    "episodeName": "Prakash Honours Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/848/1759810090848-h",
+                    "updateDate": "07-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1793",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1793",
+                    "episodeName": "Hasmukh in Peril?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5887/1759726955887-h",
+                    "updateDate": "06-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1792",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1792",
+                    "episodeName": "Anupama's Quest for Samar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5251/1759628935251-h",
+                    "updateDate": "05-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1791",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1791",
+                    "episodeName": "Rahi's Frightful Encounter",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7319/1759539627319-h",
+                    "updateDate": "04-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1790",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1790",
+                    "episodeName": "Samar's Memories Haunt Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1837/1759470061837-h",
+                    "updateDate": "03-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1789",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1789",
+                    "episodeName": "Anupama Shields Rahi from Danger",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7737/1759378417737-h",
+                    "updateDate": "02-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1788",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1788",
+                    "episodeName": "Devika's Compassion Moves Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5803/1759286695803-h",
+                    "updateDate": "01-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1787",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1787",
+                    "episodeName": "Parag Stands Up to Vasundhara",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7389/1759195617389-h",
+                    "updateDate": "30-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1786",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1786",
+                    "episodeName": "Anupama's Squad Hits the Road",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/916/1759119130916-h",
+                    "updateDate": "29-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1785",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1785",
+                    "episodeName": "Anupama's Prayer for a Safe Trip",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7999/1759025187999-h",
+                    "updateDate": "28-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1784",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1784",
+                    "episodeName": "Anupama Fulfils Devika's Dream",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7854/1758979627854-h",
+                    "updateDate": "27-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1783",
+                    "duration": "25m",
+                    "episodeCode": "S1-E1783",
+                    "episodeName": "Parag Supports Rahi's Goals",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4551/1758859724551-h",
+                    "updateDate": "26-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1782",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1782",
+                    "episodeName": "Anupama Learns Devika's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3190/1758744683190-h",
+                    "updateDate": "25-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1781",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1781",
+                    "episodeName": "Anupama Chooses to Forgive",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9301/1758674879301-h",
+                    "updateDate": "24-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1780",
                     "duration": "21m",
-                    "episodeCode": "S1-E281",
+                    "episodeCode": "S1-E1780",
+                    "episodeName": "Rahi Forgives Khyati's Mistake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8988/1758592698988-h",
+                    "updateDate": "23-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1779",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1779",
+                    "episodeName": "Khyati Struggles With Guilt",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5173/1758512995173-h",
+                    "updateDate": "22-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1778",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1778",
+                    "episodeName": "Parag's Stand for the Kotharis",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8968/1758420278968-h",
+                    "updateDate": "21-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1777",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1777",
+                    "episodeName": "Parag's Shocking Decision",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4604/1758342094604-h",
+                    "updateDate": "20-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1776",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1776",
+                    "episodeName": "Anupama Exposes Gautam's Video",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9148/1758253589148-h",
+                    "updateDate": "19-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1775",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1775",
+                    "episodeName": "Anupama Cuts Ties with Paritosh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3483/1758163103483-h",
+                    "updateDate": "18-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1774",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1774",
+                    "episodeName": "Paritosh Seeks Anupama's Help",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4720/1758036914720-h",
+                    "updateDate": "17-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1773",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1773",
+                    "episodeName": "Bharati's Heartfelt Gratitude",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1100/1757981861100-h",
+                    "updateDate": "16-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1772",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1772",
+                    "episodeName": "Anupama's Moment of Glory",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4056/1757907004056-h",
+                    "updateDate": "15-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1771",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1771",
+                    "episodeName": "Anupama's Win, Rahi's Pain",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1734/1757818541734-h",
+                    "updateDate": "14-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1770",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1770",
+                    "episodeName": "Will Anupama Win Over Rahi?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3110/1757734993110-h",
+                    "updateDate": "13-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1769",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1769",
+                    "episodeName": "Anupama, Rahi's Final Showdown",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9193/1757653049193-h",
+                    "updateDate": "12-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1768",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1768",
+                    "episodeName": "Parag's Timely Help for Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9185/1757558929185-h",
+                    "updateDate": "11-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1767",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1767",
+                    "episodeName": "Anupama Falls into Gautam's Trap",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5974/1757479835974-h",
+                    "updateDate": "10-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1766",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1766",
+                    "episodeName": "Anupama in the Spotlight",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9182/1757400709182-h",
+                    "updateDate": "09-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1765",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1765",
+                    "episodeName": "Anupama Senses Devika's Pain",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3858/1757299573858-h",
+                    "updateDate": "08-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1764",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1764",
+                    "episodeName": "Rahi's Bold Defiance",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8993/1757193848993-h",
+                    "updateDate": "07-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1763",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1763",
+                    "episodeName": "Dance Ranis Awaits Rahi's Call",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1497/1757103431497-h",
+                    "updateDate": "06-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1762",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1762",
+                    "episodeName": "Anupama Shines on Stage",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4431/1757047754431-h",
+                    "updateDate": "05-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1761",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1761",
+                    "episodeName": "Anupama, Rahi Honour Manohar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5465/1756952885465-h",
+                    "updateDate": "04-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1760",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1760",
+                    "episodeName": "Anupama, Rahi Clash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3375/1756868533375-h",
+                    "updateDate": "03-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1759",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1759",
+                    "episodeName": "Devika Hides Her Sorrow",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4972/1756782964972-h",
+                    "updateDate": "02-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1758",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1758",
+                    "episodeName": "Anupama Embraces Devika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2162/1756716452162-h",
+                    "updateDate": "01-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1757",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1757",
+                    "episodeName": "Parag's Emotional Confession",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1970/1756623491970-h",
+                    "updateDate": "31-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1756",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1756",
+                    "episodeName": "Gautam Vows against Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5133/1756540465133-h",
+                    "updateDate": "30-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1755",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1755",
+                    "episodeName": "Anupama Cherishes Anuj's Memories",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5874/1756442215874-h",
+                    "updateDate": "29-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1754",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1754",
+                    "episodeName": "Rahi-Prem Light Up Krishnashtami",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/320/1756346220320-h",
+                    "updateDate": "28-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1753",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1753",
+                    "episodeName": "Anupama's Troubling Dream",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5595/1756259145595-h",
+                    "updateDate": "27-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1752",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1752",
+                    "episodeName": "Parag Stands By Prarthana",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5836/1756169845836-h",
+                    "updateDate": "26-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1751",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1751",
+                    "episodeName": "Prarthana Rejoices Seeing Parag",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2803/1756081152803-h",
+                    "updateDate": "25-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1750",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1750",
+                    "episodeName": "Anupama Struggles with Rahi's Coldness",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5685/1756006205685-h",
+                    "updateDate": "24-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1749",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1749",
+                    "episodeName": "Prarthana Hopes for Parag's Arrival",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1068/1755919531068-h",
+                    "updateDate": "23-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1748",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1748",
+                    "episodeName": "Parag Confronts Vasundhara's Demand",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6231/1755822746231-h",
+                    "updateDate": "22-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1747",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1747",
+                    "episodeName": "Anupama Comforts Mahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2024/1755736732024-h",
+                    "updateDate": "21-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1746",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1746",
+                    "episodeName": "Vasundhara's Unexpected Demand",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2315/1755661952315-h",
+                    "updateDate": "20-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1745",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1745",
+                    "episodeName": "Prarthana, Ansh's Haldi Ceremony",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9264/1755582519264-h",
+                    "updateDate": "19-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1744",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1744",
+                    "episodeName": "Will Parag Bless Prarthana?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3593/1755477383593-h",
+                    "updateDate": "18-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1743",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1743",
+                    "episodeName": "Anupama Stands with Prarthana",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8210/1755381928210-h",
+                    "updateDate": "17-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1742",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1742",
+                    "episodeName": "Anupama Provides Evidence!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6998/1755288486998-h",
+                    "updateDate": "16-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1741",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1741",
+                    "episodeName": "Anupama Reunites with Bhavesh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5181/1755233145181-h",
+                    "updateDate": "15-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1740",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1740",
+                    "episodeName": "Prarthana's Rakhi Wins Hearts",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3749/1755143273749-h",
+                    "updateDate": "14-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1739",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1739",
+                    "episodeName": "Gautam Fuels Khyati's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2298/1755047552298-h",
+                    "updateDate": "13-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1738",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1738",
+                    "episodeName": "Paritosh Reveals Pakhi's Deed",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5460/1754977735460-h",
+                    "updateDate": "12-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1737",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1737",
+                    "episodeName": "Sarita Freed from Blame",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5486/1754888665486-h",
+                    "updateDate": "11-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1736",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1736",
+                    "episodeName": "Pakhi Points Finger at Sarita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9013/1754776479013-h",
+                    "updateDate": "10-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1735",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1735",
+                    "episodeName": "Ansh's Promise at Mehendi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6969/1754756116969-h",
+                    "updateDate": "09-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1734",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1734",
+                    "episodeName": "Leela Shares Her Fear with Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7870/1754629297870-h",
+                    "updateDate": "08-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1733",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1733",
+                    "episodeName": "Parag's Advice to Rahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1359/1754537501359-h",
+                    "updateDate": "07-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1732",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1732",
+                    "episodeName": "Anupama's Stern Warning to Gautam",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7130/1754442927130-h",
+                    "updateDate": "06-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1731",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1731",
+                    "episodeName": "Prem Confronts Khyati",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3357/1754373053357-h",
+                    "updateDate": "05-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1730",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1730",
+                    "episodeName": "Parag's Unexpected Move",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5001/1754283505001-h",
+                    "updateDate": "04-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1729",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1729",
+                    "episodeName": "Anupama's Past Holds Her Back",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3790/1754182263790-h",
+                    "updateDate": "03-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1728",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1728",
+                    "episodeName": "Leela Opposes Ansh's Decision",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5182/1754116675182-h",
+                    "updateDate": "02-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1727",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1727",
+                    "episodeName": "Anupama Guides Ansh, Prarthana",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4662/1754020394662-h",
+                    "updateDate": "01-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1726",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1726",
+                    "episodeName": "Prem Calms Rahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4237/1753934324237-h",
+                    "updateDate": "31-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1725",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1725",
+                    "episodeName": "Anupama's Return Stirs Emotions",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3359/1753848543359-h",
+                    "updateDate": "30-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1724",
+                    "duration": "26m",
+                    "episodeCode": "S1-E1724",
+                    "episodeName": "Rahi, Anupama's Heated Clash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4383/1753763594383-h",
+                    "updateDate": "29-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1723",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1723",
+                    "episodeName": "Tension Rises Between Gautam, Ansh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9142/1753674279142-h",
+                    "updateDate": "28-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1722",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1722",
+                    "episodeName": "Anupama Rejects Parag's Offer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7904/1753587477904-h",
+                    "updateDate": "27-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1721",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1721",
+                    "episodeName": "Parag Eases Rahi's Anxiety",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4745/1753489564745-h",
+                    "updateDate": "26-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1720",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1720",
+                    "episodeName": "Anupama's Vow of Redemption",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/275/1753417210275-h",
+                    "updateDate": "25-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1719",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1719",
+                    "episodeName": "Wild Card Entry for Anupama's Team",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6606/1753329016606-h",
+                    "updateDate": "24-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1718",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1718",
+                    "episodeName": "A Shocker for Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4623/1753241514623-h",
+                    "updateDate": "23-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1717",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1717",
+                    "episodeName": "Anupama Stands Her Ground",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2772/1753153672772-h",
+                    "updateDate": "22-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1716",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1716",
+                    "episodeName": "Prem Caught in the Crossfire",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1114/1753068151114-h",
+                    "updateDate": "21-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1715",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1715",
+                    "episodeName": "Can Anupama Dance Through Pain?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4035/1752971614035-h",
+                    "updateDate": "20-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1714",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1714",
+                    "episodeName": "Ansh's Vow to Prarthana",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/142/1752886280142-h",
+                    "updateDate": "19-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1713",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1713",
+                    "episodeName": "Rahi's Team Enters Semi-Finals",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5703/1752788885703-h",
+                    "updateDate": "18-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1712",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1712",
+                    "episodeName": "Anupama Faces Sarita's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4579/1752709664579-h",
+                    "updateDate": "17-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1711",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1711",
+                    "episodeName": "Will Anupama-Rahi's Paths Cross?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4520/1752620984520-h",
+                    "updateDate": "16-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1710",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1710",
+                    "episodeName": "Rahi Reaches Out to Manohar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9634/1752549259634-h",
+                    "updateDate": "15-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1709",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1709",
+                    "episodeName": "Jaspreet Confronts Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9428/1752456189428-h",
+                    "updateDate": "14-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1708",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1708",
+                    "episodeName": "Will Anupama's Team Secure a Spot?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6279/1752365026279-h",
+                    "updateDate": "13-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1707",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1707",
+                    "episodeName": "Sarita's Nervous Moment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5213/1752291045213-h",
+                    "updateDate": "12-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1706",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1706",
+                    "episodeName": "Prem Comforts Rahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4867/1752205264867-h",
+                    "updateDate": "11-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1705",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1705",
+                    "episodeName": "A Shocking Moment for Prem",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4014/1752115374014-h",
+                    "updateDate": "10-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1704",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1704",
+                    "episodeName": "Anupama Takes the Lead",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4295/1752046444295-h",
+                    "updateDate": "09-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1703",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1703",
+                    "episodeName": "Will Manohar's Words Move Anupama?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/709/1751942510709-h",
+                    "updateDate": "08-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1702",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1702",
+                    "episodeName": "Anupama's Trick for Rita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4903/1751858574903-h",
+                    "updateDate": "07-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1701",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1701",
+                    "episodeName": "Prem Defends Rahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5585/1751751515585-h",
+                    "updateDate": "06-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1700",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1700",
+                    "episodeName": "Bharati Discovers Anupama's Video",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2643/1751685162643-h",
+                    "updateDate": "05-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1699",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1699",
+                    "episodeName": "Parag, Khyati's Clash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2062/1751600882062-h",
+                    "updateDate": "04-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1698",
+                    "duration": "24m",
+                    "episodeCode": "S1-E1698",
+                    "episodeName": "Rahi and Mahi's Dance Face-Off",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8761/1751509888761-h",
+                    "updateDate": "03-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1697",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1697",
+                    "episodeName": "Kinjal Exposes Audit Flaws",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4694/1751415694694-h",
+                    "updateDate": "02-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1696",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1696",
+                    "episodeName": "Anupama's Fight For Bharati's Surgery",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7647/1751331807647-h",
+                    "updateDate": "01-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1695",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1695",
+                    "episodeName": "Prarthana's Moment of Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2185/1751221932185-h",
+                    "updateDate": "30-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1694",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1694",
+                    "episodeName": "Anupama Uplifts Manohar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6581/1751145086581-h",
+                    "updateDate": "29-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1693",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1693",
+                    "episodeName": "Hasmukh Opens Up to Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5209/1751059635209-h",
+                    "updateDate": "28-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1692",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1692",
+                    "episodeName": "A Surprise for Rahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4525/1750973314525-h",
+                    "updateDate": "27-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1691",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1691",
+                    "episodeName": "Mahi Fuels the Rift",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8513/1750909408513-h",
+                    "updateDate": "26-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1690",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1690",
+                    "episodeName": "Paritosh's Greedy Mission",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6075/1750834196075-h",
+                    "updateDate": "25-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1689",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1689",
+                    "episodeName": "Anupama Faces False Accusations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6880/1750719966880-h",
+                    "updateDate": "24-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1688",
+                    "duration": "30m",
+                    "episodeCode": "S1-E1688",
+                    "episodeName": "Manohar's Emotional Breakdown",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2985/1750651812985-h",
+                    "updateDate": "23-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1687",
+                    "duration": "30m",
+                    "episodeCode": "S1-E1687",
+                    "episodeName": "Bharati's Decision to Move On",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5420/1750560845420-h",
+                    "updateDate": "22-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1686",
+                    "duration": "30m",
+                    "episodeCode": "S1-E1686",
+                    "episodeName": "Parag Eases Rahi's Worries",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4300/1750467644300-h",
+                    "updateDate": "21-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1685",
+                    "duration": "30m",
+                    "episodeCode": "S1-E1685",
+                    "episodeName": "Anupama's Silent Blessing",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6198/1750386146198-h",
+                    "updateDate": "20-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1684",
+                    "duration": "30m",
+                    "episodeCode": "S1-E1684",
+                    "episodeName": "Prem's Apology to Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5505/1750298835505-h",
+                    "updateDate": "19-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1683",
+                    "duration": "30m",
+                    "episodeCode": "S1-E1683",
+                    "episodeName": "Vasundhara's Warning to Mahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5450/1750210375450-h",
+                    "updateDate": "18-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1682",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1682",
+                    "episodeName": "Ansh Fears for Prarthana",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7829/1750121027829-h",
+                    "updateDate": "17-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1681",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1681",
+                    "episodeName": "Pakhi Taunts Rahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5983/1750007495983-h",
+                    "updateDate": "16-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1680",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1680",
+                    "episodeName": "Ansh Faces False Accusations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/497/1749935640497-h",
+                    "updateDate": "15-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1679",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1679",
+                    "episodeName": "Parag and Khyati at Odds",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8691/1749851728691-h",
+                    "updateDate": "14-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1678",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1678",
+                    "episodeName": "Khyati Criticises Rahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9661/1749788519661-h",
+                    "updateDate": "13-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1677",
+                    "duration": "25m",
+                    "episodeCode": "S1-E1677",
+                    "episodeName": "Anupama's Silent Struggles",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9757/1749689169757-h",
+                    "updateDate": "12-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1676",
+                    "duration": "25m",
+                    "episodeCode": "S1-E1676",
+                    "episodeName": "Rahi's Fury Against Anupama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/88/1749620870088-h",
+                    "updateDate": "11-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1675",
+                    "duration": "25m",
+                    "episodeCode": "S1-E1675",
+                    "episodeName": "Will Anupama and Rahi Unite?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9324/1749523229324-h",
+                    "updateDate": "10-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "411",
+                    "duration": "21m",
+                    "episodeCode": "S1-E411",
                     "episodeName": "Anupama, Anuj Shake a Leg",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "19-07-2026",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "282",
+                    "episodeNumber": "412",
                     "duration": "20m",
-                    "episodeCode": "S1-E282",
+                    "episodeCode": "S1-E412",
                     "episodeName": "Anuj Longs for Anupama",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "19-07-2026",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "283",
+                    "episodeNumber": "413",
                     "duration": "20m",
-                    "episodeCode": "S1-E283",
+                    "episodeCode": "S1-E413",
                     "episodeName": "Kavya Is Thrilled",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "19-07-2026",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "284",
+                    "episodeNumber": "414",
                     "duration": "20m",
-                    "episodeCode": "S1-E284",
+                    "episodeCode": "S1-E414",
                     "episodeName": "Samar's Life in Peril",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "19-07-2026",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "285",
+                    "episodeNumber": "415",
                     "duration": "20m",
-                    "episodeCode": "S1-E285",
+                    "episodeCode": "S1-E415",
                     "episodeName": "The Shahs Meet Anuj",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "19-07-2026",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "286",
+                    "episodeNumber": "416",
                     "duration": "20m",
-                    "episodeCode": "S1-E286",
+                    "episodeCode": "S1-E416",
                     "episodeName": "Anupama Attends the Meeting",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "19-07-2026",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "287",
+                    "episodeNumber": "417",
                     "duration": "20m",
-                    "episodeCode": "S1-E287",
+                    "episodeCode": "S1-E417",
                     "episodeName": "Samar, Nandini Get Romantic",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "19-07-2026",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 }
             ]
