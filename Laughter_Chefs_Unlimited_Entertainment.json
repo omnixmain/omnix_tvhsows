@@ -14,16 +14,6 @@
             "description": "Triple the Laughter Tadka! Beloved celebrity couples gear up for a cooking face-off like no other—serving entertainment straight from the comedy kitchen. Watch Laughter Chefs Unlimited Entertainment - Hindi Reality Comedy Food serial on JioHotstar now.",
             "episodes": [
                 {
-                    "seasonNumber": "3",
-                    "episodeNumber": "70",
-                    "duration": "45m",
-                    "episodeCode": "S3-E70",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5671/1781702455671-i",
-                    "updateDate": "19-07-2026",
-                    "episodeUrl": ""
-                },
-                {
                     "seasonNumber": "1",
                     "episodeNumber": "1",
                     "duration": "1h 51m",
@@ -901,6 +891,16 @@
                     "episodeName": "The Grand Cook-off! Who Takes the Trophy ?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4805/1753504664805-h",
                     "updateDate": "27-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "70",
+                    "duration": "1h 32m",
+                    "episodeCode": "S3-E70",
+                    "episodeName": "The Trophy Is Here",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8806/1784369228806-h",
+                    "updateDate": "19-07-2026",
                     "episodeUrl": ""
                 },
                 {
