@@ -1,0 +1,119 @@
+{
+    "tvShows": [
+        {
+            "name": "Teach You a Lesson",
+            "banner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQUUl6ldKJ7ew3knRWbvw9ih3LflqwH1VazOa-J9G5PfAodrDB7ngwn5b2bi1oTDDe9z_FrxjXjX9zelmN5qDuUjwHjIDbxQlJpJ.jpg?r=56a",
+            "genre": "Reality Programming",
+            "rating": "8.5",
+            "year": "2026",
+            "ageRating": "U/A 16+",
+            "streaming": "Netflix",
+            "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "01-01-2026",
+            "description": "",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "1h 1m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Episode 10",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569612.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "1h 7m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Episode 9",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569611.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "1h",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Episode 8",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569610.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "1h 4m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Episode 7",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569609.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "1h 9m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Episode 6",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569608.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Episode 5",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569607.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "1h 8m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Episode 4",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569606.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "1h 12m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Episode 3",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569605.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "57m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Episode 2",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569604.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "52m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Episode 1",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569603.jpg",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
