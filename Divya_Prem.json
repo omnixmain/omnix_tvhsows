@@ -10,19 +10,9 @@
             "streaming": "SunNXT",
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
             "language": "Hindi",
-            "ottReleaseDate": "20-07-2026",
+            "ottReleaseDate": "21-07-2026",
             "description": "Divya Prem",
             "episodes": [
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "314",
-                    "duration": "22m",
-                    "episodeCode": "S1-E314",
-                    "episodeName": "E314 - Apr 29, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/250171/1920x1080_DivyaPremApr292026_250171_f137f758-772c-480b-bcb5-fffb28daa578.jpg",
-                    "updateDate": "29-04-2026",
-                    "episodeUrl": ""
-                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "315",
@@ -711,6 +701,16 @@
                     "episodeName": "E383 - Jul 18, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/255956/1920x1080_DivyaPremJul182026_255956_dd733619-0d60-46ed-83d7-32a560ea55a4.jpg",
                     "updateDate": "18-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "384",
+                    "duration": "22m",
+                    "episodeCode": "S1-E384",
+                    "episodeName": "E384 - Jul 20, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/256736/1920x1080_DivyaPremJul202026_256736_320e5825-6f0c-4214-8f0e-9817a8799f34.jpg",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 }
             ]
