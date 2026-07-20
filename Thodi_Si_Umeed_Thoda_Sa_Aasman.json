@@ -10,7 +10,7 @@
             "streaming": "SunNXT",
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
             "language": "Hindi",
-            "ottReleaseDate": "20-07-2026",
+            "ottReleaseDate": "21-07-2026",
             "description": "Thodi Si Umeed Thoda Sa Aasman New Serial",
             "episodes": [
                 {
@@ -141,6 +141,16 @@
                     "episodeName": "E12 - Jul 18, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/255957/1920x1080_ThodiSiUmeedThodaSaAasmanJul182026_255957_c78c4bcf-7457-4a75-b2bf-3376f904080b.jpg",
                     "updateDate": "18-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "22m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "E13 - Jul 20, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/256737/1920x1080_ThodiSiUmeedThodaSaAasmanJul202026_256737_c04f3336-b7c8-41e7-a331-4728c8856a13.jpg",
+                    "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 }
             ]
