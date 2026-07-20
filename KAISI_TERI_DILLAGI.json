@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "22m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "EP 13 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2013-20072026181002",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "12",
                     "duration": "22m",
                     "episodeCode": "S1-E12",
