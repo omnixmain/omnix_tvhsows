@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "96",
+                    "duration": "36m",
+                    "episodeCode": "S1-E96",
+                    "episodeName": "Shivaay's Words Break Aadhya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/357/1784491460357-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "95",
                     "duration": "42m",
                     "episodeCode": "S1-E95",
