@@ -10,16 +10,26 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "20-07-2026",
+            "ottReleaseDate": "21-07-2026",
             "description": "Abandoned by her mother, Mannat becomes a successful chef and finds love with Vikrant, only for destiny to separate them. Will she be able to reclaim her love? Watch Mannat - Har Khushi Paane Ki - Hindi Family Drama Romance serial on JioHotstar now.",
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "498",
+                    "duration": "21m",
+                    "episodeCode": "S1-E498",
+                    "episodeName": "Dua Narrates a Story",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2196/1784553802196-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "497",
-                    "duration": "19m",
+                    "duration": "21m",
                     "episodeCode": "S1-E497",
                     "episodeName": "Samragi Learns Mannat's Truth",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5630/1784466925630-h",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7176/1784560837176-h",
                     "updateDate": "19-07-2026",
                     "episodeUrl": ""
                 },
