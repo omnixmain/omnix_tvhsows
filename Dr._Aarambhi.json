@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "20-07-2026",
+            "ottReleaseDate": "21-07-2026",
             "description": "Once an AIPMT topper, Aarambhi’s life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance? Watch Dr. Aarambhi - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "135",
+                    "duration": "21m",
+                    "episodeCode": "S1-E135",
+                    "episodeName": "Can Aarambhi Foil the Dowry Plan?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3136/1784556493136-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "134",
@@ -1301,56 +1311,6 @@
                     "episodeName": "Manmeet Warns of Death",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2090/1770113722090-h",
                     "updateDate": "03-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "5",
-                    "duration": "23m",
-                    "episodeCode": "S1-E5",
-                    "episodeName": "Aarambhi's Medical Crisis",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/150/1770007470150-h",
-                    "updateDate": "02-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "25m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Vishwas Betrays Aarambhi",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7450/1769776467450-h",
-                    "updateDate": "30-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "28m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Aarambhi and Vishwas's Anniversary",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7347/1769620937347-h",
-                    "updateDate": "29-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "28m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Vishwas's Grand Proposal",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3167/1769532963167-h",
-                    "updateDate": "28-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "34m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Aarambhi's New Beginnings",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4182/1769502564182-h",
-                    "updateDate": "27-01-2026",
                     "episodeUrl": ""
                 }
             ]
