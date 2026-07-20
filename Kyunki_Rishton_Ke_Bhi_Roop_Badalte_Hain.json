@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "20-07-2026",
+            "ottReleaseDate": "21-07-2026",
             "description": "Away from the Viranis, power couple Angad and Vrinda journey to Jamshedpur on a secret mission. With love and wits, can they unveil the big conspiracy? Watch Kyunki Rishton Ke Bhi Roop Badalte Hain - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "123",
+                    "duration": "18m",
+                    "episodeCode": "S1-E123",
+                    "episodeName": "Vikas Seeks Angad's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6647/1784548416647-h",
+                    "updateDate": "20-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "122",
@@ -1111,6 +1121,126 @@
                     "episodeName": "Vrinda Faces a Heartbreak",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4932/1775662124932-h",
                     "updateDate": "01-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "15m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Vikrant's Hidden Conspiracy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5861/1775771575861-h",
+                    "updateDate": "31-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "14m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Vrinda Suspects Vikrant",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8475/1775770688475-h",
+                    "updateDate": "30-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "15m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Ram Navami at the Factory",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5233/1775747485233-h",
+                    "updateDate": "29-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "15m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Bharati Shares Her Wish with Angad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7131/1779081657131-h",
+                    "updateDate": "28-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "15m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Vrinda, Angad Share a Moment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/663/1778461850663-h",
+                    "updateDate": "27-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "15m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Ram Navami Preparations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9060/1775662079060-h",
+                    "updateDate": "26-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "17m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Angad And Vrinda Caught Together",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8096/1775662048096-h",
+                    "updateDate": "25-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "17m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Vrinda Recruits Angad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5463/1776666205463-h",
+                    "updateDate": "24-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "17m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Nandu Confronts Angad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3940/1776085713940-h",
+                    "updateDate": "23-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "17m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Angad's Tough Choice",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7079/1775662007079-h",
+                    "updateDate": "22-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "17m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Mangal Strikes Angad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2691/1775660582691-h",
+                    "updateDate": "21-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "17m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "A New Path for Angad, Vrinda",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1398/1775660541398-h",
+                    "updateDate": "20-03-2026",
                     "episodeUrl": ""
                 }
             ]
