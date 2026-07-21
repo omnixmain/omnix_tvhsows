@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "136",
+                    "duration": "22m",
+                    "episodeCode": "S1-E136",
+                    "episodeName": "Naira's Shocking Discovery",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8276/1784639848276-h",
+                    "updateDate": "21-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "135",
                     "duration": "21m",
                     "episodeCode": "S1-E135",
