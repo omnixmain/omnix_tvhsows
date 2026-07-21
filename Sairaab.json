@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "20m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Nayanika Rescues Ishaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2838/1784599272838-h",
+                    "updateDate": "21-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "49",
                     "duration": "21m",
                     "episodeCode": "S1-E49",
