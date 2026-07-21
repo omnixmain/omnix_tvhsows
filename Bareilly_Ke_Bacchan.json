@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "21m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Will Sangam Learn the Truth?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7771/1784601017771-h",
+                    "updateDate": "21-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "33",
                     "duration": "22m",
                     "episodeCode": "S1-E33",
