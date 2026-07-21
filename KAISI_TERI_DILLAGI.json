@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "22m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "EP 14 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a5f58d2a73b9c3dd6cf6c2e-1784633554933-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "updateDate": "21-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "13",
                     "duration": "22m",
                     "episodeCode": "S1-E13",
