@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "143",
+                    "duration": "22m",
+                    "episodeCode": "S1-E143",
+                    "episodeName": "Rajji, Narmada Suspect a Plot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5864/1784601195864-h",
+                    "updateDate": "21-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "142",
                     "duration": "21m",
                     "episodeCode": "S1-E142",
