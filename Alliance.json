@@ -10,7 +10,7 @@
             "streaming": "Prime Video",
             "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
             "language": "English / Hindi",
-            "ottReleaseDate": "21-07-2026",
+            "ottReleaseDate": "22-07-2026",
             "description": "Watch Alliance on Prime Video.",
             "episodes": [
                 {
@@ -18,9 +18,9 @@
                     "episodeNumber": "1",
                     "duration": "45m",
                     "episodeCode": "S1-E1",
-                    "episodeName": "Episodes 31-8",
+                    "episodeName": "Episodes 33-10",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "21-07-2026",
+                    "updateDate": "22-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -28,29 +28,9 @@
                     "episodeNumber": "2",
                     "duration": "45m",
                     "episodeCode": "S1-E2",
-                    "episodeName": "Episodes 7-1",
+                    "episodeName": "Episodes 9-1",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "21-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "8",
-                    "duration": "45m",
-                    "episodeCode": "S1-E8",
-                    "episodeName": "Episode 8: Week 1 Recap",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/8a17a9c39d0973c087f967548c8ef582bf839e2912772faad5b6a7985791bb1c._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "03-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "9",
-                    "duration": "45m",
-                    "episodeCode": "S1-E9",
-                    "episodeName": "Episode 9",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/9a9337cb00022c0594184cc5a8b54c6f6652160d10059184594dbe015c2b8f9e._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "03-07-2026",
+                    "updateDate": "22-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -259,7 +239,7 @@
                     "duration": "45m",
                     "episodeCode": "S1-E30",
                     "episodeName": "Episode 30",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/674d18d607907399bcecdf61b998d30eddb8c5a55f4eea4958ea84b0951cdffe._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/684a49e125085e1b85e18a0211e706870ace3e36eeefd57b211d1866a046a0fb._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "22-07-2026",
                     "episodeUrl": ""
                 },
@@ -271,6 +251,26 @@
                     "episodeName": "Episode 31",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "23-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "45m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Episode 32 - Week 4 Recap",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "23-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "45m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Episode 33",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "24-07-2026",
                     "episodeUrl": ""
                 }
             ]
