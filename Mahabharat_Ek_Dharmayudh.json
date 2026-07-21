@@ -212,6 +212,56 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/737/1772784090737-h",
                     "updateDate": "07-03-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "24m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Eklavya's Sacrifice",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/294/1773386280294-h",
+                    "updateDate": "14-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "26m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Rivalry Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4658/1774012704658-h",
+                    "updateDate": "21-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "24m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "The Debt of Drona",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7503/1774615827503-h",
+                    "updateDate": "28-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "26m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Rise of Dharma",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/53/1775216900053-h",
+                    "updateDate": "04-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "28m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "The Night of Fire, The Dawn of Krishna",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2409/1775833112409-h",
+                    "updateDate": "11-04-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
