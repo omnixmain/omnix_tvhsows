@@ -14,886 +14,6 @@
             "description": "Triple the Laughter Tadka! Beloved celebrity couples gear up for a cooking face-off like no other—serving entertainment straight from the comedy kitchen. Watch Laughter Chefs Unlimited Entertainment - Hindi Reality Comedy Food serial on JioHotstar now.",
             "episodes": [
                 {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "1h 51m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "The culinary battle begins!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/846/1734131110846-h",
-                    "updateDate": "01-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "1h 24m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "It's time to cook Shaadi Ke Laddu",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7425/1734131097425-h",
-                    "updateDate": "02-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "1h 23m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Sonam savours the Desi dishes",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4022/1734131314022-h",
-                    "updateDate": "08-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "1h 17m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "It's a birthday cake challenge!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4037/1734131294037-h",
-                    "updateDate": "09-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "5",
-                    "duration": "1h 26m",
-                    "episodeCode": "S1-E5",
-                    "episodeName": "Sweet laughs, sweet dishes",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5164/1734131345164-h",
-                    "updateDate": "15-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "6",
-                    "duration": "1h 22m",
-                    "episodeCode": "S1-E6",
-                    "episodeName": "A challenge for steady hands",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9999/1734131479999-h",
-                    "updateDate": "16-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "8",
-                    "duration": "1h 16m",
-                    "episodeCode": "S1-E8",
-                    "episodeName": "Harpal Singh Sokhi's Shahi Treats!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9930/1734131579930-h",
-                    "updateDate": "23-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "9",
-                    "duration": "1h 19m",
-                    "episodeCode": "S1-E9",
-                    "episodeName": "Suniel Shetty graces the show!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/925/1734131840925-h",
-                    "updateDate": "29-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "10",
-                    "duration": "1h 23m",
-                    "episodeCode": "S1-E10",
-                    "episodeName": "Contestants get a solid backing!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6874/1734131836874-h",
-                    "updateDate": "30-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "11",
-                    "duration": "1h 19m",
-                    "episodeCode": "S1-E11",
-                    "episodeName": "The partner exchange challenge",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6117/1734132076117-h",
-                    "updateDate": "06-07-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "12",
-                    "duration": "1h 17m",
-                    "episodeCode": "S1-E12",
-                    "episodeName": "The ultimate culinary challenge!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9293/1734132069293-h",
-                    "updateDate": "07-07-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "13",
-                    "duration": "1h 16m",
-                    "episodeCode": "S1-E13",
-                    "episodeName": "A wedding ceremony!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2015/1734132152015-h",
-                    "updateDate": "13-07-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "14",
-                    "duration": "1h 17m",
-                    "episodeCode": "S1-E14",
-                    "episodeName": "Chefs get genie help!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5826/1734132145826-h",
-                    "updateDate": "14-07-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "15",
-                    "duration": "1h 17m",
-                    "episodeCode": "S1-E15",
-                    "episodeName": "Orry Awatramani graces the show!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1548/1734132311548-h",
-                    "updateDate": "20-07-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "16",
-                    "duration": "1h 14m",
-                    "episodeCode": "S1-E16",
-                    "episodeName": "Khiladis team up with the chefs",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6750/1734132306750-h",
-                    "updateDate": "21-07-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "17",
-                    "duration": "1h 8m",
-                    "episodeCode": "S1-E17",
-                    "episodeName": "Chefs Venture into Punjabi Cuisine!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9614/1734132419614-h",
-                    "updateDate": "01-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "18",
-                    "duration": "58m",
-                    "episodeCode": "S1-E18",
-                    "episodeName": "Vicky's birthday celebration",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4577/1734132384577-h",
-                    "updateDate": "02-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "19",
-                    "duration": "55m",
-                    "episodeCode": "S1-E19",
-                    "episodeName": "Naga Panchami's sizzling cook-off!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5556/1734132515556-h",
-                    "updateDate": "08-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "20",
-                    "duration": "57m",
-                    "episodeCode": "S1-E20",
-                    "episodeName": "Shraddha Kapoor dazzles the stage!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8346/1734132488346-h",
-                    "updateDate": "09-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "21",
-                    "duration": "1h 0m",
-                    "episodeCode": "S1-E21",
-                    "episodeName": "Akshay-Fardeen grace the show!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5503/1734132615503-h",
-                    "updateDate": "15-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "22",
-                    "duration": "57m",
-                    "episodeCode": "S1-E22",
-                    "episodeName": "Bharti's team cooks up laughter!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/498/1734132610498-h",
-                    "updateDate": "16-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "23",
-                    "duration": "56m",
-                    "episodeCode": "S1-E23",
-                    "episodeName": "Raksha Bandhan's special task",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2503/1734132562503-h",
-                    "updateDate": "22-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "24",
-                    "duration": "57m",
-                    "episodeCode": "S1-E24",
-                    "episodeName": "Krishna Janmashtami special dishes",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5604/1734132555604-h",
-                    "updateDate": "23-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "25",
-                    "duration": "1h 1m",
-                    "episodeCode": "S1-E25",
-                    "episodeName": "Back to the Golden Age!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6512/1734132686512-h",
-                    "updateDate": "29-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "26",
-                    "duration": "1h 1m",
-                    "episodeCode": "S1-E26",
-                    "episodeName": "The contestants are interrogated",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9506/1734132679506-h",
-                    "updateDate": "30-08-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "27",
-                    "duration": "48m",
-                    "episodeCode": "S1-E27",
-                    "episodeName": "The Laughter Chefs junction!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8139/1734132838139-h",
-                    "updateDate": "05-09-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "28",
-                    "duration": "1h 3m",
-                    "episodeCode": "S1-E28",
-                    "episodeName": "Ganesh Chaturthi with Kangana!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7623/1734132827623-h",
-                    "updateDate": "06-09-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "29",
-                    "duration": "52m",
-                    "episodeCode": "S1-E29",
-                    "episodeName": "Kashmiri delights with Jannat!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8942/1734132768942-h",
-                    "updateDate": "12-09-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "30",
-                    "duration": "51m",
-                    "episodeCode": "S1-E30",
-                    "episodeName": "Nia Sharma's birthday celebrations!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5723/1734132965723-h",
-                    "updateDate": "13-09-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "31",
-                    "duration": "1h 0m",
-                    "episodeCode": "S1-E31",
-                    "episodeName": "The great mimicry challenge",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/552/1734133060552-h",
-                    "updateDate": "19-09-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "32",
-                    "duration": "51m",
-                    "episodeCode": "S1-E32",
-                    "episodeName": "Rahul's rocking birthday bash!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/534/1734133050534-h",
-                    "updateDate": "20-09-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "33",
-                    "duration": "54m",
-                    "episodeCode": "S1-E33",
-                    "episodeName": "The purr-fect dessert challenge!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5577/1734132985577-h",
-                    "updateDate": "26-09-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "34",
-                    "duration": "51m",
-                    "episodeCode": "S1-E34",
-                    "episodeName": "The great Khow Suey showdown",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9305/1734133179305-h",
-                    "updateDate": "27-09-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "35",
-                    "duration": "54m",
-                    "episodeCode": "S1-E35",
-                    "episodeName": "Munawar lights up the stage!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1210/1734133121210-h",
-                    "updateDate": "03-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "36",
-                    "duration": "57m",
-                    "episodeCode": "S1-E36",
-                    "episodeName": "Navaratri fiesta with Mexican tadka",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/184/1734133110184-h",
-                    "updateDate": "04-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "1",
-                    "duration": "1h 54m",
-                    "episodeCode": "S2-E1",
-                    "episodeName": "Comedy Ka Blast Phir Se!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2365/1738582122365-h",
-                    "updateDate": "25-01-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "2",
-                    "duration": "1h 12m",
-                    "episodeCode": "S2-E2",
-                    "episodeName": "Rules Maano Ya Jail Jao!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8775/1738668128775-h",
-                    "updateDate": "26-01-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "3",
-                    "duration": "1h 10m",
-                    "episodeCode": "S2-E3",
-                    "episodeName": "Papad Mystery Hoga Crack?",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1206/1738668161206-h",
-                    "updateDate": "01-02-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "5",
-                    "duration": "1h 14m",
-                    "episodeCode": "S2-E5",
-                    "episodeName": "Rasgulla Nahi, Dil-Gulla!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2795/1739211422795-h",
-                    "updateDate": "08-02-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "6",
-                    "duration": "1h 10m",
-                    "episodeCode": "S2-E6",
-                    "episodeName": "'Dalda' Ka Raaz Kiya Crack?",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8974/1739211298974-h",
-                    "updateDate": "09-02-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "7",
-                    "duration": "1h 13m",
-                    "episodeCode": "S2-E7",
-                    "episodeName": "Elvish's Big Announcement",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8394/1739534428394-h",
-                    "updateDate": "15-02-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "8",
-                    "duration": "1h 18m",
-                    "episodeCode": "S2-E8",
-                    "episodeName": "Abhishek & Samarth's Candy Floss Trick",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4741/1739629004741-h",
-                    "updateDate": "16-02-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "9",
-                    "duration": "1h 18m",
-                    "episodeCode": "S2-E9",
-                    "episodeName": "MahaShivaratri: Abhishek-Samarth’s Star Quest!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3514/1740221063514-h",
-                    "updateDate": "22-02-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "10",
-                    "duration": "1h 11m",
-                    "episodeCode": "S2-E10",
-                    "episodeName": "Team Elvish vs Team Abhishek: Game on, Flame on!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1651/1740307941651-h",
-                    "updateDate": "23-02-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "11",
-                    "duration": "1h 27m",
-                    "episodeCode": "S2-E11",
-                    "episodeName": "Bollywood Night",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6666/1740814346666-h",
-                    "updateDate": "01-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "12",
-                    "duration": "1h 12m",
-                    "episodeCode": "S2-E12",
-                    "episodeName": "Circus on a plate!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6041/1740910126041-h",
-                    "updateDate": "02-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "13",
-                    "duration": "1h 20m",
-                    "episodeCode": "S2-E13",
-                    "episodeName": "A World of Tastes",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9387/1741440029387-h",
-                    "updateDate": "08-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "14",
-                    "duration": "1h 16m",
-                    "episodeCode": "S2-E14",
-                    "episodeName": "Rang Barse & Recipe Wars!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6326/1741504436326-h",
-                    "updateDate": "09-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "15",
-                    "duration": "1h 17m",
-                    "episodeCode": "S2-E15",
-                    "episodeName": "Adla Badli in the Kitchen",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9784/1742035649784-h",
-                    "updateDate": "15-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "16",
-                    "duration": "1h 13m",
-                    "episodeCode": "S2-E16",
-                    "episodeName": "Abdu & Krushna’s Rap Twist",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5263/1742110695263-h",
-                    "updateDate": "16-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "17",
-                    "duration": "1h 14m",
-                    "episodeCode": "S2-E17",
-                    "episodeName": "Bhola Is Back with a Bang!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9976/1742626219976-h",
-                    "updateDate": "22-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "18",
-                    "duration": "1h 8m",
-                    "episodeCode": "S2-E18",
-                    "episodeName": "Bachpan ke Din",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1018/1742626691018-h",
-                    "updateDate": "23-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "19",
-                    "duration": "1h 11m",
-                    "episodeCode": "S2-E19",
-                    "episodeName": "Groom Hunt for Mannara!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6257/1743229776257-h",
-                    "updateDate": "29-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "20",
-                    "duration": "1h 6m",
-                    "episodeCode": "S2-E20",
-                    "episodeName": "Battle of the Bhaujis!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9986/1743319329986-h",
-                    "updateDate": "30-03-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "21",
-                    "duration": "1h 16m",
-                    "episodeCode": "S2-E21",
-                    "episodeName": "Padosi, Sabzi Mandi and Madness!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2383/1743828102383-h",
-                    "updateDate": "05-04-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "22",
-                    "duration": "1h 3m",
-                    "episodeCode": "S2-E22",
-                    "episodeName": "Bhakti ka Bhog!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7305/1743828197305-h",
-                    "updateDate": "06-04-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "23",
-                    "duration": "1h 8m",
-                    "episodeCode": "S2-E23",
-                    "episodeName": "Tasting ka Twist!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7662/1744456887662-h",
-                    "updateDate": "12-04-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "24",
-                    "duration": "1h 8m",
-                    "episodeCode": "S2-E24",
-                    "episodeName": "Astrology ka Zaika",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9030/1744456849030-h",
-                    "updateDate": "13-04-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "25",
-                    "duration": "1h 15m",
-                    "episodeCode": "S2-E25",
-                    "episodeName": "Surprise, Surprise: New Chaos in the Kitchen",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2953/1745052612953-h",
-                    "updateDate": "19-04-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "26",
-                    "duration": "1h 13m",
-                    "episodeCode": "S2-E26",
-                    "episodeName": "Chef Harpal ka Happy Birthday!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6782/1745082716782-h",
-                    "updateDate": "20-04-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "27",
-                    "duration": "1h 12m",
-                    "episodeCode": "S2-E27",
-                    "episodeName": "Kitty Party Ka Hungama!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/926/1745648430926-h",
-                    "updateDate": "26-04-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "28",
-                    "duration": "1h 7m",
-                    "episodeCode": "S2-E28",
-                    "episodeName": "Aam Wars",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6254/1745648376254-h",
-                    "updateDate": "27-04-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "29",
-                    "duration": "1h 18m",
-                    "episodeCode": "S2-E29",
-                    "episodeName": "Bollywood Laughter Riot!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9983/1746267789983-h",
-                    "updateDate": "03-05-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "30",
-                    "duration": "1h 7m",
-                    "episodeCode": "S2-E30",
-                    "episodeName": "Ramp and Rasoi!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9205/1746341119205-h",
-                    "updateDate": "04-05-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "31",
-                    "duration": "1h 18m",
-                    "episodeCode": "S2-E31",
-                    "episodeName": "Laughter Chefs Summer Camp!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2279/1746861682279-h",
-                    "updateDate": "10-05-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "32",
-                    "duration": "1h 13m",
-                    "episodeCode": "S2-E32",
-                    "episodeName": "Swaad Maa Anusaar",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7577/1746861977577-h",
-                    "updateDate": "11-05-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "33",
-                    "duration": "1h 15m",
-                    "episodeCode": "S2-E33",
-                    "episodeName": "Desi Kitchen",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4574/1747476684574-h",
-                    "updateDate": "17-05-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "34",
-                    "duration": "1h 18m",
-                    "episodeCode": "S2-E34",
-                    "episodeName": "Laughter Chefs Airport",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6487/1747564736487-h",
-                    "updateDate": "18-05-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "35",
-                    "duration": "1h 12m",
-                    "episodeCode": "S2-E35",
-                    "episodeName": "Bharti’s Bang with the Gang",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2893/1748068322893-h",
-                    "updateDate": "24-05-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "36",
-                    "duration": "1h 9m",
-                    "episodeCode": "S2-E36",
-                    "episodeName": "Laughter Chef Breaking news",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/476/1748068410476-h",
-                    "updateDate": "25-05-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "37",
-                    "duration": "1h 13m",
-                    "episodeCode": "S2-E37",
-                    "episodeName": "From Happy Birthday to Happily Ever After!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5091/1748671055091-h",
-                    "updateDate": "31-05-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "38",
-                    "duration": "1h 12m",
-                    "episodeCode": "S2-E38",
-                    "episodeName": "Laughter Chef Turns One!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4719/1748671174719-h",
-                    "updateDate": "01-06-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "39",
-                    "duration": "1h 16m",
-                    "episodeCode": "S2-E39",
-                    "episodeName": "Double XL Dhamaka",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4754/1749270864754-h",
-                    "updateDate": "07-06-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "40",
-                    "duration": "1h 13m",
-                    "episodeCode": "S2-E40",
-                    "episodeName": "Jodis Jumbled, Masti Doubled!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6672/1749300636672-h",
-                    "updateDate": "08-06-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "41",
-                    "duration": "1h 13m",
-                    "episodeCode": "S2-E41",
-                    "episodeName": "India ki Saas Bahu in the house",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8744/1749897888744-h",
-                    "updateDate": "14-06-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "42",
-                    "duration": "1h 10m",
-                    "episodeCode": "S2-E42",
-                    "episodeName": "Bottle Baba In kitchen",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1525/1749973611525-h",
-                    "updateDate": "15-06-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "43",
-                    "duration": "1h 16m",
-                    "episodeCode": "S2-E43",
-                    "episodeName": "kitchen Ki Melody",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5249/1750498735249-h",
-                    "updateDate": "21-06-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "44",
-                    "duration": "1h 20m",
-                    "episodeCode": "S2-E44",
-                    "episodeName": "Swaad Aasan ! Ab yoga se hi Hoga",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9472/1750498919472-h",
-                    "updateDate": "22-06-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "45",
-                    "duration": "1h 33m",
-                    "episodeCode": "S2-E45",
-                    "episodeName": "From Metro to Masala!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2999/1751118392999-h",
-                    "updateDate": "28-06-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "46",
-                    "duration": "1h 9m",
-                    "episodeCode": "S2-E46",
-                    "episodeName": "Paparazzi ka Pressure Test!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2576/1751189252576-h",
-                    "updateDate": "29-06-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "47",
-                    "duration": "1h 17m",
-                    "episodeCode": "S2-E47",
-                    "episodeName": "Bharti's Birthday Blast",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7820/1751717077820-h",
-                    "updateDate": "05-07-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "48",
-                    "duration": "1h 14m",
-                    "episodeCode": "S2-E48",
-                    "episodeName": "GuruPurnima with Maha pandits",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8163/1751791438163-h",
-                    "updateDate": "06-07-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "49",
-                    "duration": "1h 18m",
-                    "episodeCode": "S2-E49",
-                    "episodeName": "Daav Laga! Stars on Stake",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1625/1752297121625-h",
-                    "updateDate": "12-07-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "50",
-                    "duration": "1h 15m",
-                    "episodeCode": "S2-E50",
-                    "episodeName": "It’s Party Time: Laughter Chefs Turns 50!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5200/1752296995200-h",
-                    "updateDate": "13-07-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "51",
-                    "duration": "1h 8m",
-                    "episodeCode": "S2-E51",
-                    "episodeName": "90s Heartbreak King is Here",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8438/1752902348438-h",
-                    "updateDate": "19-07-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "52",
-                    "duration": "1h 32m",
-                    "episodeCode": "S2-E52",
-                    "episodeName": "TV's Biggest Frame in the Semi-finale!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2026/1752902512026-h",
-                    "updateDate": "20-07-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "53",
-                    "duration": "1h 22m",
-                    "episodeCode": "S2-E53",
-                    "episodeName": "Grand Finale Party Begins!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/911/1753504510911-h",
-                    "updateDate": "26-07-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "54",
-                    "duration": "1h 29m",
-                    "episodeCode": "S2-E54",
-                    "episodeName": "The Grand Cook-off! Who Takes the Trophy ?",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4805/1753504664805-h",
-                    "updateDate": "27-07-2025",
-                    "episodeUrl": ""
-                },
-                {
                     "seasonNumber": "3",
                     "episodeNumber": "70",
                     "duration": "1h 32m",
@@ -1591,6 +711,736 @@
                     "episodeName": "Laughter Chefs' Family Returns!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5430/1763821905430-h",
                     "updateDate": "22-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "54",
+                    "duration": "1h 29m",
+                    "episodeCode": "S2-E54",
+                    "episodeName": "The Grand Cook-off! Who Takes the Trophy ?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4805/1753504664805-h",
+                    "updateDate": "27-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "53",
+                    "duration": "1h 22m",
+                    "episodeCode": "S2-E53",
+                    "episodeName": "Grand Finale Party Begins!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/911/1753504510911-h",
+                    "updateDate": "26-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "52",
+                    "duration": "1h 32m",
+                    "episodeCode": "S2-E52",
+                    "episodeName": "TV's Biggest Frame in the Semi-finale!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2026/1752902512026-h",
+                    "updateDate": "20-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "51",
+                    "duration": "1h 8m",
+                    "episodeCode": "S2-E51",
+                    "episodeName": "90s Heartbreak King is Here",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8438/1752902348438-h",
+                    "updateDate": "19-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "50",
+                    "duration": "1h 15m",
+                    "episodeCode": "S2-E50",
+                    "episodeName": "It’s Party Time: Laughter Chefs Turns 50!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5200/1752296995200-h",
+                    "updateDate": "13-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "49",
+                    "duration": "1h 18m",
+                    "episodeCode": "S2-E49",
+                    "episodeName": "Daav Laga! Stars on Stake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1625/1752297121625-h",
+                    "updateDate": "12-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "48",
+                    "duration": "1h 14m",
+                    "episodeCode": "S2-E48",
+                    "episodeName": "GuruPurnima with Maha pandits",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8163/1751791438163-h",
+                    "updateDate": "06-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "47",
+                    "duration": "1h 17m",
+                    "episodeCode": "S2-E47",
+                    "episodeName": "Bharti's Birthday Blast",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7820/1751717077820-h",
+                    "updateDate": "05-07-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "46",
+                    "duration": "1h 9m",
+                    "episodeCode": "S2-E46",
+                    "episodeName": "Paparazzi ka Pressure Test!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2576/1751189252576-h",
+                    "updateDate": "29-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "45",
+                    "duration": "1h 33m",
+                    "episodeCode": "S2-E45",
+                    "episodeName": "From Metro to Masala!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2999/1751118392999-h",
+                    "updateDate": "28-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "44",
+                    "duration": "1h 20m",
+                    "episodeCode": "S2-E44",
+                    "episodeName": "Swaad Aasan ! Ab yoga se hi Hoga",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9472/1750498919472-h",
+                    "updateDate": "22-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "43",
+                    "duration": "1h 16m",
+                    "episodeCode": "S2-E43",
+                    "episodeName": "kitchen Ki Melody",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5249/1750498735249-h",
+                    "updateDate": "21-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "42",
+                    "duration": "1h 10m",
+                    "episodeCode": "S2-E42",
+                    "episodeName": "Bottle Baba In kitchen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1525/1749973611525-h",
+                    "updateDate": "15-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "41",
+                    "duration": "1h 13m",
+                    "episodeCode": "S2-E41",
+                    "episodeName": "India ki Saas Bahu in the house",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8744/1749897888744-h",
+                    "updateDate": "14-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "40",
+                    "duration": "1h 13m",
+                    "episodeCode": "S2-E40",
+                    "episodeName": "Jodis Jumbled, Masti Doubled!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6672/1749300636672-h",
+                    "updateDate": "08-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "39",
+                    "duration": "1h 16m",
+                    "episodeCode": "S2-E39",
+                    "episodeName": "Double XL Dhamaka",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4754/1749270864754-h",
+                    "updateDate": "07-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "38",
+                    "duration": "1h 12m",
+                    "episodeCode": "S2-E38",
+                    "episodeName": "Laughter Chef Turns One!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4719/1748671174719-h",
+                    "updateDate": "01-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "37",
+                    "duration": "1h 13m",
+                    "episodeCode": "S2-E37",
+                    "episodeName": "From Happy Birthday to Happily Ever After!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5091/1748671055091-h",
+                    "updateDate": "31-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "36",
+                    "duration": "1h 9m",
+                    "episodeCode": "S2-E36",
+                    "episodeName": "Laughter Chef Breaking news",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/476/1748068410476-h",
+                    "updateDate": "25-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "35",
+                    "duration": "1h 12m",
+                    "episodeCode": "S2-E35",
+                    "episodeName": "Bharti’s Bang with the Gang",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2893/1748068322893-h",
+                    "updateDate": "24-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "34",
+                    "duration": "1h 18m",
+                    "episodeCode": "S2-E34",
+                    "episodeName": "Laughter Chefs Airport",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6487/1747564736487-h",
+                    "updateDate": "18-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "33",
+                    "duration": "1h 15m",
+                    "episodeCode": "S2-E33",
+                    "episodeName": "Desi Kitchen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4574/1747476684574-h",
+                    "updateDate": "17-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "32",
+                    "duration": "1h 13m",
+                    "episodeCode": "S2-E32",
+                    "episodeName": "Swaad Maa Anusaar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7577/1746861977577-h",
+                    "updateDate": "11-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "31",
+                    "duration": "1h 18m",
+                    "episodeCode": "S2-E31",
+                    "episodeName": "Laughter Chefs Summer Camp!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2279/1746861682279-h",
+                    "updateDate": "10-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "30",
+                    "duration": "1h 7m",
+                    "episodeCode": "S2-E30",
+                    "episodeName": "Ramp and Rasoi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9205/1746341119205-h",
+                    "updateDate": "04-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "29",
+                    "duration": "1h 18m",
+                    "episodeCode": "S2-E29",
+                    "episodeName": "Bollywood Laughter Riot!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9983/1746267789983-h",
+                    "updateDate": "03-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "28",
+                    "duration": "1h 7m",
+                    "episodeCode": "S2-E28",
+                    "episodeName": "Aam Wars",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6254/1745648376254-h",
+                    "updateDate": "27-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "27",
+                    "duration": "1h 12m",
+                    "episodeCode": "S2-E27",
+                    "episodeName": "Kitty Party Ka Hungama!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/926/1745648430926-h",
+                    "updateDate": "26-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "26",
+                    "duration": "1h 13m",
+                    "episodeCode": "S2-E26",
+                    "episodeName": "Chef Harpal ka Happy Birthday!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6782/1745082716782-h",
+                    "updateDate": "20-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "25",
+                    "duration": "1h 15m",
+                    "episodeCode": "S2-E25",
+                    "episodeName": "Surprise, Surprise: New Chaos in the Kitchen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2953/1745052612953-h",
+                    "updateDate": "19-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "24",
+                    "duration": "1h 8m",
+                    "episodeCode": "S2-E24",
+                    "episodeName": "Astrology ka Zaika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9030/1744456849030-h",
+                    "updateDate": "13-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "23",
+                    "duration": "1h 8m",
+                    "episodeCode": "S2-E23",
+                    "episodeName": "Tasting ka Twist!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7662/1744456887662-h",
+                    "updateDate": "12-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "22",
+                    "duration": "1h 3m",
+                    "episodeCode": "S2-E22",
+                    "episodeName": "Bhakti ka Bhog!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7305/1743828197305-h",
+                    "updateDate": "06-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "21",
+                    "duration": "1h 16m",
+                    "episodeCode": "S2-E21",
+                    "episodeName": "Padosi, Sabzi Mandi and Madness!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2383/1743828102383-h",
+                    "updateDate": "05-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "20",
+                    "duration": "1h 6m",
+                    "episodeCode": "S2-E20",
+                    "episodeName": "Battle of the Bhaujis!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9986/1743319329986-h",
+                    "updateDate": "30-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "19",
+                    "duration": "1h 11m",
+                    "episodeCode": "S2-E19",
+                    "episodeName": "Groom Hunt for Mannara!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6257/1743229776257-h",
+                    "updateDate": "29-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "18",
+                    "duration": "1h 8m",
+                    "episodeCode": "S2-E18",
+                    "episodeName": "Bachpan ke Din",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1018/1742626691018-h",
+                    "updateDate": "23-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "17",
+                    "duration": "1h 14m",
+                    "episodeCode": "S2-E17",
+                    "episodeName": "Bhola Is Back with a Bang!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9976/1742626219976-h",
+                    "updateDate": "22-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "16",
+                    "duration": "1h 13m",
+                    "episodeCode": "S2-E16",
+                    "episodeName": "Abdu & Krushna’s Rap Twist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5263/1742110695263-h",
+                    "updateDate": "16-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "15",
+                    "duration": "1h 17m",
+                    "episodeCode": "S2-E15",
+                    "episodeName": "Adla Badli in the Kitchen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9784/1742035649784-h",
+                    "updateDate": "15-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "14",
+                    "duration": "1h 16m",
+                    "episodeCode": "S2-E14",
+                    "episodeName": "Rang Barse & Recipe Wars!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6326/1741504436326-h",
+                    "updateDate": "09-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "13",
+                    "duration": "1h 20m",
+                    "episodeCode": "S2-E13",
+                    "episodeName": "A World of Tastes",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9387/1741440029387-h",
+                    "updateDate": "08-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "12",
+                    "duration": "1h 12m",
+                    "episodeCode": "S2-E12",
+                    "episodeName": "Circus on a plate!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6041/1740910126041-h",
+                    "updateDate": "02-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "11",
+                    "duration": "1h 27m",
+                    "episodeCode": "S2-E11",
+                    "episodeName": "Bollywood Night",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6666/1740814346666-h",
+                    "updateDate": "01-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "10",
+                    "duration": "1h 11m",
+                    "episodeCode": "S2-E10",
+                    "episodeName": "Team Elvish vs Team Abhishek: Game on, Flame on!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1651/1740307941651-h",
+                    "updateDate": "23-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "9",
+                    "duration": "1h 18m",
+                    "episodeCode": "S2-E9",
+                    "episodeName": "MahaShivaratri: Abhishek-Samarth’s Star Quest!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3514/1740221063514-h",
+                    "updateDate": "22-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "8",
+                    "duration": "1h 18m",
+                    "episodeCode": "S2-E8",
+                    "episodeName": "Abhishek & Samarth's Candy Floss Trick",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4741/1739629004741-h",
+                    "updateDate": "16-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "7",
+                    "duration": "1h 13m",
+                    "episodeCode": "S2-E7",
+                    "episodeName": "Elvish's Big Announcement",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8394/1739534428394-h",
+                    "updateDate": "15-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "6",
+                    "duration": "1h 10m",
+                    "episodeCode": "S2-E6",
+                    "episodeName": "'Dalda' Ka Raaz Kiya Crack?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8974/1739211298974-h",
+                    "updateDate": "09-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "5",
+                    "duration": "1h 14m",
+                    "episodeCode": "S2-E5",
+                    "episodeName": "Rasgulla Nahi, Dil-Gulla!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2795/1739211422795-h",
+                    "updateDate": "08-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "3",
+                    "duration": "1h 10m",
+                    "episodeCode": "S2-E3",
+                    "episodeName": "Papad Mystery Hoga Crack?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1206/1738668161206-h",
+                    "updateDate": "01-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "2",
+                    "duration": "1h 12m",
+                    "episodeCode": "S2-E2",
+                    "episodeName": "Rules Maano Ya Jail Jao!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8775/1738668128775-h",
+                    "updateDate": "26-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "1",
+                    "duration": "1h 54m",
+                    "episodeCode": "S2-E1",
+                    "episodeName": "Comedy Ka Blast Phir Se!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2365/1738582122365-h",
+                    "updateDate": "25-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "1h 0m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Akshay-Fardeen grace the show!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5503/1734132615503-h",
+                    "updateDate": "15-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "57m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Shraddha Kapoor dazzles the stage!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8346/1734132488346-h",
+                    "updateDate": "09-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "55m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Naga Panchami's sizzling cook-off!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5556/1734132515556-h",
+                    "updateDate": "08-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "58m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Vicky's birthday celebration",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4577/1734132384577-h",
+                    "updateDate": "02-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "1h 8m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Chefs Venture into Punjabi Cuisine!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9614/1734132419614-h",
+                    "updateDate": "01-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "1h 14m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Khiladis team up with the chefs",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6750/1734132306750-h",
+                    "updateDate": "21-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "1h 17m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Orry Awatramani graces the show!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1548/1734132311548-h",
+                    "updateDate": "20-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "1h 17m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Chefs get genie help!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5826/1734132145826-h",
+                    "updateDate": "14-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "1h 16m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "A wedding ceremony!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2015/1734132152015-h",
+                    "updateDate": "13-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "1h 17m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "The ultimate culinary challenge!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9293/1734132069293-h",
+                    "updateDate": "07-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "1h 19m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "The partner exchange challenge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6117/1734132076117-h",
+                    "updateDate": "06-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "1h 23m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Contestants get a solid backing!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6874/1734131836874-h",
+                    "updateDate": "30-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "1h 19m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Suniel Shetty graces the show!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/925/1734131840925-h",
+                    "updateDate": "29-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "1h 16m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Harpal Singh Sokhi's Shahi Treats!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9930/1734131579930-h",
+                    "updateDate": "23-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "1h 22m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "A challenge for steady hands",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9999/1734131479999-h",
+                    "updateDate": "16-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "1h 26m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Sweet laughs, sweet dishes",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5164/1734131345164-h",
+                    "updateDate": "15-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "1h 17m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "It's a birthday cake challenge!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4037/1734131294037-h",
+                    "updateDate": "09-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "1h 23m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Sonam savours the Desi dishes",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4022/1734131314022-h",
+                    "updateDate": "08-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "1h 24m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "It's time to cook Shaadi Ke Laddu",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7425/1734131097425-h",
+                    "updateDate": "02-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "1h 51m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "The culinary battle begins!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/846/1734131110846-h",
+                    "updateDate": "01-06-2024",
                     "episodeUrl": ""
                 }
             ]
