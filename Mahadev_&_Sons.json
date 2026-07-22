@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "144",
+                    "duration": "22m",
+                    "episodeCode": "S1-E144",
+                    "episodeName": "Vishwa, Yash Create Trouble",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9754/1784686989754-h",
+                    "updateDate": "22-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "143",
                     "duration": "22m",
                     "episodeCode": "S1-E143",
