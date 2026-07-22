@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "21-07-2026",
+            "ottReleaseDate": "22-07-2026",
             "description": "Single mother Dr. Nayanika lives a serene life with her daughter, Ujjaini. Then enters pop star Ishaan, reigniting her world, albeit with uncalled chaos! Watch Sairaab - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "21m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Indranil's Decision Upsets Angana",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6716/1784684846716-h",
+                    "updateDate": "22-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "50",
