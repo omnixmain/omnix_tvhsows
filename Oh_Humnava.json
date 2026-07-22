@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "21-07-2026",
+            "ottReleaseDate": "22-07-2026",
             "description": "Aparajita is an artist with a bitter past, and our hero Rakshit—a reserved businessman with no place for love! These two hearts meet, but will romance bloom? Watch Oh Humnava - Tum Dena Saath Mera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "93",
+                    "duration": "26m",
+                    "episodeCode": "S1-E93",
+                    "episodeName": "Rakshit Exposes Mr. Mehtani",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8270/1784684778270-h",
+                    "updateDate": "22-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "92",
