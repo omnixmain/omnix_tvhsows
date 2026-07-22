@@ -15,11 +15,21 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "25m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Karan's Court Lobby Battle",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1430/1784686841430-h",
+                    "updateDate": "22-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "19",
                     "duration": "25m",
                     "episodeCode": "S1-E19",
                     "episodeName": "Juhi Inspires Karan",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1589/1784601211589-h",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2657/1784663082657-h",
                     "updateDate": "21-07-2026",
                     "episodeUrl": ""
                 },
@@ -29,7 +39,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E18",
                     "episodeName": "Suchitra's Plea to Uttam",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3451/1784488363451-h",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2132/1784663892132-h",
                     "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 },
