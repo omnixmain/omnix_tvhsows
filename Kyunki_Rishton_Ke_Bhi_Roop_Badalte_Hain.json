@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "125",
+                    "duration": "17m",
+                    "episodeCode": "S1-E125",
+                    "episodeName": "Vrinda, Angad Cross Paths",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3626/1784732203626-h",
+                    "updateDate": "22-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "124",
                     "duration": "18m",
                     "episodeCode": "S1-E124",
