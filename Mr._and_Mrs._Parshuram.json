@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "22-07-2026",
+            "ottReleaseDate": "23-07-2026",
             "description": "Shivprasad and Shalini juggle middle-class family life with their two kids. But hush! Shivprasad is also a secret agent, how long can he keep up his cover? Watch Mr. and Mrs. Parshuram - Hindi Drama Action serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "169",
+                    "duration": "20m",
+                    "episodeCode": "S1-E169",
+                    "episodeName": "Karan Hunts for the Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/140/1784771040140-h",
+                    "updateDate": "23-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "168",
