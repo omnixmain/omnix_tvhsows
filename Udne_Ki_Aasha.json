@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "23-07-2026",
+            "ottReleaseDate": "24-07-2026",
             "description": "Away from the Deshmukhs, Sachin and Sailee lead a serene life in Ganpatipule with their daughter. But a secret about their son Laksh will shake their world! Watch Udne Ki Aasha - Hindi Drama Romance Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "862",
+                    "duration": "31m",
+                    "episodeCode": "S2-E862",
+                    "episodeName": "Renuka Promises to Paresh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8899/1784823008899-h",
+                    "updateDate": "23-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "861",
@@ -91,6 +101,206 @@
                     "episodeName": "Sailee Prays for Sachin, Pankhuri",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7691/1784141897691-h",
                     "updateDate": "15-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "133",
+                    "duration": "30m",
+                    "episodeCode": "S1-E133",
+                    "episodeName": "Riya Confesses Her Feelings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1657/1721654621657-h",
+                    "updateDate": "22-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "132",
+                    "duration": "30m",
+                    "episodeCode": "S1-E132",
+                    "episodeName": "A New Contract for Sailee",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1171/1721550901171-h",
+                    "updateDate": "21-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "131",
+                    "duration": "30m",
+                    "episodeCode": "S1-E131",
+                    "episodeName": "Sailee, Sachin's Promise of Love",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/566/1721462100566-h",
+                    "updateDate": "20-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "130",
+                    "duration": "32m",
+                    "episodeCode": "S1-E130",
+                    "episodeName": "Sailee Shares Her Woes!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/835/1721385490835-h",
+                    "updateDate": "19-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "129",
+                    "duration": "31m",
+                    "episodeCode": "S1-E129",
+                    "episodeName": "Sailee's Angapradakshinam at the Temple",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8836/1721298268836-h",
+                    "updateDate": "18-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "128",
+                    "duration": "30m",
+                    "episodeCode": "S1-E128",
+                    "episodeName": "Sailee Fumes at Roshni",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5505/1721202725505-h",
+                    "updateDate": "17-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "127",
+                    "duration": "32m",
+                    "episodeCode": "S1-E127",
+                    "episodeName": "Sailee's Bold Reply to Renuka",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7005/1721117637005-h",
+                    "updateDate": "16-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "126",
+                    "duration": "33m",
+                    "episodeCode": "S1-E126",
+                    "episodeName": "Paresh Apologises to Sailee",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2275/1721028252275-h",
+                    "updateDate": "15-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "125",
+                    "duration": "29m",
+                    "episodeCode": "S1-E125",
+                    "episodeName": "Sailee Tries to Convince Sachin",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9128/1720940279128-h",
+                    "updateDate": "14-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "124",
+                    "duration": "29m",
+                    "episodeCode": "S1-E124",
+                    "episodeName": "Sachin Questions Sailee",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4684/1720856154684-h",
+                    "updateDate": "13-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "123",
+                    "duration": "29m",
+                    "episodeCode": "S1-E123",
+                    "episodeName": "Sudhakar, Sachin's Clash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1504/1720772601504-h",
+                    "updateDate": "12-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "122",
+                    "duration": "29m",
+                    "episodeCode": "S1-E122",
+                    "episodeName": "Sachin Confronts Sudhakar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2454/1720681602454-h",
+                    "updateDate": "11-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "121",
+                    "duration": "30m",
+                    "episodeCode": "S1-E121",
+                    "episodeName": "Roshni and the Juice Trouble!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1228/1720605331228-h",
+                    "updateDate": "10-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "120",
+                    "duration": "30m",
+                    "episodeCode": "S1-E120",
+                    "episodeName": "Sailee Impresses Sachin",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4937/1720508634937-h",
+                    "updateDate": "09-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "119",
+                    "duration": "30m",
+                    "episodeCode": "S1-E119",
+                    "episodeName": "The Police Question Roshni",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2733/1720425772733-h",
+                    "updateDate": "08-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "118",
+                    "duration": "30m",
+                    "episodeCode": "S1-E118",
+                    "episodeName": "Tejas, Roshni's Welcome Ceremony",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1776/1720343791776-h",
+                    "updateDate": "07-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "117",
+                    "duration": "30m",
+                    "episodeCode": "S1-E117",
+                    "episodeName": "Sachin Takes a Firm Step",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3311/1720260413311-h",
+                    "updateDate": "06-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "116",
+                    "duration": "30m",
+                    "episodeCode": "S1-E116",
+                    "episodeName": "Roshni Takes a Stand",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7189/1720169677189-h",
+                    "updateDate": "05-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "115",
+                    "duration": "30m",
+                    "episodeCode": "S1-E115",
+                    "episodeName": "Roshni Confesses to Tejas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7790/1720076877790-h",
+                    "updateDate": "04-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "114",
+                    "duration": "34m",
+                    "episodeCode": "S1-E114",
+                    "episodeName": "Roshni Trembles in Fear",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7442/1719995727442-h",
+                    "updateDate": "03-07-2024",
                     "episodeUrl": ""
                 },
                 {
