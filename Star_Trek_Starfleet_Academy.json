@@ -1,0 +1,119 @@
+{
+    "tvShows": [
+        {
+            "name": "Star Trek: Starfleet Academy",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7802/1783955857802-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "23-07-2026",
+            "description": "Star Trek: Starfleet Academy introduces viewers to a young group of cadets who come together to pursue a common dream of hope and optimism. Watch Star Trek: Starfleet Academy - Hindi English Drama Science Fiction Adventure serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "1h 7m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Rubincon",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/757/1784518670757-h",
+                    "updateDate": "12-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "56m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "300th Night",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4927/1784518604927-h",
+                    "updateDate": "05-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "1h 3m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "The Life of the Stars",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4963/1784518574963-h",
+                    "updateDate": "26-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "54m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Ko'Zeine",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4114/1784518544114-h",
+                    "updateDate": "19-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "1h 1m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Come, Let's Away",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8480/1784518498480-h",
+                    "updateDate": "12-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "57m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Series Acclimation Mil",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6620/1784518476620-h",
+                    "updateDate": "05-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "58m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Vox in Excelso",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6386/1784518446386-h",
+                    "updateDate": "29-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "1h 2m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Vitus Reflux",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7467/1784518397467-h",
+                    "updateDate": "22-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "1h 15m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Kids These Days",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5884/1784518215884-h",
+                    "updateDate": "15-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "1h 0m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Beta Test",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2031/1784518362031-h",
+                    "updateDate": "15-01-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
