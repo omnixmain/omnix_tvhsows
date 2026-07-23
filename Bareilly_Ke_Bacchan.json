@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "22m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Aarti Opens Up to Ganga",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4028/1784770974028-h",
+                    "updateDate": "23-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "35",
                     "duration": "22m",
                     "episodeCode": "S1-E35",
