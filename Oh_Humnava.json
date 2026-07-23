@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "94",
+                    "duration": "26m",
+                    "episodeCode": "S1-E94",
+                    "episodeName": "Rakshit Fasts for Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8629/1784770998629-h",
+                    "updateDate": "23-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "93",
                     "duration": "26m",
                     "episodeCode": "S1-E93",
