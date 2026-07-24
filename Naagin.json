@@ -2695,6 +2695,806 @@
                 },
                 {
                     "seasonNumber": "3",
+                    "episodeNumber": "100",
+                    "duration": "45m",
+                    "episodeCode": "S3-E100",
+                    "episodeName": "Bela learns about Shivangi's fate!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3921/1734181563921-h",
+                    "updateDate": "18-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "99",
+                    "duration": "41m",
+                    "episodeCode": "S3-E99",
+                    "episodeName": "Bela's parents are dead!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/874/1734181360874-h",
+                    "updateDate": "12-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "98",
+                    "duration": "42m",
+                    "episodeCode": "S3-E98",
+                    "episodeName": "Bela at Mahir's engagement!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4158/1734181354158-h",
+                    "updateDate": "11-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "97",
+                    "duration": "41m",
+                    "episodeCode": "S3-E97",
+                    "episodeName": "Bela is back!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5175/1734181355175-h",
+                    "updateDate": "05-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "96",
+                    "duration": "41m",
+                    "episodeCode": "S3-E96",
+                    "episodeName": "Bela-Mahir meet again!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8502/1734181358502-h",
+                    "updateDate": "04-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "95",
+                    "duration": "40m",
+                    "episodeCode": "S3-E95",
+                    "episodeName": "Bela and Mahir are reborn!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9461/1734181359461-h",
+                    "updateDate": "28-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "94",
+                    "duration": "42m",
+                    "episodeCode": "S3-E94",
+                    "episodeName": "Taamsi gets the Naagmani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1893/1734181351893-h",
+                    "updateDate": "27-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "93",
+                    "duration": "41m",
+                    "episodeCode": "S3-E93",
+                    "episodeName": "Taamsi hold Mahir hostage!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7205/1734181357205-h",
+                    "updateDate": "21-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "92",
+                    "duration": "41m",
+                    "episodeCode": "S3-E92",
+                    "episodeName": "Taamsi's power unleashed!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6096/1734181356096-h",
+                    "updateDate": "20-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "91",
+                    "duration": "41m",
+                    "episodeCode": "S3-E91",
+                    "episodeName": "Taamsi to perform the ritual?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3078/1734181353078-h",
+                    "updateDate": "14-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "90",
+                    "duration": "41m",
+                    "episodeCode": "S3-E90",
+                    "episodeName": "Vikrant plans to trap Hukum!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3480/1734181363480-h",
+                    "updateDate": "13-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "89",
+                    "duration": "42m",
+                    "episodeCode": "S3-E89",
+                    "episodeName": "Sumitra takes away Vish's child",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6188/1734181366188-h",
+                    "updateDate": "07-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "88",
+                    "duration": "42m",
+                    "episodeCode": "S3-E88",
+                    "episodeName": "Bela's mission to protect Vish's child",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6812/1734181366812-h",
+                    "updateDate": "06-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "87",
+                    "duration": "42m",
+                    "episodeCode": "S3-E87",
+                    "episodeName": "Vish slits Vikrant's throat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4221/1734181364221-h",
+                    "updateDate": "31-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "86",
+                    "duration": "41m",
+                    "episodeCode": "S3-E86",
+                    "episodeName": "Bela in trouble!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2430/1734181362430-h",
+                    "updateDate": "30-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "85",
+                    "duration": "42m",
+                    "episodeCode": "S3-E85",
+                    "episodeName": "Hukum takes Vish captive",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7602/1734181367602-h",
+                    "updateDate": "24-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "84",
+                    "duration": "42m",
+                    "episodeCode": "S3-E84",
+                    "episodeName": "Can Bela trust Ritvik?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9858/1734181369858-h",
+                    "updateDate": "23-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "83",
+                    "duration": "42m",
+                    "episodeCode": "S3-E83",
+                    "episodeName": "Hukum captures Bela!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/855/1734181370855-h",
+                    "updateDate": "17-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "82",
+                    "duration": "41m",
+                    "episodeCode": "S3-E82",
+                    "episodeName": "Bela to take the ultimate risk",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1684/1734181371684-h",
+                    "updateDate": "16-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "81",
+                    "duration": "42m",
+                    "episodeCode": "S3-E81",
+                    "episodeName": "Ruhi plans to overpower Bela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9020/1734181369020-h",
+                    "updateDate": "10-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "80",
+                    "duration": "42m",
+                    "episodeCode": "S3-E80",
+                    "episodeName": "Bela's plan: Mahir's lookalike",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3220/1734181373220-h",
+                    "updateDate": "09-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "79",
+                    "duration": "42m",
+                    "episodeCode": "S3-E79",
+                    "episodeName": "Bela challenges Huzoor!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4174/1734181374174-h",
+                    "updateDate": "03-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "78",
+                    "duration": "42m",
+                    "episodeCode": "S3-E78",
+                    "episodeName": "The new Naagrani of Naaglok!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4943/1734181374943-h",
+                    "updateDate": "02-03-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "77",
+                    "duration": "41m",
+                    "episodeCode": "S3-E77",
+                    "episodeName": "Ruhi is back?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6173/1734181376173-h",
+                    "updateDate": "24-02-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "76",
+                    "duration": "42m",
+                    "episodeCode": "S3-E76",
+                    "episodeName": "Bela meets Mahir's lookalike!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6996/1734181376996-h",
+                    "updateDate": "23-02-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "75",
+                    "duration": "41m",
+                    "episodeCode": "S3-E75",
+                    "episodeName": "Mysterious figures kidnap Bela!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9077/1734181379077-h",
+                    "updateDate": "17-02-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "74",
+                    "duration": "52m",
+                    "episodeCode": "S3-E74",
+                    "episodeName": "Bela returns the Naagmani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8149/1734181378149-h",
+                    "updateDate": "16-02-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "73",
+                    "duration": "40m",
+                    "episodeCode": "S3-E73",
+                    "episodeName": "Bela confesses her love for Mahir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/17/1734181380017-h",
+                    "updateDate": "10-02-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "72",
+                    "duration": "42m",
+                    "episodeCode": "S3-E72",
+                    "episodeName": "Bela sends Mahir to Naaglok",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2065/1734181382065-h",
+                    "updateDate": "09-02-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "71",
+                    "duration": "42m",
+                    "episodeCode": "S3-E71",
+                    "episodeName": "Vish, Vikrant and Bela outsmart Sumitra",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1279/1734181381279-h",
+                    "updateDate": "03-02-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "70",
+                    "duration": "42m",
+                    "episodeCode": "S3-E70",
+                    "episodeName": "Sumitra falls for Vish's trap",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5111/1734181385111-h",
+                    "updateDate": "02-02-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "69",
+                    "duration": "40m",
+                    "episodeCode": "S3-E69",
+                    "episodeName": "Sumitra loses the Naagmani",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/999/1734181390999-h",
+                    "updateDate": "27-01-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "68",
+                    "duration": "41m",
+                    "episodeCode": "S3-E68",
+                    "episodeName": "No turning back for Bela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4334/1734181384334-h",
+                    "updateDate": "26-01-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "67",
+                    "duration": "41m",
+                    "episodeCode": "S3-E67",
+                    "episodeName": "Mahir's life at stake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8146/1734181388146-h",
+                    "updateDate": "20-01-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "66",
+                    "duration": "42m",
+                    "episodeCode": "S3-E66",
+                    "episodeName": "Bela hits back!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6342/1734181386342-h",
+                    "updateDate": "19-01-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "65",
+                    "duration": "41m",
+                    "episodeCode": "S3-E65",
+                    "episodeName": "Sumitra's evil business!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9924/1734181389924-h",
+                    "updateDate": "13-01-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "64",
+                    "duration": "42m",
+                    "episodeCode": "S3-E64",
+                    "episodeName": "Bela pushed from the hill",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9043/1734181389043-h",
+                    "updateDate": "12-01-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "63",
+                    "duration": "38m",
+                    "episodeCode": "S3-E63",
+                    "episodeName": "Will Sumitra kill Bela's mother?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3159/1734181393159-h",
+                    "updateDate": "06-01-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "62",
+                    "duration": "37m",
+                    "episodeCode": "S3-E62",
+                    "episodeName": "Bela fights for Mahir's love",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2013/1734181392013-h",
+                    "updateDate": "05-01-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "61",
+                    "duration": "42m",
+                    "episodeCode": "S3-E61",
+                    "episodeName": "Is Vish pregnant?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7098/1734181387098-h",
+                    "updateDate": "30-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "60",
+                    "duration": "41m",
+                    "episodeCode": "S3-E60",
+                    "episodeName": "Is Vish dead?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3630/1734181403630-h",
+                    "updateDate": "29-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "59",
+                    "duration": "42m",
+                    "episodeCode": "S3-E59",
+                    "episodeName": "Yuvraj is alive?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1011/1734181401011-h",
+                    "updateDate": "23-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "58",
+                    "duration": "43m",
+                    "episodeCode": "S3-E58",
+                    "episodeName": "Sumitra reveals her identity!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5003/1734181395003-h",
+                    "updateDate": "22-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "57",
+                    "duration": "42m",
+                    "episodeCode": "S3-E57",
+                    "episodeName": "Bela begs for forgiveness!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/264/1734181400264-h",
+                    "updateDate": "16-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "56",
+                    "duration": "41m",
+                    "episodeCode": "S3-E56",
+                    "episodeName": "Mahir seeks an ex-policeman's help",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6949/1734181396949-h",
+                    "updateDate": "15-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "55",
+                    "duration": "42m",
+                    "episodeCode": "S3-E55",
+                    "episodeName": "Mahir learns about Bela's conspiracy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6012/1734181396012-h",
+                    "updateDate": "09-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "54",
+                    "duration": "42m",
+                    "episodeCode": "S3-E54",
+                    "episodeName": "Bela forced to give in!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3946/1734181393946-h",
+                    "updateDate": "08-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "53",
+                    "duration": "42m",
+                    "episodeCode": "S3-E53",
+                    "episodeName": "Will Juhi become the Naagrani?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8075/1734181398075-h",
+                    "updateDate": "02-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "52",
+                    "duration": "42m",
+                    "episodeCode": "S3-E52",
+                    "episodeName": "Bela's horrific nightmare",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9088/1734181399088-h",
+                    "updateDate": "01-12-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "51",
+                    "duration": "41m",
+                    "episodeCode": "S3-E51",
+                    "episodeName": "Vyom misleads Mahir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2129/1734181402129-h",
+                    "updateDate": "25-11-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "50",
+                    "duration": "41m",
+                    "episodeCode": "S3-E50",
+                    "episodeName": "Vyom plans to expose Bela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9537/1734181409537-h",
+                    "updateDate": "24-11-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "49",
+                    "duration": "42m",
+                    "episodeCode": "S3-E49",
+                    "episodeName": "The trio plans to defeat Vyom",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8095/1734181408095-h",
+                    "updateDate": "18-11-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "48",
+                    "duration": "42m",
+                    "episodeCode": "S3-E48",
+                    "episodeName": "Has Bela identified her enemy?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4718/1734181404718-h",
+                    "updateDate": "17-11-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "47",
+                    "duration": "42m",
+                    "episodeCode": "S3-E47",
+                    "episodeName": "Revenge is served, Vikrant!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6104/1734181406104-h",
+                    "updateDate": "11-11-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "46",
+                    "duration": "41m",
+                    "episodeCode": "S3-E46",
+                    "episodeName": "Is Vyom an infiltrator?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6637/1734181406637-h",
+                    "updateDate": "10-11-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "45",
+                    "duration": "42m",
+                    "episodeCode": "S3-E45",
+                    "episodeName": "Vikrant tries to frame Bela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3008/1734181413008-h",
+                    "updateDate": "04-11-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "44",
+                    "duration": "42m",
+                    "episodeCode": "S3-E44",
+                    "episodeName": "Bela finds a clue",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1227/1734181411227-h",
+                    "updateDate": "03-11-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "43",
+                    "duration": "42m",
+                    "episodeCode": "S3-E43",
+                    "episodeName": "Vikrant to make Mahir's life hell",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/541/1734181410541-h",
+                    "updateDate": "28-10-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "42",
+                    "duration": "42m",
+                    "episodeCode": "S3-E42",
+                    "episodeName": "Bela to kill Mahir?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9257/1734181409257-h",
+                    "updateDate": "27-10-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "41",
+                    "duration": "42m",
+                    "episodeCode": "S3-E41",
+                    "episodeName": "Will Bela kill Mahir?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2354/1734181412354-h",
+                    "updateDate": "21-10-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "40",
+                    "duration": "42m",
+                    "episodeCode": "S3-E40",
+                    "episodeName": "Bela's search for her adversary",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1840/1734181421840-h",
+                    "updateDate": "20-10-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "39",
+                    "duration": "42m",
+                    "episodeCode": "S3-E39",
+                    "episodeName": "Nagrani warns Bela!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9116/1734181419116-h",
+                    "updateDate": "14-10-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "38",
+                    "duration": "42m",
+                    "episodeCode": "S3-E38",
+                    "episodeName": "Bela reunites with her mother!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8305/1734181428305-h",
+                    "updateDate": "13-10-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "37",
+                    "duration": "42m",
+                    "episodeCode": "S3-E37",
+                    "episodeName": "Vish eyeing the Naagmani?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9383/1734181429383-h",
+                    "updateDate": "07-10-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "36",
+                    "duration": "42m",
+                    "episodeCode": "S3-E36",
+                    "episodeName": "Vish reveals her identity",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4115/1734181424115-h",
+                    "updateDate": "06-10-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "35",
+                    "duration": "42m",
+                    "episodeCode": "S3-E35",
+                    "episodeName": "Bela: I love Mahir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/564/1734181420564-h",
+                    "updateDate": "30-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "34",
+                    "duration": "41m",
+                    "episodeCode": "S3-E34",
+                    "episodeName": "Bela reunited with Vikrant?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7068/1734181427068-h",
+                    "updateDate": "29-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "33",
+                    "duration": "42m",
+                    "episodeCode": "S3-E33",
+                    "episodeName": "Bela's grave mistake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5113/1734181425113-h",
+                    "updateDate": "23-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "32",
+                    "duration": "41m",
+                    "episodeCode": "S3-E32",
+                    "episodeName": "Bela confesses her love!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3045/1734181423045-h",
+                    "updateDate": "22-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "31",
+                    "duration": "42m",
+                    "episodeCode": "S3-E31",
+                    "episodeName": "Bela's decision shatters Mahir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1292/1734181421292-h",
+                    "updateDate": "16-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "30",
+                    "duration": "41m",
+                    "episodeCode": "S3-E30",
+                    "episodeName": "Bela under Shahnawaaz's spell",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1268/1734181431268-h",
+                    "updateDate": "15-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "29",
+                    "duration": "42m",
+                    "episodeCode": "S3-E29",
+                    "episodeName": "Bela to be Shahnawaaz's bride?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5846/1734181435846-h",
+                    "updateDate": "09-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "28",
+                    "duration": "41m",
+                    "episodeCode": "S3-E28",
+                    "episodeName": "The shocking truth about Shaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4678/1734181434678-h",
+                    "updateDate": "08-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "27",
+                    "duration": "38m",
+                    "episodeCode": "S3-E27",
+                    "episodeName": "OMG! Vish and Shaan are engaged?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8437/1734181438437-h",
+                    "updateDate": "02-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "26",
+                    "duration": "41m",
+                    "episodeCode": "S3-E26",
+                    "episodeName": "Mahir's kiss leaves Bela confused!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6597/1734181436597-h",
+                    "updateDate": "01-09-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "25",
+                    "duration": "40m",
+                    "episodeCode": "S3-E25",
+                    "episodeName": "Stree intrudes the Naagin story",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7816/1734181437816-h",
+                    "updateDate": "26-08-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "24",
+                    "duration": "41m",
+                    "episodeCode": "S3-E24",
+                    "episodeName": "Doppelgangers confuse Mahir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3153/1734181433153-h",
+                    "updateDate": "25-08-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "23",
+                    "duration": "42m",
+                    "episodeCode": "S3-E23",
+                    "episodeName": "Vish's warning rattles Bela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3944/1734181433944-h",
+                    "updateDate": "19-08-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "22",
+                    "duration": "41m",
+                    "episodeCode": "S3-E22",
+                    "episodeName": "Bela tracks down the Naagmani",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/634/1734181430634-h",
+                    "updateDate": "18-08-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "21",
+                    "duration": "41m",
+                    "episodeCode": "S3-E21",
+                    "episodeName": "Mahir infected with Bela's venom",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1690/1734181431690-h",
+                    "updateDate": "12-08-2018",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
                     "episodeNumber": "20",
                     "duration": "41m",
                     "episodeCode": "S3-E20",
@@ -3491,6 +4291,216 @@
                     "episodeName": "Season Premiere: The saga continues",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1317/1734181311317-h",
                     "updateDate": "08-10-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "47m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "The battle for the Naagmani reaches fever pitch",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6897/1734165806897-h",
+                    "updateDate": "05-06-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "49m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "The wrath of Kali Maa",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7631/1734165807631-h",
+                    "updateDate": "04-06-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "44m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Shivanya and Sesha kill Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8459/1734165808459-h",
+                    "updateDate": "29-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "44m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Shivanya seeks Sesha's help",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9534/1734165809534-h",
+                    "updateDate": "28-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "43m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Viren gets shot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/534/1734165810534-h",
+                    "updateDate": "22-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "44m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Shivanya comes face to face with Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1413/1734165811413-h",
+                    "updateDate": "21-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "43m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Kabeer returns to kill Naagin",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2367/1734165812367-h",
+                    "updateDate": "15-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "43m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Sangram gets shot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3701/1734165813701-h",
+                    "updateDate": "14-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "43m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "The sacrilegious union",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4485/1734165814485-h",
+                    "updateDate": "08-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "34m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Yamini loses her mind",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5317/1734165815317-h",
+                    "updateDate": "07-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "42m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Ritik is resurrected",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6406/1734165816406-h",
+                    "updateDate": "01-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "43m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Yamini's killing spree",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7454/1734165817454-h",
+                    "updateDate": "30-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "42m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Shivanya confronts Sesha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8505/1734165818505-h",
+                    "updateDate": "24-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "44m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Shivanya is trapped",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9536/1734165819536-h",
+                    "updateDate": "23-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "1h 29m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "Sesha cohorts with Yamini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/503/1734165820503-h",
+                    "updateDate": "17-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "44m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Yamini's truth is revealed",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3779/1734165713779-h",
+                    "updateDate": "16-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "43m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Dangerous omens",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4968/1734165714968-h",
+                    "updateDate": "10-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "43m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Yamini plots yet again",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5874/1734165715874-h",
+                    "updateDate": "09-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "42m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Ritik the saviour",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6946/1734165716946-h",
+                    "updateDate": "03-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "42m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "The Aghoris capture Shivanya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7676/1734165717676-h",
+                    "updateDate": "02-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "43m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Finding the fifth murderer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8781/1734165718781-h",
+                    "updateDate": "27-03-2016",
                     "episodeUrl": ""
                 },
                 {
