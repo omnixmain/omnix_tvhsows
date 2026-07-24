@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "250",
+                    "duration": "22m",
+                    "episodeCode": "S1-E250",
+                    "episodeName": "Heer Gets Arrested",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8987/1784858958987-h",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "249",
                     "duration": "22m",
                     "episodeCode": "S1-E249",
@@ -1801,116 +1811,6 @@
                     "episodeName": "Nawab Fights for Heer's Freedom",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/391/1768694770391-h",
                     "updateDate": "18-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "62",
-                    "duration": "27m",
-                    "episodeCode": "S1-E62",
-                    "episodeName": "Arjun Confesses to Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8934/1768642888934-h",
-                    "updateDate": "17-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "61",
-                    "duration": "32m",
-                    "episodeCode": "S1-E61",
-                    "episodeName": "Nawab Holds Heer Close",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7987/1768535397987-h",
-                    "updateDate": "16-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "60",
-                    "duration": "32m",
-                    "episodeCode": "S1-E60",
-                    "episodeName": "Heer Protects Gurleen from Danger",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7797/1768435107797-h",
-                    "updateDate": "15-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "59",
-                    "duration": "31m",
-                    "episodeCode": "S1-E59",
-                    "episodeName": "Gulaab Sabotages Pammi's Match",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4145/1768351824145-h",
-                    "updateDate": "14-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "58",
-                    "duration": "32m",
-                    "episodeCode": "S1-E58",
-                    "episodeName": "Heer Outsmarts Gulaab",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6338/1768281496338-h",
-                    "updateDate": "13-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "57",
-                    "duration": "33m",
-                    "episodeCode": "S1-E57",
-                    "episodeName": "Heer's Office Role Sparks Tension",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2953/1768242782953-h",
-                    "updateDate": "12-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "56",
-                    "duration": "21m",
-                    "episodeCode": "S1-E56",
-                    "episodeName": "Dilip Supports Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1124/1768100221124-h",
-                    "updateDate": "11-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "55",
-                    "duration": "21m",
-                    "episodeCode": "S1-E55",
-                    "episodeName": "Nawab's Breathless Ordeal",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8013/1779261218013-h",
-                    "updateDate": "10-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "54",
-                    "duration": "32m",
-                    "episodeCode": "S1-E54",
-                    "episodeName": "Sunny's Affair Exposed",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4839/1767960314839-h",
-                    "updateDate": "09-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "52",
-                    "duration": "32m",
-                    "episodeCode": "S1-E52",
-                    "episodeName": "Nawab's Silent Care for Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9681/1767754209681-h",
-                    "updateDate": "07-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "51",
-                    "duration": "31m",
-                    "episodeCode": "S1-E51",
-                    "episodeName": "Arjun, Nawab's Fierce Clash",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2452/1767667372452-h",
-                    "updateDate": "06-01-2026",
                     "episodeUrl": ""
                 }
             ]
