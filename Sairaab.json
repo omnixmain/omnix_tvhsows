@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "20m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Nayanika Chooses Ishaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5274/1784901335274-h",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "52",
                     "duration": "21m",
                     "episodeCode": "S1-E52",
