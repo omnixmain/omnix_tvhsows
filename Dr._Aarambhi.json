@@ -1312,6 +1312,86 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5867/1770350495867-h",
                     "updateDate": "06-02-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "23m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Vishwas's Cold-Blooded Ambition",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7742/1770287387742-h",
+                    "updateDate": "05-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "22m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Aarambhi Betrayed at the Brink",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/339/1770192880339-h",
+                    "updateDate": "04-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "24m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Manmeet Warns of Death",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2090/1770113722090-h",
+                    "updateDate": "03-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "23m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Aarambhi's Medical Crisis",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/150/1770007470150-h",
+                    "updateDate": "02-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "25m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Vishwas Betrays Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7450/1769776467450-h",
+                    "updateDate": "30-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "28m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Aarambhi and Vishwas's Anniversary",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7347/1769620937347-h",
+                    "updateDate": "29-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "28m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Vishwas's Grand Proposal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3167/1769532963167-h",
+                    "updateDate": "28-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "34m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Aarambhi's New Beginnings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4182/1769502564182-h",
+                    "updateDate": "27-01-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
