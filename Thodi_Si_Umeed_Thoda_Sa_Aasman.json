@@ -182,6 +182,16 @@
                     "episodeBanner": "https://sund-images.sunnxt.com/256746/1920x1080_ThodiSiUmeedThodaSaAasmanJul232026_256746_f5423d43-f868-4873-af47-f0f1939434c1.jpg",
                     "updateDate": "23-07-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "22m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "E17 - Jul 24, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/256749/1920x1080_ThodiSiUmeedThodaSaAasmanJul242026_256749_f9c4e538-09e2-4cc7-a5b1-9a6f2fed464b.jpg",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
