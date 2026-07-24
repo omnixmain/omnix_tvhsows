@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "21m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Bacchans' Surprise for the Couple",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8423/1784859058423-h",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "36",
                     "duration": "22m",
                     "episodeCode": "S1-E36",
