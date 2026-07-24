@@ -10,7 +10,7 @@
             "streaming": "Prime Video",
             "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
             "language": "English / Hindi",
-            "ottReleaseDate": "24-07-2026",
+            "ottReleaseDate": "25-07-2026",
             "description": "Watch Alliance on Prime Video.",
             "episodes": [
                 {
@@ -18,9 +18,9 @@
                     "episodeNumber": "1",
                     "duration": "45m",
                     "episodeCode": "S1-E1",
-                    "episodeName": "Episodes 34-11",
+                    "episodeName": "Episodes 36-13",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "24-07-2026",
+                    "updateDate": "25-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -28,29 +28,9 @@
                     "episodeNumber": "2",
                     "duration": "45m",
                     "episodeCode": "S1-E2",
-                    "episodeName": "Episodes 10-1",
+                    "episodeName": "Episodes 12-1",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "24-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "11",
-                    "duration": "45m",
-                    "episodeCode": "S1-E11",
-                    "episodeName": "Episode 11",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/f4f5d0e0c3d04596de2a0783c7496470a4512ba1c04eddd353298ea71a08eed9._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "05-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "12",
-                    "duration": "45m",
-                    "episodeCode": "S1-E12",
-                    "episodeName": "Episode 12",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d1529c3d98bf12abfe95a47790dd7f3a0b5220f720f94b600c3aaa66a716e62._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "06-07-2026",
+                    "updateDate": "25-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -269,8 +249,28 @@
                     "duration": "45m",
                     "episodeCode": "S1-E34",
                     "episodeName": "Episode 34",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/c7923b0991dfe6283d55b44d239c625e0fc9d0b8424bba476c89c4fabdde6bf4._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "25-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "45m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Episode 35",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "26-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "45m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Episode 36",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "27-07-2026",
                     "episodeUrl": ""
                 }
             ]
