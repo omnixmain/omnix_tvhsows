@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "43m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Extra Sunshine",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2840/1784949422840-h",
+                    "updateDate": "25-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "22",
                     "duration": "24m",
                     "episodeCode": "S1-E22",
