@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "3",
+                    "episodeNumber": "71",
+                    "duration": "45m",
+                    "episodeCode": "S3-E71",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5671/1781702455671-i",
+                    "updateDate": "25-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
                     "episodeNumber": "70",
                     "duration": "1h 32m",
                     "episodeCode": "S3-E70",
