@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "25m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Extra Bawaal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8016/1784949478016-h",
+                    "updateDate": "25-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "37",
                     "duration": "21m",
                     "episodeCode": "S1-E37",
