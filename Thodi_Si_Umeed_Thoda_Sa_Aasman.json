@@ -192,6 +192,16 @@
                     "episodeBanner": "https://sund-images.sunnxt.com/256749/1920x1080_ThodiSiUmeedThodaSaAasmanJul242026_256749_f9c4e538-09e2-4cc7-a5b1-9a6f2fed464b.jpg",
                     "updateDate": "24-07-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "22m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "E18 - Jul 25, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/256752/1920x1080_ThodiSiUmeedThodaSaAasmanJul252026_256752_8bcea15d-55cb-4d3a-8a91-f5f87d004fd2.jpg",
+                    "updateDate": "25-07-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
