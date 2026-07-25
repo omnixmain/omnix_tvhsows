@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "140",
+                    "duration": "21m",
+                    "episodeCode": "S1-E140",
+                    "episodeName": "Today's Episode",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5047/1784991445047-h",
+                    "updateDate": "25-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "139",
                     "duration": "22m",
                     "episodeCode": "S1-E139",
