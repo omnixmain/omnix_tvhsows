@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "172",
+                    "duration": "22m",
+                    "episodeCode": "S2-E172",
+                    "episodeName": "Seher's Mission to Treat Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/394/1784945580394-h",
+                    "updateDate": "25-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "171",
                     "duration": "20m",
                     "episodeCode": "S2-E171",
