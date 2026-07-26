@@ -10,7 +10,7 @@
             "streaming": "Prime Video",
             "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
             "language": "English / Hindi",
-            "ottReleaseDate": "26-07-2026",
+            "ottReleaseDate": "27-07-2026",
             "description": "Watch Alliance on Prime Video.",
             "episodes": [
                 {
@@ -20,7 +20,7 @@
                     "episodeCode": "S1-E1",
                     "episodeName": "Episodes 36-13",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "26-07-2026",
+                    "updateDate": "27-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -30,7 +30,7 @@
                     "episodeCode": "S1-E2",
                     "episodeName": "Episodes 12-1",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "26-07-2026",
+                    "updateDate": "27-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -269,7 +269,7 @@
                     "duration": "45m",
                     "episodeCode": "S1-E36",
                     "episodeName": "Episode 36",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/3c2e9fc79b2a6edfd51b3159864539571936458d911aa59b414d6594e06a4f49._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "27-07-2026",
                     "episodeUrl": ""
                 }
