@@ -10,9 +10,79 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "26-07-2026",
+            "ottReleaseDate": "27-07-2026",
             "description": "12 singles in their 30s who have ended prior relationships move into a villa to find love and give it another chance. Watch Second Love - Hindi Telugu Tamil Kannada Malayalam Reality Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "44m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "A Choice, A Date, A Twist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9252/1784537829252-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "44m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "New Faces, New Possibilities",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1449/1784537901449-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "45m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "When Emotions Collide",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2860/1784537912860-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "45m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "No More Secrets",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4677/1784537924677-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "42m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Seeking Clarity",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6749/1784537936749-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "41m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Memories, Emotions, Unspoken Truths",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8654/1784537948654-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "43m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Connections, Challenges, Heart Exchange",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4515/1784538084515-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "8",
