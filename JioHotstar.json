@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "JioHotstar",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3497/1775455313497-h",
+            "banner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,9 +10,160 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "26-07-2026",
+            "ottReleaseDate": "27-07-2026",
             "description": "JioHotstar is India’s largest premium streaming platform with more than 100,000 hours of drama and movies in 17 languages, and coverage of every major global sporting event.",
-            "episodes": []
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Los Angeles Dodgers @ New York Mets",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Trent Rockets vs London Spirit",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "10m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Laxman Breaks Down India's Dominant Win",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "13m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Manchester Super Giants vs Birmingham Phoenix: Highlights",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "11m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Final: Dempo Goa Challengers vs U Mumba TT, Highlights",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "12m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Final: Villianur Mohit Kings vs Mahe Strikers, Highlights",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2091",
+                    "duration": "26m",
+                    "episodeCode": "S1-E2091",
+                    "episodeName": "Anupama's Return Shocks Prem",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "45m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "LIVE",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/1851/1783572601851-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "45m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "LIVE",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/8001/1753788608001-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "45m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "LIVE",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/7078/1778613207078-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "45m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "LIVE",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/8516/1753789138516-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "45m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "LIVE",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/9448/1756922919448-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "45m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "News18 Rajasthan",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "45m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "News18 Tamil Nadu",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "45m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "CNN-News18",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                }
+            ]
         }
     ]
 }
