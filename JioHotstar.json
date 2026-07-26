@@ -1,0 +1,18 @@
+{
+    "tvShows": [
+        {
+            "name": "JioHotstar",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3497/1775455313497-h",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "26-07-2026",
+            "description": "JioHotstar is India’s largest premium streaming platform with more than 100,000 hours of drama and movies in 17 languages, and coverage of every major global sporting event.",
+            "episodes": []
+        }
+    ]
+}
