@@ -10,7 +10,7 @@
             "streaming": "Prime Video",
             "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
             "language": "English / Hindi",
-            "ottReleaseDate": "27-07-2026",
+            "ottReleaseDate": "28-07-2026",
             "description": "Watch Alliance on Prime Video.",
             "episodes": [
                 {
@@ -18,9 +18,9 @@
                     "episodeNumber": "1",
                     "duration": "45m",
                     "episodeCode": "S1-E1",
-                    "episodeName": "Episodes 36-13",
+                    "episodeName": "Episodes 41-18",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "27-07-2026",
+                    "updateDate": "28-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -28,59 +28,9 @@
                     "episodeNumber": "2",
                     "duration": "45m",
                     "episodeCode": "S1-E2",
-                    "episodeName": "Episodes 12-1",
+                    "episodeName": "Episodes 17-1",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "27-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "13",
-                    "duration": "45m",
-                    "episodeCode": "S1-E13",
-                    "episodeName": "Episode 13",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/cf381072f5c14cc4e509f72db0626780baa7a83f1e988e091e6257d3ec8fabe8._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "07-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "14",
-                    "duration": "45m",
-                    "episodeCode": "S1-E14",
-                    "episodeName": "Episode 14",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/2a2a354a5234ee431b45bbbc9327b5beeff9a4348b700b82b009a3a7b9b13f83._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "08-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "15",
-                    "duration": "45m",
-                    "episodeCode": "S1-E15",
-                    "episodeName": "Episode 15",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/a7f5d73fb095df57f18ddc5b0ba2b9a1bf2583c51d18af83caea8908023b34de._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "09-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "16",
-                    "duration": "45m",
-                    "episodeCode": "S1-E16",
-                    "episodeName": "Episode 16: Week 2 Recap",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/10b23dbb37e9c5cb7f6cc3a40e8abd4656d3adcb4c772dcd6482cec61cac17c8._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "09-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "17",
-                    "duration": "45m",
-                    "episodeCode": "S1-E17",
-                    "episodeName": "Episode 17",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/6b68101267aa3ea1d46b8e98783897db7790a3547d9897f398cc74207dd6dbc1._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "10-07-2026",
+                    "updateDate": "28-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -271,6 +221,56 @@
                     "episodeName": "Episode 36",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/3c2e9fc79b2a6edfd51b3159864539571936458d911aa59b414d6594e06a4f49._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "45m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Episode 37",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/ddd0290c572d73359526a641635af6e996218c8499677c8d338c51a07d70f185._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "28-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "45m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Episode 38",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/03a37d0ea7100eaf954282632f0fe304aec933a9ac958feb5d7f0e30591379e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "29-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "45m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Episode 39",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "30-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "45m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Episode 40 - Week 5 Recap",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "30-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "45m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Episode 41",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "31-07-2026",
                     "episodeUrl": ""
                 }
             ]
