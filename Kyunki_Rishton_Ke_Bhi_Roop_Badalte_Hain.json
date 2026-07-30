@@ -10,9 +10,39 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "27-07-2026",
-            "description": "Away from the Viranis, power couple Angad and Vrinda journey to Jamshedpur on a secret mission. With love and wits, can they unveil the big conspiracy? Watch Kyunki Rishton Ke Bhi Roop Badalte Hain - Hindi Drama Romance serial on JioHotstar now.",
+            "ottReleaseDate": "30-07-2026",
+            "description": "Years after a harrowing separation, Angad and Vrinda’s paths cross again! Navigating lost love, is there a hope for VridAng’s reunion? Watch Kyunki Rishton Ke Bhi Roop Badalte Hain - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "132",
+                    "duration": "17m",
+                    "episodeCode": "S1-E132",
+                    "episodeName": "Vrinda accepts Karthik's Proposal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3182/1785288433182-h",
+                    "updateDate": "29-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "131",
+                    "duration": "18m",
+                    "episodeCode": "S1-E131",
+                    "episodeName": "Karthik Proves Vrinda's Innocence",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7843/1785205037843-h",
+                    "updateDate": "28-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "130",
+                    "duration": "17m",
+                    "episodeCode": "S1-E130",
+                    "episodeName": "Hemant Seeks Noina's Help",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1855/1785117561855-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "129",
@@ -1119,7 +1149,7 @@
                     "duration": "15m",
                     "episodeCode": "S1-E19",
                     "episodeName": "Angad Fears for Bharati",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1081/1775777711081-h",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6964/1785117506964-h",
                     "updateDate": "07-04-2026",
                     "episodeUrl": ""
                 },
