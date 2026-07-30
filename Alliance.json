@@ -10,7 +10,7 @@
             "streaming": "Prime Video",
             "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
             "language": "English / Hindi",
-            "ottReleaseDate": "29-07-2026",
+            "ottReleaseDate": "30-07-2026",
             "description": "Watch Alliance on Prime Video.",
             "episodes": [
                 {
@@ -20,7 +20,7 @@
                     "episodeCode": "S1-E1",
                     "episodeName": "Episodes 41-18",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "29-07-2026",
+                    "updateDate": "30-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -30,7 +30,7 @@
                     "episodeCode": "S1-E2",
                     "episodeName": "Episodes 17-1",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "29-07-2026",
+                    "updateDate": "30-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -259,7 +259,7 @@
                     "duration": "45m",
                     "episodeCode": "S1-E40",
                     "episodeName": "Episode 40 - Week 5 Recap",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/0d22cfe1b7bbfb00c610ecc67a7379ed8385c7daefe42f8d101d6263bf1c66e5._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/2f4baebead0f55d8617e5d93536762ff0cc611f9205bce3f86c69d21edce1425._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "30-07-2026",
                     "episodeUrl": ""
                 },
