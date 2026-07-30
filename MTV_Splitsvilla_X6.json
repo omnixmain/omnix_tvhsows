@@ -10,77 +10,17 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "27-07-2026",
+            "ottReleaseDate": "30-07-2026",
             "description": "Watch MTV Splitsvilla X6 on JioHotstar.",
             "episodes": [
                 {
-                    "seasonNumber": "16",
+                    "seasonNumber": "15",
                     "episodeNumber": "1",
                     "duration": "45m",
-                    "episodeCode": "S16-E1",
+                    "episodeCode": "S15-E1",
                     "episodeName": "Watch First Episode",
                     "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
-                    "updateDate": "27-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "16",
-                    "episodeNumber": "56",
-                    "duration": "2h 13m",
-                    "episodeCode": "S16-E56",
-                    "episodeName": "The Grand Finale: Part 2",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8508/1778923148508-h",
-                    "updateDate": "16-05-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "16",
-                    "episodeNumber": "55",
-                    "duration": "2h 24m",
-                    "episodeCode": "S16-E55",
-                    "episodeName": "The Grand Finale: Part 1",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6052/1781260476052-h",
-                    "updateDate": "15-05-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "16",
-                    "episodeNumber": "54",
-                    "duration": "2h 9m",
-                    "episodeCode": "S16-E54",
-                    "episodeName": "Battle for Semi-Final Glory",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5690/1778416255690-h",
-                    "updateDate": "10-05-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "16",
-                    "episodeNumber": "53",
-                    "duration": "1h 24m",
-                    "episodeCode": "S16-E53",
-                    "episodeName": "The Final Dome: Heartbreak, Drama",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8147/1778332418147-h",
-                    "updateDate": "09-05-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "16",
-                    "episodeNumber": "52",
-                    "duration": "1h 52m",
-                    "episodeCode": "S16-E52",
-                    "episodeName": "The Ticket To Finale Challenge",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8814/1778315218814-h",
-                    "updateDate": "08-05-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "16",
-                    "episodeNumber": "51",
-                    "duration": "1h 0m",
-                    "episodeCode": "S16-E51",
-                    "episodeName": "Trump and Dump Twist",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6162/1777814346162-h",
-                    "updateDate": "03-05-2026",
+                    "updateDate": "30-07-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -571,6 +511,416 @@
                     "episodeName": "Twist at the First Meet",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/734/1768049100734-h",
                     "updateDate": "10-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "1",
+                    "duration": "1h 45m",
+                    "episodeCode": "S16-E1",
+                    "episodeName": "Grand Premiere: Pyaar Ya Paisa?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2412/1767961062412-h",
+                    "updateDate": "09-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "41",
+                    "duration": "1h 25m",
+                    "episodeCode": "S15-E41",
+                    "episodeName": "The Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6952/1734188306952-h",
+                    "updateDate": "11-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "40",
+                    "duration": "1h 21m",
+                    "episodeCode": "S15-E40",
+                    "episodeName": "Muqabla Semi-Finale Ka",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/945/1734188310945-h",
+                    "updateDate": "10-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "39",
+                    "duration": "2h 2m",
+                    "episodeCode": "S15-E39",
+                    "episodeName": "Janta Jury",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/954/1734188130954-h",
+                    "updateDate": "09-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "38",
+                    "duration": "1h 16m",
+                    "episodeCode": "S15-E38",
+                    "episodeName": "Kaatil Kaun",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1875/1734187901875-h",
+                    "updateDate": "04-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "37",
+                    "duration": "1h 10m",
+                    "episodeCode": "S15-E37",
+                    "episodeName": "Ticket to Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6707/1734187936707-h",
+                    "updateDate": "03-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "36",
+                    "duration": "1h 6m",
+                    "episodeCode": "S15-E36",
+                    "episodeName": "Pyaar Jahan, Jannat Wahan!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2176/1734187742176-h",
+                    "updateDate": "28-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "35",
+                    "duration": "1h 22m",
+                    "episodeCode": "S15-E35",
+                    "episodeName": "Match Fixing",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9822/1734187759822-h",
+                    "updateDate": "27-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "34",
+                    "duration": "1h 20m",
+                    "episodeCode": "S15-E34",
+                    "episodeName": "Champions Vs Challengers",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4722/1734187394722-h",
+                    "updateDate": "21-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "33",
+                    "duration": "1h 29m",
+                    "episodeCode": "S15-E33",
+                    "episodeName": "Goal Maal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5805/1734187415805-h",
+                    "updateDate": "20-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "32",
+                    "duration": "1h 26m",
+                    "episodeCode": "S15-E32",
+                    "episodeName": "Swagat Nahin Karoge Humara...",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4725/1734187214725-h",
+                    "updateDate": "14-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "31",
+                    "duration": "59m",
+                    "episodeCode": "S15-E31",
+                    "episodeName": "Picture Abhi Baaki Hai...",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1808/1734187231808-h",
+                    "updateDate": "13-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "30",
+                    "duration": "1h 20m",
+                    "episodeCode": "S15-E30",
+                    "episodeName": "Dares, Darlings, aur Downfall",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8883/1734186978883-h",
+                    "updateDate": "07-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "29",
+                    "duration": "1h 18m",
+                    "episodeCode": "S15-E29",
+                    "episodeName": "Note pe Note!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9700/1734186989700-h",
+                    "updateDate": "06-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "28",
+                    "duration": "1h 4m",
+                    "episodeCode": "S15-E28",
+                    "episodeName": "Ringmaster, Sher aur Teddy Bear",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/938/1734186770938-h",
+                    "updateDate": "30-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "27",
+                    "duration": "1h 10m",
+                    "episodeCode": "S15-E27",
+                    "episodeName": "Khareedari padi Bhaari",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3960/1734186783960-h",
+                    "updateDate": "29-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "26",
+                    "duration": "1h 28m",
+                    "episodeCode": "S15-E26",
+                    "episodeName": "Chidiya Udd",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9442/1734186429442-h",
+                    "updateDate": "23-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "25",
+                    "duration": "55m",
+                    "episodeCode": "S15-E25",
+                    "episodeName": "Qaid mein hai Bulbul",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3573/1734186453573-h",
+                    "updateDate": "22-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "24",
+                    "duration": "57m",
+                    "episodeCode": "S15-E24",
+                    "episodeName": "Toofani Confrontations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6853/1734186196853-h",
+                    "updateDate": "16-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "23",
+                    "duration": "57m",
+                    "episodeCode": "S15-E23",
+                    "episodeName": "Spill the Tea",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8868/1734186208868-h",
+                    "updateDate": "15-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "22",
+                    "duration": "1h 20m",
+                    "episodeCode": "S15-E22",
+                    "episodeName": "Power ya Pyaar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2066/1734185982066-h",
+                    "updateDate": "09-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "21",
+                    "duration": "1h 18m",
+                    "episodeCode": "S15-E21",
+                    "episodeName": "Love O'Clock",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/108/1734186000108-h",
+                    "updateDate": "08-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "20",
+                    "duration": "1h 10m",
+                    "episodeCode": "S15-E20",
+                    "episodeName": "Rabba Bachaye",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/72/1734185940072-h",
+                    "updateDate": "02-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "19",
+                    "duration": "1h 14m",
+                    "episodeCode": "S15-E19",
+                    "episodeName": "Ek Aur EX",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3102/1734185783102-h",
+                    "updateDate": "01-06-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "18",
+                    "duration": "48m",
+                    "episodeCode": "S15-E18",
+                    "episodeName": "Doobte Connections",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9039/1734185579039-h",
+                    "updateDate": "26-05-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "17",
+                    "duration": "1h 9m",
+                    "episodeCode": "S15-E17",
+                    "episodeName": "Entertainment Entertainment Entertainment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3020/1734185583020-h",
+                    "updateDate": "25-05-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "16",
+                    "duration": "57m",
+                    "episodeCode": "S15-E16",
+                    "episodeName": "Bonds, Backstab, Betrayal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1173/1734185271173-h",
+                    "updateDate": "19-05-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "15",
+                    "duration": "1h 7m",
+                    "episodeCode": "S15-E15",
+                    "episodeName": "Khudaayi aur Judaai",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2111/1734185272111-h",
+                    "updateDate": "18-05-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "14",
+                    "duration": "56m",
+                    "episodeCode": "S15-E14",
+                    "episodeName": "Romance aur Bromance",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6592/1734184936592-h",
+                    "updateDate": "12-05-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "13",
+                    "duration": "1h 9m",
+                    "episodeCode": "S15-E13",
+                    "episodeName": "Mischief Masterstroke",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8698/1734184948698-h",
+                    "updateDate": "11-05-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "12",
+                    "duration": "1h 7m",
+                    "episodeCode": "S15-E12",
+                    "episodeName": "The Love Den",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6095/1734184646095-h",
+                    "updateDate": "05-05-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "11",
+                    "duration": "1h 12m",
+                    "episodeCode": "S15-E11",
+                    "episodeName": "Pyaar ka SenseNaama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7017/1734184657017-h",
+                    "updateDate": "04-05-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "10",
+                    "duration": "54m",
+                    "episodeCode": "S15-E10",
+                    "episodeName": "Shik Shak Shock",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8346/1734184368346-h",
+                    "updateDate": "28-04-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "9",
+                    "duration": "54m",
+                    "episodeCode": "S15-E9",
+                    "episodeName": "Teen Tigaada Kaam Bigaada",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6983/1734184376983-h",
+                    "updateDate": "27-04-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "8",
+                    "duration": "1h 10m",
+                    "episodeCode": "S15-E8",
+                    "episodeName": "The Courtroom Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5360/1734184095360-h",
+                    "updateDate": "21-04-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "7",
+                    "duration": "1h 10m",
+                    "episodeCode": "S15-E7",
+                    "episodeName": "Exes Ka Explosion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2344/1734184122344-h",
+                    "updateDate": "20-04-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "6",
+                    "duration": "42m",
+                    "episodeCode": "S15-E6",
+                    "episodeName": "Bachao Bachao",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5865/1734184035865-h",
+                    "updateDate": "14-04-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "5",
+                    "duration": "1h 0m",
+                    "episodeCode": "S15-E5",
+                    "episodeName": "Potty Li'l Secrets",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3821/1734184063821-h",
+                    "updateDate": "13-04-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "4",
+                    "duration": "1h 2m",
+                    "episodeCode": "S15-E4",
+                    "episodeName": "Tohfa ya Tabaahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6730/1734183946730-h",
+                    "updateDate": "07-04-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "3",
+                    "duration": "58m",
+                    "episodeCode": "S15-E3",
+                    "episodeName": "Breaking News",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5534/1734183965534-h",
+                    "updateDate": "06-04-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "2",
+                    "duration": "54m",
+                    "episodeCode": "S15-E2",
+                    "episodeName": "ExSqueeze Me Please",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/625/1734183680625-h",
+                    "updateDate": "31-03-2024",
                     "episodeUrl": ""
                 }
             ]
