@@ -10,9 +10,49 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "27-07-2026",
+            "ottReleaseDate": "30-07-2026",
             "description": "Young and ambitious, Sangam ends up marrying the carefree Krishna Bacchan! But the Bacchans have never lived with a woman, so how will the ‘new Bahu’ fare? Watch Bareilly Ke Bacchan - Hindi Drama Family Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "23m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Sangam, Krishna's Reception",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8056/1785358038056-h",
+                    "updateDate": "30-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "24m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Ganga Learns the Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4254/1785253754254-h",
+                    "updateDate": "29-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "23m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Krishna's Plea to Sangam",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1729/1785206041729-h",
+                    "updateDate": "28-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "24m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Satluj Clashes with Krishna",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9952/1785118979952-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "38",
