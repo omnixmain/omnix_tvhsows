@@ -10,9 +10,49 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "27-07-2026",
+            "ottReleaseDate": "30-07-2026",
             "description": "Shivprasad and Shalini juggle middle-class family life with their two kids. But hush! Shivprasad is also a secret agent, how long can he keep up his cover? Watch Mr. and Mrs. Parshuram - Hindi Drama Action serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "176",
+                    "duration": "20m",
+                    "episodeCode": "S1-E176",
+                    "episodeName": "Bhoomika Takes Back Omkar's Case",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4648/1785361834648-h",
+                    "updateDate": "30-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "175",
+                    "duration": "20m",
+                    "episodeCode": "S1-E175",
+                    "episodeName": "Malhar Banishes Bhoomika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6929/1785308076929-h",
+                    "updateDate": "29-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "174",
+                    "duration": "20m",
+                    "episodeCode": "S1-E174",
+                    "episodeName": "Shalini's Stern Warning to Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2609/1785204912609-h",
+                    "updateDate": "28-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "173",
+                    "duration": "21m",
+                    "episodeCode": "S1-E173",
+                    "episodeName": "Shivprasad's Shocking Discovery",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/711/1785117430711-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "172",
