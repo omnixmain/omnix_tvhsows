@@ -10,9 +10,49 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "27-07-2026",
+            "ottReleaseDate": "30-07-2026",
             "description": "After a tragic separation, Mahid and Seher lead different lives, albeit with lingering pain! But destined to be together, will 'MaHer' reunite? Watch Seher Hone Ko Hai - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "177",
+                    "duration": "21m",
+                    "episodeCode": "S2-E177",
+                    "episodeName": "Husna Doubts Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1933/1785368591933-h",
+                    "updateDate": "30-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "176",
+                    "duration": "23m",
+                    "episodeCode": "S2-E176",
+                    "episodeName": "Hyder Trails Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3115/1785291973115-h",
+                    "updateDate": "29-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "175",
+                    "duration": "22m",
+                    "episodeCode": "S2-E175",
+                    "episodeName": "Seher Comforts Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7026/1785196987026-h",
+                    "updateDate": "28-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "174",
+                    "duration": "21m",
+                    "episodeCode": "S2-E174",
+                    "episodeName": "Seher's Disguise to Treat Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1723/1785114231723-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "173",
