@@ -2,8 +2,8 @@
     "tvShows": [
         {
             "name": "Lock Upp",
-            "banner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZTO3pkNR0LKadox-672sKLw860JgdRlVTUTNvGzYbzv8PDdVa9_JTuyvKzAYbMBlMXwPTc3SvINI2pZ6NLJM_gZhKHsWPzkgVrT.jpg?r=a58",
-            "genre": "Reality Programming",
+            "banner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/0Qzqdxw-HG1AiOKLWWPsFOUDA2E/AAAABc-Zpwz0KRWkTvyiBBnaLfgEUIfkE4YdhlqKUK5VXj8VDE3vVk8qcuoAG6W1A3IsgXoyuMpPV65NlEKW23qwnAI-MWyrs-Es6R2e4EyGL-vqwUKOqyrV5O1Ll-OElePRjwi-G8m5nezySl_cbB7eJ3t046KjtbTsF7opHEbaG4hhzw28z4bWr8z0KhjUcsSDNN_r1mjZlf3Bh4ohWHoep1p5ivdez8k0X7m1vRUd6OXSBMdj_ZpfUatYzDxHZgwE4fB54osxEWtQ_P6IyGFvZBnf4D086ZOPDIsMBqT2Cq4DIdGuuamRz43JN8dRUX_kWGtTBpuzN7R_RJh6w03xt9FsCO_pc8TfAGGPcg.jpg?r=baf",
+            "genre": "Competition Reality TV, Reality TV, Hindi-Language TV Shows",
             "rating": "8.5",
             "year": "2026",
             "ageRating": "U/A 16+",
@@ -11,25 +11,55 @@
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
             "language": "Hindi",
             "ottReleaseDate": "01-01-2026",
-            "description": "",
+            "description": "When age is just a number, is it easier to find the one? Singles aged 22 to 60 date without revealing how old they are in this fascinating reality series.",
             "episodes": [
                 {
                     "seasonNumber": "2",
-                    "episodeNumber": "29",
+                    "episodeNumber": "32",
+                    "duration": "1h 7m",
+                    "episodeCode": "S2-E32",
+                    "episodeName": "Ep. 32 - The Feast",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfjiaKOr2a9JD8Q2tRVJANXRIf2vOE5q7FiNCmxPFc4tPlv_SaRJzlIlcnC_UFlekC3DZT3e5FjYzLeROGAylG3kGTnrEEad7Q4A2V8imFHz_JTlkVDGV5GJ.jpg?r=6e6",
+                    "updateDate": "02-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "31",
+                    "duration": "1h 16m",
+                    "episodeCode": "S2-E31",
+                    "episodeName": "Ep. 31 - Heavy Verdict",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcUsx6VZqGXZkD6fkQ-TNBgT6eWali89ogd6a9c7t8F90zFLMixWN5PhSZadGy6gq4G7J5vN4-Sb7jEmgJhDtc1n9XH7HdYYfoUy10BAwgTNxbueiL6vS52j.jpg?r=dc6",
+                    "updateDate": "01-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "30",
                     "duration": "45m",
+                    "episodeCode": "S2-E30",
+                    "episodeName": "Ep. 30 - Shaken and Stirred",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVvVxLGXjqPB3bQ7V7T5DVQ2lZvsNys3b7E-iaBG0rf6JLi99ni4E3ubIhw300cwmsBgl11YBNyr8lfsArVejOxuTnStscVRB3hNZqzy3oSK-gBYZonpxJsN.jpg?r=8c3",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "29",
+                    "duration": "59m",
                     "episodeCode": "S2-E29",
-                    "episodeName": "TBA",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZTO3pkNR0LKadox-672sKLw860JgdRlVTUTNvGzYbzv8PDdVa9_JTuyvKzAYbMBlMXwPTc3SvINI2pZ6NLJM_gZhKHsWPzkgVrT.jpg?r=a58",
+                    "episodeName": "Ep. 29 - Not Your Fight",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUbkJ9-CeKGIh5n8wxtKDChbQ9k-Md-B5pok-Gd6AeB9bgLsx_0LsHPpdPLdbbKFZfCpeIETNfOV-WTqNVSVlMqB6yFNpyNNLWSFkyMd0PYTcFJYjrB1URYF.jpg?r=5a3",
                     "updateDate": "30-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "28",
-                    "duration": "45m",
+                    "duration": "55m",
                     "episodeCode": "S2-E28",
-                    "episodeName": "TBA",
-                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZTO3pkNR0LKadox-672sKLw860JgdRlVTUTNvGzYbzv8PDdVa9_JTuyvKzAYbMBlMXwPTc3SvINI2pZ6NLJM_gZhKHsWPzkgVrT.jpg?r=a58",
+                    "episodeName": "Ep. 28 - More Than a Visit",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSQD-xtjyl5UCrV9KnbUgjqkwKyeicAmVDa_0YsVbDVNE9G523xgSk_2hcNiqL6N7VmEeEC_-vyrlhqHxyZkn5k0-E04Ejw2FWjlwS-ErwB4N46fJvQ9RAM7.jpg?r=4d1",
                     "updateDate": "29-07-2026",
                     "episodeUrl": ""
                 },
@@ -39,7 +69,7 @@
                     "duration": "1h",
                     "episodeCode": "S2-E27",
                     "episodeName": "Ep. 27- The Weight of Redemption",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586345.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTFNlfB93gpCko0PrWin2j66kcQWt1iVPsq_Wx5_OIr6KmRR1XJ9fPFnOJxI2kPgORX49uhld4Q8F4p3jLd9NGKhBu-o6peVPqPwqp12HsLVrmRn1rZQwfYG.jpg?r=45c",
                     "updateDate": "28-07-2026",
                     "episodeUrl": ""
                 },
@@ -49,7 +79,7 @@
                     "duration": "1h 6m",
                     "episodeCode": "S2-E26",
                     "episodeName": "Ep. 26 - Truth Hits Different",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585566.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZzMFZJyzzRZn7woEdFvLlOuYUxRT5UVIlDPGr4DrwFIip_n_07Jj38H0pkaCNkq2THT4ce-YpKKRXDO9n8l1AXcrQ0ZcrGbZMhwPjQ0gOLUyo4kAnD1NT19.jpg?r=f39",
                     "updateDate": "27-07-2026",
                     "episodeUrl": ""
                 },
@@ -59,7 +89,7 @@
                     "duration": "1h 10m",
                     "episodeCode": "S2-E25",
                     "episodeName": "Ep. 25 - Secrets for Sale",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585565.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT4cI3atOsTn7BNr4hlZgXS9kjEItKy7LBtAVilolyK3yUxoVETg1CXXhH7wYGpJtVjLTvkdSZz3hyZ5EHBRZhzdy-o-utqWioaUvojLlf7LQZsmn2ub5X4a.jpg?r=f5c",
                     "updateDate": "26-07-2026",
                     "episodeUrl": ""
                 },
@@ -69,7 +99,7 @@
                     "duration": "1h 6m",
                     "episodeCode": "S2-E24",
                     "episodeName": "Ep. 24 - Game Over",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585564.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXfdtkH6-amRw6IEPpZvpomz5VlDwIpntyy9vn47Za3Kn1-6OlBMjXyY6SerlfhVluqCQPWcfaAKAMJ1RK-FZZvf5LzwVM4bRN7HVHAyBIQLUpVV09YKMlc1.jpg?r=05e",
                     "updateDate": "25-07-2026",
                     "episodeUrl": ""
                 },
@@ -79,7 +109,7 @@
                     "duration": "1h 7m",
                     "episodeCode": "S2-E23",
                     "episodeName": "Ep. 23 - The Temperature Rises",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585563.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXIzA6wTeFXoKFqrrF9vRtKqTDPbV_R8gJorOqEjPfPjxS7X3bPCSXWyrf96JiTLAi0ki5nmjqwGGEQHUtOWKl8NcXUcmiGEIcLg6KJil6y62eZbZTnp6OWl.jpg?r=a5c",
                     "updateDate": "23-07-2026",
                     "episodeUrl": ""
                 },
@@ -89,7 +119,7 @@
                     "duration": "1h 9m",
                     "episodeCode": "S2-E22",
                     "episodeName": "Ep. 22 - The New Force",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585562.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQB487fvnXB9_Yncjt0kUH0xEEmfmm2-IKMTnvpCAWh_qL2foGMQcs_Izo5ewV-L-aVqcitwoHom7o9IUIeg62ah8H_wu5DOap9UPGpi7pXHbi5FPxklbCYv.jpg?r=3f6",
                     "updateDate": "22-07-2026",
                     "episodeUrl": ""
                 },
@@ -99,7 +129,7 @@
                     "duration": "1h 7m",
                     "episodeCode": "S2-E21",
                     "episodeName": "Ep. 21 - Discarded",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585561.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeti0GPWFgHPV4KnILEZzRbikg5ZI5qvGjIAbDLqPeP1faBP0t9HQYaJ7WNGgGViCnUKx-evhOJvWWKzZnQfMGfbJalaUxzzc4I6GugmsAj37GXI0EwUuHk5.jpg?r=963",
                     "updateDate": "21-07-2026",
                     "episodeUrl": ""
                 },
@@ -109,7 +139,7 @@
                     "duration": "1h 10m",
                     "episodeCode": "S2-E20",
                     "episodeName": "Ep. 20 - The Struggle Is Real",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585560.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUsIM1eG_IXCpTUUZhW_Sf6Lh9icJqcIVHiB89O7XvY78kLriniai-7KFW2hbIK5nfdHzYwTYxKIZtw6RBPa-V0LGm1hAe5Y4gNdHnPiIQvwWbjfmI8EgubV.jpg?r=920",
                     "updateDate": "20-07-2026",
                     "episodeUrl": ""
                 },
@@ -119,7 +149,7 @@
                     "duration": "1h 3m",
                     "episodeCode": "S2-E19",
                     "episodeName": "Ep. 19 - Gang Up",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585559.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSss-_w6hyKC04axwNnqUC3j8xlHWfl4xFfgntmuN6iFIEzxVD5aMCLOmmmOzWstbffmM1Fa8LTMdlK-ObwYQ0UL9WCYY8aTGDvoxLHAsGYEDlsRtElcI2RB.jpg?r=ea5",
                     "updateDate": "19-07-2026",
                     "episodeUrl": ""
                 },
@@ -129,17 +159,17 @@
                     "duration": "1h 9m",
                     "episodeCode": "S2-E18",
                     "episodeName": "Ep. 18 - Shock and Terminate",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585558.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUFQRhLNMRPXs3ej5rZ1DHm7PWcv-1tc2NVzyBXTtI9VjJHFov-5KixGzowJPbY22wF_3n8ZoeY3cuaMtXSqmhAet2Hw6x9x2JXr81zjkTaCeUNwTcamry3o.jpg?r=020",
                     "updateDate": "18-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "17",
-                    "duration": "1h 5m",
+                    "duration": "1h 6m",
                     "episodeCode": "S2-E17",
                     "episodeName": "Ep. 17 - Messy Business",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585557.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTB9jIZuzSM_qo_iz1XQ9-cc4g2JoRmYdPxMDTnLisvoVp7e8i4J0s5ZLIY8K6rmdsnc2ZqKDlFuHaMs3yVWOGerl9aew5mwh6rMI5P06la3G67S6TKdB0mv.jpg?r=e65",
                     "updateDate": "16-07-2026",
                     "episodeUrl": ""
                 },
@@ -149,17 +179,17 @@
                     "duration": "1h 1m",
                     "episodeCode": "S2-E16",
                     "episodeName": "Ep. 16 - Nothing stays fun",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585556.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZi4OpEPsgLqGQ_Qq9BVL_4dwON9zD1B8xr0zK0kjfMMwGyYqlhIurDztKeWfh6jBZhkJEF35sNKNz4tz1FqxZZYYZyZMcs2EomGEqyiKwXeYy8jFTRN_9Mx.jpg?r=15b",
                     "updateDate": "15-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "15",
-                    "duration": "1h 1m",
+                    "duration": "1h 2m",
                     "episodeCode": "S2-E15",
                     "episodeName": "Ep. 15 - Powers, Secrets, Termination",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581475.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRKR7zcl6qguW0vlsJ61uXrO9wWNCq1bwOf2UGcqPFgYEiUS-q3rtPjT1xJ9X82iZSOOcrYSDMCdJpUlqFTV9eqquufArcUtu3TJZ64ZYoZe0YEq_xQpKazv.jpg?r=277",
                     "updateDate": "14-07-2026",
                     "episodeUrl": ""
                 },
@@ -169,7 +199,7 @@
                     "duration": "1h 2m",
                     "episodeCode": "S2-E14",
                     "episodeName": "Ep. 14 - The Price of Control",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581122.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSU8-F3pmAzUtgA5w_7zhhx0pKNquc8iVogeOOttbhDAfuoNC1YlYQqtqQumi5HfDkzp-ywBqKPGZZuOwvwVlwsA1jUpce3YO1LsMb2xkA8qTCZ0oTv01muh.jpg?r=d10",
                     "updateDate": "13-07-2026",
                     "episodeUrl": ""
                 },
@@ -179,7 +209,7 @@
                     "duration": "1h",
                     "episodeCode": "S2-E13",
                     "episodeName": "Ep. 13 - Control or Chaos",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580588.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcv7HgJGbStDMP5iA0yFtAs1SCVXhNtrF4a-ADKbdcWgYGkYnMxaao-W1bWNKLICLQoeXsBlOuvMz6o24C8iMBUhw5L9hoXcnzlN0qlc37lZngptYDX1K6ad.jpg?r=4c5",
                     "updateDate": "12-07-2026",
                     "episodeUrl": ""
                 },
@@ -189,7 +219,7 @@
                     "duration": "1h 12m",
                     "episodeCode": "S2-E12",
                     "episodeName": "Ep. 12 - The Storm Arrives",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580587.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRCC1RpK_ucav1joy03-rSRJsLUDYaqSG7ua4d-58r7aLyJXdQLu49O1U1kX3edIIZHRnp3epz6Y5qaH4qpS_cZgokJrexngqPImPqPex-7iAl8T4FtI127-.jpg?r=a2e",
                     "updateDate": "11-07-2026",
                     "episodeUrl": ""
                 },
@@ -199,7 +229,7 @@
                     "duration": "1h",
                     "episodeCode": "S2-E11",
                     "episodeName": "Ep. 11 - The Visitor",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580586.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYHF9flJZ3e-ac_4XGDOZPPNPJto4ZS-ueWDRMoRnHISptcY7DDxBje8Jw9xZN5WcS1EbI4D1BSEqI-XX31fX15jJjuH9GgbzlHRJuXzghdbdclFe-yhy-g_.jpg?r=f1f",
                     "updateDate": "09-07-2026",
                     "episodeUrl": ""
                 },
@@ -209,17 +239,17 @@
                     "duration": "58m",
                     "episodeCode": "S2-E10",
                     "episodeName": "Ep. 10 - Love and War",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580585.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW9OwSyhorzdCMizAhNtkIztdF09s5DPkCa92GXmBAsYsNSCI9C4Wva0YLB6k3doEQXFZngTEqHWd6aE4XgWPiYLnGHIiAVIPWeEWnZld8fcRsCGTDnNCs0O.jpg?r=7f9",
                     "updateDate": "08-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "9",
-                    "duration": "1h 1m",
+                    "duration": "1h 2m",
                     "episodeCode": "S2-E9",
                     "episodeName": "Ep. 9 - Greed v/s Need",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580584.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY9wz6B8KDsuYQnJhuh0HobAMbcjjMFRD9MMbLbc1RDf3G9LPwT5hTNS1iviaLy4m-Uxtx3IzHmg9HhxDedVNRfEyZrbjqTnVHLK5r2Yx7OwMsvVIxNGOJFq.jpg?r=cfe",
                     "updateDate": "07-07-2026",
                     "episodeUrl": ""
                 },
@@ -229,17 +259,17 @@
                     "duration": "50m",
                     "episodeCode": "S2-E8",
                     "episodeName": "Ep. 8 - The Bid and The Bomb",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580583.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABS--AIJe5ebTIm4CR2o-Cw7mrnDj74NYuIyGes9KadTnaPz8DwPVXyt4pdTGQwCHTYA4AsF3Uj4IpKfM1CP-_uTaDQeqTjWPsfBXacdtgB8IgXcpn4EG1kGI.jpg?r=8e5",
                     "updateDate": "06-07-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "7",
-                    "duration": "56m",
+                    "duration": "57m",
                     "episodeCode": "S2-E7",
                     "episodeName": "Ep. 7 - Hungry for More",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580582.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABagS__mNzyg6hcnVBNBz6nHx8SsVeTNdk3QRf1Fy3_tQAPyYfLW1hyO91zeq1wjE7q0B3V-fgJUKf-zvvOLG-dzNQZr5YpVlBdCmuVh-qj2y_uztHcicw4ZU.jpg?r=4eb",
                     "updateDate": "05-07-2026",
                     "episodeUrl": ""
                 },
@@ -249,7 +279,7 @@
                     "duration": "56m",
                     "episodeCode": "S2-E6",
                     "episodeName": "Ep. 6 - Judgement Day",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/632/1580581.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfWUt8DMW-JwEMsbwvmGmfCdowyoHDzOAmnYeReU5lNvk37qkJULMisExbi2u52wLyhRy4vSyXHkAR7bCFgvtexk7219C04TGDr_QUsSuRDLO4CfEXdIkp5b.jpg?r=4a8",
                     "updateDate": "04-07-2026",
                     "episodeUrl": ""
                 },
@@ -259,7 +289,7 @@
                     "duration": "53m",
                     "episodeCode": "S2-E5",
                     "episodeName": "Ep. 5 - Survive the Crackdown",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1577485.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVfDSDOM36XIxCov10e1sxZYMazFQQiNe6IDizynF9b0r0W494Kdbll3RTgkmQSp_cK0zvb54spyGoc2C9NnUfvHvcqbAkgeLGYhIiMm6vCeBWiz49A5L6l1.jpg?r=484",
                     "updateDate": "01-07-2026",
                     "episodeUrl": ""
                 },
@@ -269,27 +299,27 @@
                     "duration": "54m",
                     "episodeCode": "S2-E4",
                     "episodeName": "Ep. 4 - The First Chargesheet",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1577484.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQECux_JJp049voFfcb1w34-4U6uHhwAfxJyjkuCTDhCdRd8qHAbIgQXQQSdvirsozBJwCKfXDtKBaacjqsm__Y1_SWV6MZoCuDUYkcBmi47b3bIa8J758bI.jpg?r=8fd",
                     "updateDate": "30-06-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "3",
-                    "duration": "58m",
+                    "duration": "59m",
                     "episodeCode": "S2-E3",
                     "episodeName": "Ep. 3 - The Jailer’s Bargain",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576337.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVmjIjisGFsuFTlI0F-Mbii_2J9SDJbSDOUhcjls2De_NKIQJ_J0Eqpei9v5suZBpj70_-7QAHs6xloPNALaN17oF7JaJom8Ro8Kj-jakNGEMfaiHd1b3V_7.jpg?r=26c",
                     "updateDate": "29-06-2026",
                     "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "2",
-                    "duration": "59m",
+                    "duration": "1h",
                     "episodeCode": "S2-E2",
                     "episodeName": "Ep. 2 - Tagged and Targeted",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576336.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRCjwrT1t6qAOY3vSbQctGHGA76GitskOAbMs4AJWhj-K8LXDZUVkzixfpCd03vRnQJAUbGdw77IfHLUCrNuofO-3RGBwPWkMH4fH51ckaSOrEi-M3776vFb.jpg?r=0ad",
                     "updateDate": "28-06-2026",
                     "episodeUrl": ""
                 },
@@ -299,7 +329,7 @@
                     "duration": "1h 29m",
                     "episodeCode": "S2-E1",
                     "episodeName": "Ep. 1 - Famous, Accused, Locked.",
-                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576335.jpg",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXH8-ZH5U8Cs0ntwndPmjAdDZClNhIoBdmUWITOQzhkdc4rc5ZTm34OLadcVPrLZfkw0Fa1kuvOSoWiRfvysrCUp_Wqs37sxMObnI8ewZR3W1Zk7u06tLnfW.jpg?r=785",
                     "updateDate": "27-06-2026",
                     "episodeUrl": ""
                 },
