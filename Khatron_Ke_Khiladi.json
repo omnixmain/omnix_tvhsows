@@ -1,0 +1,39 @@
+{
+    "tvShows": [
+        {
+            "name": "Khatron Ke Khiladi",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9782/1785503959782-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "03-08-2026",
+            "description": "Confront the fear, head-on! Host Rohit Shetty brings ‘Darr Ka Naya Daur’, where adrenaline gets addictive as celeb contestants take on extreme challenges. Watch Khatron Ke Khiladi - Hindi Reality serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "2",
+                    "duration": "1h 6m",
+                    "episodeCode": "S15-E2",
+                    "episodeName": "Fear Gets Personal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1078/1785514301078-h",
+                    "updateDate": "02-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "1",
+                    "duration": "1h 19m",
+                    "episodeCode": "S15-E1",
+                    "episodeName": "Grand Premiere: Darr Ka Naya Daur!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1790/1785514181790-h",
+                    "updateDate": "01-08-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
