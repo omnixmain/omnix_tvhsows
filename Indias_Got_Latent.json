@@ -1,0 +1,59 @@
+{
+    "tvShows": [
+        {
+            "name": "India's Got Latent",
+            "banner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/0Qzqdxw-HG1AiOKLWWPsFOUDA2E/AAAABbq0JT5tmpP0kekLVYwsge3SI_q8LgwvZ4vPt5FR6hpV2YLOA4LQsI8JzSXDEAGS_ARzZPgCwF-Pav6qwHaTfo4itsp4wNSnfDihXRKt0ijfd-1tLazkmX_Nt0MhC5MMbS0TsImLYEp9mLjd8zacL3Umx04nzaMJoQ1RtD3CUsU1CTQmAlbBu5n057pDehb7wWUegerIUOkm-qu-UX4CKsjvp5x_3qujSheGfEUfVf-lo4WaYOzAmhoBeGbY-AWqxwQgqZ-5hIYuwzZV6G5ul9AswZTMPT-ZcufGxQX0NXVfjdYYneYSq0pdcsjB0uHhNTN8uqiKgtO_M0n7MMKYN0VAoSxvLy0IqE5aCA.webp?r=1c0",
+            "genre": "Competition Reality TV, Reality TV, TV Comedies",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "Netflix",
+            "streamingLogo": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/2ptYsEYw_pb7wCAzK1M7E3ClXEI/AAAABVO8k16DgX2tpMyRCPdBKde1mBCVRb9GvyCA_sL2Bq48Ri-nIunF47YVWxMDIweSD1dG-hVil8zWCXJbyF-diLTTmeHDoJ_h2nmRexh-QaQ.webp?r=3d0",
+            "language": "Hindi",
+            "ottReleaseDate": "20-06-2026",
+            "description": "At District Court Patparganj, a quirky cast of characters seeks to uphold law and order in the Delhi suburb — but not without chaos and comedy. From the producer of \"Kota Factory,\" this legal dramedy stars Ravi Kishan, Naila Grewal and Anant Joshi.",
+            "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "1",
+                    "duration": "1h",
+                    "episodeCode": "S2-E1",
+                    "episodeName": "Ft. Alia Bhatt, Sharvari Wagh & Aashish Solanki",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXdyx0RBZmdxxOOeTPTH0rSzzk4YlXm0fmhqARzwwVq_0Kub5Q8a7eazxlbZ8l4oVdtiSChYjH-t1iUG1a6f7k2JquJNaNlayVU2AaNz05makZCiKoNBECSi.webp?r=254",
+                    "updateDate": "20-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "2",
+                    "duration": "1h 1m",
+                    "episodeCode": "S2-E2",
+                    "episodeName": "Ft. Chandan Prabhakar, Kiku Sharda & Harssh Limbachiyaa",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfeTJ7QbHiFsImDEBy1MSjkGw5XyTNmkw-a5Ne3plCh-xO1VkV-Os0nlazUWqyEb_2Qjz6bj36OZN0E_kTQ1YkoP7JjI_Pqm4OtqeA8wVP2mBzz2PgWDhaEG.webp?r=29a",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "3",
+                    "duration": "53m",
+                    "episodeCode": "S2-E3",
+                    "episodeName": "Ft. Vishal Dadlani, Raghu Ram, Tanmay Bhat & Yashraj",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcbcc264trK_kDaNFF4WxdZqJzv73ENBPRU2jwZQ0OdCUFFV09PMtV1jxDvvnk2J23hHA9mViMXYMgfseaS-EUK2rbMYs_N1Tzl1XZuBPr5afH8DKJQOfw4i.webp?r=c9b",
+                    "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "4",
+                    "duration": "55m",
+                    "episodeCode": "S2-E4",
+                    "episodeName": "Ft. Karan Aujla, Tanmay Bhat, Rahul Dua & Gurleen Pannuu",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRk_PzBKO-fk4sT0xE12Vo7AOQ3nL_SMNakrSfHFDm8Xji2BS2ZDmwWNU_Zx_M6qeOpBCst7F4Wj0t4pg_yLILaLbm_P3rUQbWN3xuTVAfYeHkfzoEHMgxrv.webp?r=b93",
+                    "updateDate": "02-08-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
