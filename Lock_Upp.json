@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "33",
+                    "duration": "1h 1m",
+                    "episodeCode": "S2-E33",
+                    "episodeName": "Ep. 33 - The Worthy and the Not",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfSMfPpV3j9jYWwRSJ045q8M0XQKifsx0htoZDponp03exLsZt8iwW8jI20Dxi2UXszf4LvP02Tq8L7d_fb3ZV9cY9LwREPHUG_MjN-tiSh4AVHfuTCWkjXQ.jpg?r=eb2",
+                    "updateDate": "03-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "32",
                     "duration": "1h 7m",
                     "episodeCode": "S2-E32",
