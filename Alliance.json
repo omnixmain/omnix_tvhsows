@@ -10,7 +10,7 @@
             "streaming": "Prime Video",
             "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
             "language": "English / Hindi",
-            "ottReleaseDate": "03-08-2026",
+            "ottReleaseDate": "04-08-2026",
             "description": "Watch Alliance on Prime Video.",
             "episodes": [
                 {
@@ -18,9 +18,9 @@
                     "episodeNumber": "1",
                     "duration": "45m",
                     "episodeCode": "S1-E1",
-                    "episodeName": "Episodes 43-20",
+                    "episodeName": "Episodes 46-23",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "03-08-2026",
+                    "updateDate": "04-08-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -28,39 +28,9 @@
                     "episodeNumber": "2",
                     "duration": "45m",
                     "episodeCode": "S1-E2",
-                    "episodeName": "Episodes 19-1",
+                    "episodeName": "Episodes 22-1",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7e3ec3ee9b441b3c343cfb8a96ad19117dd0a374f3120926febf240ddcd645ba.jpg",
-                    "updateDate": "03-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "20",
-                    "duration": "45m",
-                    "episodeCode": "S1-E20",
-                    "episodeName": "Episode 20",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/3382dd6ada56f8578e88ebb070ffca33fec5556f294cc5d9756d4369c25f209c._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "13-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "21",
-                    "duration": "45m",
-                    "episodeCode": "S1-E21",
-                    "episodeName": "Episode 21",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7786a66d4de357955dfbda31e8acf858cdc27d9280f7b77d587af2553d548ddb._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "14-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "22",
-                    "duration": "45m",
-                    "episodeCode": "S1-E22",
-                    "episodeName": "Episode 22",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/527869e893a95b64834c6d1297e0109048afe84ca5e40ee9bb507a5b0d93581c._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "15-07-2026",
+                    "updateDate": "04-08-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -271,6 +241,36 @@
                     "episodeName": "Episode 43",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/78ab558684f409b5a55471c2a3753e36c64e00d2615f669e9fb3a919b850a262._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "02-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "45m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Episode 44",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/ba38bcc5c2cd6bcd5a908dd94fdce05e9d0f9702fb47ba63d3b846fce7312507._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "03-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "45m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Episode 45",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7b4059cbdf7a1a1e834156264564ee1637881891850fdcb86088de456be6c5cb._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "04-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "45m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Episode 46",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/95b6d917cac4500face05c837dd57afa3a4c428229fb090533d97ae6d1ad724a._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "05-08-2026",
                     "episodeUrl": ""
                 }
             ]
