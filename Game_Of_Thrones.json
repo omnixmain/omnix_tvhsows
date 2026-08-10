@@ -1,0 +1,749 @@
+{
+    "tvShows": [
+        {
+            "name": "Game Of Thrones",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4240/1776193494240-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "10-08-2026",
+            "description": "In the fantasy world of Westeros, the Stark family, Wardens of the North, face a web of intrigue and danger. Watch Game Of Thrones - Hindi Tamil Telugu English Kannada Fantasy Action Adventure Drama serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "6",
+                    "duration": "1h 15m",
+                    "episodeCode": "S8-E6",
+                    "episodeName": "The Iron Throne",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4515/1737112434515-h",
+                    "updateDate": "19-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "5",
+                    "duration": "1h 14m",
+                    "episodeCode": "S8-E5",
+                    "episodeName": "The Bells",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4951/1737112434951-h",
+                    "updateDate": "12-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "4",
+                    "duration": "1h 13m",
+                    "episodeCode": "S8-E4",
+                    "episodeName": "The Last of the Starks",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5976/1737112435976-h",
+                    "updateDate": "05-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "3",
+                    "duration": "1h 17m",
+                    "episodeCode": "S8-E3",
+                    "episodeName": "The Long Night",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5174/1737112435174-h",
+                    "updateDate": "28-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "2",
+                    "duration": "55m",
+                    "episodeCode": "S8-E2",
+                    "episodeName": "A Knight of the Seven Kingdoms",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6725/1737112436725-h",
+                    "updateDate": "21-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "1",
+                    "duration": "50m",
+                    "episodeCode": "S8-E1",
+                    "episodeName": "Winterfell",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6889/1737112436889-h",
+                    "updateDate": "14-04-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "7",
+                    "duration": "1h 16m",
+                    "episodeCode": "S7-E7",
+                    "episodeName": "The Dragon and the Wolf",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1637/1737112361637-h",
+                    "updateDate": "27-08-2017",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "6",
+                    "duration": "1h 7m",
+                    "episodeCode": "S7-E6",
+                    "episodeName": "Beyond the Wall",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1859/1737112361859-h",
+                    "updateDate": "20-08-2017",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "5",
+                    "duration": "56m",
+                    "episodeCode": "S7-E5",
+                    "episodeName": "Eastwatch",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1124/1737112361124-h",
+                    "updateDate": "13-08-2017",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "4",
+                    "duration": "47m",
+                    "episodeCode": "S7-E4",
+                    "episodeName": "The Spoils of War",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3437/1737112363437-h",
+                    "updateDate": "06-08-2017",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "3",
+                    "duration": "59m",
+                    "episodeCode": "S7-E3",
+                    "episodeName": "The Queen’s Justice",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2987/1737112362987-h",
+                    "updateDate": "30-07-2017",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "2",
+                    "duration": "55m",
+                    "episodeCode": "S7-E2",
+                    "episodeName": "Stormborn",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3107/1737112363107-h",
+                    "updateDate": "23-07-2017",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "1",
+                    "duration": "56m",
+                    "episodeCode": "S7-E1",
+                    "episodeName": "Dragonstone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1974/1737112361974-h",
+                    "updateDate": "16-07-2017",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "10",
+                    "duration": "1h 5m",
+                    "episodeCode": "S6-E10",
+                    "episodeName": "The Winds of Winter",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8070/1737112438070-h",
+                    "updateDate": "26-06-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "9",
+                    "duration": "56m",
+                    "episodeCode": "S6-E9",
+                    "episodeName": "Battle of the Bastards",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8609/1737112438609-h",
+                    "updateDate": "19-06-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "8",
+                    "duration": "55m",
+                    "episodeCode": "S6-E8",
+                    "episodeName": "No One",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8752/1737112438752-h",
+                    "updateDate": "12-06-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "7",
+                    "duration": "48m",
+                    "episodeCode": "S6-E7",
+                    "episodeName": "The Broken Man",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9159/1737112439159-h",
+                    "updateDate": "05-06-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "6",
+                    "duration": "49m",
+                    "episodeCode": "S6-E6",
+                    "episodeName": "Blood of My Blood",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/711/1737112440711-h",
+                    "updateDate": "29-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "5",
+                    "duration": "54m",
+                    "episodeCode": "S6-E5",
+                    "episodeName": "The Door",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8188/1737112438188-h",
+                    "updateDate": "22-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "4",
+                    "duration": "56m",
+                    "episodeCode": "S6-E4",
+                    "episodeName": "Book of the Stranger",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8071/1737112438071-h",
+                    "updateDate": "15-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "3",
+                    "duration": "50m",
+                    "episodeCode": "S6-E3",
+                    "episodeName": "Oathbreaker",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1531/1737112431531-h",
+                    "updateDate": "08-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "2",
+                    "duration": "51m",
+                    "episodeCode": "S6-E2",
+                    "episodeName": "Home",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1509/1737112431509-h",
+                    "updateDate": "01-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "6",
+                    "episodeNumber": "1",
+                    "duration": "47m",
+                    "episodeCode": "S6-E1",
+                    "episodeName": "The Red Woman",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9540/1737112439540-h",
+                    "updateDate": "24-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "10",
+                    "duration": "57m",
+                    "episodeCode": "S5-E10",
+                    "episodeName": "Mother’s Mercy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1799/1737112371799-h",
+                    "updateDate": "14-06-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "9",
+                    "duration": "50m",
+                    "episodeCode": "S5-E9",
+                    "episodeName": "The Dance of Dragons",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2677/1737112372677-h",
+                    "updateDate": "07-06-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "8",
+                    "duration": "57m",
+                    "episodeCode": "S5-E8",
+                    "episodeName": "Hardhome",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1542/1737112371542-h",
+                    "updateDate": "31-05-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "7",
+                    "duration": "56m",
+                    "episodeCode": "S5-E7",
+                    "episodeName": "The Gift",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2115/1737112372115-h",
+                    "updateDate": "24-05-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "6",
+                    "duration": "51m",
+                    "episodeCode": "S5-E6",
+                    "episodeName": "Unbowed, Unbent, Unbroken",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3720/1737112363720-h",
+                    "updateDate": "17-05-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "5",
+                    "duration": "54m",
+                    "episodeCode": "S5-E5",
+                    "episodeName": "Kill the Boy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2242/1737112372242-h",
+                    "updateDate": "10-05-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "4",
+                    "duration": "48m",
+                    "episodeCode": "S5-E4",
+                    "episodeName": "Sons of the Harpy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4225/1737112374225-h",
+                    "updateDate": "03-05-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "3",
+                    "duration": "57m",
+                    "episodeCode": "S5-E3",
+                    "episodeName": "High Sparrow",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3542/1737112363542-h",
+                    "updateDate": "26-04-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "2",
+                    "duration": "53m",
+                    "episodeCode": "S5-E2",
+                    "episodeName": "The House of Black and White",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2389/1737112372389-h",
+                    "updateDate": "19-04-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "1",
+                    "duration": "49m",
+                    "episodeCode": "S5-E1",
+                    "episodeName": "The Wars To Come",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4093/1737112374093-h",
+                    "updateDate": "12-04-2015",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "10",
+                    "duration": "1h 2m",
+                    "episodeCode": "S4-E10",
+                    "episodeName": "The Children",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9153/1737112379153-h",
+                    "updateDate": "15-06-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "9",
+                    "duration": "48m",
+                    "episodeCode": "S4-E9",
+                    "episodeName": "The Watchers on the Wall",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/848/1737112380848-h",
+                    "updateDate": "08-06-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "8",
+                    "duration": "50m",
+                    "episodeCode": "S4-E8",
+                    "episodeName": "The Mountain and the Viper",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2316/1737112382316-h",
+                    "updateDate": "01-06-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "7",
+                    "duration": "48m",
+                    "episodeCode": "S4-E7",
+                    "episodeName": "Mockingbird",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2485/1737112382485-h",
+                    "updateDate": "18-05-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "6",
+                    "duration": "48m",
+                    "episodeCode": "S4-E6",
+                    "episodeName": "The Laws of Gods and Men",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2618/1737112382618-h",
+                    "updateDate": "11-05-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "5",
+                    "duration": "50m",
+                    "episodeCode": "S4-E5",
+                    "episodeName": "First of His Name",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9811/1737112379811-h",
+                    "updateDate": "04-05-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "4",
+                    "duration": "52m",
+                    "episodeCode": "S4-E4",
+                    "episodeName": "Oathkeeper",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9262/1737112379262-h",
+                    "updateDate": "27-04-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "3",
+                    "duration": "54m",
+                    "episodeCode": "S4-E3",
+                    "episodeName": "Breaker of Chains",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/434/1737112380434-h",
+                    "updateDate": "20-04-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "2",
+                    "duration": "50m",
+                    "episodeCode": "S4-E2",
+                    "episodeName": "The Lion and the Rose",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9952/1737112379952-h",
+                    "updateDate": "13-04-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "4",
+                    "episodeNumber": "1",
+                    "duration": "55m",
+                    "episodeCode": "S4-E1",
+                    "episodeName": "Two Swords",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9837/1737112379837-h",
+                    "updateDate": "06-04-2014",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "10",
+                    "duration": "1h 0m",
+                    "episodeCode": "S3-E10",
+                    "episodeName": "Mhysa",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6187/1737112376187-h",
+                    "updateDate": "09-06-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "9",
+                    "duration": "48m",
+                    "episodeCode": "S3-E9",
+                    "episodeName": "The Rains of Castamere",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6235/1737112376235-h",
+                    "updateDate": "02-06-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "8",
+                    "duration": "54m",
+                    "episodeCode": "S3-E8",
+                    "episodeName": "Second Sons",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7363/1737112377363-h",
+                    "updateDate": "19-05-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "7",
+                    "duration": "55m",
+                    "episodeCode": "S3-E7",
+                    "episodeName": "The Bear and the Maiden Fair",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5501/1737112375501-h",
+                    "updateDate": "12-05-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "6",
+                    "duration": "51m",
+                    "episodeCode": "S3-E6",
+                    "episodeName": "The Climb",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5512/1737112375512-h",
+                    "updateDate": "05-05-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "5",
+                    "duration": "55m",
+                    "episodeCode": "S3-E5",
+                    "episodeName": "Kissed by Fire",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5346/1737112375346-h",
+                    "updateDate": "28-04-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "4",
+                    "duration": "51m",
+                    "episodeCode": "S3-E4",
+                    "episodeName": "And Now His Watch Is Ended",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8563/1737112378563-h",
+                    "updateDate": "21-04-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "3",
+                    "duration": "50m",
+                    "episodeCode": "S3-E3",
+                    "episodeName": "Walk of Punishment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9071/1737112379071-h",
+                    "updateDate": "14-04-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "2",
+                    "duration": "54m",
+                    "episodeCode": "S3-E2",
+                    "episodeName": "Dark Wings, Dark Words",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6847/1737112376847-h",
+                    "updateDate": "07-04-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "1",
+                    "duration": "52m",
+                    "episodeCode": "S3-E1",
+                    "episodeName": "Valar Dohaeris",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4473/1737112374473-h",
+                    "updateDate": "31-03-2013",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "10",
+                    "duration": "1h 0m",
+                    "episodeCode": "S2-E10",
+                    "episodeName": "Valar Morghulis",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6664/1737112386664-h",
+                    "updateDate": "03-06-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "9",
+                    "duration": "52m",
+                    "episodeCode": "S2-E9",
+                    "episodeName": "Blackwater",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5355/1737112385355-h",
+                    "updateDate": "27-05-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "8",
+                    "duration": "51m",
+                    "episodeCode": "S2-E8",
+                    "episodeName": "The Prince of Winterfell",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4599/1737112384599-h",
+                    "updateDate": "20-05-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "7",
+                    "duration": "52m",
+                    "episodeCode": "S2-E7",
+                    "episodeName": "A Man Without Honor",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4454/1737112384454-h",
+                    "updateDate": "13-05-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "6",
+                    "duration": "51m",
+                    "episodeCode": "S2-E6",
+                    "episodeName": "The Old Gods and the New",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1754/1737112301754-h",
+                    "updateDate": "06-05-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "5",
+                    "duration": "51m",
+                    "episodeCode": "S2-E5",
+                    "episodeName": "The Ghost of Harrenhal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7573/1737112387573-h",
+                    "updateDate": "29-04-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "4",
+                    "duration": "48m",
+                    "episodeCode": "S2-E4",
+                    "episodeName": "Garden of Bones",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3752/1737112383752-h",
+                    "updateDate": "22-04-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "3",
+                    "duration": "50m",
+                    "episodeCode": "S2-E3",
+                    "episodeName": "What Is Dead May Never Die",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4412/1737112384412-h",
+                    "updateDate": "15-04-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "2",
+                    "duration": "51m",
+                    "episodeCode": "S2-E2",
+                    "episodeName": "The Night Lands",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3214/1737112383214-h",
+                    "updateDate": "08-04-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "1",
+                    "duration": "50m",
+                    "episodeCode": "S2-E1",
+                    "episodeName": "The North Remembers",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3585/1737112383585-h",
+                    "updateDate": "01-04-2012",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "50m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Fire and Blood",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2749/1737112312749-h",
+                    "updateDate": "19-06-2011",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "53m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Baelor",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2430/1737112312430-h",
+                    "updateDate": "12-06-2011",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "55m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "The Pointy End",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2715/1737112312715-h",
+                    "updateDate": "05-06-2011",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "55m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "You Win or You Die",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/829/1737112310829-h",
+                    "updateDate": "29-05-2011",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "50m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "A Golden Crown",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3291/1737112313291-h",
+                    "updateDate": "22-05-2011",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "52m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "The Wolf and the Lion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3523/1737112313523-h",
+                    "updateDate": "15-05-2011",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "53m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Cripples, Bastards and Broken Things",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3065/1737112313065-h",
+                    "updateDate": "08-05-2011",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "54m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Lord Snow",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3107/1737112313107-h",
+                    "updateDate": "01-05-2011",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "52m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "The Kingsroad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3486/1737112313486-h",
+                    "updateDate": "24-04-2011",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "59m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Winter Is Coming",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/663/1737112310663-h",
+                    "updateDate": "17-04-2011",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
