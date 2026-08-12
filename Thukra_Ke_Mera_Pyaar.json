@@ -1,0 +1,539 @@
+{
+    "tvShows": [
+        {
+            "name": "Thukra Ke Mera Pyaar",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1736/1781810091736-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "12-08-2026",
+            "description": "Love is lost. Blood is shed. But the truth has come to light. As Kuldeep gets trapped between his conscience and politics, Shanvika thirsts for revenge. Watch Thukra Ke Mera Pyaar - Hindi Tamil Telugu Malayalam Kannada Marathi Bengali Bhojpuri Drama Romance serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "30",
+                    "duration": "21m",
+                    "episodeCode": "S2-E30",
+                    "episodeName": "Pyaar Nahi toh Dosti hi Sahi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9033/1785841789033-h",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "31",
+                    "duration": "20m",
+                    "episodeCode": "S2-E31",
+                    "episodeName": "Tender",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3946/1785841803946-h",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "32",
+                    "duration": "21m",
+                    "episodeCode": "S2-E32",
+                    "episodeName": "Humein Chinta hai Tumhari",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8931/1785841968931-h",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "33",
+                    "duration": "22m",
+                    "episodeCode": "S2-E33",
+                    "episodeName": "Samuhik Vivah ka Sach",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2392/1785846442392-h",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "26",
+                    "duration": "22m",
+                    "episodeCode": "S2-E26",
+                    "episodeName": "Badalte Raste!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4436/1785408444436-h",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "27",
+                    "duration": "24m",
+                    "episodeCode": "S2-E27",
+                    "episodeName": "Samuhik Vivah!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9365/1785408559365-h",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "28",
+                    "duration": "19m",
+                    "episodeCode": "S2-E28",
+                    "episodeName": "Sangathan!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8533/1785408658533-h",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "29",
+                    "duration": "22m",
+                    "episodeCode": "S2-E29",
+                    "episodeName": "Aslaah",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9091/1785408719091-h",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "21",
+                    "duration": "20m",
+                    "episodeCode": "S2-E21",
+                    "episodeName": "Siyasi Zameen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4802/1784803244802-h",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "22",
+                    "duration": "20m",
+                    "episodeCode": "S2-E22",
+                    "episodeName": "Ticket Mil Gaya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8434/1784803148434-h",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "23",
+                    "duration": "25m",
+                    "episodeCode": "S2-E23",
+                    "episodeName": "Maut ka Badla Maut!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5760/1784803095760-h",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "24",
+                    "duration": "24m",
+                    "episodeCode": "S2-E24",
+                    "episodeName": "Shaam 5:00 Baje",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5429/1784803035429-h",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "25",
+                    "duration": "27m",
+                    "episodeCode": "S2-E25",
+                    "episodeName": "Result!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4818/1784802874818-h",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "17",
+                    "duration": "24m",
+                    "episodeCode": "S2-E17",
+                    "episodeName": "Baazi Palat Gayi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8857/1784095308857-h",
+                    "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "18",
+                    "duration": "18m",
+                    "episodeCode": "S2-E18",
+                    "episodeName": "Alert!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2393/1784095242393-h",
+                    "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "19",
+                    "duration": "20m",
+                    "episodeCode": "S2-E19",
+                    "episodeName": "Uttaradhikari Mil Gaya!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1076/1784095121076-h",
+                    "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "20",
+                    "duration": "21m",
+                    "episodeCode": "S2-E20",
+                    "episodeName": "Satta Ka Safar!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7659/1784098657659-h",
+                    "updateDate": "17-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "13",
+                    "duration": "29m",
+                    "episodeCode": "S2-E13",
+                    "episodeName": "Deewaron Ke Bhi Aakhein Hoti Hain",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2781/1783429752781-h",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "14",
+                    "duration": "19m",
+                    "episodeCode": "S2-E14",
+                    "episodeName": "Kaptaan Mara Gaya!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6806/1783429806806-h",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "15",
+                    "duration": "19m",
+                    "episodeCode": "S2-E15",
+                    "episodeName": "2 Prime Suspects!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/177/1783430030177-h",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "16",
+                    "duration": "19m",
+                    "episodeCode": "S2-E16",
+                    "episodeName": "Gheera!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9473/1783430099473-h",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "9",
+                    "duration": "25m",
+                    "episodeCode": "S2-E9",
+                    "episodeName": "Transfer yaa Saazish?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2140/1782875322140-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "10",
+                    "duration": "22m",
+                    "episodeCode": "S2-E10",
+                    "episodeName": "Nani ki Seekh, Pyaar ki Jeet",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3447/1782875403447-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "11",
+                    "duration": "25m",
+                    "episodeCode": "S2-E11",
+                    "episodeName": "Imaandari ka Sabut",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/500/1782875460500-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "12",
+                    "duration": "28m",
+                    "episodeCode": "S2-E12",
+                    "episodeName": "Varchasva ki Ladai!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4433/1782875504433-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "5",
+                    "duration": "22m",
+                    "episodeCode": "S2-E5",
+                    "episodeName": "Pyaar ka Nostalgia",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5074/1782273355074-h",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "6",
+                    "duration": "23m",
+                    "episodeCode": "S2-E6",
+                    "episodeName": "Pushkar ki Jaan ko Khatra hai",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1677/1782273421677-h",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "7",
+                    "duration": "23m",
+                    "episodeCode": "S2-E7",
+                    "episodeName": "Raajneeti par Pyaar Bhaari",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3074/1782273513074-h",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "8",
+                    "duration": "24m",
+                    "episodeCode": "S2-E8",
+                    "episodeName": "Shanvika ka Naya Rakshak",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8083/1782273588083-h",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "1",
+                    "duration": "27m",
+                    "episodeCode": "S2-E1",
+                    "episodeName": "Naye Dushman ya Naye Dost?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1654/1781701711654-h",
+                    "updateDate": "19-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "2",
+                    "duration": "21m",
+                    "episodeCode": "S2-E2",
+                    "episodeName": "Kunwar ki Ummid, Shanvika ki Chaal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1888/1781701841888-h",
+                    "updateDate": "19-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "3",
+                    "duration": "22m",
+                    "episodeCode": "S2-E3",
+                    "episodeName": "Bas Ek Mulakaat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4482/1781701984482-h",
+                    "updateDate": "19-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "4",
+                    "duration": "26m",
+                    "episodeCode": "S2-E4",
+                    "episodeName": "Kuldeep ka Prayashchit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2671/1781702062671-h",
+                    "updateDate": "19-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "26m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Ghar Ka Malik Bhag Chala",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4119/1733971424119-h",
+                    "updateDate": "13-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "21m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Ab Apna Rasta Badal Lo",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8809/1733992658809-h",
+                    "updateDate": "13-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "28m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Sab Kuch Khatam Ho Gaya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1323/1733972171323-h",
+                    "updateDate": "13-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "26m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Ab Humari Baari",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/509/1733972620509-h",
+                    "updateDate": "13-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "23m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Astitwa ki Ladai",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9164/1733280229164-h",
+                    "updateDate": "06-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "21m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Bhoot, Bhavishya, Vartaman",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7466/1733280327466-h",
+                    "updateDate": "06-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "21m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Woh Badla Lene Hi Aaya Hai",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8963/1733280428963-h",
+                    "updateDate": "06-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "21m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Kuch Bachna Nahi Chahiye",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4196/1733280584196-h",
+                    "updateDate": "06-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "28m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Namak Haram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1995/1732596061995-h",
+                    "updateDate": "29-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "23m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Tu Hoga Kamyaab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5818/1732601445818-h",
+                    "updateDate": "29-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "21m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Chaman Mein Deedawar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3498/1732601593498-h",
+                    "updateDate": "29-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "26m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Mera Lakshya Kuch Aur Hai",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3112/1732601693112-h",
+                    "updateDate": "29-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "22m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Chauhano Ki Shaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3067/1732082723067-h",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "21m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Humse Dosti Karoge?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8646/1732085268646-h",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "21m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Aapki Pehchan Hai Kya?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6649/1732085546649-h",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "21m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Namak Harami Mat Karna",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1848/1732085751848-h",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "25m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Ishq Hua Hai!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5201/1732085965201-h",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "25m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Galti Hamari Nahi Thi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9939/1732086269939-h",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "22m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Saaye Mein Dhoop",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2885/1732086532885-h",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
