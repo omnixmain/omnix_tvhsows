@@ -1,0 +1,49 @@
+{
+    "tvShows": [
+        {
+            "name": "The Traitors",
+            "banner": "https://m.media-amazon.com/images/S/pv-target-images/ad3affb5a758971605601f3e133a661e23782f371ef3be13092796e55d17c775.jpg",
+            "genre": "Action, Drama",
+            "rating": "8.5",
+            "year": "2026",
+            "ageRating": "16+",
+            "streaming": "Prime Video",
+            "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+            "language": "English / Hindi",
+            "ottReleaseDate": "13-08-2026",
+            "description": "Watch The Traitors on Prime Video.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Episode 1",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/313779d2d625011ce0f186d2041a82c7d323250eded94d62927bf9ca3caf7607._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Episode 2",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/f8e180476b31f2f599a528d9db4f76fa104e85ec15a3fb80142427442a97849a._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Episode 3",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/e03b5be4150d20f2c6ef7fbc1c79455d95155e29c0d1a1b3152b56a2d1887524._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
