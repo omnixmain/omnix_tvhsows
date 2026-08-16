@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "13-08-2026",
+            "ottReleaseDate": "16-08-2026",
             "description": "Confront the fear, head-on! Host Rohit Shetty brings ‘Darr Ka Naya Daur’, where adrenaline gets addictive as celeb contestants take on extreme challenges. Watch Khatron Ke Khiladi - Hindi Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "5",
+                    "duration": "1h 12m",
+                    "episodeCode": "S15-E5",
+                    "episodeName": "Fear of Change",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2145/1786727382145-h",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "15",
                     "episodeNumber": "4",
