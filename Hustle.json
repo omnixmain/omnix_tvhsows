@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "16-08-2026",
+            "ottReleaseDate": "17-08-2026",
             "description": "A new season brings India's fiercest rappers, iconic Squad Bosses, and Badshah as judge as they battle for the ultimate rap champion title. Watch Hustle - Hindi Reality Music serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "4",
+                    "duration": "1h 26m",
+                    "episodeCode": "S5-E4",
+                    "episodeName": "Banger Pocha Returns!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8703/1786866718703-h",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "5",
                     "episodeNumber": "3",
