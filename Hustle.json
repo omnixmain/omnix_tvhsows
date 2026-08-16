@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Hustle",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2393/1786458352393-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8817/1786714178817-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,16 +10,26 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "13-08-2026",
+            "ottReleaseDate": "16-08-2026",
             "description": "A new season brings India's fiercest rappers, iconic Squad Bosses, and Badshah as judge as they battle for the ultimate rap champion title. Watch Hustle - Hindi Reality Music serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "3",
+                    "duration": "1h 42m",
+                    "episodeCode": "S5-E3",
+                    "episodeName": "The First Squad War Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3870/1786781343870-h",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "5",
                     "episodeNumber": "2",
                     "duration": "2h 15m",
                     "episodeCode": "S5-E2",
                     "episodeName": "The Squad Selection Gets Brutal!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5563/1786274315563-h",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8269/1786726508269-h",
                     "updateDate": "09-08-2026",
                     "episodeUrl": ""
                 },
@@ -29,7 +39,7 @@
                     "duration": "2h 13m",
                     "episodeCode": "S5-E1",
                     "episodeName": "Back on Apna Homeground",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1637/1786182801637-h",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2217/1786726202217-h",
                     "updateDate": "08-08-2026",
                     "episodeUrl": ""
                 },
