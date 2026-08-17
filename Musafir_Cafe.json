@@ -1,0 +1,99 @@
+{
+    "tvShows": [
+        {
+            "name": "Musafir Cafe",
+            "banner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa5ab1QLvzPSr8zQDZbqk2v1DQhjwS7UWivIs7P1zN4PE2iAhwxPmjcVVkXpmKaTAl0Gh5BoflmMNOwZu7utAMKO3I2xV6-F0E1m.jpg?r=c0d",
+            "genre": "Reality Programming",
+            "rating": "8.5",
+            "year": "2026",
+            "ageRating": "U/A 16+",
+            "streaming": "Netflix",
+            "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "01-01-2026",
+            "description": "",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "41m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Arrival",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585403.jpg",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "31m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Distance",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585402.jpg",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "25m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Truth",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585401.jpg",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "27m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Surprise",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585400.jpg",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "28m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Trip",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585399.jpg",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "29m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Choice",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585398.jpg",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "34m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Stay",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585397.jpg",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "29m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Arrival",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585396.jpg",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
