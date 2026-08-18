@@ -10,19 +10,9 @@
             "streaming": "SunNXT",
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
             "language": "Hindi",
-            "ottReleaseDate": "17-08-2026",
+            "ottReleaseDate": "18-08-2026",
             "description": "Divya Prem",
             "episodes": [
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "338",
-                    "duration": "22m",
-                    "episodeCode": "S1-E338",
-                    "episodeName": "E338 - May 27, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/252341/1920x1080_DivyaPremMay272026_252341_28524abf-43c8-47ee-80d1-f07d96a1a3c0.jpg",
-                    "updateDate": "27-05-2026",
-                    "episodeUrl": ""
-                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "339",
@@ -699,7 +689,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E406",
                     "episodeName": "E406 - Aug 14, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/269709/1920x1080_DivyaPremAug142026_269709_e49dfbcd-86c7-48f0-9cc6-3cae21f5979b.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/269709/1920x1080_DivyaPremAug142026_269709_f8aa0f86-cf55-449e-aa66-59d6eeeaca55.jpg",
                     "updateDate": "14-08-2026",
                     "episodeUrl": ""
                 },
@@ -711,6 +701,16 @@
                     "episodeName": "E407 - Aug 15, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/269711/1920x1080_DivyaPremAug152026_269711_c603c39a-dee4-4b81-9428-9d4604c139c5.jpg",
                     "updateDate": "15-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "408",
+                    "duration": "22m",
+                    "episodeCode": "S1-E408",
+                    "episodeName": "E408 - Aug 17, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271404/1920x1080_DivyaPremAug172026_271404_171ab0ca-7956-4061-823a-17030f987570.jpg",
+                    "updateDate": "17-08-2026",
                     "episodeUrl": ""
                 }
             ]
