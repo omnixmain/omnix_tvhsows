@@ -10,7 +10,7 @@
             "streaming": "SunNXT",
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
             "language": "Hindi",
-            "ottReleaseDate": "17-08-2026",
+            "ottReleaseDate": "18-08-2026",
             "description": "Thodi Si Umeed Thoda Sa Aasman New Serial",
             "episodes": [
                 {
@@ -369,7 +369,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E35",
                     "episodeName": "E35 - Aug 14, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/269710/1920x1080_ThodiSiUmeedThodaSaAasmanAug142026_269710_fa4fb815-d55c-42cc-8463-6f513ded2cb5.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/269710/1920x1080_ThodiSiUmeedThodaSaAasmanAug142026_269710_8a8623fc-d763-4378-8f4f-489dc2fc8adc.jpg",
                     "updateDate": "14-08-2026",
                     "episodeUrl": ""
                 },
@@ -381,6 +381,16 @@
                     "episodeName": "E36 - Aug 15, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/269712/1920x1080_ThodiSiUmeedThodaSaAasmanAug152026_269712_ee91dc45-107c-4253-8588-6558607c457b.jpg",
                     "updateDate": "15-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "22m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "E37 - Aug 17, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271405/1920x1080_ThodiSiUmeedThodaSaAasmanAug172026_271405_30956fa6-9e13-48ec-bd7e-615ff2221542.jpg",
+                    "updateDate": "17-08-2026",
                     "episodeUrl": ""
                 }
             ]
