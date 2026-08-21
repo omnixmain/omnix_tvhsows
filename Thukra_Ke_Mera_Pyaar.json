@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Thukra Ke Mera Pyaar",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1736/1781810091736-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2316/1783411332316-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,9 +10,89 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "12-08-2026",
-            "description": "Love is lost. Blood is shed. But the truth has come to light. As Kuldeep gets trapped between his conscience and politics, Shanvika thirsts for revenge. Watch Thukra Ke Mera Pyaar - Hindi Tamil Telugu Malayalam Kannada Marathi Bengali Bhojpuri Drama Romance serial on JioHotstar now.",
+            "ottReleaseDate": "21-08-2026",
+            "description": "Love is lost. Blood is shed. But the truth has come to light. As Kuldeep gets trapped between his conscience and politics, Shanvika thirsts for revenge. Watch Thukra Ke Mera Pyaar - Hindi Telugu Tamil Kannada Malayalam Marathi Bengali Bhojpuri Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "38",
+                    "duration": "24m",
+                    "episodeCode": "S2-E38",
+                    "episodeName": "Mastermind!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1234/1787219771234-h",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "39",
+                    "duration": "22m",
+                    "episodeCode": "S2-E39",
+                    "episodeName": "Personal Ambition",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8107/1787219728107-h",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "40",
+                    "duration": "21m",
+                    "episodeCode": "S2-E40",
+                    "episodeName": "Bohot Hua Natak!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/231/1787219680231-h",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "41",
+                    "duration": "20m",
+                    "episodeCode": "S2-E41",
+                    "episodeName": "Guest Room",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4305/1787219634305-h",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "34",
+                    "duration": "20m",
+                    "episodeCode": "S2-E34",
+                    "episodeName": "Sach ki Talaash aur Satta ki Jung",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2477/1786623422477-h",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "35",
+                    "duration": "23m",
+                    "episodeCode": "S2-E35",
+                    "episodeName": "Badla ya Usool!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7279/1786623467279-h",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "36",
+                    "duration": "18m",
+                    "episodeCode": "S2-E36",
+                    "episodeName": "Saboot Nikalo",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3795/1786623503795-h",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "37",
+                    "duration": "22m",
+                    "episodeCode": "S2-E37",
+                    "episodeName": "Mala aur Do Kaand!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/863/1786623550863-h",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "30",
