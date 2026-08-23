@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "15",
+                    "episodeNumber": "8",
+                    "duration": "1h 13m",
+                    "episodeCode": "S15-E8",
+                    "episodeName": "Racing against the 'Khatra'",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/837/1787305260837-h",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
                     "episodeNumber": "7",
                     "duration": "1h 9m",
                     "episodeCode": "S15-E7",
