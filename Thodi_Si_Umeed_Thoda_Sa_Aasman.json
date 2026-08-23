@@ -10,7 +10,7 @@
             "streaming": "SunNXT",
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
             "language": "Hindi",
-            "ottReleaseDate": "18-08-2026",
+            "ottReleaseDate": "23-08-2026",
             "description": "Thodi Si Umeed Thoda Sa Aasman New Serial",
             "episodes": [
                 {
@@ -379,7 +379,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E36",
                     "episodeName": "E36 - Aug 15, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/269712/1920x1080_ThodiSiUmeedThodaSaAasmanAug152026_269712_ee91dc45-107c-4253-8588-6558607c457b.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/269712/1920x1080_ThodiSiUmeedThodaSaAasmanAug152026_269712_8dffd4c5-2bc5-49e6-8386-b8b059130e37.jpg",
                     "updateDate": "15-08-2026",
                     "episodeUrl": ""
                 },
@@ -391,6 +391,56 @@
                     "episodeName": "E37 - Aug 17, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/271405/1920x1080_ThodiSiUmeedThodaSaAasmanAug172026_271405_30956fa6-9e13-48ec-bd7e-615ff2221542.jpg",
                     "updateDate": "17-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "22m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "E38 - Aug 18, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271407/1920x1080_ThodiSiUmeedThodaSaAasmanAug182026_271407_51c18ada-b7d8-49b6-9c26-f4cfd9d838a0.jpg",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "22m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "E39 - Aug 19, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271409/1920x1080_ThodiSiUmeedThodaSaAasmanAug192026_271409_2684e21f-9b6f-4f98-a4fc-76647357b4ea.jpg",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "22m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "E40 - Aug 20, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271411/1920x1080_ThodiSiUmeedThodaSaAasmanAug202026_271411_f00db50b-a83c-4031-971d-726660208ee3.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "22m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "E41 - Aug 21, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271413/1920x1080_ThodiSiUmeedThodaSaAasmanAug212026_271413_c10f454e-6e59-40c8-95d2-8ef9503e4e98.jpg",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "22m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "E42 - Aug 22, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271415/1920x1080_ThodiSiUmeedThodaSaAasmanAug222026_271415_cf8f5320-2bfa-4620-92df-3f3209cfc21e.jpg",
+                    "updateDate": "22-08-2026",
                     "episodeUrl": ""
                 }
             ]
