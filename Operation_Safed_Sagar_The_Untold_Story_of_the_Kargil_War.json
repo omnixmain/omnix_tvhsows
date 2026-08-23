@@ -1,0 +1,79 @@
+{
+    "tvShows": [
+        {
+            "name": "Operation Safed Sagar: The Untold Story of the Kargil War",
+            "banner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa5ab1QLvzPSr8zQDZbqk2v1DQhjwS7UWivIs7P1zN4PE2iAhwxPmjcVVkXpmKaTAl0Gh5BoflmMNOwZu7utAMKO3I2xV6-F0E1m.jpg?r=c0d",
+            "genre": "Reality Programming",
+            "rating": "8.5",
+            "year": "2026",
+            "ageRating": "U/A 16+",
+            "streaming": "Netflix",
+            "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "01-01-2026",
+            "description": "",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "57m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Line of Control",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589325.jpg",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "56m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Bombs Away",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589324.jpg",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "52m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Golden Arrows",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589323.jpg",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "47m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Safed Sagar",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589322.jpg",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "57m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Sada-e-Sarhad",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589321.jpg",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "57m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Peace and War",
+                    "episodeBanner": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589320.jpg",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
