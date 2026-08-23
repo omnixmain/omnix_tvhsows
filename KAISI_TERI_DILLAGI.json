@@ -15,11 +15,61 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "22m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "EP 42 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "22m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "EP 41 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2041-2208202685042",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "22m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "EP 40 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2040-2108202694641",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "22m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "EP 39 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_39%20%281%29-20082026114322",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "22m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "EP 38 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2038-18082026160908",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "37",
                     "duration": "22m",
                     "episodeCode": "S1-E37",
                     "episodeName": "EP 37 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2037-18082026160627",
                     "updateDate": "17-08-2026",
                     "episodeUrl": ""
                 },
@@ -29,7 +79,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E36",
                     "episodeName": "EP 36 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2036-18082026160220",
                     "updateDate": "15-08-2026",
                     "episodeUrl": ""
                 },
