@@ -1,0 +1,139 @@
+{
+    "tvShows": [
+        {
+            "name": "Custom Show",
+            "banner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+            "genre": "Action, Drama",
+            "rating": "8.5",
+            "year": "2026",
+            "ageRating": "16+",
+            "streaming": "Prime Video",
+            "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+            "language": "English / Hindi",
+            "ottReleaseDate": "28-08-2026",
+            "description": "Watch Custom Show on Prime Video.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Trailer",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Sterling Point",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "The Traitors",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "45m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Off Campus",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "45m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Every Year After",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "45m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "The Bad Boy And Me 2",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "45m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "BOULEVARD",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "45m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "56 Days",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "45m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Maxton Hall - The World Between Us",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "45m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Your Fault: London",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "45m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "The Idea of You",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "45m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "The Bad Boy and Me",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/18b5b8fcaccfc8fc2ad6f753ffe969908c22c3a1ad473ee01d0f60b444dc1036.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
