@@ -10,9 +10,99 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "21-08-2026",
-            "description": "Love is lost. Blood is shed. But the truth has come to light. As Kuldeep gets trapped between his conscience and politics, Shanvika thirsts for revenge. Watch Thukra Ke Mera Pyaar - Hindi Telugu Tamil Kannada Malayalam Marathi Bengali Bhojpuri Drama Romance serial on JioHotstar now.",
+            "ottReleaseDate": "05-09-2026",
+            "description": "Love is lost. Blood is shed. But the truth has come to light. As Kuldeep gets trapped between his conscience and politics, Shanvika thirsts for revenge. Watch Thukra Ke Mera Pyaar - Hindi Telugu Tamil Kannada Malayalam Bengali Marathi Bhojpuri Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "46",
+                    "duration": "23m",
+                    "episodeCode": "S2-E46",
+                    "episodeName": "Duvidha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/571/1788420610571-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "47",
+                    "duration": "23m",
+                    "episodeCode": "S2-E47",
+                    "episodeName": "Faraar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9325/1788420459325-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "48",
+                    "duration": "21m",
+                    "episodeCode": "S2-E48",
+                    "episodeName": "Purane Pyaar ki Nayi Taseer!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6680/1788420406680-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "49",
+                    "duration": "19m",
+                    "episodeCode": "S2-E49",
+                    "episodeName": "Aaj ka Suraj!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5428/1788420365428-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "50",
+                    "duration": "17m",
+                    "episodeCode": "S2-E50",
+                    "episodeName": "Pyaar ya Vaar!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5661/1788420295661-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "42",
+                    "duration": "22m",
+                    "episodeCode": "S2-E42",
+                    "episodeName": "Charitra Hanan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5255/1787672945255-h",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "43",
+                    "duration": "20m",
+                    "episodeCode": "S2-E43",
+                    "episodeName": "Confession",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7302/1787672907302-h",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "44",
+                    "duration": "20m",
+                    "episodeCode": "S2-E44",
+                    "episodeName": "Divorce",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2683/1787672862683-h",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "45",
+                    "duration": "21m",
+                    "episodeCode": "S2-E45",
+                    "episodeName": "Naya Daavedaar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2434/1787672792434-h",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "38",
