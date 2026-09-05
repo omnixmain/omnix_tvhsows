@@ -10,7 +10,7 @@
             "streaming": "Prime Video",
             "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
             "language": "English / Hindi",
-            "ottReleaseDate": "03-09-2026",
+            "ottReleaseDate": "05-09-2026",
             "description": "Watch The Traitors on Prime Video.",
             "episodes": [
                 {
@@ -109,7 +109,7 @@
                     "duration": "45m",
                     "episodeCode": "S1-E10",
                     "episodeName": "Episode 10",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/1d96c1385092d1d3b14137283d628470218ed18b3276f1787dfc13483edf61ae._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/b7ea1ecaaf6803f6a832fd9a2628682bda23528f44f14c5dfeb329a7e46ee086._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "03-09-2026",
                     "episodeUrl": ""
                 }
