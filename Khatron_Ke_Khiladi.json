@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "06-09-2026",
+            "ottReleaseDate": "07-09-2026",
             "description": "Confront the fear, head-on! Host Rohit Shetty brings ‘Darr Ka Naya Daur’, where adrenaline gets addictive as celeb contestants take on extreme challenges. Watch Khatron Ke Khiladi - Hindi Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "12",
+                    "duration": "1h 14m",
+                    "episodeCode": "S15-E12",
+                    "episodeName": "Face-off! Crack it for the Jacket",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5533/1788616505533-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "15",
                     "episodeNumber": "11",
