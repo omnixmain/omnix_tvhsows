@@ -10,7 +10,7 @@
             "streaming": "SunNXT",
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
             "language": "Hindi",
-            "ottReleaseDate": "24-08-2026",
+            "ottReleaseDate": "13-09-2026",
             "description": "Thodi Si Umeed Thoda Sa Aasman New Serial",
             "episodes": [
                 {
@@ -429,7 +429,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E41",
                     "episodeName": "E41 - Aug 21, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/271413/1920x1080_ThodiSiUmeedThodaSaAasmanAug212026_271413_c10f454e-6e59-40c8-95d2-8ef9503e4e98.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271413/1920x1080_ThodiSiUmeedThodaSaAasmanAug212026_271413_2cfc6e87-adac-4b1d-90de-b0801bb98be2.jpg",
                     "updateDate": "21-08-2026",
                     "episodeUrl": ""
                 },
@@ -439,8 +439,188 @@
                     "duration": "22m",
                     "episodeCode": "S1-E42",
                     "episodeName": "E42 - Aug 22, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/271415/1920x1080_ThodiSiUmeedThodaSaAasmanAug222026_271415_cf8f5320-2bfa-4620-92df-3f3209cfc21e.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271415/1920x1080_ThodiSiUmeedThodaSaAasmanAug222026_271415_1b98aa3e-2a24-4707-a222-f8ce61615983.jpg",
                     "updateDate": "22-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "22m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "E43 - Aug 24, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272212/1920x1080_ThodiSiUmeedThodaSaAasmanAug242026_272212_b5bab5b0-7ce4-4c33-8dbb-842f16622ef7.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "22m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "E44 - Aug 25, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272214/1920x1080_ThodiSiUmeedThodaSaAasmanAug252026_272214_37967b86-a578-4b48-8352-a9c3634f0a21.jpg",
+                    "updateDate": "25-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "22m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "E45 - Aug 26, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272217/1920x1080_ThodiSiUmeedThodaSaAasmanAug262026_272217_8d19ad5a-567a-41b7-b39b-105ca9a6b3d8.jpg",
+                    "updateDate": "26-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "22m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "E46 - Aug 27, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272219/1920x1080_ThodiSiUmeedThodaSaAasmanAug272026_272219_b28c7c0e-4a0a-48c7-bda4-865829987fab.jpg",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "22m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "E47 - Aug 28, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272221/1920x1080_ThodiSiUmeedThodaSaAasmanAug282026_272221_0d716da0-dfef-40bc-80c1-78a59f92a3e7.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "22m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "E48 - Aug 29, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272223/1920x1080_ThodiSiUmeedThodaSaAasmanAug292026_272223_790f1ce6-11ab-4817-9798-749f5cc240e3.jpg",
+                    "updateDate": "29-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "22m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "E49 - Aug 31, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273820/1920x1080_ThodiSiUmeedThodaSaAasmanAug312026_273820_01efc87c-6fc1-4067-90cf-9bcbf7a800de.jpg",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "22m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "E50 - Sep 01, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273822/1920x1080_ThodiSiUmeedThodaSaAasmanSep012026_273822_2f0c6589-40fd-4087-a46d-89f7e37706c3.jpg",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "22m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "E51 - Sep 02, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273824/1920x1080_ThodiSiUmeedThodaSaAasmanSep022026_273824_34acf6e9-b2c5-4dd1-a39e-856c0bab7f9f.jpg",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "22m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "E52 - Sep 03, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273826/1920x1080_ThodiSiUmeedThodaSaAasmanSep032026_273826_bec9873c-03c4-44a3-804b-c410990178ba.jpg",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "22m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "E53 - Sep 04, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273828/1920x1080_ThodiSiUmeedThodaSaAasmanSep042026_273828_c6891a99-d3b9-4f8e-9c25-0b1e44306143.jpg",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "22m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "E54 - Sep 05, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273830/1920x1080_ThodiSiUmeedThodaSaAasmanSep052026_273830_e1257fa4-fd5c-46d9-812d-c1b411924ca0.jpg",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "22m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "E55 - Sep 07, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274632/1920x1080_ThodiSiUmeedThodaSaAasmanSep072026_274632_c7cc793a-4641-4a4e-b5f2-dfd43f2f2974.jpg",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "22m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "E56 - Sep 08, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274634/1920x1080_ThodiSiUmeedThodaSaAasmanSep082026_274634_f38917b6-0bb9-4611-b52a-f72a5cdabfa3.jpg",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "22m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "E57 - Sep 09, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274636/1920x1080_ThodiSiUmeedThodaSaAasmanSep092026_274636_f92206bf-672b-43ee-98de-95fda6afc46f.jpg",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "22m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "E58 - Sep 10, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274638/1920x1080_ThodiSiUmeedThodaSaAasmanSep102026_274638_1e9df156-2c6f-4662-a5bd-7b5d824e9b4e.jpg",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "22m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "E59 - Sep 11, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274640/1920x1080_ThodiSiUmeedThodaSaAasmanSep112026_274640_c4876b30-176c-4cc6-b9a3-bc24c4d352ad.jpg",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "22m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "E60 - Sep 12, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274642/1920x1080_ThodiSiUmeedThodaSaAasmanSep122026_274642_326d4bdf-784c-4442-850d-b228a3f315a1.jpg",
+                    "updateDate": "12-09-2026",
                     "episodeUrl": ""
                 }
             ]
