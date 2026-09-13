@@ -15,11 +15,101 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "22m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "EP 60 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "22m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "EP 59 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2059-11092026171651",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "22m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "EP 58 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2058-11092026171245",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "22m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "EP 57 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_EP_57-10092026120259",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "22m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "EP 56 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2056-09092026111627",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "22m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "EP 55 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2055-07092026195534",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "22m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "EP 54 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_EP_54-05092026230642",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "0m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "EP 53 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2053-04092026162646",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "0m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "EP 52 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2052-04092026161652",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "51",
                     "duration": "0m",
                     "episodeCode": "S1-E51",
                     "episodeName": "EP 51 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2051-04092026161242",
                     "updateDate": "02-09-2026",
                     "episodeUrl": ""
                 },
@@ -29,7 +119,7 @@
                     "duration": "0m",
                     "episodeCode": "S1-E50",
                     "episodeName": "EP 50 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-source_image-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2050-04092026161132",
                     "updateDate": "01-09-2026",
                     "episodeUrl": ""
                 },
@@ -39,7 +129,7 @@
                     "duration": "0m",
                     "episodeCode": "S1-E49",
                     "episodeName": "EP 49 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2049-04092026155712",
                     "updateDate": "31-08-2026",
                     "episodeUrl": ""
                 },
@@ -49,7 +139,7 @@
                     "duration": "0m",
                     "episodeCode": "S1-E48",
                     "episodeName": "EP 48 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2048-04092026155034",
                     "updateDate": "29-08-2026",
                     "episodeUrl": ""
                 },
@@ -59,7 +149,7 @@
                     "duration": "0m",
                     "episodeCode": "S1-E47",
                     "episodeName": "EP 47 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2047-04092026154743",
                     "updateDate": "28-08-2026",
                     "episodeUrl": ""
                 },
@@ -69,7 +159,7 @@
                     "duration": "0m",
                     "episodeCode": "S1-E46",
                     "episodeName": "EP 46 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2046-04092026154627",
                     "updateDate": "27-08-2026",
                     "episodeUrl": ""
                 },
@@ -79,7 +169,7 @@
                     "duration": "0m",
                     "episodeCode": "S1-E45",
                     "episodeName": "EP 45 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2045-04092026153908",
                     "updateDate": "26-08-2026",
                     "episodeUrl": ""
                 },
@@ -89,7 +179,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E44",
                     "episodeName": "EP 44 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2044-04092026153522",
                     "updateDate": "25-08-2026",
                     "episodeUrl": ""
                 },
@@ -99,7 +189,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E43",
                     "episodeName": "EP 43 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2043-04092026152922",
                     "updateDate": "24-08-2026",
                     "episodeUrl": ""
                 },
