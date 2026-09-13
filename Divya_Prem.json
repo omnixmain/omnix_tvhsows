@@ -10,189 +10,9 @@
             "streaming": "SunNXT",
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
             "language": "Hindi",
-            "ottReleaseDate": "24-08-2026",
+            "ottReleaseDate": "13-09-2026",
             "description": "Divya Prem",
             "episodes": [
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "344",
-                    "duration": "22m",
-                    "episodeCode": "S1-E344",
-                    "episodeName": "E344 - Jun 03, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/252908/1920x1080_DivyaPremJun032026_252908_ebd393c1-617c-40c9-b98c-ef80149abdbc.jpg",
-                    "updateDate": "03-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "345",
-                    "duration": "22m",
-                    "episodeCode": "S1-E345",
-                    "episodeName": "E345 - Jun 04, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/252910/1920x1080_DivyaPremJun042026_252910_279009fc-f242-4585-a13c-7f91088c019a.jpg",
-                    "updateDate": "04-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "346",
-                    "duration": "22m",
-                    "episodeCode": "S1-E346",
-                    "episodeName": "E346 - Jun 05, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/252912/1920x1080_DivyaPremJun052026_252912_76f4bb05-57c6-4c92-9aa5-dabd66b22adc.jpg",
-                    "updateDate": "05-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "347",
-                    "duration": "22m",
-                    "episodeCode": "S1-E347",
-                    "episodeName": "E347 - Jun 06, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/252914/1920x1080_DivyaPremJun062026_252914_b324fb8e-3bac-4fb9-a563-9cd1c3837be7.jpg",
-                    "updateDate": "06-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "348",
-                    "duration": "22m",
-                    "episodeCode": "S1-E348",
-                    "episodeName": "E348 - Jun 08, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253382/1920x1080_DivyaPremJun082026_253382_7694eb33-d661-46a8-8f2c-2018d1151d2d.jpg",
-                    "updateDate": "08-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "349",
-                    "duration": "22m",
-                    "episodeCode": "S1-E349",
-                    "episodeName": "E349 - Jun 09, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253384/1920x1080_DivyaPremJun092026_253384_1fe424bf-4e91-4df7-818b-c9dc8f9286ce.jpg",
-                    "updateDate": "09-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "350",
-                    "duration": "22m",
-                    "episodeCode": "S1-E350",
-                    "episodeName": "E350 - Jun 10, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253386/1920x1080_DivyaPremJun102026_253386_b2f5f4d3-64df-4351-a0e3-ab7cdbaff300.jpg",
-                    "updateDate": "10-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "351",
-                    "duration": "22m",
-                    "episodeCode": "S1-E351",
-                    "episodeName": "E351 - Jun 11, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253388/1920x1080_DivyaPremJun112026_253388_255761ea-79f2-46c4-ba1b-aae495655fc5.jpg",
-                    "updateDate": "11-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "352",
-                    "duration": "22m",
-                    "episodeCode": "S1-E352",
-                    "episodeName": "E352 - Jun 12, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253390/1920x1080_DivyaPremJun122026_253390_855e5dfc-fb68-44cc-baf0-a1ccc5f70f5c.jpg",
-                    "updateDate": "12-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "353",
-                    "duration": "22m",
-                    "episodeCode": "S1-E353",
-                    "episodeName": "E353 - Jun 13, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253392/1920x1080_DivyaPremJun132026_253392_4e445879-4748-4480-87a4-56c9806cdce4.jpg",
-                    "updateDate": "13-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "354",
-                    "duration": "22m",
-                    "episodeCode": "S1-E354",
-                    "episodeName": "E354 - Jun 15, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253969/1920x1080_DivyaPremJun152026_253969_9c70316b-247a-48a0-bdb4-71e933449fb4.jpg",
-                    "updateDate": "15-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "355",
-                    "duration": "22m",
-                    "episodeCode": "S1-E355",
-                    "episodeName": "E355 - Jun 16, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253971/1920x1080_DivyaPremJun162026_253971_ae2e388b-2797-41c0-8889-30fb7161f127.jpg",
-                    "updateDate": "16-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "356",
-                    "duration": "22m",
-                    "episodeCode": "S1-E356",
-                    "episodeName": "E356 - Jun 17, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253973/1920x1080_DivyaPremJun172026_253973_c47540c4-91cf-4c31-a8cc-2c02e6dc4fc9.jpg",
-                    "updateDate": "17-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "357",
-                    "duration": "22m",
-                    "episodeCode": "S1-E357",
-                    "episodeName": "E357 - Jun 18, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253975/1920x1080_DivyaPremJun182026_253975_9c02cf85-dc62-4abf-98c8-35f0e3ed0399.jpg",
-                    "updateDate": "18-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "358",
-                    "duration": "22m",
-                    "episodeCode": "S1-E358",
-                    "episodeName": "E358 - Jun 19, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253977/1920x1080_DivyaPremJun192026_253977_eb8efd0c-4534-4791-a241-c4a3ffa0a036.jpg",
-                    "updateDate": "19-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "359",
-                    "duration": "22m",
-                    "episodeCode": "S1-E359",
-                    "episodeName": "E359 - Jun 20, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/253979/1920x1080_DivyaPremJun202026_253979_ccf2d643-e79f-44a1-b2e0-839c0ea2d535.jpg",
-                    "updateDate": "20-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "360",
-                    "duration": "22m",
-                    "episodeCode": "S1-E360",
-                    "episodeName": "E360 - Jun 22, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/254476/1920x1080_DivyaPremJun222026_254476_bb4daf14-f097-473f-924a-859ea56a3119.jpg",
-                    "updateDate": "22-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "361",
-                    "duration": "22m",
-                    "episodeCode": "S1-E361",
-                    "episodeName": "E361 - Jun 23, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/254478/1920x1080_DivyaPremJun232026_254478_29d92f82-1886-461f-a431-5b801efc226a.jpg",
-                    "updateDate": "23-06-2026",
-                    "episodeUrl": ""
-                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "362",
@@ -699,7 +519,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E412",
                     "episodeName": "E412 - Aug 21, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/271412/1920x1080_DivyaPremAug212026_271412_30089934-40ba-417c-bf61-b36c852ac66f.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271412/1920x1080_DivyaPremAug212026_271412_ac8b0c7c-fb61-455f-a6ec-060e10dc54b8.jpg",
                     "updateDate": "21-08-2026",
                     "episodeUrl": ""
                 },
@@ -709,8 +529,188 @@
                     "duration": "22m",
                     "episodeCode": "S1-E413",
                     "episodeName": "E413 - Aug 22, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/271414/1920x1080_DivyaPremAug222026_271414_f93df287-d632-405b-9363-c13d1157ef3f.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/271414/1920x1080_DivyaPremAug222026_271414_2d888d93-d7cf-4036-b5fc-ea39771b962e.jpg",
                     "updateDate": "22-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "414",
+                    "duration": "22m",
+                    "episodeCode": "S1-E414",
+                    "episodeName": "E414 - Aug 24, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272211/1920x1080_DivyaPremAug242026_272211_f1173e7c-af27-449f-bf3a-4b571c2c7036.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "415",
+                    "duration": "22m",
+                    "episodeCode": "S1-E415",
+                    "episodeName": "E415 - Aug 25, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272213/1920x1080_DivyaPremAug252026_272213_1428ec71-ba1b-4413-92bc-7be4c7edba06.jpg",
+                    "updateDate": "25-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "416",
+                    "duration": "22m",
+                    "episodeCode": "S1-E416",
+                    "episodeName": "E416 - Aug 26, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272216/1920x1080_DivyaPremAug262026_272216_8f636813-ee6c-437e-839b-8531ad2672e8.jpg",
+                    "updateDate": "26-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "417",
+                    "duration": "22m",
+                    "episodeCode": "S1-E417",
+                    "episodeName": "E417 - Aug 27, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272218/1920x1080_DivyaPremAug272026_272218_5dd6a6f3-b6a3-4d75-af26-eb6853b952fe.jpg",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "418",
+                    "duration": "22m",
+                    "episodeCode": "S1-E418",
+                    "episodeName": "E418 - Aug 28, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272220/1920x1080_DivyaPremAug282026_272220_5daefa6c-d056-4b0a-b4bd-7ac11324ce60.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "419",
+                    "duration": "22m",
+                    "episodeCode": "S1-E419",
+                    "episodeName": "E419 - Aug 29, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/272222/1920x1080_DivyaPremAug292026_272222_982c8732-748c-4b40-b03c-f9fc6fc76219.jpg",
+                    "updateDate": "29-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "420",
+                    "duration": "22m",
+                    "episodeCode": "S1-E420",
+                    "episodeName": "E420 - Aug 31, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273819/1920x1080_DivyaPremAug312026_273819_1e320989-43b9-44da-87f6-2364e296a6f3.jpg",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "421",
+                    "duration": "22m",
+                    "episodeCode": "S1-E421",
+                    "episodeName": "E421 - Sep 01, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273821/1920x1080_DivyaPremSep012026_273821_1f9b9869-7da3-4a88-84e8-2012be6409e0.jpg",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "422",
+                    "duration": "22m",
+                    "episodeCode": "S1-E422",
+                    "episodeName": "E422 - Sep 02, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273823/1920x1080_DivyaPremSep022026_273823_13fdd4e5-d3a9-418e-abcf-f55d5bdcc375.jpg",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "423",
+                    "duration": "22m",
+                    "episodeCode": "S1-E423",
+                    "episodeName": "E423 - Sep 03, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273825/1920x1080_DivyaPremSep032026_273825_051ec310-d8cd-44c3-a128-abc9e554eca5.jpg",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "424",
+                    "duration": "22m",
+                    "episodeCode": "S1-E424",
+                    "episodeName": "E424 - Sep 04, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273827/1920x1080_DivyaPremSep042026_273827_87e6f661-2624-4c15-8744-77429fbad1ca.jpg",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "425",
+                    "duration": "22m",
+                    "episodeCode": "S1-E425",
+                    "episodeName": "E425 - Sep 05, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/273829/1920x1080_DivyaPremSep052026_273829_842e5c38-f496-46f2-b605-b995afdfb637.jpg",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "426",
+                    "duration": "22m",
+                    "episodeCode": "S1-E426",
+                    "episodeName": "E426 - Sep 07, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274631/1920x1080_DivyaPremSep072026_274631_6377c51d-051c-4c88-890e-05b3e02142a2.jpg",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "427",
+                    "duration": "22m",
+                    "episodeCode": "S1-E427",
+                    "episodeName": "E427 - Sep 08, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274633/1920x1080_DivyaPremSep082026_274633_cc39f6a5-05b6-4a1c-bb2e-69de6eec7797.jpg",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "428",
+                    "duration": "22m",
+                    "episodeCode": "S1-E428",
+                    "episodeName": "E428 - Sep 09, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274635/1920x1080_DivyaPremSep092026_274635_8f6785d7-5da0-4f1a-b41e-d9ec8b3cb3e1.jpg",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "429",
+                    "duration": "22m",
+                    "episodeCode": "S1-E429",
+                    "episodeName": "E429 - Sep 10, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274637/1920x1080_DivyaPremSep102026_274637_bc805806-9c14-41b2-b527-7f5900c2f3ed.jpg",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "430",
+                    "duration": "22m",
+                    "episodeCode": "S1-E430",
+                    "episodeName": "E430 - Sep 11, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274639/1920x1080_DivyaPremSep112026_274639_5862437f-71a5-4a30-945f-e2b130ee6dc1.jpg",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "431",
+                    "duration": "22m",
+                    "episodeCode": "S1-E431",
+                    "episodeName": "E431 - Sep 12, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274641/1920x1080_DivyaPremSep122026_274641_e31e3e6a-2a47-4387-8fa5-e9e910ffcb09.jpg",
+                    "updateDate": "12-09-2026",
                     "episodeUrl": ""
                 }
             ]
