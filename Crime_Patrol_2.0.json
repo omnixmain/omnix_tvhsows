@@ -1,0 +1,18 @@
+{
+    "tvShows": [
+        {
+            "name": "Crime Patrol 2.0",
+            "banner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 16+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/ui/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "14-09-2026",
+            "description": "Watch Crime Patrol 2.0 on SonyLIV.",
+            "episodes": []
+        }
+    ]
+}
