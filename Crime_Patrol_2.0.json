@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Crime Patrol 2.0",
-            "banner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+            "banner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -11,8 +11,259 @@
             "streamingLogo": "https://images.slivcdn.com/ui/logo.png",
             "language": "Hindi",
             "ottReleaseDate": "14-09-2026",
-            "description": "Watch Crime Patrol 2.0 on SonyLIV.",
-            "episodes": []
+            "description": "Hey, I recommend you to watch Crime Patrol 2026 on SonyLIV app. Click here to watch it now https://www.sonyliv.com/shows/crime-patrol-2026-1790007847. For a better experience download the SonyLIV app https://www.sonyliv.com.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "45m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "LATEST",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023961/1789384565058738_Crime_Patrol_2026_EP_09_landscape_thumb.jpg?h=131&w=234&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/dafan-part-1-1090542521?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "45m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "E8. #Love #Tu meri life hai",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023763/1789039411279119_Crime_Patrol_2026_EP_08_landscape_thumb.jpg?h=131&w=234&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/-love-tu-meri-life-hai-1090542094?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "45m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "E7. Vishwaasghaat - Part 3",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023704/1788947009124728_Crime-Patrol-2026_EP_07_landscape.jpg?h=131&w=234&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/vishwaasghaat-part-3-1090541935?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "45m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "E6. Vishwaasghaat - Part 2",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023651/1788856021312214_Crime-Patrol-2026_EP_06_landscape.jpg?h=131&w=234&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/vishwaasghaat-part-2-1090541809?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "45m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "E5. Vishwaasghaat - Part 1",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023645/1788809038166860_Crime-Patrol-2026_EP_05_landscape_thumb.jpg?h=131&w=234&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/vishwaasghaat-part-1-1090541715?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "45m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "E4. Intezaar - Part 2",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023404/1788420034466469_Crime-Patrol-2026_EP_04_landscape.jpg?h=131&w=234&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/intezaar-part-2-1090541359?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "E3.  Intezaar - Part 1",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023371/178834884366854_Crime-Patrol-2026_EP_03_landscape.jpg?h=131&w=234&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/intezaar-part-1-1090541281?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "E2. Bagaavat - Part 2",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023314/1788262027885218_Crime-Patrol-2026_EP_02_landscape.jpg?h=131&w=234&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/bagaavat-part-2-1090541208?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "E1. Bagaavat - Part 1",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023235/1788170023069112_Crime-Patrol-2026_EP_01_landscape.jpg?h=131&w=234&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/bagaavat-part-1-1090541077?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "45m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "A Toxic Love Trap",
+                    "episodeBanner": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xOC42ODUgMTAuNTQxYTEuNzEzIDEuNzEzIDAgMCAxIDAgMi45MThsLTExLjM0IDcuMjQ0Yy0xLjIxNi43NzYtMi44NDUtLjA1OS0yLjg0NS0xLjQ2VjQuNzU3YzAtMS40IDEuNjI5LTIuMjM1IDIuODQ1LTEuNDU5bDExLjM0IDcuMjQ0eiIgZmlsbD0iI2ZmZiIvPgo8L3N2Zz4K",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/a-toxic-love-trap-1090542147?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "45m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "A Choice Gone Wrong",
+                    "episodeBanner": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xOC42ODUgMTAuNTQxYTEuNzEzIDEuNzEzIDAgMCAxIDAgMi45MThsLTExLjM0IDcuMjQ0Yy0xLjIxNi43NzYtMi44NDUtLjA1OS0yLjg0NS0xLjQ2VjQuNzU3YzAtMS40IDEuNjI5LTIuMjM1IDIuODQ1LTEuNDU5bDExLjM0IDcuMjQ0eiIgZmlsbD0iI2ZmZiIvPgo8L3N2Zz4K",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/a-choice-gone-wrong-1090542028?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "45m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "The Value Of Parents' Guidance",
+                    "episodeBanner": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xOC42ODUgMTAuNTQxYTEuNzEzIDEuNzEzIDAgMCAxIDAgMi45MThsLTExLjM0IDcuMjQ0Yy0xLjIxNi43NzYtMi44NDUtLjA1OS0yLjg0NS0xLjQ2VjQuNzU3YzAtMS40IDEuNjI5LTIuMjM1IDIuODQ1LTEuNDU5bDExLjM0IDcuMjQ0eiIgZmlsbD0iI2ZmZiIvPgo8L3N2Zz4K",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/the-value-of-parents-guidance-1090541748?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "45m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Never Give Up",
+                    "episodeBanner": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xOC42ODUgMTAuNTQxYTEuNzEzIDEuNzEzIDAgMCAxIDAgMi45MThsLTExLjM0IDcuMjQ0Yy0xLjIxNi43NzYtMi44NDUtLjA1OS0yLjg0NS0xLjQ2VjQuNzU3YzAtMS40IDEuNjI5LTIuMjM1IDIuODQ1LTEuNDU5bDExLjM0IDcuMjQ0eiIgZmlsbD0iI2ZmZiIvPgo8L3N2Zz4K",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/never-give-up-1090541749?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "45m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Kaun Banega Crorepati",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "45m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Taarak Mehta Ka Ooltah Chashmah",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "45m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Hastinapur Ke Veer",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "45m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Pushpa Impossible",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "45m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Indian Idol",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-1700001014"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "45m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Gullak",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/gullak-season-2-1700000659"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "45m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Undekhi",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/undekhi-1700000215"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "45m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Maharani",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/maharani-1700000725"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "45m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Scam 1992 The Harshad Mehta Story",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/scam-1992-the-harshad-mehta--1700000292"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "45m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "The Hunt",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/the-hunt-the-rajiv-gandhi-assassination-case-1790006628"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "45m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Crime Patrol 2026",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "45m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "Indian Game Show",
+                    "episodeBanner": "https://images.slivcdn.com/videoasset_images/manage_file/1000023333/1788275771571872_CRIME_PETROL_TAPE_Landscape_Thumb.jpg?w=200&q=high",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836"
+                }
+            ]
         }
     ]
 }
