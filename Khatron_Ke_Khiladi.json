@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Khatron Ke Khiladi",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9782/1785503959782-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2145/1786727382145-h",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,150 +10,9 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "14-09-2026",
-            "description": "Confront the fear, head-on! Host Rohit Shetty brings ‘Darr Ka Naya Daur’, where adrenaline gets addictive as celeb contestants take on extreme challenges. Watch Khatron Ke Khiladi - Hindi Reality serial on JioHotstar now.",
-            "episodes": [
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "14",
-                    "duration": "1h 12m",
-                    "episodeCode": "S15-E14",
-                    "episodeName": "Game Mein Aayega Twist!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8125/1789253258125-h",
-                    "updateDate": "13-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "13",
-                    "duration": "1h 12m",
-                    "episodeCode": "S15-E13",
-                    "episodeName": "Khatra Trending Hai",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5730/1789213195730-h",
-                    "updateDate": "12-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "12",
-                    "duration": "1h 14m",
-                    "episodeCode": "S15-E12",
-                    "episodeName": "Face-off! Crack it for the Jacket",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5533/1788616505533-h",
-                    "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "11",
-                    "duration": "1h 8m",
-                    "episodeCode": "S15-E11",
-                    "episodeName": "All Eyes on ‘Special Power’",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7161/1788605107161-h",
-                    "updateDate": "05-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "10",
-                    "duration": "1h 7m",
-                    "episodeCode": "S15-E10",
-                    "episodeName": "Lights, Camera, Khatra!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2937/1787986232937-h",
-                    "updateDate": "30-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "9",
-                    "duration": "1h 10m",
-                    "episodeCode": "S15-E9",
-                    "episodeName": "It's a High-Stakes Blockbuster",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6532/1787986006532-h",
-                    "updateDate": "29-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "8",
-                    "duration": "1h 13m",
-                    "episodeCode": "S15-E8",
-                    "episodeName": "Racing against the 'Khatra'",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/837/1787305260837-h",
-                    "updateDate": "23-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "7",
-                    "duration": "1h 9m",
-                    "episodeCode": "S15-E7",
-                    "episodeName": "Har Second Mein Darr",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7663/1787305187663-h",
-                    "updateDate": "22-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "6",
-                    "duration": "1h 14m",
-                    "episodeCode": "S15-E6",
-                    "episodeName": "Sab Hoga Achanak-Bhayanak!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/415/1786876290415-h",
-                    "updateDate": "16-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "5",
-                    "duration": "1h 12m",
-                    "episodeCode": "S15-E5",
-                    "episodeName": "Fear of Change",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2145/1786727382145-h",
-                    "updateDate": "15-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "4",
-                    "duration": "1h 8m",
-                    "episodeCode": "S15-E4",
-                    "episodeName": "No Privacy, No Mercy",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4310/1786089584310-h",
-                    "updateDate": "09-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "3",
-                    "duration": "1h 13m",
-                    "episodeCode": "S15-E3",
-                    "episodeName": "Fear of Privacy, Unlocked!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9070/1786089529070-h",
-                    "updateDate": "08-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "2",
-                    "duration": "1h 6m",
-                    "episodeCode": "S15-E2",
-                    "episodeName": "Fear Gets Personal",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1078/1785514301078-h",
-                    "updateDate": "02-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "15",
-                    "episodeNumber": "1",
-                    "duration": "1h 19m",
-                    "episodeCode": "S15-E1",
-                    "episodeName": "Grand Premiere: Darr Ka Naya Daur!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1790/1785514181790-h",
-                    "updateDate": "01-08-2026",
-                    "episodeUrl": ""
-                }
-            ]
+            "ottReleaseDate": "17-09-2026",
+            "description": "Khatron Ke Khiladi S15 Episode 5: The fear of change gets bigger as contestants face situations where nothing stays the same. With every twist, they’ll have to adapt,  and overcome a whole new kind of fear!",
+            "episodes": []
         }
     ]
 }
