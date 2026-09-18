@@ -10,7 +10,7 @@
             "streaming": "SunNXT",
             "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sun_NXT_logo.svg",
             "language": "Hindi",
-            "ottReleaseDate": "13-09-2026",
+            "ottReleaseDate": "19-09-2026",
             "description": "Thodi Si Umeed Thoda Sa Aasman New Serial",
             "episodes": [
                 {
@@ -609,7 +609,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E59",
                     "episodeName": "E59 - Sep 11, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/274640/1920x1080_ThodiSiUmeedThodaSaAasmanSep112026_274640_c4876b30-176c-4cc6-b9a3-bc24c4d352ad.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274640/1920x1080_ThodiSiUmeedThodaSaAasmanSep112026_274640_a29aece8-051d-4c31-9734-23e33d5f3e32.jpg",
                     "updateDate": "11-09-2026",
                     "episodeUrl": ""
                 },
@@ -619,8 +619,58 @@
                     "duration": "22m",
                     "episodeCode": "S1-E60",
                     "episodeName": "E60 - Sep 12, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/274642/1920x1080_ThodiSiUmeedThodaSaAasmanSep122026_274642_326d4bdf-784c-4442-850d-b228a3f315a1.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/274642/1920x1080_ThodiSiUmeedThodaSaAasmanSep122026_274642_f52a4fd7-599d-4098-a7ea-90ad259e64da.jpg",
                     "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "22m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "E61 - Sep 14, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/275632/1920x1080_ThodiSiUmeedThodaSaAasmanSep142026_275632_b936d12f-6e79-43ac-a469-2de6d0b61770.jpg",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "22m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "E62 - Sep 15, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/275634/1920x1080_ThodiSiUmeedThodaSaAasmanSep152026_275634_b3fd3ccb-6aca-4e73-91b0-3e917f6e07df.jpg",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "22m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "E63 - Sep 16, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/275636/1920x1080_ThodiSiUmeedThodaSaAasmanSep162026_275636_19fef627-3b0b-4150-9816-101faa4c0cc8.jpg",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "64",
+                    "duration": "22m",
+                    "episodeCode": "S1-E64",
+                    "episodeName": "E64 - Sep 17, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/275638/1920x1080_ThodiSiUmeedThodaSaAasmanSep172026_275638_e174b299-8b22-465b-b4af-40d2defe45e3.jpg",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "22m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "E65 - Sep 18, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/275640/1920x1080_ThodiSiUmeedThodaSaAasmanSep182026_275640_6b14a23b-e47b-4345-bbda-400c3f988ad8.jpg",
+                    "updateDate": "18-09-2026",
                     "episodeUrl": ""
                 }
             ]
