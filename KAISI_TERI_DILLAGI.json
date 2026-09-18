@@ -15,6 +15,46 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "64",
+                    "duration": "22m",
+                    "episodeCode": "S1-E64",
+                    "episodeName": "EP 64 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2064-18092026114149",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "22m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "EP 63 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_ep%2063-16092026160328",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "22m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "EP 62 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_ep%2062-16092026160019",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "22m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "EP 61 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_ep%2061-16092026160934",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "60",
                     "duration": "22m",
                     "episodeCode": "S1-E60",
