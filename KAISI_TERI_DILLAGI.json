@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "23m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "EP 65 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2065-18092026120920",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "64",
                     "duration": "22m",
                     "episodeCode": "S1-E64",
