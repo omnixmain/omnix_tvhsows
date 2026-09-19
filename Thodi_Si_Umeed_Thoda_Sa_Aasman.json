@@ -672,6 +672,16 @@
                     "episodeBanner": "https://sund-images.sunnxt.com/275640/1920x1080_ThodiSiUmeedThodaSaAasmanSep182026_275640_6b14a23b-e47b-4345-bbda-400c3f988ad8.jpg",
                     "updateDate": "18-09-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "66",
+                    "duration": "22m",
+                    "episodeCode": "S1-E66",
+                    "episodeName": "E66 - Sep 19, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/275642/1920x1080_ThodiSiUmeedThodaSaAasmanSep192026_275642_a27bcc41-ac58-4919-b533-88264cf76042.jpg",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
