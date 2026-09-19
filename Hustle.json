@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "13",
+                    "duration": "1h 49m",
+                    "episodeCode": "S5-E13",
+                    "episodeName": "Kunal Khemu Sets the Stage Ablaze",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6661/1789821556661-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "12",
                     "duration": "1h 29m",
                     "episodeCode": "S5-E12",
