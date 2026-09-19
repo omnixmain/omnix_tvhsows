@@ -1,0 +1,119 @@
+{
+    "tvShows": [
+        {
+            "name": "Papa Yaar by Zakir Khan",
+            "banner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABa5ab1QLvzPSr8zQDZbqk2v1DQhjwS7UWivIs7P1zN4PE2iAhwxPmjcVVkXpmKaTAl0Gh5BoflmMNOwZu7utAMKO3I2xV6-F0E1m.jpg?r=c0d",
+            "genre": "Reality Programming",
+            "rating": "8.5",
+            "year": "2026",
+            "ageRating": "U/A 16+",
+            "streaming": "Netflix",
+            "streamingLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "01-01-2026",
+            "description": "",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "1h 20m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Ep. 35 - Redemption Day",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSvBf4SCM5xiQ_hqt37vXjdR0nVCRrthhFL_00kOOIHxhDHyPF5uMpUx7ijB7X2WV2Fn1WzNmaRAZXTBVO391OWKTwwZ384DlOK3zXOhywWiRseMgo5iIaIH.jpg?r=a73",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "1h",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Ep. 34 - The Power of Two",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbtgqSu25GNAv5-7kcbDhMT4LAFKU2mlzOT7k1Ft3B4ZELgizycv2gnZjQ0yzzdk7xPqsLf7cN0EhnOs2rkeOUAgLgKxvKoDtKaef5AN3EeYKyLR3F9QIL7V.jpg?r=886",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "1h 1m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Ep. 33 - The Worthy and the Not",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUb_B2WjRr_Qm-HKLloc3DjJyMWqmpMuk6A480KOA3Om2LpPUfDX1dLelbPmWc9_WHt0xEQ_hrB0Bjor4IYrvVDdtoxLvQLd0oCM_gKp1Mnoe5_BDMFZbA8n.jpg?r=eb2",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "1h 7m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Ep. 32 - The Feast",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQtt8N2TQHcTJCxPCFVwQON5ONYlvkX_EMTpN54bGZ6JZW-RKW5fJw5RWP-tDWkCIvhMcFjponNLTC7vyT36m6MXupwAz3wkmbFxLETrl1u4tUK2P_AJquMq.jpg?r=6e6",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "1h 16m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Ep. 31 - Heavy Verdict",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUWwwykbQzBn2f_Q2CEn8Zc9RII1jq8xBrlKg7-7pO5kShf9oZMibqjmKR6LPOkKhLigvDs_BAxFeB15-QW3YmZqkl4L4JUhhDt361VN33xnnB1MPL_9jaP7.jpg?r=dc6",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "45m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Ep. 30 - Shaken and Stirred",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWQiBbCeZaPI2Nq450jMcSY_cVB9nIRgTswQ_v0nhZU4hZRB49kUFh3JCP4EYRecrJVOWnW1VXgxwjn10Fiy90iyj8klaNBthOmlizVfbfcPNtCoZsuUja6O.jpg?r=8c3",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "59m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Ep. 29 - Not Your Fight",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSkmMIxWh6JSEeTD_d7_uW153tTOFCqSM90d-OosQ6RrfHMbUMKPouoje5SpmlHIGgKL_zew0zTLZYG_7LIMGAHy2isk-Bm3RQFbjaaPjkPMiUGx3jwZp_8G.jpg?r=5a3",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "55m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Ep. 28 - More Than a Visit",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ1vxIDfoZpJEOtFD_nbRbF3gEzCJDvPCHaoqa020Eb6hh2q-tX0KOqJsh7GuR_CpxqgzqorZVJk9fYNUpfBlUyPGNDYz3gun3VmvobBqAzyWtgGeVcyhyC_.jpg?r=4d1",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "1h",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "Ep. 27- The Weight of Redemption",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSldb5sY94-WIWJEEtcov1YsaRBJ1WxuGKMhRMKa-WuK09jlTCo_ctXUOar5xhdBbW87zBb2xI84Y83Xzi9sR4Bp_XOXGt_q6W2oiXznM3VRFzAdzjltDk8f.jpg?r=45c",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Ep. 26 - Truth Hits Different",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQaM6fLVXfGqdTR0EWA7LLRNmK595JkXU1-VvI9-wgfgddTwa1SF9Zd4xV6JFd9A6G2ArVUTkceA1LTFsxb-nHcaLftQgeesKs5-5Ran8G_5UvYw8C0fBU8l.jpg?r=f39",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
