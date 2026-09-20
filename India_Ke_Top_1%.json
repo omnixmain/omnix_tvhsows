@@ -1,0 +1,39 @@
+{
+    "tvShows": [
+        {
+            "name": "India Ke Top 1%",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2379/1789053792379-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "20-09-2026",
+            "description": "1-2 ka 4, ya 4-2 ka 1? Hosted by Anil Kapoor, this top-tier quiz show is all about logic and reasoning, where 100 contestants vie to enter the elite 1% club! Watch India Ke Top 1% - Hindi Reality serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2379/1789053792379-i",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "India's Biggest Game Show Begins!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3920/1789810533920-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
