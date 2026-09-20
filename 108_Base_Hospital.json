@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "19-09-2026",
+            "ottReleaseDate": "20-09-2026",
             "description": "Resilient army doctors at 108 Base Hospital, Uri, navigate personal and professional battles whilst saving lives in a conflict-torn zone. Watch 108 Base Hospital - Uri - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Watch First Episode",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/983/1785772110983-i",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "12",
@@ -21,16 +31,6 @@
                     "episodeName": "Anirudh Steps Aside for Naina",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3453/1789745503453-h",
                     "updateDate": "20-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "45m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Watch First Episode",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/983/1785772110983-i",
-                    "updateDate": "19-09-2026",
                     "episodeUrl": ""
                 },
                 {
