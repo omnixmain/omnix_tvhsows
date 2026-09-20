@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "14",
+                    "duration": "1h 26m",
+                    "episodeCode": "S5-E14",
+                    "episodeName": "High Stakes, Wild Vibes!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/330/1789908570330-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "13",
                     "duration": "1h 49m",
                     "episodeCode": "S5-E13",
