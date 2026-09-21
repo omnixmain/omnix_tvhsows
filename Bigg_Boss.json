@@ -10,16 +10,16 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "September 21, 2026",
+            "ottReleaseDate": "September 22, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "16",
-                    "duration": "45m",
+                    "duration": "1h 8m",
                     "episodeCode": "S20-E16",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "episodeName": "BBHin Day 15: Nominations with a Twist!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7371/1790000657371-h",
                     "updateDate": "21-09-2026",
                     "episodeUrl": ""
                 },
@@ -1231,6 +1231,766 @@
                     "episodeName": "Grand Premiere: ‘Raaj’ Aur ‘Neeti’",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2759/1757412422759-h",
                     "updateDate": "24-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "106",
+                    "duration": "2h 7m",
+                    "episodeCode": "S18-E106",
+                    "episodeName": "BB 18 Ka Dhamakedar Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5611/1739389085611-h",
+                    "updateDate": "19-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "105",
+                    "duration": "1h 31m",
+                    "episodeCode": "S18-E105",
+                    "episodeName": "Supporters Vs Media: Kiska Hoga Palda Bhari?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8210/1737299708210-h",
+                    "updateDate": "18-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "104",
+                    "duration": "1h 2m",
+                    "episodeCode": "S18-E104",
+                    "episodeName": "Gharwalon Ki Iconic BB Journey",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8822/1737214508822-h",
+                    "updateDate": "17-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "103",
+                    "duration": "1h 1m",
+                    "episodeCode": "S18-E103",
+                    "episodeName": "BB Journey Ki Ek Yaadgaar Jhalak!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1190/1737129921190-h",
+                    "updateDate": "16-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "102",
+                    "duration": "51m",
+                    "episodeCode": "S18-E102",
+                    "episodeName": "Finale Se Pehle Shocking Eviction",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4950/1737044124950-h",
+                    "updateDate": "15-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "101",
+                    "duration": "50m",
+                    "episodeCode": "S18-E101",
+                    "episodeName": "Karan Ke “Certificates” Par Uthe Sawaal!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9971/1736958909971-h",
+                    "updateDate": "14-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "100",
+                    "duration": "54m",
+                    "episodeCode": "S18-E100",
+                    "episodeName": "Media Ke Tikhe Sawaal, Target Pe Kaun?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3285/1736872523285-h",
+                    "updateDate": "13-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "99",
+                    "duration": "1h 9m",
+                    "episodeCode": "S18-E99",
+                    "episodeName": "Punjab Kings ke Superstars in the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4458/1736785514458-h",
+                    "updateDate": "12-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "98",
+                    "duration": "1h 3m",
+                    "episodeCode": "S18-E98",
+                    "episodeName": "''Iss Ghar Mein Aapko Hona Hi Nahi Chahiye Karan''",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1791/1736694631791-h",
+                    "updateDate": "11-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "97",
+                    "duration": "48m",
+                    "episodeCode": "S18-E97",
+                    "episodeName": "Karanveer - Rajat Ka Bigg CLASH!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6987/1736608226987-h",
+                    "updateDate": "10-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "96",
+                    "duration": "47m",
+                    "episodeCode": "S18-E96",
+                    "episodeName": "Season Ka Sabse BIGG FIGHT For Ticket To Finale!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1108/1736525711108-h",
+                    "updateDate": "09-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "95",
+                    "duration": "43m",
+                    "episodeCode": "S18-E95",
+                    "episodeName": "Ticket To Finale Ki Ultimate Race",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1732/1736439461732-h",
+                    "updateDate": "08-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "94",
+                    "duration": "56m",
+                    "episodeCode": "S18-E94",
+                    "episodeName": "Karan-Shilpa Ki Dosti Ka The End?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1724/1736354411724-h",
+                    "updateDate": "07-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "93",
+                    "duration": "46m",
+                    "episodeCode": "S18-E93",
+                    "episodeName": "\"Karan Get Lost\"",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3267/1738673883267-h",
+                    "updateDate": "06-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "92",
+                    "duration": "1h 11m",
+                    "episodeCode": "S18-E92",
+                    "episodeName": "Karan Ko Hai “Footage Ki Bhook”",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8996/1736181308996-h",
+                    "updateDate": "05-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "91",
+                    "duration": "59m",
+                    "episodeCode": "S18-E91",
+                    "episodeName": "Who Will Be The Gamechanger?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9320/1736091329320-h",
+                    "updateDate": "04-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "90",
+                    "duration": "1h 8m",
+                    "episodeCode": "S18-E90",
+                    "episodeName": "Rajat Ne Ki Maa Se Apne Dil Ki Baat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3854/1738673883854-h",
+                    "updateDate": "03-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "89",
+                    "duration": "1h 5m",
+                    "episodeCode": "S18-E89",
+                    "episodeName": "Vivian Aur Beti Layan Ka Cute Reunion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3937/1738673883937-h",
+                    "updateDate": "02-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "88",
+                    "duration": "1h 6m",
+                    "episodeCode": "S18-E88",
+                    "episodeName": "Family Week Mei Gharwale Huye Emotional",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8904/1735833918904-h",
+                    "updateDate": "01-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "87",
+                    "duration": "1h 36m",
+                    "episodeCode": "S18-E87",
+                    "episodeName": "Emergency Task Mei Hua Violence!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2978/1735746922978-h",
+                    "updateDate": "31-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "86",
+                    "duration": "1h 5m",
+                    "episodeCode": "S18-E86",
+                    "episodeName": "Nomination Mein Strategy Ka Khel!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4306/1738673884306-h",
+                    "updateDate": "30-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "85",
+                    "duration": "1h 0m",
+                    "episodeCode": "S18-E85",
+                    "episodeName": "Vivian Calls Karan NAKLI!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4924/1735574434924-h",
+                    "updateDate": "29-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "84",
+                    "duration": "1h 18m",
+                    "episodeCode": "S18-E84",
+                    "episodeName": "Celebrating Bhai Ka Budday!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4901/1739388704901-h",
+                    "updateDate": "28-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "83",
+                    "duration": "1h 2m",
+                    "episodeCode": "S18-E83",
+                    "episodeName": "It’s Between Me, Sara And The Makers",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8016/1735398018016-h",
+                    "updateDate": "27-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "82",
+                    "duration": "1h 4m",
+                    "episodeCode": "S18-E82",
+                    "episodeName": "\"Woman Card Play Kiya Jaa Raha Tha\"",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/731/1735314620731-h",
+                    "updateDate": "26-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "81",
+                    "duration": "1h 6m",
+                    "episodeCode": "S18-E81",
+                    "episodeName": "Vivian Aur Avinash Ki Dosti Mei Daraar!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7464/1735228817464-h",
+                    "updateDate": "25-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "80",
+                    "duration": "1h 8m",
+                    "episodeCode": "S18-E80",
+                    "episodeName": "\"Jo Ukhadna Hai Ukhad Le!\"",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8729/1735141508729-h",
+                    "updateDate": "24-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "79",
+                    "duration": "1h 4m",
+                    "episodeCode": "S18-E79",
+                    "episodeName": "Nomination Special: Vivian, Eisha On Target?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6396/1735055706396-h",
+                    "updateDate": "23-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "78",
+                    "duration": "1h 1m",
+                    "episodeCode": "S18-E78",
+                    "episodeName": "Vivian Accuses Shilpa For Playing Drama Card",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9718/1734969799718-h",
+                    "updateDate": "22-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "77",
+                    "duration": "1h 2m",
+                    "episodeCode": "S18-E77",
+                    "episodeName": "Digvijay Ka Eviction, Kiski Galti?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4811/1734881714811-h",
+                    "updateDate": "21-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "76",
+                    "duration": "1h 5m",
+                    "episodeCode": "S18-E76",
+                    "episodeName": "Kon hoga Midweek Elimination Mein Beghar?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7801/1734794707801-h",
+                    "updateDate": "20-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "75",
+                    "duration": "1h 7m",
+                    "episodeCode": "S18-E75",
+                    "episodeName": "Nomination Mei BIGG Twist!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7425/1734716407425-h",
+                    "updateDate": "19-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "74",
+                    "duration": "1h 5m",
+                    "episodeCode": "S18-E74",
+                    "episodeName": "Task Mein Hua Dangal!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9606/1738673869606-h",
+                    "updateDate": "18-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "73",
+                    "duration": "1h 2m",
+                    "episodeCode": "S18-E73",
+                    "episodeName": "Task Mein Hua High Voltage DRAMA!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3678/1738674243678-h",
+                    "updateDate": "17-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "72",
+                    "duration": "1h 0m",
+                    "episodeCode": "S18-E72",
+                    "episodeName": "Vivian Ne Palti Game!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3774/1738674243774-h",
+                    "updateDate": "16-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "71",
+                    "duration": "1h 9m",
+                    "episodeCode": "S18-E71",
+                    "episodeName": "Wife Ne Diya Vivian Ko Wake-Up Call",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2245/1734430762245-h",
+                    "updateDate": "15-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "70",
+                    "duration": "1h 8m",
+                    "episodeCode": "S18-E70",
+                    "episodeName": "“Aapke Koi Actual Mudde Nahi Hain”",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8389/1738674748389-h",
+                    "updateDate": "14-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "69",
+                    "duration": "1h 4m",
+                    "episodeCode": "S18-E69",
+                    "episodeName": "Jitna Sach, Utna Ration",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1318/1734191581318-h",
+                    "updateDate": "13-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "68",
+                    "duration": "1h 9m",
+                    "episodeCode": "S18-E68",
+                    "episodeName": "Avinash Goes Against Eisha-Vivian!?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5720/1734105615720-h",
+                    "updateDate": "12-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "67",
+                    "duration": "1h 2m",
+                    "episodeCode": "S18-E67",
+                    "episodeName": "Time God Ek, Daavedaar Chaar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5451/1734100915451-h",
+                    "updateDate": "11-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "66",
+                    "duration": "1h 11m",
+                    "episodeCode": "S18-E66",
+                    "episodeName": "‘Time-God’ Ke Liye Huyi Planning-Plotting!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9519/1734100919519-h",
+                    "updateDate": "10-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "65",
+                    "duration": "1h 6m",
+                    "episodeCode": "S18-E65",
+                    "episodeName": "BIGG SHOCKER! Avinash Nominates Vivian!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3463/1734100923463-h",
+                    "updateDate": "09-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "64",
+                    "duration": "1h 10m",
+                    "episodeCode": "S18-E64",
+                    "episodeName": "Kiska Rishta Hoga Aaj Cut?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3537/1734100933537-h",
+                    "updateDate": "08-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "63",
+                    "duration": "1h 9m",
+                    "episodeCode": "S18-E63",
+                    "episodeName": "Farah Ka 'Karan Obsession' Par Vaar!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5007/1738675385007-h",
+                    "updateDate": "07-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "62",
+                    "duration": "1h 5m",
+                    "episodeCode": "S18-E62",
+                    "episodeName": "''Gundagardi Band Kar Rajat!''",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6389/1734100936389-h",
+                    "updateDate": "06-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "61",
+                    "duration": "1h 8m",
+                    "episodeCode": "S18-E61",
+                    "episodeName": "Karan Talks About SSR, Alcoholism And His Past!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5044/1738675385044-h",
+                    "updateDate": "05-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "60",
+                    "duration": "1h 8m",
+                    "episodeCode": "S18-E60",
+                    "episodeName": "Gharwalo Ka Anurag Se Candid Confession",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8511/1734100948511-h",
+                    "updateDate": "04-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "59",
+                    "duration": "1h 8m",
+                    "episodeCode": "S18-E59",
+                    "episodeName": "Rajat - Digvijay Mein Hui Tagdi Takraar!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2008/1734100952008-h",
+                    "updateDate": "03-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "58",
+                    "duration": "1h 11m",
+                    "episodeCode": "S18-E58",
+                    "episodeName": "Gharwalo Ke Target Pe Karan?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5351/1738675385351-h",
+                    "updateDate": "02-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "57",
+                    "duration": "1h 14m",
+                    "episodeCode": "S18-E57",
+                    "episodeName": "Salman Ne Di Chaahat - Avinash Ko Warning!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9399/1734100959399-h",
+                    "updateDate": "01-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "56",
+                    "duration": "1h 7m",
+                    "episodeCode": "S18-E56",
+                    "episodeName": "Rishton Par Chaahat Ka Verdict!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3557/1734100963557-h",
+                    "updateDate": "30-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "55",
+                    "duration": "1h 1m",
+                    "episodeCode": "S18-E55",
+                    "episodeName": "Wildcards Mein Kiska Game Over?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5469/1738675385469-h",
+                    "updateDate": "29-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "54",
+                    "duration": "1h 2m",
+                    "episodeCode": "S18-E54",
+                    "episodeName": "Kya Fir Toota Karanveer Ka Trust?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2959/1734100972959-h",
+                    "updateDate": "28-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "53",
+                    "duration": "1h 4m",
+                    "episodeCode": "S18-E53",
+                    "episodeName": "Time God Ke Task Mein Macha Bawaal!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5900/1738675385900-h",
+                    "updateDate": "27-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "52",
+                    "duration": "1h 7m",
+                    "episodeCode": "S18-E52",
+                    "episodeName": "Ex-Time Gods Ke Target Par Kaun?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9715/1738675339715-h",
+                    "updateDate": "26-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "51",
+                    "duration": "1h 12m",
+                    "episodeCode": "S18-E51",
+                    "episodeName": "Rishton Ka Imtihaan!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9581/1738675339581-h",
+                    "updateDate": "25-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "50",
+                    "duration": "1h 12m",
+                    "episodeCode": "S18-E50",
+                    "episodeName": "Shilpa-Karan Ki Dosti Sirf Convenience?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9664/1738675339664-h",
+                    "updateDate": "24-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "49",
+                    "duration": "1h 20m",
+                    "episodeCode": "S18-E49",
+                    "episodeName": "Salman Ka Gussa Rajat Par Bhari?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9573/1734100799573-h",
+                    "updateDate": "23-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "48",
+                    "duration": "1h 14m",
+                    "episodeCode": "S18-E48",
+                    "episodeName": "Time God Digvijay Ke Khilaf Virodh!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9690/1738675339690-h",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "47",
+                    "duration": "1h 3m",
+                    "episodeCode": "S18-E47",
+                    "episodeName": "Rishton Ki Agnipariksha!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2425/1734100812425-h",
+                    "updateDate": "21-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "46",
+                    "duration": "1h 2m",
+                    "episodeCode": "S18-E46",
+                    "episodeName": "Kaun Tikega, Kaun Jhukega?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/436/1734100820436-h",
+                    "updateDate": "20-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "45",
+                    "duration": "1h 9m",
+                    "episodeCode": "S18-E45",
+                    "episodeName": "Wildcards Ke Aane Se Badla Mahaul",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9755/1738675339755-h",
+                    "updateDate": "19-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "44",
+                    "duration": "1h 13m",
+                    "episodeCode": "S18-E44",
+                    "episodeName": "\"Jail Mein Kyun Gaya Tha Rajat?\"",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9807/1738675339807-h",
+                    "updateDate": "18-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "43",
+                    "duration": "1h 4m",
+                    "episodeCode": "S18-E43",
+                    "episodeName": "Gharwalo Ke Raaz Aayenge Saamne!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/779/1738675340779-h",
+                    "updateDate": "17-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "42",
+                    "duration": "1h 6m",
+                    "episodeCode": "S18-E42",
+                    "episodeName": "Salman Ka Vaar, Avinash-Digvijay Par!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9004/1734100849004-h",
+                    "updateDate": "16-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "41",
+                    "duration": "54m",
+                    "episodeCode": "S18-E41",
+                    "episodeName": "Rajat Ke Haath Power: Target Kaun?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9907/1738675339907-h",
+                    "updateDate": "15-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "40",
+                    "duration": "1h 4m",
+                    "episodeCode": "S18-E40",
+                    "episodeName": "Chum - Chahat Mein Hui BIGG Fight?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9360/1734100859360-h",
+                    "updateDate": "14-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "39",
+                    "duration": "1h 8m",
+                    "episodeCode": "S18-E39",
+                    "episodeName": "Task Mein Hui Haatha Paai",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/33/1738675340033-h",
+                    "updateDate": "13-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "38",
+                    "duration": "1h 9m",
+                    "episodeCode": "S18-E38",
+                    "episodeName": "Vivian Aur Rajat Ka Maha Showdown!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/614/1738675340614-h",
+                    "updateDate": "12-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "37",
+                    "duration": "1h 16m",
+                    "episodeCode": "S18-E37",
+                    "episodeName": "Kise Milegi BAD News?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3070/1734100883070-h",
+                    "updateDate": "11-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "36",
+                    "duration": "1h 3m",
+                    "episodeCode": "S18-E36",
+                    "episodeName": "Avinash Aur Digvijay Mein Hua War!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8093/1738675348093-h",
+                    "updateDate": "10-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "35",
+                    "duration": "1h 19m",
+                    "episodeCode": "S18-E35",
+                    "episodeName": "Sara Pe Rohit Ke Sawalon Ki Baarish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9391/1738675349391-h",
+                    "updateDate": "09-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "34",
+                    "duration": "1h 4m",
+                    "episodeCode": "S18-E34",
+                    "episodeName": "Vivian Pe Laga Ghamand Ka Thappa!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/293/1734100680293-h",
+                    "updateDate": "08-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "33",
+                    "duration": "1h 12m",
+                    "episodeCode": "S18-E33",
+                    "episodeName": "Sara Hui Out of Control!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/91/1738675350091-h",
+                    "updateDate": "07-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "32",
+                    "duration": "1h 13m",
+                    "episodeCode": "S18-E32",
+                    "episodeName": "Task Mein Hua DANGAL!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4468/1734100694468-h",
+                    "updateDate": "06-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "31",
+                    "duration": "1h 3m",
+                    "episodeCode": "S18-E31",
+                    "episodeName": "Bigg Fight: Rajat, Vivian & Avinash's Mahayuddh!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9221/1734100699221-h",
+                    "updateDate": "05-11-2024",
                     "episodeUrl": ""
                 },
                 {
