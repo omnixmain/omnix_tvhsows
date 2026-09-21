@@ -682,6 +682,16 @@
                     "episodeBanner": "https://sund-images.sunnxt.com/275642/1920x1080_ThodiSiUmeedThodaSaAasmanSep192026_275642_a27bcc41-ac58-4919-b533-88264cf76042.jpg",
                     "updateDate": "19-09-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "67",
+                    "duration": "22m",
+                    "episodeCode": "S1-E67",
+                    "episodeName": "E67 - Sep 21, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/276578/1920x1080_ThodiSiUmeedThodaSaAasmanSep212026_276578_b49b57aa-4f2d-41af-b23d-d875461fbfd2.jpg",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
