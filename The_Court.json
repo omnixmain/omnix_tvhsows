@@ -1,0 +1,139 @@
+{
+    "tvShows": [
+        {
+            "name": "The Court",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3943/1789546583943-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "language": "Hindi",
+            "ottReleaseDate": "September 21, 2026",
+            "description": "A young lawyer, brilliant with case details, struggles to find her place within the legal fraternity. Her two opponents: her celebrated father and her stammer. Watch The Court - Hindi Telugu Tamil Kannada Malayalam Drama Romance Procedural serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "23m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Old Wounds",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7777/1789623697777-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "21m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Vantage Point",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2988/1789623742988-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "18m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Groundwork",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3503/1789623773503-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "24m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Alone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8659/1789623798659-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "29m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "The Choice",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6467/1788934736467-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "19m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Undone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4623/1788934774623-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "21m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Redemption",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6849/1788934796849-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "22m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Legacy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9613/1788934819613-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "31m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Black Coats",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7198/1788345747198-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "24m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Same Case, Different Reasons",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8593/1788345808593-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "24m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Crossed",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5446/1788345895446-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "22m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "The Wrong Interview",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/808/1788345930808-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
