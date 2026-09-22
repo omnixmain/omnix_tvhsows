@@ -10,9 +10,529 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "30-07-2026",
+            "ottReleaseDate": "September 22, 2026",
             "description": "Aparajita is an artist with a bitter past, and our hero Rakshit—a reserved businessman with no place for love! These two hearts meet, but will romance bloom? Watch Oh Humnava - Tum Dena Saath Mera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "153",
+                    "duration": "35m",
+                    "episodeCode": "S1-E153",
+                    "episodeName": "Aparajita's Gratitude to Rakshit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4783/1790037774783-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "152",
+                    "duration": "32m",
+                    "episodeCode": "S1-E152",
+                    "episodeName": "Rakshit's Efforts for Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8822/1789961178822-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "151",
+                    "duration": "21m",
+                    "episodeCode": "S1-E151",
+                    "episodeName": "Aradhya, Aparajita's Pag Phera",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7187/1789693597187-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "150",
+                    "duration": "21m",
+                    "episodeCode": "S1-E150",
+                    "episodeName": "Aparajita's Pehli Rasoi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/24/1789608350024-h",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "149",
+                    "duration": "21m",
+                    "episodeCode": "S1-E149",
+                    "episodeName": "A Surprise for Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4982/1789522754982-h",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "148",
+                    "duration": "24m",
+                    "episodeCode": "S1-E148",
+                    "episodeName": "Shila Targets Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7554/1789439097554-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "147",
+                    "duration": "20m",
+                    "episodeCode": "S1-E147",
+                    "episodeName": "Aparajita, Rakshit's Wedding Night",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1252/1789349131252-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "146",
+                    "duration": "21m",
+                    "episodeCode": "S1-E146",
+                    "episodeName": "Arvind Reassures Rakshit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9466/1789254779466-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "145",
+                    "duration": "21m",
+                    "episodeCode": "S1-E145",
+                    "episodeName": "Rakshit and Aparajita Ties Knots",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8506/1789178168506-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "144",
+                    "duration": "21m",
+                    "episodeCode": "S1-E144",
+                    "episodeName": "Aparajita, Rakshit's Wedding Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9506/1789091099506-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "143",
+                    "duration": "21m",
+                    "episodeCode": "S1-E143",
+                    "episodeName": "Aparajita Gets Sudha's Blessings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8509/1788976918509-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "142",
+                    "duration": "21m",
+                    "episodeCode": "S1-E142",
+                    "episodeName": "Aparajita's Secret Haldi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3950/1788938193950-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "141",
+                    "duration": "23m",
+                    "episodeCode": "S1-E141",
+                    "episodeName": "Aradhya and Vivaan's Haldi Ceremony",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4032/1788832234032-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "140",
+                    "duration": "21m",
+                    "episodeCode": "S1-E140",
+                    "episodeName": "Rakshit Apologises to Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2216/1788746442216-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "139",
+                    "duration": "28m",
+                    "episodeCode": "S1-E139",
+                    "episodeName": "Rakshit's Promise to Ira",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9268/1788656229268-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "138",
+                    "duration": "23m",
+                    "episodeCode": "S1-E138",
+                    "episodeName": "Sudha Stands Up for Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/734/1788568370734-h",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "137",
+                    "duration": "28m",
+                    "episodeCode": "S1-E137",
+                    "episodeName": "Aradhya and Vivaan's Engagement",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4698/1788479084698-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "136",
+                    "duration": "26m",
+                    "episodeCode": "S1-E136",
+                    "episodeName": "Rakshit, Aparajita Exchange Rings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2591/1788358352591-h",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "135",
+                    "duration": "26m",
+                    "episodeCode": "S1-E135",
+                    "episodeName": "Aparajita Accepts Sudha's Condition",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7675/1788310197675-h",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "134",
+                    "duration": "26m",
+                    "episodeCode": "S1-E134",
+                    "episodeName": "Rakshit Confesses His Love",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/450/1788222910450-h",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "133",
+                    "duration": "21m",
+                    "episodeCode": "S1-E133",
+                    "episodeName": "Sudha's Shocking Marriage Proposal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5392/1788141135392-h",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "132",
+                    "duration": "21m",
+                    "episodeCode": "S1-E132",
+                    "episodeName": "Vivaan, Aradhya Face Scandal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9364/1788050169364-h",
+                    "updateDate": "30-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "131",
+                    "duration": "21m",
+                    "episodeCode": "S1-E131",
+                    "episodeName": "Vivaan Assures Aradhya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/93/1787964080093-h",
+                    "updateDate": "29-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "130",
+                    "duration": "21m",
+                    "episodeCode": "S1-E130",
+                    "episodeName": "Sudha Hides the Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7212/1787866457212-h",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "129",
+                    "duration": "20m",
+                    "episodeCode": "S1-E129",
+                    "episodeName": "Aparajita Confesses to Rakshit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9396/1787771589396-h",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "128",
+                    "duration": "21m",
+                    "episodeCode": "S1-E128",
+                    "episodeName": "Aparajita Rushes to Save Rakshit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2954/1787708042954-h",
+                    "updateDate": "26-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "127",
+                    "duration": "25m",
+                    "episodeCode": "S1-E127",
+                    "episodeName": "Arvind Turns Against Sudha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9128/1787625169128-h",
+                    "updateDate": "25-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "126",
+                    "duration": "20m",
+                    "episodeCode": "S1-E126",
+                    "episodeName": "Malti's Plea to Sudha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4248/1787517104248-h",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "125",
+                    "duration": "21m",
+                    "episodeCode": "S1-E125",
+                    "episodeName": "Sudha Demands Answers",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/47/1787444150047-h",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "124",
+                    "duration": "20m",
+                    "episodeCode": "S1-E124",
+                    "episodeName": "Aparajita Faces the Blame",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5476/1787356925476-h",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "123",
+                    "duration": "20m",
+                    "episodeCode": "S1-E123",
+                    "episodeName": "Rakshit Learns Sudha's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4029/1787271844029-h",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "122",
+                    "duration": "20m",
+                    "episodeCode": "S1-E122",
+                    "episodeName": "Aparajita Spots the Hoodie Man",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2070/1787187862070-h",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "121",
+                    "duration": "20m",
+                    "episodeCode": "S1-E121",
+                    "episodeName": "Rakshit Faces a Love Dilemma",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2427/1787101062427-h",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "120",
+                    "duration": "25m",
+                    "episodeCode": "S1-E120",
+                    "episodeName": "Aparajita Leads the Team",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8584/1787017048584-h",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "119",
+                    "duration": "20m",
+                    "episodeCode": "S1-E119",
+                    "episodeName": "Aparajita's Moment of Valour",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6848/1786879106848-h",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "118",
+                    "duration": "25m",
+                    "episodeCode": "S1-E118",
+                    "episodeName": "Aparajita Hits Aradhya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1837/1786795781837-h",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "117",
+                    "duration": "26m",
+                    "episodeCode": "S1-E117",
+                    "episodeName": "Chandrabhaga Manipulates Rohan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1371/1786699601371-h",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "116",
+                    "duration": "21m",
+                    "episodeCode": "S1-E116",
+                    "episodeName": "Is Aparajita Falling for Rakshit?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6100/1786683416100-h",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "115",
+                    "duration": "20m",
+                    "episodeCode": "S1-E115",
+                    "episodeName": "Aparajita Hides From Sudha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4158/1786521384158-h",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "114",
+                    "duration": "19m",
+                    "episodeCode": "S1-E114",
+                    "episodeName": "Aparajita Gets Drawn to Rakshit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/795/1786497510795-h",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "113",
+                    "duration": "23m",
+                    "episodeCode": "S1-E113",
+                    "episodeName": "Rakshit, Aparajita Face a Rift",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4651/1786410054651-h",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "112",
+                    "duration": "20m",
+                    "episodeCode": "S1-E112",
+                    "episodeName": "Aparajita Keeps a Close Eye on Mohit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3293/1786286893293-h",
+                    "updateDate": "10-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "111",
+                    "duration": "20m",
+                    "episodeCode": "S1-E111",
+                    "episodeName": "Rohan Discovers Aradhya's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6005/1786210336005-h",
+                    "updateDate": "09-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "110",
+                    "duration": "20m",
+                    "episodeCode": "S1-E110",
+                    "episodeName": "Aparajita Suspects Mohit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8730/1786143618730-h",
+                    "updateDate": "08-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "109",
+                    "duration": "25m",
+                    "episodeCode": "S1-E109",
+                    "episodeName": "The Society Turns Against Malti",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2733/1786023112733-h",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "108",
+                    "duration": "24m",
+                    "episodeCode": "S1-E108",
+                    "episodeName": "Malti Regrets Slapping Sudha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4585/1785958044585-h",
+                    "updateDate": "06-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "107",
+                    "duration": "28m",
+                    "episodeCode": "S1-E107",
+                    "episodeName": "Aparajita Claims Her Rights",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5062/1785894545062-h",
+                    "updateDate": "05-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "106",
+                    "duration": "29m",
+                    "episodeCode": "S1-E106",
+                    "episodeName": "Rakshit Terminates Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/199/1785808820199-h",
+                    "updateDate": "04-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "105",
+                    "duration": "25m",
+                    "episodeCode": "S1-E105",
+                    "episodeName": "Rakshit Cuts Ties with Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7786/1785722287786-h",
+                    "updateDate": "03-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "104",
+                    "duration": "25m",
+                    "episodeCode": "S1-E104",
+                    "episodeName": "Malti Slaps Sudha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5203/1785635955203-h",
+                    "updateDate": "02-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "103",
+                    "duration": "25m",
+                    "episodeCode": "S1-E103",
+                    "episodeName": "Sudha Shocks Rakshit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8094/1785552578094-h",
+                    "updateDate": "01-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "102",
+                    "duration": "26m",
+                    "episodeCode": "S1-E102",
+                    "episodeName": "Rakshit Admires Aparajita",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2886/1785448862886-h",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "101",
@@ -891,136 +1411,6 @@
                     "episodeName": "Arvind Guides Rakshit",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8910/1777787608910-h",
                     "updateDate": "03-05-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "13",
-                    "duration": "23m",
-                    "episodeCode": "S1-E13",
-                    "episodeName": "Ramgopal Stands by Aparajita",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/613/1777687600613-h",
-                    "updateDate": "02-05-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "12",
-                    "duration": "24m",
-                    "episodeCode": "S1-E12",
-                    "episodeName": "Aparajita Rescues Arvind",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2903/1777617042903-h",
-                    "updateDate": "01-05-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "11",
-                    "duration": "23m",
-                    "episodeCode": "S1-E11",
-                    "episodeName": "Aparajita Takes the Lead",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4415/1777568004415-h",
-                    "updateDate": "30-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "10",
-                    "duration": "22m",
-                    "episodeCode": "S1-E10",
-                    "episodeName": "Rakshit Saves Aparajita",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4634/1777445204634-h",
-                    "updateDate": "29-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "9",
-                    "duration": "22m",
-                    "episodeCode": "S1-E9",
-                    "episodeName": "Aparajita's Sacred Offering",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6223/1777363476223-h",
-                    "updateDate": "28-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "8",
-                    "duration": "22m",
-                    "episodeCode": "S1-E8",
-                    "episodeName": "Rakshit's Bold Decision",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/676/1777272300676-h",
-                    "updateDate": "27-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "7",
-                    "duration": "24m",
-                    "episodeCode": "S1-E7",
-                    "episodeName": "Rakshit's Painful Past",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6555/1777172726555-h",
-                    "updateDate": "26-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "6",
-                    "duration": "22m",
-                    "episodeCode": "S1-E6",
-                    "episodeName": "Rakshit Lifts the Party",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/821/1777127610821-h",
-                    "updateDate": "25-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "5",
-                    "duration": "21m",
-                    "episodeCode": "S1-E5",
-                    "episodeName": "Pramila Humiliates Aparajita",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1227/1776992481227-h",
-                    "updateDate": "24-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "21m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Aparajita Haunted by the Past",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1128/1776912541128-h",
-                    "updateDate": "23-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "21m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Aparajita and Rakshit's Clash",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9677/1776822819677-h",
-                    "updateDate": "22-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "21m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Rakshit's Return Shocks the Family",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/457/1776784780457-h",
-                    "updateDate": "21-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "23m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Meet Rakshit, Aparajita",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7817/1776632057817-h",
-                    "updateDate": "20-04-2026",
                     "episodeUrl": ""
                 }
             ]
