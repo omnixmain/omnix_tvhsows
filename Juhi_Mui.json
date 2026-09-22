@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "24m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "Juhi Refuses to Drop the Case",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4272/1790052484272-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "69",
                     "duration": "24m",
                     "episodeCode": "S1-E69",
