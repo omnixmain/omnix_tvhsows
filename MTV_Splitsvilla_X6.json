@@ -10,17 +10,77 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "30-07-2026",
+            "ottReleaseDate": "September 22, 2026",
             "description": "Watch MTV Splitsvilla X6 on JioHotstar.",
             "episodes": [
                 {
-                    "seasonNumber": "15",
-                    "episodeNumber": "1",
+                    "seasonNumber": "14",
+                    "episodeNumber": "5",
                     "duration": "45m",
-                    "episodeCode": "S15-E1",
+                    "episodeCode": "S14-E5",
                     "episodeName": "Watch First Episode",
                     "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
-                    "updateDate": "30-07-2026",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "56",
+                    "duration": "2h 13m",
+                    "episodeCode": "S16-E56",
+                    "episodeName": "The Grand Finale: Part 2",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8508/1778923148508-h",
+                    "updateDate": "16-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "55",
+                    "duration": "2h 24m",
+                    "episodeCode": "S16-E55",
+                    "episodeName": "The Grand Finale: Part 1",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6052/1781260476052-h",
+                    "updateDate": "15-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "54",
+                    "duration": "2h 9m",
+                    "episodeCode": "S16-E54",
+                    "episodeName": "Battle for Semi-Final Glory",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5690/1778416255690-h",
+                    "updateDate": "10-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "53",
+                    "duration": "1h 24m",
+                    "episodeCode": "S16-E53",
+                    "episodeName": "The Final Dome: Heartbreak, Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8147/1778332418147-h",
+                    "updateDate": "09-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "52",
+                    "duration": "1h 52m",
+                    "episodeCode": "S16-E52",
+                    "episodeName": "The Ticket To Finale Challenge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8814/1778315218814-h",
+                    "updateDate": "08-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "51",
+                    "duration": "1h 0m",
+                    "episodeCode": "S16-E51",
+                    "episodeName": "Trump and Dump Twist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6162/1777814346162-h",
+                    "updateDate": "03-05-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -921,6 +981,76 @@
                     "episodeName": "ExSqueeze Me Please",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/625/1734183680625-h",
                     "updateDate": "31-03-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "1",
+                    "duration": "57m",
+                    "episodeCode": "S15-E1",
+                    "episodeName": "The Grand Premiere",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5807/1734183695807-h",
+                    "updateDate": "30-03-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
+                    "episodeNumber": "26",
+                    "duration": "43m",
+                    "episodeCode": "S14-E26",
+                    "episodeName": "Tussle before the big showdown!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8979/1734170048979-h",
+                    "updateDate": "05-02-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
+                    "episodeNumber": "19",
+                    "duration": "41m",
+                    "episodeCode": "S14-E19",
+                    "episodeName": "The Wildstone dating challenge!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6657/1734169616657-h",
+                    "updateDate": "14-01-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
+                    "episodeNumber": "14",
+                    "duration": "43m",
+                    "episodeCode": "S14-E14",
+                    "episodeName": "Uorfi is back!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/644/1734166520644-h",
+                    "updateDate": "25-12-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
+                    "episodeNumber": "11",
+                    "duration": "51m",
+                    "episodeCode": "S14-E11",
+                    "episodeName": "Joshua gets targetted",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6026/1734166406026-h",
+                    "updateDate": "17-12-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
+                    "episodeNumber": "7",
+                    "duration": "43m",
+                    "episodeCode": "S14-E7",
+                    "episodeName": "Rishabh and Aagaz lock horns!!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4902/1734166194902-h",
+                    "updateDate": "03-12-2022",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
+                    "episodeNumber": "6",
+                    "duration": "41m",
+                    "episodeCode": "S14-E6",
+                    "episodeName": "The trio is in a dilemma!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1872/1734169441872-h",
+                    "updateDate": "27-11-2022",
                     "episodeUrl": ""
                 }
             ]
