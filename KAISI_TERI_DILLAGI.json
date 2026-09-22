@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "68",
+                    "duration": "22m",
+                    "episodeCode": "S1-E68",
+                    "episodeName": "EP 68 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2068-22092026121942",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "67",
                     "duration": "22m",
                     "episodeCode": "S1-E67",
