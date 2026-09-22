@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "30-07-2026",
+            "ottReleaseDate": "September 22, 2026",
             "description": "Triple the Laughter Tadka! Beloved celebrity couples gear up for a cooking face-off like no other—serving entertainment straight from the comedy kitchen. Watch Laughter Chefs Unlimited Entertainment - Hindi Reality Comedy Food serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Watch First Episode",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1179/1785139961179-i",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "3",
                     "episodeNumber": "72",
@@ -26,7 +36,7 @@
                 {
                     "seasonNumber": "3",
                     "episodeNumber": "71",
-                    "duration": "1h 41m",
+                    "duration": "1h 36m",
                     "episodeCode": "S3-E71",
                     "episodeName": "The Quest for the Trophy Begins",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8385/1784981868385-h",
@@ -411,16 +421,6 @@
                     "episodeName": "Chefs Premier League",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7477/1773478657477-h",
                     "updateDate": "14-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "3",
-                    "episodeNumber": "32",
-                    "duration": "1h 13m",
-                    "episodeCode": "S3-E32",
-                    "episodeName": "Happy Women's Day!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6749/1772947576749-h",
-                    "updateDate": "08-03-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -1601,16 +1601,6 @@
                     "episodeName": "It's time to cook Shaadi Ke Laddu",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7425/1734131097425-h",
                     "updateDate": "02-06-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "1h 51m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "The culinary battle begins!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/846/1734131110846-h",
-                    "updateDate": "01-06-2024",
                     "episodeUrl": ""
                 }
             ]
