@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "30-07-2026",
+            "ottReleaseDate": "September 22, 2026",
             "description": "She is back in a new avatar! She will stop the corrupt to protect the nation and exact vengeance. Watch Naagin - Hindi Fantasy Drama Mystery Family serial on JioHotstar now.",
             "episodes": [
                 {
@@ -20,7 +20,7 @@
                     "episodeCode": "S1-E1",
                     "episodeName": "Watch First Episode",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8991/1780645598991-i",
-                    "updateDate": "30-07-2026",
+                    "updateDate": "22-09-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -2695,6 +2695,36 @@
                 },
                 {
                     "seasonNumber": "3",
+                    "episodeNumber": "103",
+                    "duration": "42m",
+                    "episodeCode": "S3-E103",
+                    "episodeName": "The ultimate war for the Naagmani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4752/1734181564752-h",
+                    "updateDate": "26-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "102",
+                    "duration": "42m",
+                    "episodeCode": "S3-E102",
+                    "episodeName": "Yamini returns to kill Shivangi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2733/1734181562733-h",
+                    "updateDate": "25-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "101",
+                    "duration": "41m",
+                    "episodeCode": "S3-E101",
+                    "episodeName": "Bela-Shivangi join forces!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1793/1734181561793-h",
+                    "updateDate": "19-05-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
                     "episodeNumber": "100",
                     "duration": "45m",
                     "episodeCode": "S3-E100",
@@ -4431,6 +4461,216 @@
                     "episodeName": "Season Premiere: The saga continues",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1317/1734181311317-h",
                     "updateDate": "08-10-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "47m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "The battle for the Naagmani reaches fever pitch",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6897/1734165806897-h",
+                    "updateDate": "05-06-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "49m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "The wrath of Kali Maa",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7631/1734165807631-h",
+                    "updateDate": "04-06-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "44m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Shivanya and Sesha kill Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8459/1734165808459-h",
+                    "updateDate": "29-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "44m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Shivanya seeks Sesha's help",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9534/1734165809534-h",
+                    "updateDate": "28-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "43m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Viren gets shot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/534/1734165810534-h",
+                    "updateDate": "22-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "44m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Shivanya comes face to face with Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1413/1734165811413-h",
+                    "updateDate": "21-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "43m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Kabeer returns to kill Naagin",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2367/1734165812367-h",
+                    "updateDate": "15-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "43m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Sangram gets shot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3701/1734165813701-h",
+                    "updateDate": "14-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "43m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "The sacrilegious union",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4485/1734165814485-h",
+                    "updateDate": "08-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "34m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Yamini loses her mind",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5317/1734165815317-h",
+                    "updateDate": "07-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "42m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Ritik is resurrected",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6406/1734165816406-h",
+                    "updateDate": "01-05-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "43m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Yamini's killing spree",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7454/1734165817454-h",
+                    "updateDate": "30-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "42m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Shivanya confronts Sesha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8505/1734165818505-h",
+                    "updateDate": "24-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "44m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Shivanya is trapped",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9536/1734165819536-h",
+                    "updateDate": "23-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "1h 29m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "Sesha cohorts with Yamini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/503/1734165820503-h",
+                    "updateDate": "17-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "44m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Yamini's truth is revealed",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3779/1734165713779-h",
+                    "updateDate": "16-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "43m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Dangerous omens",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4968/1734165714968-h",
+                    "updateDate": "10-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "43m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Yamini plots yet again",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5874/1734165715874-h",
+                    "updateDate": "09-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "42m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Ritik the saviour",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6946/1734165716946-h",
+                    "updateDate": "03-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "42m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "The Aghoris capture Shivanya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7676/1734165717676-h",
+                    "updateDate": "02-04-2016",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "43m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Finding the fifth murderer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8781/1734165718781-h",
+                    "updateDate": "27-03-2016",
                     "episodeUrl": ""
                 },
                 {
