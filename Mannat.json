@@ -10,9 +10,559 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "30-07-2026",
+            "ottReleaseDate": "September 22, 2026",
             "description": "Abandoned by her mother, Mannat becomes a successful chef and finds love with Vikrant, only for destiny to separate them. Will she be able to reclaim her love? Watch Mannat - Har Khushi Paane Ki - Hindi Family Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "562",
+                    "duration": "25m",
+                    "episodeCode": "S1-E562",
+                    "episodeName": "Vikrant Faces a Serious Accusation",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9127/1790052439127-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "561",
+                    "duration": "25m",
+                    "episodeCode": "S1-E561",
+                    "episodeName": "Mannat Warns Vikrant",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2271/1789961312271-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "560",
+                    "duration": "25m",
+                    "episodeCode": "S1-E560",
+                    "episodeName": "Mannat Records Manyata's Confession",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9439/1789865989439-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "559",
+                    "duration": "25m",
+                    "episodeCode": "S1-E559",
+                    "episodeName": "Ronny Learns About Vikrant's Plight",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2430/1789789572430-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "558",
+                    "duration": "24m",
+                    "episodeCode": "S1-E558",
+                    "episodeName": "Dhairya's Cunning Plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3500/1789691023500-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "557",
+                    "duration": "24m",
+                    "episodeCode": "S1-E557",
+                    "episodeName": "Vikrant Gets Arrested",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3452/1789608203452-h",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "556",
+                    "duration": "24m",
+                    "episodeCode": "S1-E556",
+                    "episodeName": "Samragi's Sinister Plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8020/1789522898020-h",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "555",
+                    "duration": "24m",
+                    "episodeCode": "S1-E555",
+                    "episodeName": "Dua Puzzled by Mysterious Messages",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9458/1789440549458-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "554",
+                    "duration": "24m",
+                    "episodeCode": "S1-E554",
+                    "episodeName": "Mannat Stays by Vikrant",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/907/1789350330907-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "553",
+                    "duration": "25m",
+                    "episodeCode": "S1-E553",
+                    "episodeName": "Mannat Reassures Dua",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7867/1789264427867-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "552",
+                    "duration": "25m",
+                    "episodeCode": "S1-E552",
+                    "episodeName": "Is Dhairya Alive?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3091/1789179993091-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "551",
+                    "duration": "25m",
+                    "episodeCode": "S1-E551",
+                    "episodeName": "Dua Is Heartbroken",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4868/1789095444868-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "550",
+                    "duration": "24m",
+                    "episodeCode": "S1-E550",
+                    "episodeName": "Vikrant and Dua's reunion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7044/1788996617044-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "549",
+                    "duration": "24m",
+                    "episodeCode": "S1-E549",
+                    "episodeName": "Can Mannat Catch Dhairya?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3208/1788914903208-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "548",
+                    "duration": "24m",
+                    "episodeCode": "S1-E548",
+                    "episodeName": "Mannat Shoots Dhairya in Rage",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3745/1788832233745-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "547",
+                    "duration": "25m",
+                    "episodeCode": "S1-E547",
+                    "episodeName": "Dhairya, Vikrant's Deadly Clash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6637/1788750936637-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "546",
+                    "duration": "22m",
+                    "episodeCode": "S1-E546",
+                    "episodeName": "Yashika's Sacrifice for Vikrant",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7555/1788657257555-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "545",
+                    "duration": "22m",
+                    "episodeCode": "S1-E545",
+                    "episodeName": "Dhairya Takes Aim at Vikrant",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4602/1788567134602-h",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "544",
+                    "duration": "21m",
+                    "episodeCode": "S1-E544",
+                    "episodeName": "Mannat Struggles to Stop Dhairya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7414/1788450587414-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "543",
+                    "duration": "21m",
+                    "episodeCode": "S1-E543",
+                    "episodeName": "Dhairya's Vengeful Move",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9535/1788371569535-h",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "542",
+                    "duration": "21m",
+                    "episodeCode": "S1-E542",
+                    "episodeName": "Will Dhairya Admit Guilt?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/940/1788308260940-h",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "541",
+                    "duration": "22m",
+                    "episodeCode": "S1-E541",
+                    "episodeName": "Dhairya Walks Into Mannat's Trap",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4009/1788195004009-h",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "540",
+                    "duration": "21m",
+                    "episodeCode": "S1-E540",
+                    "episodeName": "Mannat's Plan to Trap Dhairya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/556/1788146490556-h",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "539",
+                    "duration": "21m",
+                    "episodeCode": "S1-E539",
+                    "episodeName": "Mannat, Vikrant Trick Dhairya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6418/1788066086418-h",
+                    "updateDate": "30-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "538",
+                    "duration": "21m",
+                    "episodeCode": "S1-E538",
+                    "episodeName": "Mannat's Painful Realisation",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9755/1787966249755-h",
+                    "updateDate": "29-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "537",
+                    "duration": "21m",
+                    "episodeCode": "S1-E537",
+                    "episodeName": "Yashika Opens Up to Vikrant, Mannat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8206/1787903928206-h",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "536",
+                    "duration": "21m",
+                    "episodeCode": "S1-E536",
+                    "episodeName": "Vikrant's Camera Goes Missing",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5897/1787843215897-h",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "535",
+                    "duration": "21m",
+                    "episodeCode": "S1-E535",
+                    "episodeName": "Vikrant's Convincing Act",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9531/1787709169531-h",
+                    "updateDate": "26-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "534",
+                    "duration": "21m",
+                    "episodeCode": "S1-E534",
+                    "episodeName": "Vikrant Suspects Dhairya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5548/1787626955548-h",
+                    "updateDate": "25-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "533",
+                    "duration": "21m",
+                    "episodeCode": "S1-E533",
+                    "episodeName": "Dhairya Suspects Vikrant and Mannat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3372/1787537013372-h",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "532",
+                    "duration": "21m",
+                    "episodeCode": "S1-E532",
+                    "episodeName": "Manyata Targets Dua",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1711/1787444001711-h",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "531",
+                    "duration": "21m",
+                    "episodeCode": "S1-E531",
+                    "episodeName": "Vikrant's Anger Hurts Dua",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9841/1787363529841-h",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "530",
+                    "duration": "21m",
+                    "episodeCode": "S1-E530",
+                    "episodeName": "Dhairya's Shocking Birthday",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3910/1787271823910-h",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "529",
+                    "duration": "21m",
+                    "episodeCode": "S1-E529",
+                    "episodeName": "Dhairya Fears Exposure",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/578/1787197400578-h",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "528",
+                    "duration": "21m",
+                    "episodeCode": "S1-E528",
+                    "episodeName": "Dua Plans for Dhairya's Birthday",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3417/1787102993417-h",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "527",
+                    "duration": "21m",
+                    "episodeCode": "S1-E527",
+                    "episodeName": "Vikrant, Mannat Outwit Dhairya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5079/1787019595079-h",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "526",
+                    "duration": "21m",
+                    "episodeCode": "S1-E526",
+                    "episodeName": "Dhairya's Plan Against Vikrant",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4354/1786910454354-h",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "525",
+                    "duration": "21m",
+                    "episodeCode": "S1-E525",
+                    "episodeName": "Vikrant Loses His Cool with Dhairya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5253/1786794105253-h",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "524",
+                    "duration": "24m",
+                    "episodeCode": "S1-E524",
+                    "episodeName": "Vikrant's Moment of Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6482/1786726686482-h",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "523",
+                    "duration": "24m",
+                    "episodeCode": "S1-E523",
+                    "episodeName": "Dhairya Fears the Threat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/179/1786642000179-h",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "522",
+                    "duration": "24m",
+                    "episodeCode": "S1-E522",
+                    "episodeName": "Samragi's Plan Unfolds",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9319/1786578499319-h",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "521",
+                    "duration": "21m",
+                    "episodeCode": "S1-E521",
+                    "episodeName": "Manyata's Ultimatum to Mannat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8164/1786500648164-h",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "520",
+                    "duration": "21m",
+                    "episodeCode": "S1-E520",
+                    "episodeName": "Mannat's Clever Scheme",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9430/1786416329430-h",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "519",
+                    "duration": "21m",
+                    "episodeCode": "S1-E519",
+                    "episodeName": "Vikrant Exposes Dhairya's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5750/1786289235750-h",
+                    "updateDate": "10-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "518",
+                    "duration": "21m",
+                    "episodeCode": "S1-E518",
+                    "episodeName": "Vikrant Agrees to Stay with Mannat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/930/1786206910930-h",
+                    "updateDate": "09-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "517",
+                    "duration": "21m",
+                    "episodeCode": "S1-E517",
+                    "episodeName": "Vikrant Remembers His Past",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9600/1786133399600-h",
+                    "updateDate": "08-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "516",
+                    "duration": "21m",
+                    "episodeCode": "S1-E516",
+                    "episodeName": "Mannat's Race to Save Vikrant",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6696/1786050256696-h",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "515",
+                    "duration": "21m",
+                    "episodeCode": "S1-E515",
+                    "episodeName": "Dhairya's Staged Outrage",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9199/1785965549199-h",
+                    "updateDate": "06-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "514",
+                    "duration": "21m",
+                    "episodeCode": "S1-E514",
+                    "episodeName": "Mannat Seeks Police Help for Vikrant",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1932/1785895881932-h",
+                    "updateDate": "05-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "513",
+                    "duration": "21m",
+                    "episodeCode": "S1-E513",
+                    "episodeName": "Dhairya Plots Vikrant's Death",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2213/1785818862213-h",
+                    "updateDate": "04-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "512",
+                    "duration": "21m",
+                    "episodeCode": "S1-E512",
+                    "episodeName": "Samragi, Ankit Start a Secret Mission",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7090/1785723537090-h",
+                    "updateDate": "03-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "511",
+                    "duration": "21m",
+                    "episodeCode": "S1-E511",
+                    "episodeName": "Dhairya's Deadly Plan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9556/1785637709556-h",
+                    "updateDate": "02-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "510",
+                    "duration": "21m",
+                    "episodeCode": "S1-E510",
+                    "episodeName": "Manyata Faces Vikrant's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4065/1785592284065-h",
+                    "updateDate": "01-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "509",
+                    "duration": "21m",
+                    "episodeCode": "S1-E509",
+                    "episodeName": "Mannat Stuns the Rajvanshi Family",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8702/1785515068702-h",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "508",
+                    "duration": "21m",
+                    "episodeCode": "S1-E508",
+                    "episodeName": "Vikrant, Mannat's Wedding Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3326/1785416783326-h",
+                    "updateDate": "30-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "507",
@@ -1561,256 +2111,6 @@
                     "episodeName": "Malla's Sinister Scheme",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2559/1772020652559-h",
                     "updateDate": "25-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "352",
-                    "duration": "23m",
-                    "episodeCode": "S1-E352",
-                    "episodeName": "Mannat's Desperate Deal",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3221/1771903643221-h",
-                    "updateDate": "24-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "351",
-                    "duration": "23m",
-                    "episodeCode": "S1-E351",
-                    "episodeName": "A Shocker for Mannat",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9368/1771831829368-h",
-                    "updateDate": "23-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "350",
-                    "duration": "21m",
-                    "episodeCode": "S1-E350",
-                    "episodeName": "Mannat Walks Away",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4274/1771780924274-h",
-                    "updateDate": "22-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "349",
-                    "duration": "21m",
-                    "episodeCode": "S1-E349",
-                    "episodeName": "Yashika Proposes to Vikrant",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/887/1771638790887-h",
-                    "updateDate": "21-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "348",
-                    "duration": "23m",
-                    "episodeCode": "S1-E348",
-                    "episodeName": "Malla's Sneaky Plot",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1242/1771559431242-h",
-                    "updateDate": "20-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "347",
-                    "duration": "23m",
-                    "episodeCode": "S1-E347",
-                    "episodeName": "Dhairya Comforts Mannat",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5057/1771472105057-h",
-                    "updateDate": "19-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "346",
-                    "duration": "23m",
-                    "episodeCode": "S1-E346",
-                    "episodeName": "Vikrant's Ultimatum Shocks Mannat",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1786/1771386431786-h",
-                    "updateDate": "18-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "345",
-                    "duration": "23m",
-                    "episodeCode": "S1-E345",
-                    "episodeName": "Vikrant Faces Mannat's Wrath",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8079/1771317378079-h",
-                    "updateDate": "17-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "344",
-                    "duration": "23m",
-                    "episodeCode": "S1-E344",
-                    "episodeName": "Neetu's Condition Breaks Mannat",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6147/1771321086147-h",
-                    "updateDate": "16-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "343",
-                    "duration": "21m",
-                    "episodeCode": "S1-E343",
-                    "episodeName": "A Shattering Moment for Yuvi",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1775/1771173641775-h",
-                    "updateDate": "15-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "342",
-                    "duration": "21m",
-                    "episodeCode": "S1-E342",
-                    "episodeName": "Vishakha Sets an Emotional Trap",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/103/1771054190103-h",
-                    "updateDate": "14-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "341",
-                    "duration": "21m",
-                    "episodeCode": "S1-E341",
-                    "episodeName": "An Attack on Mannat",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/889/1770936860889-h",
-                    "updateDate": "13-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "340",
-                    "duration": "21m",
-                    "episodeCode": "S1-E340",
-                    "episodeName": "Arzoo Plots Against Mannat",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3448/1770877673448-h",
-                    "updateDate": "12-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "339",
-                    "duration": "21m",
-                    "episodeCode": "S1-E339",
-                    "episodeName": "Malla Strategises with Yashika",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4121/1770801474121-h",
-                    "updateDate": "11-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "338",
-                    "duration": "21m",
-                    "episodeCode": "S1-E338",
-                    "episodeName": "Vikrant's Worries for Neetu",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/665/1770703490665-h",
-                    "updateDate": "10-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "337",
-                    "duration": "21m",
-                    "episodeCode": "S1-E337",
-                    "episodeName": "Arzoo Slips Away Unseen",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5755/1770602515755-h",
-                    "updateDate": "09-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "336",
-                    "duration": "21m",
-                    "episodeCode": "S1-E336",
-                    "episodeName": "Vikrant Stands by Yuvi",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7016/1770519127016-h",
-                    "updateDate": "08-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "335",
-                    "duration": "21m",
-                    "episodeCode": "S1-E335",
-                    "episodeName": "Mannat Learns Arzoo's Truth",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4457/1770436474457-h",
-                    "updateDate": "07-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "334",
-                    "duration": "21m",
-                    "episodeCode": "S1-E334",
-                    "episodeName": "The Past Overwhelms Mannat",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6945/1770350566945-h",
-                    "updateDate": "06-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "333",
-                    "duration": "21m",
-                    "episodeCode": "S1-E333",
-                    "episodeName": "Yuvi's Desperate Move",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6580/1770287446580-h",
-                    "updateDate": "05-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "332",
-                    "duration": "21m",
-                    "episodeCode": "S1-E332",
-                    "episodeName": "Dhairya's Concern for Neetu",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7297/1770212507297-h",
-                    "updateDate": "04-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "331",
-                    "duration": "21m",
-                    "episodeCode": "S1-E331",
-                    "episodeName": "Mannat, Vikrant's Clash",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3892/1770128853892-h",
-                    "updateDate": "03-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "330",
-                    "duration": "21m",
-                    "episodeCode": "S1-E330",
-                    "episodeName": "Vikrant Faces His Fallout",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2071/1770039462071-h",
-                    "updateDate": "02-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "329",
-                    "duration": "21m",
-                    "episodeCode": "S1-E329",
-                    "episodeName": "Mannat Challenges Yashika",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3989/1769956843989-h",
-                    "updateDate": "01-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "328",
-                    "duration": "21m",
-                    "episodeCode": "S1-E328",
-                    "episodeName": "Ronny Acknowledges Dhairya",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2232/1769870552232-h",
-                    "updateDate": "31-01-2026",
                     "episodeUrl": ""
                 }
             ]
