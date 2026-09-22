@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Tuu Juliet Jatt Di",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1843/1781210031843-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1296/1787618721296-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,9 +10,549 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "30-07-2026",
-            "description": "The star of the story—Heer—is an ambitious Kudi! Poles apart, Nawab is a rich, spoiled Munda. Destiny brings them together in a love saga inked by betrayals. Watch Tuu Juliet Jatt Di - Hindi Romance Drama serial on JioHotstar now.",
+            "ottReleaseDate": "September 22, 2026",
+            "description": "Heer and Nawab's bitter past resurfaces when three juniors face a complicated romance, making them question if their love deserves another chance. Watch Tuu Juliet Jatt Di - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "310",
+                    "duration": "25m",
+                    "episodeCode": "S1-E310",
+                    "episodeName": "Heer's Search for Nawab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9873/1790052459873-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "309",
+                    "duration": "25m",
+                    "episodeCode": "S1-E309",
+                    "episodeName": "Nawab Probes Chauhan's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5210/1789961185210-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "308",
+                    "duration": "25m",
+                    "episodeCode": "S1-E308",
+                    "episodeName": "Heer's Panic Leaves Nawab Suspicious",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4008/1789865914008-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "307",
+                    "duration": "25m",
+                    "episodeCode": "S1-E307",
+                    "episodeName": "Ajit Creates Trouble for Heer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6590/1789789386590-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "306",
+                    "duration": "24m",
+                    "episodeCode": "S1-E306",
+                    "episodeName": "Vaaris' Sacrifice for Jerry",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8937/1789692868937-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "305",
+                    "duration": "24m",
+                    "episodeCode": "S1-E305",
+                    "episodeName": "Nawab Struggles to Save Heer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2968/1789606792968-h",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "304",
+                    "duration": "24m",
+                    "episodeCode": "S1-E304",
+                    "episodeName": "Nawab Sponsors Fateh's Concert",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4656/1789520614656-h",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "303",
+                    "duration": "24m",
+                    "episodeCode": "S1-E303",
+                    "episodeName": "Nawab Grows Jealous of Fateh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4627/1789440774627-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "302",
+                    "duration": "24m",
+                    "episodeCode": "S1-E302",
+                    "episodeName": "Heer's Promise to Fateh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/41/1789350410041-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "301",
+                    "duration": "24m",
+                    "episodeCode": "S1-E301",
+                    "episodeName": "A Shocker for Nawab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9731/1789264439731-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "300",
+                    "duration": "24m",
+                    "episodeCode": "S1-E300",
+                    "episodeName": "Cherry Reveals the Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/108/1789180090108-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "299",
+                    "duration": "25m",
+                    "episodeCode": "S1-E299",
+                    "episodeName": "Nawab Stays by Heer's Side",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/113/1789095390113-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "298",
+                    "duration": "25m",
+                    "episodeCode": "S1-E298",
+                    "episodeName": "Nawab and Heer Dance Together",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6445/1788985106445-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "297",
+                    "duration": "25m",
+                    "episodeCode": "S1-E297",
+                    "episodeName": "Nawab's Shocking Claim",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1254/1788938141254-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "296",
+                    "duration": "25m",
+                    "episodeCode": "S1-E296",
+                    "episodeName": "Neelu's Plea to Nawab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9122/1788832129122-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "295",
+                    "duration": "25m",
+                    "episodeCode": "S1-E295",
+                    "episodeName": "Nawab Comes to Heer's Rescue",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5269/1788750905269-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "294",
+                    "duration": "21m",
+                    "episodeCode": "S1-E294",
+                    "episodeName": "Nawab Uncovers Heer's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9131/1788657269131-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "293",
+                    "duration": "22m",
+                    "episodeCode": "S1-E293",
+                    "episodeName": "Cherry's Bold move",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9320/1788566809320-h",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "292",
+                    "duration": "23m",
+                    "episodeCode": "S1-E292",
+                    "episodeName": "Cherry Confronts Nawab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1967/1788468341967-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "291",
+                    "duration": "22m",
+                    "episodeCode": "S1-E291",
+                    "episodeName": "Cherry Saves Heer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4158/1788383234158-h",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "290",
+                    "duration": "23m",
+                    "episodeCode": "S1-E290",
+                    "episodeName": "Heer's Gratitude to Fateh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9139/1788308339139-h",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "289",
+                    "duration": "21m",
+                    "episodeCode": "S1-E289",
+                    "episodeName": "Heer's Efforts in Vain",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6374/1788205196374-h",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "288",
+                    "duration": "21m",
+                    "episodeCode": "S1-E288",
+                    "episodeName": "Cherry Recalls Brars' Betrayal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6244/1788146446244-h",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "287",
+                    "duration": "21m",
+                    "episodeCode": "S1-E287",
+                    "episodeName": "Heer's Success Enrages Nawab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4252/1788080304252-h",
+                    "updateDate": "30-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "286",
+                    "duration": "21m",
+                    "episodeCode": "S1-E286",
+                    "episodeName": "Heer Tackles Nawab's Trick",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/116/1787955270116-h",
+                    "updateDate": "29-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "285",
+                    "duration": "21m",
+                    "episodeCode": "S1-E285",
+                    "episodeName": "Nawab's Scheme with Vaaris",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2877/1787904042877-h",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "284",
+                    "duration": "21m",
+                    "episodeCode": "S1-E284",
+                    "episodeName": "Nawab's Warning to Vaaris and Fateh",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3839/1787843193839-h",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "283",
+                    "duration": "21m",
+                    "episodeCode": "S1-E283",
+                    "episodeName": "Nawab Stands Up for Arjun",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8301/1787709318301-h",
+                    "updateDate": "26-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "282",
+                    "duration": "21m",
+                    "episodeCode": "S1-E282",
+                    "episodeName": "Heer Saves Cherry from Dangerous Fall",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8307/1787626898307-h",
+                    "updateDate": "25-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "281",
+                    "duration": "25m",
+                    "episodeCode": "S1-E281",
+                    "episodeName": "Dilip Supports Nawab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6141/1787536936141-h",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "280",
+                    "duration": "21m",
+                    "episodeCode": "S1-E280",
+                    "episodeName": "Gulaab's Shocking Move",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3913/1787482403913-h",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "279",
+                    "duration": "20m",
+                    "episodeCode": "S1-E279",
+                    "episodeName": "Heer Escapes a Deadly Trap",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7029/1787393977029-h",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "278",
+                    "duration": "21m",
+                    "episodeCode": "S1-E278",
+                    "episodeName": "Gulaab Wins the Family's Trust",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8000/1787271678000-h",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "277",
+                    "duration": "21m",
+                    "episodeCode": "S1-E277",
+                    "episodeName": "Gulaab Plots Against Heer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2979/1787197502979-h",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "276",
+                    "duration": "21m",
+                    "episodeCode": "S1-E276",
+                    "episodeName": "Heer, Nawab Share a Tender Moment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9344/1787102959344-h",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "275",
+                    "duration": "21m",
+                    "episodeCode": "S1-E275",
+                    "episodeName": "Gulaab Prepares to Welcome Heer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2383/1787019572383-h",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "274",
+                    "duration": "21m",
+                    "episodeCode": "S1-E274",
+                    "episodeName": "The Brar Family Stands by Heer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6583/1786914886583-h",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "273",
+                    "duration": "21m",
+                    "episodeCode": "S1-E273",
+                    "episodeName": "Heer, Nawab Expose Daler",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1838/1786817981838-h",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "272",
+                    "duration": "24m",
+                    "episodeCode": "S1-E272",
+                    "episodeName": "Heer Tests Nawab's Love",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5261/1786740355261-h",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "271",
+                    "duration": "23m",
+                    "episodeCode": "S1-E271",
+                    "episodeName": "Nimrat's Wedding Post Sparks Chaos",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1364/1786642501364-h",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "270",
+                    "duration": "23m",
+                    "episodeCode": "S1-E270",
+                    "episodeName": "Heer, Nawab's Shocking Discovery",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5039/1786576325039-h",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "269",
+                    "duration": "21m",
+                    "episodeCode": "S1-E269",
+                    "episodeName": "Heer Hunts for Nimrat's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4212/1786513374212-h",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "268",
+                    "duration": "21m",
+                    "episodeCode": "S1-E268",
+                    "episodeName": "Heer Rushes to Save Nawab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3386/1786416353386-h",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "267",
+                    "duration": "21m",
+                    "episodeCode": "S1-E267",
+                    "episodeName": "Heer Demands Daler's Resignation",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3612/1786306843612-h",
+                    "updateDate": "10-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "266",
+                    "duration": "21m",
+                    "episodeCode": "S1-E266",
+                    "episodeName": "Heer Gets Suspended",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3058/1786218473058-h",
+                    "updateDate": "09-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "265",
+                    "duration": "21m",
+                    "episodeCode": "S1-E265",
+                    "episodeName": "Heer Blocks Nawab's Race",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/254/1786144750254-h",
+                    "updateDate": "08-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "264",
+                    "duration": "21m",
+                    "episodeCode": "S1-E264",
+                    "episodeName": "Arjun Challenges Nawab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6058/1786029356058-h",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "263",
+                    "duration": "21m",
+                    "episodeCode": "S1-E263",
+                    "episodeName": "Heer Pushes Nawab Away",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1739/1785981661739-h",
+                    "updateDate": "06-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "262",
+                    "duration": "21m",
+                    "episodeCode": "S1-E262",
+                    "episodeName": "Nawab Gets Engaged to Nimrat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/916/1785896050916-h",
+                    "updateDate": "05-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "261",
+                    "duration": "21m",
+                    "episodeCode": "S1-E261",
+                    "episodeName": "Gulaab Stands Up to Daler",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9758/1785819069758-h",
+                    "updateDate": "04-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "260",
+                    "duration": "21m",
+                    "episodeCode": "S1-E260",
+                    "episodeName": "Will Nawab, Heer Win Best Jodi Award?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4567/1785723624567-h",
+                    "updateDate": "03-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "259",
+                    "duration": "21m",
+                    "episodeCode": "S1-E259",
+                    "episodeName": "Nawab to Announce Heer's Truth!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1622/1785637841622-h",
+                    "updateDate": "02-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "258",
+                    "duration": "21m",
+                    "episodeCode": "S1-E258",
+                    "episodeName": "Daler Outwits Heer's Claims",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4471/1785545934471-h",
+                    "updateDate": "01-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "257",
+                    "duration": "21m",
+                    "episodeCode": "S1-E257",
+                    "episodeName": "Nawab Rescues Heer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3992/1785436213992-h",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "256",
@@ -1671,346 +2211,6 @@
                     "episodeName": "Heer Masks Her Heartbreak",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7022/1770519117022-h",
                     "updateDate": "08-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "83",
-                    "duration": "21m",
-                    "episodeCode": "S1-E83",
-                    "episodeName": "Nawab Faces the Ultimate Threat",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7465/1770436647465-h",
-                    "updateDate": "07-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "82",
-                    "duration": "21m",
-                    "episodeCode": "S1-E82",
-                    "episodeName": "Heer Faces Nawab's Rejection",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7552/1774177557552-h",
-                    "updateDate": "06-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "81",
-                    "duration": "21m",
-                    "episodeCode": "S1-E81",
-                    "episodeName": "Nawab Pushes Heer Away",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8281/1770287408281-h",
-                    "updateDate": "05-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "80",
-                    "duration": "21m",
-                    "episodeCode": "S1-E80",
-                    "episodeName": "Neelu's Advice to Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1500/1770192891500-h",
-                    "updateDate": "04-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "79",
-                    "duration": "21m",
-                    "episodeCode": "S1-E79",
-                    "episodeName": "Heer Proves Her Innocence",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1964/1770113711964-h",
-                    "updateDate": "03-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "78",
-                    "duration": "21m",
-                    "episodeCode": "S1-E78",
-                    "episodeName": "Nawab's Quest to Save Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1672/1770007441672-h",
-                    "updateDate": "02-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "77",
-                    "duration": "21m",
-                    "episodeCode": "S1-E77",
-                    "episodeName": "Dilip Trusts Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3343/1769934783343-h",
-                    "updateDate": "01-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "76",
-                    "duration": "21m",
-                    "episodeCode": "S1-E76",
-                    "episodeName": "Heer Confronts Nawab",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8309/1769853678309-h",
-                    "updateDate": "31-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "75",
-                    "duration": "21m",
-                    "episodeCode": "S1-E75",
-                    "episodeName": "Heer Blames Herself for the Rift",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/170/1769776420170-h",
-                    "updateDate": "30-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "74",
-                    "duration": "21m",
-                    "episodeCode": "S1-E74",
-                    "episodeName": "Gulaab Faces Dilip's Wrath",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1407/1769682871407-h",
-                    "updateDate": "29-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "73",
-                    "duration": "21m",
-                    "episodeCode": "S1-E73",
-                    "episodeName": "Heer Gathers Evidence",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2866/1769600232866-h",
-                    "updateDate": "28-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "71",
-                    "duration": "21m",
-                    "episodeCode": "S1-E71",
-                    "episodeName": "Nawab's Deceptive Trap for Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/390/1769404650390-h",
-                    "updateDate": "26-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "70",
-                    "duration": "21m",
-                    "episodeCode": "S1-E70",
-                    "episodeName": "Heer's Strategic Scheme",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4774/1769322574774-h",
-                    "updateDate": "25-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "69",
-                    "duration": "21m",
-                    "episodeCode": "S1-E69",
-                    "episodeName": "Nawab Confronts Tina's Obsession",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9713/1769217499713-h",
-                    "updateDate": "24-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "68",
-                    "duration": "21m",
-                    "episodeCode": "S1-E68",
-                    "episodeName": "Nawab Protects Heer's Secret",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/860/1769169070860-h",
-                    "updateDate": "23-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "67",
-                    "duration": "21m",
-                    "episodeCode": "S1-E67",
-                    "episodeName": "Heer Faces Nawab's Wrath",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8979/1769079478979-h",
-                    "updateDate": "22-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "66",
-                    "duration": "21m",
-                    "episodeCode": "S1-E66",
-                    "episodeName": "Gulaab's Shocking Blackmail",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/832/1768992240832-h",
-                    "updateDate": "21-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "65",
-                    "duration": "21m",
-                    "episodeCode": "S1-E65",
-                    "episodeName": "Heer's Truth Stuns Nawab",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5816/1768934065816-h",
-                    "updateDate": "20-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "64",
-                    "duration": "38m",
-                    "episodeCode": "S1-E64",
-                    "episodeName": "Heer Thanks Nawab",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5945/1768832475945-h",
-                    "updateDate": "19-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "63",
-                    "duration": "27m",
-                    "episodeCode": "S1-E63",
-                    "episodeName": "Nawab Fights for Heer's Freedom",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/391/1768694770391-h",
-                    "updateDate": "18-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "62",
-                    "duration": "27m",
-                    "episodeCode": "S1-E62",
-                    "episodeName": "Arjun Confesses to Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8934/1768642888934-h",
-                    "updateDate": "17-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "61",
-                    "duration": "32m",
-                    "episodeCode": "S1-E61",
-                    "episodeName": "Nawab Holds Heer Close",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7987/1768535397987-h",
-                    "updateDate": "16-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "60",
-                    "duration": "32m",
-                    "episodeCode": "S1-E60",
-                    "episodeName": "Heer Protects Gurleen from Danger",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7797/1768435107797-h",
-                    "updateDate": "15-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "59",
-                    "duration": "31m",
-                    "episodeCode": "S1-E59",
-                    "episodeName": "Gulaab Sabotages Pammi's Match",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4145/1768351824145-h",
-                    "updateDate": "14-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "58",
-                    "duration": "32m",
-                    "episodeCode": "S1-E58",
-                    "episodeName": "Heer Outsmarts Gulaab",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6338/1768281496338-h",
-                    "updateDate": "13-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "57",
-                    "duration": "33m",
-                    "episodeCode": "S1-E57",
-                    "episodeName": "Heer's Office Role Sparks Tension",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2953/1768242782953-h",
-                    "updateDate": "12-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "56",
-                    "duration": "21m",
-                    "episodeCode": "S1-E56",
-                    "episodeName": "Dilip Supports Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1124/1768100221124-h",
-                    "updateDate": "11-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "55",
-                    "duration": "21m",
-                    "episodeCode": "S1-E55",
-                    "episodeName": "Nawab's Breathless Ordeal",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8013/1779261218013-h",
-                    "updateDate": "10-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "54",
-                    "duration": "32m",
-                    "episodeCode": "S1-E54",
-                    "episodeName": "Sunny's Affair Exposed",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4839/1767960314839-h",
-                    "updateDate": "09-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "52",
-                    "duration": "32m",
-                    "episodeCode": "S1-E52",
-                    "episodeName": "Nawab's Silent Care for Heer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9681/1767754209681-h",
-                    "updateDate": "07-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "51",
-                    "duration": "31m",
-                    "episodeCode": "S1-E51",
-                    "episodeName": "Arjun, Nawab's Fierce Clash",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2452/1767667372452-h",
-                    "updateDate": "06-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "50",
-                    "duration": "32m",
-                    "episodeCode": "S1-E50",
-                    "episodeName": "Nawab Discovers Tina's Deceit",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4451/1767605994451-h",
-                    "updateDate": "05-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "49",
-                    "duration": "21m",
-                    "episodeCode": "S1-E49",
-                    "episodeName": "Is Nawab Falling for Heer?",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5869/1767464315869-h",
-                    "updateDate": "04-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "48",
-                    "duration": "21m",
-                    "episodeCode": "S1-E48",
-                    "episodeName": "Heer's Brave Choice",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9193/1767382919193-h",
-                    "updateDate": "03-01-2026",
                     "episodeUrl": ""
                 }
             ]
