@@ -10,9 +10,489 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "30-07-2026",
+            "ottReleaseDate": "September 22, 2026",
             "description": "Once an AIPMT topper, Aarambhi’s life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance? Watch Dr. Aarambhi - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "193",
+                    "duration": "25m",
+                    "episodeCode": "S1-E193",
+                    "episodeName": "Avantika Sets Out to Expose Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2630/1790052412630-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "192",
+                    "duration": "25m",
+                    "episodeCode": "S1-E192",
+                    "episodeName": "Aarambhi Gets Distracted by Dhruv",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1988/1789961221988-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "191",
+                    "duration": "27m",
+                    "episodeCode": "S1-E191",
+                    "episodeName": "Aarambhi Stands by Vihaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6014/1789793636014-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "190",
+                    "duration": "24m",
+                    "episodeCode": "S1-E190",
+                    "episodeName": "Avantika Takes a Stand",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7764/1789693737764-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "189",
+                    "duration": "24m",
+                    "episodeCode": "S1-E189",
+                    "episodeName": "Dhruv's Stern Warning to Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5052/1789608395052-h",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "188",
+                    "duration": "24m",
+                    "episodeCode": "S1-E188",
+                    "episodeName": "Aarambhi Reassures Raj",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8205/1789522678205-h",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "187",
+                    "duration": "24m",
+                    "episodeCode": "S1-E187",
+                    "episodeName": "Dimple's Plea to Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9569/1789440749569-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "186",
+                    "duration": "25m",
+                    "episodeCode": "S1-E186",
+                    "episodeName": "Sunil Stands Up for Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4646/1789398054646-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "185",
+                    "duration": "24m",
+                    "episodeCode": "S1-E185",
+                    "episodeName": "Vishwas Hits Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4254/1789180194254-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "184",
+                    "duration": "25m",
+                    "episodeCode": "S1-E184",
+                    "episodeName": "Raj's Scheme to Expose Sunny",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6806/1789095546806-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "183",
+                    "duration": "25m",
+                    "episodeCode": "S1-E183",
+                    "episodeName": "Aarambhi Stands Her Ground",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/515/1788972690515-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "182",
+                    "duration": "25m",
+                    "episodeCode": "S1-E182",
+                    "episodeName": "Dimple Confronts Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3215/1788938183215-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "181",
+                    "duration": "25m",
+                    "episodeCode": "S1-E181",
+                    "episodeName": "Avantika Faces Sunil's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3387/1788832153387-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "180",
+                    "duration": "23m",
+                    "episodeCode": "S1-E180",
+                    "episodeName": "Raj Finds Manmeet in Trouble",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7939/1788750927939-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "179",
+                    "duration": "28m",
+                    "episodeCode": "S1-E179",
+                    "episodeName": "Sunil's Gratitude to Dhruv",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9337/1788577219337-h",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "178",
+                    "duration": "21m",
+                    "episodeCode": "S1-E178",
+                    "episodeName": "Dhruv Frames Mona",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6155/1788453936155-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "177",
+                    "duration": "22m",
+                    "episodeCode": "S1-E177",
+                    "episodeName": "Can Aarambhi Prove Her Innocence?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3936/1788387003936-h",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "176",
+                    "duration": "21m",
+                    "episodeCode": "S1-E176",
+                    "episodeName": "Dhruv Faces Kunika's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7238/1788368007238-h",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "175",
+                    "duration": "22m",
+                    "episodeCode": "S1-E175",
+                    "episodeName": "Dhruv Saves Vihaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2995/1788192302995-h",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "174",
+                    "duration": "21m",
+                    "episodeCode": "S1-E174",
+                    "episodeName": "Aarambhi Supports Trapped Vihaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7160/1788146457160-h",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "173",
+                    "duration": "28m",
+                    "episodeCode": "S1-E173",
+                    "episodeName": "Aarambhi's Fatal Misunderstanding",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9527/1787966149527-h",
+                    "updateDate": "29-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "172",
+                    "duration": "21m",
+                    "episodeCode": "S1-E172",
+                    "episodeName": "Raj Confronts Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9191/1787903949191-h",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "171",
+                    "duration": "22m",
+                    "episodeCode": "S1-E171",
+                    "episodeName": "Aarambhi and Dhruv Search for Vihaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6153/1787843226153-h",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "170",
+                    "duration": "21m",
+                    "episodeCode": "S1-E170",
+                    "episodeName": "Dhruv Sets Out to Find Vihaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2341/1787709222341-h",
+                    "updateDate": "26-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "169",
+                    "duration": "21m",
+                    "episodeCode": "S1-E169",
+                    "episodeName": "Aarambhi Fears for Vihaan's Safety",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4300/1787626944300-h",
+                    "updateDate": "25-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "168",
+                    "duration": "21m",
+                    "episodeCode": "S1-E168",
+                    "episodeName": "Dimple's Stern Warning to Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1303/1787537001303-h",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "167",
+                    "duration": "24m",
+                    "episodeCode": "S1-E167",
+                    "episodeName": "Aarambhi Hunts for the Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8460/1787363368460-h",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "166",
+                    "duration": "22m",
+                    "episodeCode": "S1-E166",
+                    "episodeName": "Avantika Complains to Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5672/1787271805672-h",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "165",
+                    "duration": "21m",
+                    "episodeCode": "S1-E165",
+                    "episodeName": "Aarambhi Uncovers a Clue",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8233/1787197378233-h",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "164",
+                    "duration": "22m",
+                    "episodeCode": "S1-E164",
+                    "episodeName": "Avantika's Plan Goes Awry",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/484/1787102970484-h",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "163",
+                    "duration": "21m",
+                    "episodeCode": "S1-E163",
+                    "episodeName": "Aarambhi Finds a Lead",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/729/1787019680729-h",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "162",
+                    "duration": "21m",
+                    "episodeCode": "S1-E162",
+                    "episodeName": "Aarambhi Turns to Naira for Help",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5875/1786913975875-h",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "161",
+                    "duration": "27m",
+                    "episodeCode": "S1-E161",
+                    "episodeName": "The Tandons' Legal Battle Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3874/1786747993874-h",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "160",
+                    "duration": "24m",
+                    "episodeCode": "S1-E160",
+                    "episodeName": "Aarambhi Refuses to Give Up",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7438/1786643547438-h",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "159",
+                    "duration": "24m",
+                    "episodeCode": "S1-E159",
+                    "episodeName": "Dhruv's Promise to Vihaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1082/1786577911082-h",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "158",
+                    "duration": "22m",
+                    "episodeCode": "S1-E158",
+                    "episodeName": "Dimple's Stern Warning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7676/1786500627676-h",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "157",
+                    "duration": "22m",
+                    "episodeCode": "S1-E157",
+                    "episodeName": "Sunil Stands Against Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3212/1786416423212-h",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "156",
+                    "duration": "21m",
+                    "episodeCode": "S1-E156",
+                    "episodeName": "Vishwas Divorces Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5347/1786298455347-h",
+                    "updateDate": "10-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "155",
+                    "duration": "22m",
+                    "episodeCode": "S1-E155",
+                    "episodeName": "Avantika's Wicked Scheme",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6982/1786220136982-h",
+                    "updateDate": "09-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "154",
+                    "duration": "21m",
+                    "episodeCode": "S1-E154",
+                    "episodeName": "Vishwas Decides to Divorce Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7377/1786127687377-h",
+                    "updateDate": "08-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "153",
+                    "duration": "21m",
+                    "episodeCode": "S1-E153",
+                    "episodeName": "Sunil Persuades Dhruv",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9636/1786029229636-h",
+                    "updateDate": "07-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "152",
+                    "duration": "21m",
+                    "episodeCode": "S1-E152",
+                    "episodeName": "Aarambhi Doubts Dhruv",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4881/1785953804881-h",
+                    "updateDate": "06-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "151",
+                    "duration": "21m",
+                    "episodeCode": "S1-E151",
+                    "episodeName": "The Tandons Expel Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2443/1785895982443-h",
+                    "updateDate": "05-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "150",
+                    "duration": "21m",
+                    "episodeCode": "S1-E150",
+                    "episodeName": "Dhruv's Silent Guilt for Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6814/1785818986814-h",
+                    "updateDate": "04-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "149",
+                    "duration": "21m",
+                    "episodeCode": "S1-E149",
+                    "episodeName": "Raj Defends Aarambhi's Innocence",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6829/1785723516829-h",
+                    "updateDate": "03-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "148",
+                    "duration": "22m",
+                    "episodeCode": "S1-E148",
+                    "episodeName": "Avantika Frames Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2439/1785637732439-h",
+                    "updateDate": "02-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "147",
+                    "duration": "21m",
+                    "episodeCode": "S1-E147",
+                    "episodeName": "Dimple, Vishwas Blame Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1997/1785546001997-h",
+                    "updateDate": "01-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "146",
+                    "duration": "21m",
+                    "episodeCode": "S1-E146",
+                    "episodeName": "Dhruv Confronts Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6934/1785449216934-h",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "145",
