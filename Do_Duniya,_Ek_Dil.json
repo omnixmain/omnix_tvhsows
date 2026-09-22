@@ -10,9 +10,29 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "30-07-2026",
+            "ottReleaseDate": "September 22, 2026",
             "description": "Honest tech visionary Shivaay grows averse to technology after a scam. When he falls for digital influencer Aadhya, two worlds clash, albeit with love! Watch Do Duniya, Ek Dil - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Watch First Episode",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6547/1773669686547-i",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "105",
+                    "duration": "37m",
+                    "episodeCode": "S1-E105",
+                    "episodeName": "Baldev Confesses His Crimes",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2137/1785430452137-h",
+                    "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "104",
@@ -1041,16 +1061,6 @@
                     "episodeName": "Shivaay's Plea to Baldev",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9635/1773118989635-h",
                     "updateDate": "10-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "27m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Shivaay's New Beginnings",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7296/1773061067296-h",
-                    "updateDate": "09-03-2026",
                     "episodeUrl": ""
                 }
             ]
