@@ -692,6 +692,16 @@
                     "episodeBanner": "https://sund-images.sunnxt.com/276578/1920x1080_ThodiSiUmeedThodaSaAasmanSep212026_276578_39974c08-d8fc-4af3-b327-c2d5eeddd4d1.jpg",
                     "updateDate": "21-09-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "68",
+                    "duration": "22m",
+                    "episodeCode": "S1-E68",
+                    "episodeName": "E68 - Sep 22, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/276580/1920x1080_ThodiSiUmeedThodaSaAasmanSep222026_276580_f1b43cfb-4a53-4ebc-88f7-4a7d428806fd.jpg",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
