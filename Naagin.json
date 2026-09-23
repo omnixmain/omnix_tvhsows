@@ -25,6 +25,46 @@
                 },
                 {
                     "seasonNumber": "7",
+                    "episodeNumber": "50",
+                    "duration": "44m",
+                    "episodeCode": "S7-E50",
+                    "episodeName": "The Rise of Naagrani Ahana",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1527/1781464311527-h",
+                    "updateDate": "14-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "49",
+                    "duration": "47m",
+                    "episodeCode": "S7-E49",
+                    "episodeName": "The Naagvansh in Danger",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1589/1781451511589-h",
+                    "updateDate": "13-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "48",
+                    "duration": "43m",
+                    "episodeCode": "S7-E48",
+                    "episodeName": "The Battle for Naagmani",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1910/1780865621910-h",
+                    "updateDate": "07-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "47",
+                    "duration": "41m",
+                    "episodeCode": "S7-E47",
+                    "episodeName": "Naagin's Quest for Revenge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1507/1780815401507-h",
+                    "updateDate": "06-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
                     "episodeNumber": "46",
                     "duration": "41m",
                     "episodeCode": "S7-E46",
