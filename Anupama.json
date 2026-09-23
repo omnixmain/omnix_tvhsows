@@ -15,9 +15,19 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "31",
+                    "episodeNumber": "2150",
+                    "duration": "28m",
+                    "episodeCode": "S1-E2150",
+                    "episodeName": "Vasundhara Gives Anil a Chance",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8229/1790082688229-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
                     "duration": "21m",
-                    "episodeCode": "S1-E31",
+                    "episodeCode": "S1-E21",
                     "episodeName": "Anupama, Anuj Shake a Leg",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
                     "updateDate": "23-09-2026",
@@ -25,9 +35,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "32",
+                    "episodeNumber": "22",
                     "duration": "20m",
-                    "episodeCode": "S1-E32",
+                    "episodeCode": "S1-E22",
                     "episodeName": "Anuj Longs for Anupama",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
                     "updateDate": "23-09-2026",
@@ -35,9 +45,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "33",
+                    "episodeNumber": "23",
                     "duration": "20m",
-                    "episodeCode": "S1-E33",
+                    "episodeCode": "S1-E23",
                     "episodeName": "Kavya Is Thrilled",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
                     "updateDate": "23-09-2026",
@@ -45,9 +55,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "34",
+                    "episodeNumber": "24",
                     "duration": "20m",
-                    "episodeCode": "S1-E34",
+                    "episodeCode": "S1-E24",
                     "episodeName": "Samar's Life in Peril",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
                     "updateDate": "23-09-2026",
@@ -55,9 +65,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "35",
+                    "episodeNumber": "25",
                     "duration": "20m",
-                    "episodeCode": "S1-E35",
+                    "episodeCode": "S1-E25",
                     "episodeName": "The Shahs Meet Anuj",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
                     "updateDate": "23-09-2026",
@@ -65,9 +75,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "36",
+                    "episodeNumber": "26",
                     "duration": "20m",
-                    "episodeCode": "S1-E36",
+                    "episodeCode": "S1-E26",
                     "episodeName": "Anupama Attends the Meeting",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
                     "updateDate": "23-09-2026",
@@ -75,9 +85,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "37",
+                    "episodeNumber": "27",
                     "duration": "20m",
-                    "episodeCode": "S1-E37",
+                    "episodeCode": "S1-E27",
                     "episodeName": "Samar, Nandini Get Romantic",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
                     "updateDate": "23-09-2026",
@@ -271,116 +281,6 @@
                     "episodeName": "Anupama Faces a Loan Hurdle",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9469/1788520179469-h",
                     "updateDate": "04-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2130",
-                    "duration": "32m",
-                    "episodeCode": "S1-E2130",
-                    "episodeName": "Prem Seeks Anupama's Forgiveness",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4348/1788347034348-h",
-                    "updateDate": "03-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2129",
-                    "duration": "32m",
-                    "episodeCode": "S1-E2129",
-                    "episodeName": "Bhavesh Makes Anupama Emotional",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4409/1788310234409-h",
-                    "updateDate": "02-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2128",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2128",
-                    "episodeName": "Shruti's Heartfelt Confession",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9118/1788221659118-h",
-                    "updateDate": "01-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2127",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2127",
-                    "episodeName": "Prem Accepts Anupama's Victory",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1470/1788141181470-h",
-                    "updateDate": "31-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2126",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2126",
-                    "episodeName": "Anupama Celebrates Her Victory",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3339/1788050253339-h",
-                    "updateDate": "30-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2125",
-                    "duration": "29m",
-                    "episodeCode": "S1-E2125",
-                    "episodeName": "Anupama Emerges Victorious",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1594/1787964171594-h",
-                    "updateDate": "29-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2124",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2124",
-                    "episodeName": "Anupama Is Accused of Cheating",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8653/1787813848653-h",
-                    "updateDate": "28-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2123",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2123",
-                    "episodeName": "Anupama Shines While Prem Struggles",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9358/1787799919358-h",
-                    "updateDate": "27-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2122",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2122",
-                    "episodeName": "The Bahubali Thaali Challenge",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7039/1787707867039-h",
-                    "updateDate": "26-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2121",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2121",
-                    "episodeName": "Pakhi Learns of Gautam's Scheme",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2231/1787619922231-h",
-                    "updateDate": "25-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2120",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2120",
-                    "episodeName": "Anupama Faces Taste Trouble",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6571/1787533826571-h",
-                    "updateDate": "24-08-2026",
                     "episodeUrl": ""
                 }
             ]
