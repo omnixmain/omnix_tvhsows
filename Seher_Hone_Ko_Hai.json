@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "226",
+                    "duration": "25m",
+                    "episodeCode": "S2-E226",
+                    "episodeName": "Mahid Stands Up for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8368/1790128538368-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "225",
                     "duration": "25m",
                     "episodeCode": "S2-E225",
