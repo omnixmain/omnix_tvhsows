@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "71",
+                    "duration": "26m",
+                    "episodeCode": "S1-E71",
+                    "episodeName": "Juhi's Search for the File",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7745/1790128617745-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "70",
                     "duration": "24m",
                     "episodeCode": "S1-E70",
