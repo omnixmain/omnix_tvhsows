@@ -15,16 +15,6 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "35",
-                    "duration": "55m",
-                    "episodeCode": "S1-E35",
-                    "episodeName": "The Grand Finale",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1414/1784538771414-h",
-                    "updateDate": "15-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "29",
                     "duration": "40m",
                     "episodeCode": "S1-E29",
@@ -40,46 +30,6 @@
                     "episodeCode": "S1-E30",
                     "episodeName": "Shopping, Cooking, Chemistry",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2149/1784538742149-h",
-                    "updateDate": "10-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "31",
-                    "duration": "46m",
-                    "episodeCode": "S1-E31",
-                    "episodeName": "Roots and Relationships",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2360/1786338792360-h",
-                    "updateDate": "10-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "32",
-                    "duration": "48m",
-                    "episodeCode": "S1-E32",
-                    "episodeName": "Homecoming and Happy Moments",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5190/1785488025190-h",
-                    "updateDate": "10-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "33",
-                    "duration": "45m",
-                    "episodeCode": "S1-E33",
-                    "episodeName": "Truths, Tapes and Tough Questions",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9633/1784538759633-h",
-                    "updateDate": "10-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "34",
-                    "duration": "41m",
-                    "episodeCode": "S1-E34",
-                    "episodeName": "Love Finds its Rhythm",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6423/1785488036423-h",
                     "updateDate": "10-08-2026",
                     "episodeUrl": ""
                 },
