@@ -25,6 +25,516 @@
                 },
                 {
                     "seasonNumber": "3",
+                    "episodeNumber": "72",
+                    "duration": "1h 44m",
+                    "episodeCode": "S3-E72",
+                    "episodeName": "The Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2614/1785067432614-h",
+                    "updateDate": "26-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "71",
+                    "duration": "1h 36m",
+                    "episodeCode": "S3-E71",
+                    "episodeName": "The Quest for the Trophy Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8385/1784981868385-h",
+                    "updateDate": "25-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "70",
+                    "duration": "1h 32m",
+                    "episodeCode": "S3-E70",
+                    "episodeName": "The Trophy Is Here",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8806/1784369228806-h",
+                    "updateDate": "19-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "69",
+                    "duration": "1h 40m",
+                    "episodeCode": "S3-E69",
+                    "episodeName": "Khatron Ke Khiladi in the Kitchen!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7403/1784367107403-h",
+                    "updateDate": "18-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "68",
+                    "duration": "1h 22m",
+                    "episodeCode": "S3-E68",
+                    "episodeName": "Future with Cookie Baba",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7538/1783783577538-h",
+                    "updateDate": "12-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "67",
+                    "duration": "1h 36m",
+                    "episodeCode": "S3-E67",
+                    "episodeName": "Do Star Ya No Star",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/652/1783763620652-h",
+                    "updateDate": "11-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "66",
+                    "duration": "1h 29m",
+                    "episodeCode": "S3-E66",
+                    "episodeName": "Happy Birthday Laughter Queen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4244/1783256644244-h",
+                    "updateDate": "05-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "65",
+                    "duration": "1h 40m",
+                    "episodeCode": "S3-E65",
+                    "episodeName": "Mini Chefs in the Kitchen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3576/1783163843576-h",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "64",
+                    "duration": "1h 26m",
+                    "episodeCode": "S3-E64",
+                    "episodeName": "Fans in the Kitchen!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9415/1782561019415-h",
+                    "updateDate": "28-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "63",
+                    "duration": "1h 26m",
+                    "episodeCode": "S3-E63",
+                    "episodeName": "The Ex-Khatra Panel",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7558/1782559427558-h",
+                    "updateDate": "27-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "62",
+                    "duration": "1h 23m",
+                    "episodeCode": "S3-E62",
+                    "episodeName": "Station Ka Khatra!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6437/1781957126437-h",
+                    "updateDate": "21-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "61",
+                    "duration": "1h 22m",
+                    "episodeCode": "S3-E61",
+                    "episodeName": "Dhamaal 4 Stars in Laughter Chefs!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2226/1781956172226-h",
+                    "updateDate": "20-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "60",
+                    "duration": "1h 27m",
+                    "episodeCode": "S3-E60",
+                    "episodeName": "Khatra Begins!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7566/1781432177566-h",
+                    "updateDate": "14-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "59",
+                    "duration": "1h 27m",
+                    "episodeCode": "S3-E59",
+                    "episodeName": "Colors ki Family",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3703/1781348313703-h",
+                    "updateDate": "13-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "58",
+                    "duration": "1h 22m",
+                    "episodeCode": "S3-E58",
+                    "episodeName": "Happy Birthday Tejasswi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2714/1780757202714-h",
+                    "updateDate": "07-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "57",
+                    "duration": "1h 28m",
+                    "episodeCode": "S3-E57",
+                    "episodeName": "A 90’s Nostalgia Special",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5143/1780738995143-h",
+                    "updateDate": "06-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "56",
+                    "duration": "1h 23m",
+                    "episodeCode": "S3-E56",
+                    "episodeName": "Krushna’s Birthday Bash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7781/1780154427781-h",
+                    "updateDate": "31-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "55",
+                    "duration": "1h 23m",
+                    "episodeCode": "S3-E55",
+                    "episodeName": "The Dhurandhar Comeback!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9797/1780133179797-h",
+                    "updateDate": "30-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "54",
+                    "duration": "1h 16m",
+                    "episodeCode": "S3-E54",
+                    "episodeName": "Laughter Chefs Akhada!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5555/1779618385555-h",
+                    "updateDate": "24-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "53",
+                    "duration": "1h 23m",
+                    "episodeCode": "S3-E53",
+                    "episodeName": "Kitchen Mein Adla-Badli!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/796/1779530620796-h",
+                    "updateDate": "23-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "52",
+                    "duration": "1h 26m",
+                    "episodeCode": "S3-E52",
+                    "episodeName": "Badhai Ho! #Karate",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/620/1778952040620-h",
+                    "updateDate": "17-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "51",
+                    "duration": "1h 28m",
+                    "episodeCode": "S3-E51",
+                    "episodeName": "Hai Laughter Chefs Toh Masti Honi Hai!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7946/1778940347946-h",
+                    "updateDate": "16-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "50",
+                    "duration": "1h 26m",
+                    "episodeCode": "S3-E50",
+                    "episodeName": "Shaadi Mubarak!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/997/1778329170997-h",
+                    "updateDate": "10-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "49",
+                    "duration": "1h 37m",
+                    "episodeCode": "S3-E49",
+                    "episodeName": "Happy Mother's Day!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7818/1778328687818-h",
+                    "updateDate": "09-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "48",
+                    "duration": "1h 26m",
+                    "episodeCode": "S3-E48",
+                    "episodeName": "World Laughter Day!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/444/1777811600444-h",
+                    "updateDate": "03-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "47",
+                    "duration": "1h 26m",
+                    "episodeCode": "S3-E47",
+                    "episodeName": "Mami Day!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3781/1777720473781-h",
+                    "updateDate": "02-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "46",
+                    "duration": "1h 17m",
+                    "episodeCode": "S3-E46",
+                    "episodeName": "The Lord of Laughter",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9986/1777179569986-h",
+                    "updateDate": "26-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "45",
+                    "duration": "1h 24m",
+                    "episodeCode": "S3-E45",
+                    "episodeName": "A Birthday Surprise for Samarth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9322/1777121529322-h",
+                    "updateDate": "25-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "44",
+                    "duration": "1h 15m",
+                    "episodeCode": "S3-E44",
+                    "episodeName": "Happy Birthday, Chef Harpal!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3676/1776587293676-h",
+                    "updateDate": "19-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "43",
+                    "duration": "1h 23m",
+                    "episodeCode": "S3-E43",
+                    "episodeName": "Breaking News from the Kitchen!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3780/1776508583780-h",
+                    "updateDate": "18-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "42",
+                    "duration": "1h 19m",
+                    "episodeCode": "S3-E42",
+                    "episodeName": "Happy Baisakhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7042/1775990737042-h",
+                    "updateDate": "12-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "41",
+                    "duration": "1h 22m",
+                    "episodeCode": "S3-E41",
+                    "episodeName": "Bhoots in the Kitchen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8003/1775908898003-h",
+                    "updateDate": "11-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "40",
+                    "duration": "1h 15m",
+                    "episodeCode": "S3-E40",
+                    "episodeName": "Dacoits in the Kitchen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4898/1775310724898-h",
+                    "updateDate": "05-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "39",
+                    "duration": "1h 21m",
+                    "episodeCode": "S3-E39",
+                    "episodeName": "Joint Families Grace the Kitchen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/407/1775288140407-h",
+                    "updateDate": "04-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "38",
+                    "duration": "1h 24m",
+                    "episodeCode": "S3-E38",
+                    "episodeName": "Happy April Fools' Day!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5237/1774701645237-h",
+                    "updateDate": "29-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "37",
+                    "duration": "1h 22m",
+                    "episodeCode": "S3-E37",
+                    "episodeName": "Happy World Theatre Day!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3744/1774701693744-h",
+                    "updateDate": "28-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "36",
+                    "duration": "1h 14m",
+                    "episodeCode": "S3-E36",
+                    "episodeName": "Eid Celebrations with Laughter Chefs",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5824/1774089075824-h",
+                    "updateDate": "22-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "35",
+                    "duration": "1h 25m",
+                    "episodeCode": "S3-E35",
+                    "episodeName": "Mamta Kulkarni in the House!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1827/1774088981827-h",
+                    "updateDate": "21-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "34",
+                    "duration": "1h 18m",
+                    "episodeCode": "S3-E34",
+                    "episodeName": "Laughter Chefs Mela",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6790/1773562546790-h",
+                    "updateDate": "15-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "33",
+                    "duration": "1h 21m",
+                    "episodeCode": "S3-E33",
+                    "episodeName": "Chefs Premier League",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7477/1773478657477-h",
+                    "updateDate": "14-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "31",
+                    "duration": "1h 27m",
+                    "episodeCode": "S3-E31",
+                    "episodeName": "The Laughter Clinic",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6540/1772872116540-h",
+                    "updateDate": "07-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "30",
+                    "duration": "1h 22m",
+                    "episodeCode": "S3-E30",
+                    "episodeName": "Holi Ke Rang, Laughter Chefs Ke Sang",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6090/1772274606090-h",
+                    "updateDate": "01-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "29",
+                    "duration": "1h 21m",
+                    "episodeCode": "S3-E29",
+                    "episodeName": "Laughter Chefs Go Wild!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6564/1772277576564-h",
+                    "updateDate": "28-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "28",
+                    "duration": "1h 24m",
+                    "episodeCode": "S3-E28",
+                    "episodeName": "Happy Birthday Aly",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7566/1771751097566-h",
+                    "updateDate": "22-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "27",
+                    "duration": "1h 26m",
+                    "episodeCode": "S3-E27",
+                    "episodeName": "Sanjeev Kapoor in the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3218/1771660543218-h",
+                    "updateDate": "21-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "26",
+                    "duration": "1h 18m",
+                    "episodeCode": "S3-E26",
+                    "episodeName": "Laughter Chefs’ House Chefs in the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9026/1771097679026-h",
+                    "updateDate": "15-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "25",
+                    "duration": "1h 26m",
+                    "episodeCode": "S3-E25",
+                    "episodeName": "Happy Valentine’s, Laughter Chefs!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6210/1771060086210-h",
+                    "updateDate": "14-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "24",
+                    "duration": "1h 25m",
+                    "episodeCode": "S3-E24",
+                    "episodeName": "Hearts in the Kitchen",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1253/1770498061253-h",
+                    "updateDate": "08-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "23",
+                    "duration": "1h 28m",
+                    "episodeCode": "S3-E23",
+                    "episodeName": "No Rules, No Limits, Only Manmarzi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4993/1770446304993-h",
+                    "updateDate": "07-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "22",
+                    "duration": "1h 11m",
+                    "episodeCode": "S3-E22",
+                    "episodeName": "Teja-Arjun's Epic Comeback",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3471/1769923223471-h",
+                    "updateDate": "01-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "21",
+                    "duration": "1h 24m",
+                    "episodeCode": "S3-E21",
+                    "episodeName": "SAVAN Squad Is Back!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2497/1769855172497-h",
+                    "updateDate": "31-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
                     "episodeNumber": "20",
                     "duration": "1h 30m",
                     "episodeCode": "S3-E20",
