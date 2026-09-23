@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "188",
+                    "duration": "21m",
+                    "episodeCode": "S1-E188",
+                    "episodeName": "Angad faces Vrinda's Harsh Words",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5211/1790159095211-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "187",
                     "duration": "29m",
                     "episodeCode": "S1-E187",
