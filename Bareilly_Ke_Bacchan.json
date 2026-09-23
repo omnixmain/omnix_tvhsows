@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "89",
+                    "duration": "25m",
+                    "episodeCode": "S1-E89",
+                    "episodeName": "Sangam's Plan for Ganga",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3372/1790128573372-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "88",
                     "duration": "24m",
                     "episodeCode": "S1-E88",
