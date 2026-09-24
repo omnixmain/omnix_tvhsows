@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "September 23, 2026",
+            "ottReleaseDate": "September 24, 2026",
             "description": "Watch MTV Splitsvilla X6 on JioHotstar.",
             "episodes": [
                 {
@@ -20,7 +20,7 @@
                     "episodeCode": "S14-E5",
                     "episodeName": "Watch First Episode",
                     "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
-                    "updateDate": "23-09-2026",
+                    "updateDate": "24-09-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -581,6 +581,116 @@
                     "episodeName": "Grand Premiere: Pyaar Ya Paisa?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2412/1767961062412-h",
                     "updateDate": "09-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "41",
+                    "duration": "1h 25m",
+                    "episodeCode": "S15-E41",
+                    "episodeName": "The Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6952/1734188306952-h",
+                    "updateDate": "11-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "40",
+                    "duration": "1h 21m",
+                    "episodeCode": "S15-E40",
+                    "episodeName": "Muqabla Semi-Finale Ka",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/945/1734188310945-h",
+                    "updateDate": "10-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "39",
+                    "duration": "2h 2m",
+                    "episodeCode": "S15-E39",
+                    "episodeName": "Janta Jury",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/954/1734188130954-h",
+                    "updateDate": "09-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "38",
+                    "duration": "1h 16m",
+                    "episodeCode": "S15-E38",
+                    "episodeName": "Kaatil Kaun",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1875/1734187901875-h",
+                    "updateDate": "04-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "37",
+                    "duration": "1h 10m",
+                    "episodeCode": "S15-E37",
+                    "episodeName": "Ticket to Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6707/1734187936707-h",
+                    "updateDate": "03-08-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "36",
+                    "duration": "1h 6m",
+                    "episodeCode": "S15-E36",
+                    "episodeName": "Pyaar Jahan, Jannat Wahan!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2176/1734187742176-h",
+                    "updateDate": "28-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "35",
+                    "duration": "1h 22m",
+                    "episodeCode": "S15-E35",
+                    "episodeName": "Match Fixing",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9822/1734187759822-h",
+                    "updateDate": "27-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "34",
+                    "duration": "1h 20m",
+                    "episodeCode": "S15-E34",
+                    "episodeName": "Champions Vs Challengers",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4722/1734187394722-h",
+                    "updateDate": "21-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "33",
+                    "duration": "1h 29m",
+                    "episodeCode": "S15-E33",
+                    "episodeName": "Goal Maal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5805/1734187415805-h",
+                    "updateDate": "20-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "32",
+                    "duration": "1h 26m",
+                    "episodeCode": "S15-E32",
+                    "episodeName": "Swagat Nahin Karoge Humara...",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4725/1734187214725-h",
+                    "updateDate": "14-07-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "31",
+                    "duration": "59m",
+                    "episodeCode": "S15-E31",
+                    "episodeName": "Picture Abhi Baaki Hai...",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1808/1734187231808-h",
+                    "updateDate": "13-07-2024",
                     "episodeUrl": ""
                 },
                 {
