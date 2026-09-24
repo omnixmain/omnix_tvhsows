@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "189",
+                    "duration": "22m",
+                    "episodeCode": "S1-E189",
+                    "episodeName": "Noina's Guidance for Kartik",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1749/1790255031749-h",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "188",
                     "duration": "21m",
                     "episodeCode": "S1-E188",
