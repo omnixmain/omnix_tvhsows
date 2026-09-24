@@ -25,16 +25,6 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "22m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "E1 - Jul 06, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/255619/1920x1080_ThodiSiUmeedThodaSaAasmanJul062026_255619_1e1d3d01-0956-4ff8-bdc8-d8dfa919e2ce.jpg",
-                    "updateDate": "06-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "2",
                     "duration": "22m",
                     "episodeCode": "S1-E2",
@@ -711,6 +701,16 @@
                     "episodeName": "E69 - Sep 23, 2026",
                     "episodeBanner": "https://sund-images.sunnxt.com/276582/1920x1080_ThodiSiUmeedThodaSaAasmanSep232026_276582_d4969ff6-3810-467b-9d60-a1f8903c0707.jpg",
                     "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "22m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "E70 - Sep 24, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/276584/1920x1080_ThodiSiUmeedThodaSaAasmanSep242026_276584_7c61a41c-d70f-4a76-9e22-10f29b3f55ed.jpg",
+                    "updateDate": "24-09-2026",
                     "episodeUrl": ""
                 }
             ]
