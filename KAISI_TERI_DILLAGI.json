@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "22m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "EP 70 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2070-24092026174846",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "69",
                     "duration": "22m",
                     "episodeCode": "S1-E69",
