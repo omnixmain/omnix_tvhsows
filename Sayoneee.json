@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
             "language": "Hindi",
-            "ottReleaseDate": "September 24, 2026",
+            "ottReleaseDate": "September 25, 2026",
             "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "22m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Saanvi Walks Out of the Shoot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8240/1790298278240-h",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "2",
