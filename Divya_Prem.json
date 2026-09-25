@@ -15,16 +15,6 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "372",
-                    "duration": "22m",
-                    "episodeCode": "S1-E372",
-                    "episodeName": "E372 - Jul 06, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/255382/1920x1080_DivyaPremJul062026_255382_872b13c0-58cd-43e9-9b5c-310c923cad5f.jpg",
-                    "updateDate": "06-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "373",
                     "duration": "22m",
                     "episodeCode": "S1-E373",
@@ -699,7 +689,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E440",
                     "episodeName": "E440 - Sep 23, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/276581/1920x1080_DivyaPremSep232026_276581_31f192af-10fe-4972-810c-b192875d0091.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/276581/1920x1080_DivyaPremSep232026_276581_92d63fb1-c2d6-4657-a624-0611e8e33901.jpg",
                     "updateDate": "23-09-2026",
                     "episodeUrl": ""
                 },
@@ -709,8 +699,18 @@
                     "duration": "22m",
                     "episodeCode": "S1-E441",
                     "episodeName": "E441 - Sep 24, 2026",
-                    "episodeBanner": "https://sund-images.sunnxt.com/276583/1920x1080_DivyaPremSep242026_276583_a286f8ee-1ce6-4a8c-be53-f71f78075504.jpg",
+                    "episodeBanner": "https://sund-images.sunnxt.com/276583/1920x1080_DivyaPremSep242026_276583_c8d6994e-4482-4077-acd0-7ab2fa925b01.jpg",
                     "updateDate": "24-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "442",
+                    "duration": "22m",
+                    "episodeCode": "S1-E442",
+                    "episodeName": "E442 - Sep 25, 2026",
+                    "episodeBanner": "https://sund-images.sunnxt.com/276585/1920x1080_DivyaPremSep252026_276585_7e6d2caf-a5ab-4005-acfe-5e834beb689a.jpg",
+                    "updateDate": "25-09-2026",
                     "episodeUrl": ""
                 }
             ]
