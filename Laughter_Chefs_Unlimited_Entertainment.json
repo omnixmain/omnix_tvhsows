@@ -25,6 +25,16 @@
                 },
                 {
                     "seasonNumber": "3",
+                    "episodeNumber": "72",
+                    "duration": "1h 44m",
+                    "episodeCode": "S3-E72",
+                    "episodeName": "The Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2614/1785067432614-h",
+                    "updateDate": "26-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "3",
                     "episodeNumber": "71",
                     "duration": "1h 36m",
                     "episodeCode": "S3-E71",
