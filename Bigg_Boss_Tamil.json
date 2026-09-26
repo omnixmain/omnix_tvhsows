@@ -1,0 +1,3139 @@
+{
+    "tvShows": [
+        {
+            "name": "Bigg Boss Tamil",
+            "banner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "September 26, 2026",
+            "description": "Watch Bigg Boss Tamil on JioHotstar.",
+            "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "20",
+                    "duration": "1h 5m",
+                    "episodeCode": "S10-E20",
+                    "episodeName": "BBTam Day 19: Angry Tears and Angry Exits",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3642/1790338053642-h",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "19",
+                    "duration": "1h 10m",
+                    "episodeCode": "S10-E19",
+                    "episodeName": "BBTam Day 18: Exit Board Triggers Tiffs",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/159/1790254700159-h",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "18",
+                    "duration": "1h 9m",
+                    "episodeCode": "S10-E18",
+                    "episodeName": "BBTam Day 17: Avinash's Strategic Move",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/485/1790171840485-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "17",
+                    "duration": "1h 8m",
+                    "episodeCode": "S10-E17",
+                    "episodeName": "BBTam Day 16: Titles and Transformations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2492/1790087982492-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "16",
+                    "duration": "1h 10m",
+                    "episodeCode": "S10-E16",
+                    "episodeName": "BBTam Day 15: New Leader and Nominations!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3362/1790003783362-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "15",
+                    "duration": "1h 13m",
+                    "episodeCode": "S10-E15",
+                    "episodeName": "BBTam Day 14: Who Will Join VJS Onstage",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/14/1789904720014-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "14",
+                    "duration": "1h 13m",
+                    "episodeCode": "S10-E14",
+                    "episodeName": "BBTam Day 13: VJS Exposes Housemates' Bias",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3342/1789825403342-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "13",
+                    "duration": "1h 10m",
+                    "episodeCode": "S10-E13",
+                    "episodeName": "BBTam Day 12: New King and Servants",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4164/1789736914164-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "12",
+                    "duration": "1h 6m",
+                    "episodeCode": "S10-E12",
+                    "episodeName": "BBTam Day 11: Power Shifts and Food War",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4266/1789651314266-h",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "11",
+                    "duration": "1h 8m",
+                    "episodeCode": "S10-E11",
+                    "episodeName": "BBTam Day 10: Eviction Free Pass Is Here!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1822/1789561461822-h",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "10",
+                    "duration": "1h 7m",
+                    "episodeCode": "S10-E10",
+                    "episodeName": "BBTam Day 9: Welcome to the Battleground",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4915/1789475564915-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "9",
+                    "duration": "1h 8m",
+                    "episodeCode": "S10-E9",
+                    "episodeName": "BBTam Day 8: Wild Card Entry",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8437/1789390318437-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "8",
+                    "duration": "1h 4m",
+                    "episodeCode": "S10-E8",
+                    "episodeName": "BBTam Day 7: Eviction and New Rules",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8682/1789300348682-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "7",
+                    "duration": "1h 3m",
+                    "episodeCode": "S10-E7",
+                    "episodeName": "BBTam Day 6: Vijay Sethupati Takes the Stage",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7148/1789220837148-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "6",
+                    "duration": "1h 5m",
+                    "episodeCode": "S10-E6",
+                    "episodeName": "BBTam Day 5: The First Eviction Stuns All",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6792/1789131136792-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "5",
+                    "duration": "1h 7m",
+                    "episodeCode": "S10-E5",
+                    "episodeName": "BBTam Day 4: New Entry and Leadership Crisis",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2808/1789045492808-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "4",
+                    "duration": "1h 5m",
+                    "episodeCode": "S10-E4",
+                    "episodeName": "BBTam Day 3: A Shocking Exit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8170/1788966968170-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "3",
+                    "duration": "1h 3m",
+                    "episodeCode": "S10-E3",
+                    "episodeName": "BBTam Day 2: The Power Cards are Here!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5194/1788871595194-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "2",
+                    "duration": "1h 6m",
+                    "episodeCode": "S10-E2",
+                    "episodeName": "BBTam Day 1: Who Deserves to be A Leader?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/198/1788786640198-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "1",
+                    "duration": "2h 58m",
+                    "episodeCode": "S10-E1",
+                    "episodeName": "BBTam: Season Premiere",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5574/1788700215574-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "106",
+                    "duration": "3h 24m",
+                    "episodeCode": "S9-E106",
+                    "episodeName": "BBTam Day 105: Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4811/1768806174811-h",
+                    "updateDate": "18-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "105",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E105",
+                    "episodeName": "BBTam Day 104: The Final Night in the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8902/1768652318902-h",
+                    "updateDate": "17-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "104",
+                    "duration": "51m",
+                    "episodeCode": "S9-E104",
+                    "episodeName": "BBTam Day 103: A Blast from the Past",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2069/1768569622069-h",
+                    "updateDate": "16-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "103",
+                    "duration": "51m",
+                    "episodeCode": "S9-E103",
+                    "episodeName": "BBTam Day 102: Pongalo Pongal!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1694/1768483251694-h",
+                    "updateDate": "15-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "102",
+                    "duration": "51m",
+                    "episodeCode": "S9-E102",
+                    "episodeName": "BBTam Day 101: Friendship, Fights and Feelings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4659/1768396794659-h",
+                    "updateDate": "14-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "101",
+                    "duration": "42m",
+                    "episodeCode": "S9-E101",
+                    "episodeName": "BBTam Day 100: Celebrating the Bigg Milestone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1857/1768306711857-h",
+                    "updateDate": "13-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "100",
+                    "duration": "50m",
+                    "episodeCode": "S9-E100",
+                    "episodeName": "BBTam Day 99: Finale Week",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6282/1768219886282-h",
+                    "updateDate": "12-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "99",
+                    "duration": "1h 2m",
+                    "episodeCode": "S9-E99",
+                    "episodeName": "BBTam Day 98: Chinna Kurumpadam, Bigg Twists",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7076/1768138667076-h",
+                    "updateDate": "11-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "98",
+                    "duration": "1h 3m",
+                    "episodeCode": "S9-E98",
+                    "episodeName": "BBTam Day 97: First Encounters, Final Farewells",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3863/1768051053863-h",
+                    "updateDate": "10-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "97",
+                    "duration": "52m",
+                    "episodeCode": "S9-E97",
+                    "episodeName": "BBTam Day 96: Vinoth's Shocking Move",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8646/1767967238646-h",
+                    "updateDate": "09-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "96",
+                    "duration": "49m",
+                    "episodeCode": "S9-E96",
+                    "episodeName": "BBTam Day 95: Can The Final 6 Pull It Off?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8494/1767877438494-h",
+                    "updateDate": "08-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "95",
+                    "duration": "50m",
+                    "episodeCode": "S9-E95",
+                    "episodeName": "BBTam Day 94: Top Six vs Evictees",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3971/1767790413971-h",
+                    "updateDate": "07-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "94",
+                    "duration": "51m",
+                    "episodeCode": "S9-E94",
+                    "episodeName": "BBTam Day 93: Big Money Temptation Starts",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2594/1767705642594-h",
+                    "updateDate": "06-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "93",
+                    "duration": "51m",
+                    "episodeCode": "S9-E93",
+                    "episodeName": "BBTam Day 92: Panapetti 2.0",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3519/1767618723519-h",
+                    "updateDate": "05-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "92",
+                    "duration": "1h 2m",
+                    "episodeCode": "S9-E92",
+                    "episodeName": "BBTam Day 91: Meet the First Finalist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6687/1767536326687-h",
+                    "updateDate": "04-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "91",
+                    "duration": "1h 8m",
+                    "episodeCode": "S9-E91",
+                    "episodeName": "BBTam Day 90: No More Warnings!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6888/1767457726888-h",
+                    "updateDate": "03-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "90",
+                    "duration": "51m",
+                    "episodeCode": "S9-E90",
+                    "episodeName": "BBTam Day 89: Secure Your Spot!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4562/1767360734562-h",
+                    "updateDate": "02-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "89",
+                    "duration": "50m",
+                    "episodeCode": "S9-E89",
+                    "episodeName": "BBTam Day 88: Coins, Chaos and Celebration",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8228/1767282158228-h",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "88",
+                    "duration": "49m",
+                    "episodeCode": "S9-E88",
+                    "episodeName": "BBTam Day 87: Task Victories Amidst The Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7588/1767189387588-h",
+                    "updateDate": "31-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "87",
+                    "duration": "52m",
+                    "episodeCode": "S9-E87",
+                    "episodeName": "BBTam Day 86: Drama Peaks In Ticket to Finale Task",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9367/1767099199367-h",
+                    "updateDate": "30-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "86",
+                    "duration": "51m",
+                    "episodeCode": "S9-E86",
+                    "episodeName": "BBTam Day 85: Ticket to Finale Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8935/1767016218935-h",
+                    "updateDate": "29-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "85",
+                    "duration": "1h 6m",
+                    "episodeCode": "S9-E85",
+                    "episodeName": "BBTam Day 84: Top 10 Under the Spotlight",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5964/1766929015964-h",
+                    "updateDate": "28-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "84",
+                    "duration": "1h 9m",
+                    "episodeCode": "S9-E84",
+                    "episodeName": "BBTam Day 83: VJS Reacts to Family Week Fun",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/189/1766840840189-h",
+                    "updateDate": "27-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "83",
+                    "duration": "52m",
+                    "episodeCode": "S9-E83",
+                    "episodeName": "BBTam Day 82: A Day of Advice and Conflicts",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4221/1766757874221-h",
+                    "updateDate": "26-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "82",
+                    "duration": "52m",
+                    "episodeCode": "S9-E82",
+                    "episodeName": "BBTam Day 81: Friends, Family and Festive Fun",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2367/1766672942367-h",
+                    "updateDate": "25-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "81",
+                    "duration": "51m",
+                    "episodeCode": "S9-E81",
+                    "episodeName": "BBTam Day 80: Reunions and Reality Checks",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2166/1766584482166-h",
+                    "updateDate": "24-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "80",
+                    "duration": "52m",
+                    "episodeCode": "S9-E80",
+                    "episodeName": "BBTam Day 79: Family Bonds and Fun Loops",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2725/1766499182725-h",
+                    "updateDate": "23-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "79",
+                    "duration": "50m",
+                    "episodeCode": "S9-E79",
+                    "episodeName": "BBTam Day 78: Family Week 2.0",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6456/1766410016456-h",
+                    "updateDate": "22-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "78",
+                    "duration": "1h 3m",
+                    "episodeCode": "S9-E78",
+                    "episodeName": "BBTam Day 77: Truths, Tensions and Two Evictions",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3968/1766321213968-h",
+                    "updateDate": "21-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "77",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E77",
+                    "episodeName": "BBTam Day 76: VJS Sets the Record Straight",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8864/1766235888864-h",
+                    "updateDate": "20-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "76",
+                    "duration": "51m",
+                    "episodeCode": "S9-E76",
+                    "episodeName": "BBTam Day 75: No Apologies, Only Arguments!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/494/1766150490494-h",
+                    "updateDate": "19-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "75",
+                    "duration": "50m",
+                    "episodeCode": "S9-E75",
+                    "episodeName": "BBTam Day 74: Tears, Warnings and a Victory",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1370/1766064801370-h",
+                    "updateDate": "18-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "74",
+                    "duration": "50m",
+                    "episodeCode": "S9-E74",
+                    "episodeName": "BBTam Day 73: Low on Dance, High on Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6106/1765977396106-h",
+                    "updateDate": "17-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "73",
+                    "duration": "51m",
+                    "episodeCode": "S9-E73",
+                    "episodeName": "BBTam Day 72: Dance Marathon 2.0",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/116/1765890470116-h",
+                    "updateDate": "16-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "72",
+                    "duration": "51m",
+                    "episodeCode": "S9-E72",
+                    "episodeName": "BBTam Day 71: New Captain, Colourful Nominations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1327/1765808581327-h",
+                    "updateDate": "15-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "71",
+                    "duration": "1h 7m",
+                    "episodeCode": "S9-E71",
+                    "episodeName": "BBTam Day 70: VJS Delivers the Verdict",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3623/1765720643623-h",
+                    "updateDate": "14-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "70",
+                    "duration": "1h 6m",
+                    "episodeCode": "S9-E70",
+                    "episodeName": "BBTam Day 69: House in the Hot Seat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7863/1765631697863-h",
+                    "updateDate": "13-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "69",
+                    "duration": "51m",
+                    "episodeCode": "S9-E69",
+                    "episodeName": "BBTam Day 68: Chaos at the BB Court",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7155/1765548367155-h",
+                    "updateDate": "12-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "68",
+                    "duration": "52m",
+                    "episodeCode": "S9-E68",
+                    "episodeName": "BBTam Day 67: Funny Trials and Kitchen Fights",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/385/1765459930385-h",
+                    "updateDate": "11-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "67",
+                    "duration": "50m",
+                    "episodeCode": "S9-E67",
+                    "episodeName": "BBTam Day 66: Court Dismissed!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8523/1765375158523-h",
+                    "updateDate": "10-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "66",
+                    "duration": "51m",
+                    "episodeCode": "S9-E66",
+                    "episodeName": "BBTam Day 65: Secrets, Rules and Court Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5498/1765287115498-h",
+                    "updateDate": "09-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "65",
+                    "duration": "50m",
+                    "episodeCode": "S9-E65",
+                    "episodeName": "BBTam Day 64: New Week, Same Old Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4500/1765201504500-h",
+                    "updateDate": "08-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "64",
+                    "duration": "1h 6m",
+                    "episodeCode": "S9-E64",
+                    "episodeName": "BBTam Day 63: Recap with VJS",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6082/1765112806082-h",
+                    "updateDate": "07-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "63",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E63",
+                    "episodeName": "BBTam Day 62: Carelessness Exposed by VJS",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8553/1765027308553-h",
+                    "updateDate": "06-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "62",
+                    "duration": "41m",
+                    "episodeCode": "S9-E62",
+                    "episodeName": "BBTam Day 61: Race to Escape",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1288/1764940311288-h",
+                    "updateDate": "05-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "61",
+                    "duration": "51m",
+                    "episodeCode": "S9-E61",
+                    "episodeName": "BBTam Day 60: Jodi Task Turns Turbulent",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9587/1764857249587-h",
+                    "updateDate": "04-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "60",
+                    "duration": "50m",
+                    "episodeCode": "S9-E60",
+                    "episodeName": "BBTam Day 59: BB Schools the Housemates",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4164/1764769584164-h",
+                    "updateDate": "03-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "59",
+                    "duration": "51m",
+                    "episodeCode": "S9-E59",
+                    "episodeName": "BBTam Day 58: Modern vs Retro Cinema Team",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/574/1764682500574-h",
+                    "updateDate": "02-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "58",
+                    "duration": "51m",
+                    "episodeCode": "S9-E58",
+                    "episodeName": "BBTam Day 57: Heartfelt Talks to Heated Debates",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4813/1764599104813-h",
+                    "updateDate": "01-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "57",
+                    "duration": "1h 3m",
+                    "episodeCode": "S9-E57",
+                    "episodeName": "BBTam Day 56: Letters Unveiled, Bonds Shake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7038/1764505907038-h",
+                    "updateDate": "30-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "56",
+                    "duration": "1h 1m",
+                    "episodeCode": "S9-E56",
+                    "episodeName": "BBTam Day 55: VJS Evaluates Task and Attitude",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9106/1764424129106-h",
+                    "updateDate": "29-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "55",
+                    "duration": "54m",
+                    "episodeCode": "S9-E55",
+                    "episodeName": "BBTam Day 54: A Day of Lessons and Penalties",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7477/1764337727477-h",
+                    "updateDate": "28-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "54",
+                    "duration": "51m",
+                    "episodeCode": "S9-E54",
+                    "episodeName": "BBTam Day 53: Uniforms Lost, Secrets Found",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8118/1764252898118-h",
+                    "updateDate": "27-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "53",
+                    "duration": "49m",
+                    "episodeCode": "S9-E53",
+                    "episodeName": "BBTam Day 52: Commotion in the Campus",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6082/1764164306082-h",
+                    "updateDate": "26-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "52",
+                    "duration": "52m",
+                    "episodeCode": "S9-E52",
+                    "episodeName": "BBTam Day 51: From School Bells to Star Visit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6239/1764079766239-h",
+                    "updateDate": "25-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "51",
+                    "duration": "52m",
+                    "episodeCode": "S9-E51",
+                    "episodeName": "BBTam Day 50: A Reality Check from Home",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2846/1763995962846-h",
+                    "updateDate": "24-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "50",
+                    "duration": "1h 5m",
+                    "episodeCode": "S9-E50",
+                    "episodeName": "BBTam Day 49: Half-Century, Full Surprise",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/693/1763906050693-h",
+                    "updateDate": "23-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "49",
+                    "duration": "1h 8m",
+                    "episodeCode": "S9-E49",
+                    "episodeName": "BBTam Day 48: No Mercy for the Wildcards!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7867/1763820717867-h",
+                    "updateDate": "22-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "48",
+                    "duration": "45m",
+                    "episodeCode": "S9-E48",
+                    "episodeName": "BBTam Day 47: Kavin Shows Up with a Surprise",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2696/1763734432696-h",
+                    "updateDate": "21-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "47",
+                    "duration": "45m",
+                    "episodeCode": "S9-E47",
+                    "episodeName": "BBTam Day 46: Only One Team Stands Tall",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9319/1763647329319-h",
+                    "updateDate": "20-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "46",
+                    "duration": "52m",
+                    "episodeCode": "S9-E46",
+                    "episodeName": "BBTam Day 45: From Arguments to Achievements",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3006/1763561983006-h",
+                    "updateDate": "19-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "45",
+                    "duration": "47m",
+                    "episodeCode": "S9-E45",
+                    "episodeName": "BBTam Day 44: Soru Soapu Mopu Task Kicks Off",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8978/1763475648978-h",
+                    "updateDate": "18-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "44",
+                    "duration": "51m",
+                    "episodeCode": "S9-E44",
+                    "episodeName": "BBTam Day 43: Special Guests and Selection",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7224/1763383607224-h",
+                    "updateDate": "17-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "43",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E43",
+                    "episodeName": "BBTam Day 42: VJS Probes Task Abandonment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1153/1763300611153-h",
+                    "updateDate": "16-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "42",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E42",
+                    "episodeName": "BBTam Day 41: VJS Warns Against Blind Loyalty",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3363/1763213423363-h",
+                    "updateDate": "15-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "41",
+                    "duration": "50m",
+                    "episodeCode": "S9-E41",
+                    "episodeName": "BBTam Day 40: Fights and a Fallout",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7010/1763128217010-h",
+                    "updateDate": "14-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "40",
+                    "duration": "48m",
+                    "episodeCode": "S9-E40",
+                    "episodeName": "BBTam Day 39: Ranking Task Goes Awry!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7184/1763041707184-h",
+                    "updateDate": "13-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "39",
+                    "duration": "51m",
+                    "episodeCode": "S9-E39",
+                    "episodeName": "BBTam Day 38: The Clash of Samrajyams",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2371/1762956422371-h",
+                    "updateDate": "12-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "38",
+                    "duration": "49m",
+                    "episodeCode": "S9-E38",
+                    "episodeName": "BBTam Day 37: Gana vs Tharbees Samrajyam",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3183/1762871243183-h",
+                    "updateDate": "11-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "37",
+                    "duration": "50m",
+                    "episodeCode": "S9-E37",
+                    "episodeName": "BBTam Day 36: Nominations and New Alliances",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6999/1762780556999-h",
+                    "updateDate": "10-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "36",
+                    "duration": "1h 5m",
+                    "episodeCode": "S9-E36",
+                    "episodeName": "BBTam Day 35: Weekly Recap",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6408/1762685066408-h",
+                    "updateDate": "09-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "35",
+                    "duration": "1h 3m",
+                    "episodeCode": "S9-E35",
+                    "episodeName": "BBTam Day 34: All Eyes on the Wild Cards",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4466/1762609814466-h",
+                    "updateDate": "08-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "34",
+                    "duration": "50m",
+                    "episodeCode": "S9-E34",
+                    "episodeName": "BBTam Day 33: Rifts and Realisations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2387/1762522482387-h",
+                    "updateDate": "07-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "33",
+                    "duration": "54m",
+                    "episodeCode": "S9-E33",
+                    "episodeName": "BBTam Day 32: Hotel in Turmoil",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4188/1762435194188-h",
+                    "updateDate": "06-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "32",
+                    "duration": "48m",
+                    "episodeCode": "S9-E32",
+                    "episodeName": "BBTam Day 31: Manager Under Fire",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3529/1762350343529-h",
+                    "updateDate": "05-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "31",
+                    "duration": "52m",
+                    "episodeCode": "S9-E31",
+                    "episodeName": "BBTam Day 30: Aaha Oho Hotel",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1289/1762262811289-h",
+                    "updateDate": "04-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "30",
+                    "duration": "50m",
+                    "episodeCode": "S9-E30",
+                    "episodeName": "BBTam Day 29: One House, One Rule",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/172/1762176150172-h",
+                    "updateDate": "03-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "29",
+                    "duration": "1h 8m",
+                    "episodeCode": "S9-E29",
+                    "episodeName": "BBTam Day 28: Wild Cards Enter the Game",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8763/1762093258763-h",
+                    "updateDate": "02-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "28",
+                    "duration": "1h 6m",
+                    "episodeCode": "S9-E28",
+                    "episodeName": "BBTam Day 27: VJS Addresses Groupism in House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4508/1762003404508-h",
+                    "updateDate": "01-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "27",
+                    "duration": "45m",
+                    "episodeCode": "S9-E27",
+                    "episodeName": "BBTam Day 26: Lockers Open, Truths Spoken",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7673/1761919937673-h",
+                    "updateDate": "31-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "26",
+                    "duration": "51m",
+                    "episodeCode": "S9-E26",
+                    "episodeName": "BBTam Day 25: Tug of Words",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1601/1761833511601-h",
+                    "updateDate": "30-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "25",
+                    "duration": "51m",
+                    "episodeCode": "S9-E25",
+                    "episodeName": "BBTam Day 24: Non-stop Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3453/1761747543453-h",
+                    "updateDate": "29-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "24",
+                    "duration": "50m",
+                    "episodeCode": "S9-E24",
+                    "episodeName": "BBTam Day 23: The Army Rule Rebellion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6567/1761663336567-h",
+                    "updateDate": "28-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "23",
+                    "duration": "51m",
+                    "episodeCode": "S9-E23",
+                    "episodeName": "BBTam Day 22: The Day the House Lost Everything",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7911/1761572457911-h",
+                    "updateDate": "27-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "22",
+                    "duration": "1h 2m",
+                    "episodeCode": "S9-E22",
+                    "episodeName": "BBTam Day 21: Housemates Spill the Tea",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4404/1761484564404-h",
+                    "updateDate": "26-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "21",
+                    "duration": "1h 1m",
+                    "episodeCode": "S9-E21",
+                    "episodeName": "BBTam Day 20: Attention, Housemates!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2533/1761396272533-h",
+                    "updateDate": "25-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "20",
+                    "duration": "50m",
+                    "episodeCode": "S9-E20",
+                    "episodeName": "BBTam Day 19: The Best and the Worst",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4828/1761311894828-h",
+                    "updateDate": "24-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "19",
+                    "duration": "51m",
+                    "episodeCode": "S9-E19",
+                    "episodeName": "BBTam Day 18: Coins Amid the Chaos",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3426/1761228113426-h",
+                    "updateDate": "23-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "18",
+                    "duration": "54m",
+                    "episodeCode": "S9-E18",
+                    "episodeName": "BBTam Day 17: House Drama Over Cleaning Duties",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1043/1761142671043-h",
+                    "updateDate": "22-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "17",
+                    "duration": "52m",
+                    "episodeCode": "S9-E17",
+                    "episodeName": "BBTam Day 16: BB Juice Factory",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8877/1761051038877-h",
+                    "updateDate": "21-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "16",
+                    "duration": "50m",
+                    "episodeCode": "S9-E16",
+                    "episodeName": "BBTam Day 15: Festive Vibes in the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/541/1760972330541-h",
+                    "updateDate": "20-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "15",
+                    "duration": "1h 9m",
+                    "episodeCode": "S9-E15",
+                    "episodeName": "BBTam Day 14: Happy Deepavali",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9497/1760872989497-h",
+                    "updateDate": "19-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "14",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E14",
+                    "episodeName": "BBTam Day 13: Truth or Tactics?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/780/1760788090780-h",
+                    "updateDate": "18-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "13",
+                    "duration": "51m",
+                    "episodeCode": "S9-E13",
+                    "episodeName": "BBTam Day 12: Captaincy Contenders Face-Off",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1905/1760708921905-h",
+                    "updateDate": "17-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "12",
+                    "duration": "44m",
+                    "episodeCode": "S9-E12",
+                    "episodeName": "BBTam Day 11: Thala's Downfall",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4898/1760619674898-h",
+                    "updateDate": "16-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "11",
+                    "duration": "51m",
+                    "episodeCode": "S9-E11",
+                    "episodeName": "BBTam Day 10: Strong Defenses and Old Scores",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3899/1760535793899-h",
+                    "updateDate": "15-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "10",
+                    "duration": "53m",
+                    "episodeCode": "S9-E10",
+                    "episodeName": "BBTam Day 9: Bommai Battles",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6998/1760450086998-h",
+                    "updateDate": "14-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "9",
+                    "duration": "51m",
+                    "episodeCode": "S9-E9",
+                    "episodeName": "BBTam Day 8: From Noise to Nominations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4946/1760361914946-h",
+                    "updateDate": "13-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "8",
+                    "duration": "1h 9m",
+                    "episodeCode": "S9-E8",
+                    "episodeName": "BBTam Day 7: Season’s First Eviction",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7578/1760275787578-h",
+                    "updateDate": "12-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "7",
+                    "duration": "1h 9m",
+                    "episodeCode": "S9-E7",
+                    "episodeName": "BBTam Day 6: A Reality Check with VJS",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3463/1760185933463-h",
+                    "updateDate": "11-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "6",
+                    "duration": "49m",
+                    "episodeCode": "S9-E6",
+                    "episodeName": "BBTam Day 5: Fake Fights, Real Tears",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2165/1760106442165-h",
+                    "updateDate": "10-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "5",
+                    "duration": "51m",
+                    "episodeCode": "S9-E5",
+                    "episodeName": "BBTam Day 4: Taps Dry, Tempers High",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7565/1760016197565-h",
+                    "updateDate": "09-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "4",
+                    "duration": "50m",
+                    "episodeCode": "S9-E4",
+                    "episodeName": "BBTam Day 3: The Battle for Captaincy Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6403/1759930696403-h",
+                    "updateDate": "08-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "3",
+                    "duration": "53m",
+                    "episodeCode": "S9-E3",
+                    "episodeName": "BBTam Day 2: Rules Broken, Roles Swapped",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6757/1759844086757-h",
+                    "updateDate": "07-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "2",
+                    "duration": "1h 5m",
+                    "episodeCode": "S9-E2",
+                    "episodeName": "BBTam Day 1: Water Woes in the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1408/1759756761408-h",
+                    "updateDate": "06-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "1",
+                    "duration": "3h 49m",
+                    "episodeCode": "S9-E1",
+                    "episodeName": "BBTam: Grand Launch",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/726/1759663820726-h",
+                    "updateDate": "05-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "80",
+                    "duration": "1h 24m",
+                    "episodeCode": "S8-E80",
+                    "episodeName": "Day 79: Family Week",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7500/1735048377500-h",
+                    "updateDate": "24-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "79",
+                    "duration": "51m",
+                    "episodeCode": "S8-E79",
+                    "episodeName": "Day 78: Bigg Buzz Over the New Chef",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4517/1734965024517-h",
+                    "updateDate": "23-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "78",
+                    "duration": "1h 19m",
+                    "episodeCode": "S8-E78",
+                    "episodeName": "Day 77: Who Will Join VJS Onstage?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6965/1734877906965-h",
+                    "updateDate": "22-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "77",
+                    "duration": "1h 18m",
+                    "episodeCode": "S8-E77",
+                    "episodeName": "Day 76: Applauses with a Dose of Advice",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1848/1734783781848-h",
+                    "updateDate": "21-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "76",
+                    "duration": "53m",
+                    "episodeCode": "S8-E76",
+                    "episodeName": "Day 75: BB Revokes Benefits",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2595/1734707972595-h",
+                    "updateDate": "20-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "75",
+                    "duration": "1h 1m",
+                    "episodeCode": "S8-E75",
+                    "episodeName": "Day 74: Muyal 2.0",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8357/1734621698357-h",
+                    "updateDate": "19-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "74",
+                    "duration": "1h 0m",
+                    "episodeCode": "S8-E74",
+                    "episodeName": "Day 73: Team Tiffs",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9104/1734541409104-h",
+                    "updateDate": "18-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "73",
+                    "duration": "1h 5m",
+                    "episodeCode": "S8-E73",
+                    "episodeName": "Day 72: Bricks and Bruises",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/459/1734447360459-h",
+                    "updateDate": "17-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "72",
+                    "duration": "1h 6m",
+                    "episodeCode": "S8-E72",
+                    "episodeName": "Day 71: Captaincy and Open Nominations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1479/1734359561479-h",
+                    "updateDate": "16-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "71",
+                    "duration": "1h 24m",
+                    "episodeCode": "S8-E71",
+                    "episodeName": "Day 70: VJS Checks on the Housemates",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7114/1734263477114-h",
+                    "updateDate": "15-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "70",
+                    "duration": "1h 34m",
+                    "episodeCode": "S8-E70",
+                    "episodeName": "Day 69: Mind-bending Questions from VJS",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3671/1734184753671-h",
+                    "updateDate": "14-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "69",
+                    "duration": "1h 35m",
+                    "episodeCode": "S8-E69",
+                    "episodeName": "Day 68: Vidhuthalai 2 Team Pays a Visit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6248/1734107206248-h",
+                    "updateDate": "13-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "68",
+                    "duration": "1h 21m",
+                    "episodeCode": "S8-E68",
+                    "episodeName": "Day 67: New Rules, New Conflicts",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5201/1734012245201-h",
+                    "updateDate": "12-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "67",
+                    "duration": "1h 30m",
+                    "episodeCode": "S8-E67",
+                    "episodeName": "Day 66: Swap! Swap! Swap!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/731/1733927900731-h",
+                    "updateDate": "11-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "66",
+                    "duration": "1h 24m",
+                    "episodeCode": "S8-E66",
+                    "episodeName": "Day 65: Managers vs Labourers",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4816/1733842874816-h",
+                    "updateDate": "10-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "65",
+                    "duration": "1h 18m",
+                    "episodeCode": "S8-E65",
+                    "episodeName": "Day 64: Stuck with the Label",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3807/1733756283807-h",
+                    "updateDate": "09-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "64",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E64",
+                    "episodeName": "Day 63: Double Eviction",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3240/1733666163240-h",
+                    "updateDate": "08-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "63",
+                    "duration": "1h 39m",
+                    "episodeCode": "S8-E63",
+                    "episodeName": "Day 62: Rules or Rebellion?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3567/1733575963567-h",
+                    "updateDate": "07-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "62",
+                    "duration": "1h 25m",
+                    "episodeCode": "S8-E62",
+                    "episodeName": "Day 61: Whom Would You Choose?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2808/1733499492808-h",
+                    "updateDate": "06-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "61",
+                    "duration": "1h 30m",
+                    "episodeCode": "S8-E61",
+                    "episodeName": "Day 60: Role Reversal Round",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1843/1733416461843-h",
+                    "updateDate": "05-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "60",
+                    "duration": "1h 35m",
+                    "episodeCode": "S8-E60",
+                    "episodeName": "Day 59: Angels vs Devils",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6244/1733323206244-h",
+                    "updateDate": "04-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "59",
+                    "duration": "1h 22m",
+                    "episodeCode": "S8-E59",
+                    "episodeName": "Day 58: Ranking Task with a Twist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3128/1733232423128-h",
+                    "updateDate": "03-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "58",
+                    "duration": "1h 15m",
+                    "episodeCode": "S8-E58",
+                    "episodeName": "Day 57: New Leaders Step In",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5288/1733150685288-h",
+                    "updateDate": "02-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "57",
+                    "duration": "1h 13m",
+                    "episodeCode": "S8-E57",
+                    "episodeName": "Day 56: VJS Reviews the Doll Task",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3112/1733058423112-h",
+                    "updateDate": "01-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "56",
+                    "duration": "2h 4m",
+                    "episodeCode": "S8-E56",
+                    "episodeName": "Day 55: From Controversies to Captaincy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3453/1732970933453-h",
+                    "updateDate": "30-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "55",
+                    "duration": "1h 39m",
+                    "episodeCode": "S8-E55",
+                    "episodeName": "Day 54: Special Guests and Squabbles",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7127/1732891627127-h",
+                    "updateDate": "29-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "54",
+                    "duration": "1h 10m",
+                    "episodeCode": "S8-E54",
+                    "episodeName": "Day 53: Disputes Over the Dolls",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4985/1732804674985-h",
+                    "updateDate": "28-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "53",
+                    "duration": "1h 14m",
+                    "episodeCode": "S8-E53",
+                    "episodeName": "Day 52: Traits, Talks and Tasks",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2880/1732720512880-h",
+                    "updateDate": "27-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "52",
+                    "duration": "1h 28m",
+                    "episodeCode": "S8-E52",
+                    "episodeName": "Day 51: Doll Task",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7979/1732636467979-h",
+                    "updateDate": "26-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "51",
+                    "duration": "1h 14m",
+                    "episodeCode": "S8-E51",
+                    "episodeName": "Day 50: One Bigg Team",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4640/1732541874640-h",
+                    "updateDate": "25-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "50",
+                    "duration": "1h 27m",
+                    "episodeCode": "S8-E50",
+                    "episodeName": "Day 49: Halfway to Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1595/1732453501595-h",
+                    "updateDate": "24-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "49",
+                    "duration": "1h 38m",
+                    "episodeCode": "S8-E49",
+                    "episodeName": "Day 48: VJS Investigates the Issues",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/883/1732367540883-h",
+                    "updateDate": "23-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "48",
+                    "duration": "1h 15m",
+                    "episodeCode": "S8-E48",
+                    "episodeName": "Day 47: The Breaking Point",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2412/1732288832412-h",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "47",
+                    "duration": "1h 25m",
+                    "episodeCode": "S8-E47",
+                    "episodeName": "Day 46: Arimadesam Takes the Lead",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8081/1732206648081-h",
+                    "updateDate": "21-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "46",
+                    "duration": "1h 17m",
+                    "episodeCode": "S8-E46",
+                    "episodeName": "Day 45: BB Darbar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2725/1732119382725-h",
+                    "updateDate": "20-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "45",
+                    "duration": "1h 17m",
+                    "episodeCode": "S8-E45",
+                    "episodeName": "Day 44: Conflict Sparks Mayhem",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/850/1732030250850-h",
+                    "updateDate": "19-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "44",
+                    "duration": "1h 23m",
+                    "episodeCode": "S8-E44",
+                    "episodeName": "Day 43: A Costly Mistake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2959/1731946382959-h",
+                    "updateDate": "18-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "43",
+                    "duration": "1h 19m",
+                    "episodeCode": "S8-E43",
+                    "episodeName": "Day 42: Eviction Drama and a Twist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4904/1731849034904-h",
+                    "updateDate": "17-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "42",
+                    "duration": "1h 22m",
+                    "episodeCode": "S8-E42",
+                    "episodeName": "Day 41: VJS Issues a Progress Report",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3228/1731759673228-h",
+                    "updateDate": "16-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "41",
+                    "duration": "1h 17m",
+                    "episodeCode": "S8-E41",
+                    "episodeName": "Day 40: Captain Arun Faces the Heat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2848/1731679432848-h",
+                    "updateDate": "15-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "40",
+                    "duration": "1h 14m",
+                    "episodeCode": "S8-E40",
+                    "episodeName": "Day 39: Chaos at School",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/883/1731594350883-h",
+                    "updateDate": "14-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "39",
+                    "duration": "1h 18m",
+                    "episodeCode": "S8-E39",
+                    "episodeName": "Day 38: Scuffles and a Secret Task",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9871/1731511289871-h",
+                    "updateDate": "13-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "38",
+                    "duration": "1h 2m",
+                    "episodeCode": "S8-E38",
+                    "episodeName": "Day 37: Back to School",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9541/1731418939541-h",
+                    "updateDate": "12-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "37",
+                    "duration": "1h 4m",
+                    "episodeCode": "S8-E37",
+                    "episodeName": "Day 36: New Rules for the Captain",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7425/1731339817425-h",
+                    "updateDate": "11-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "36",
+                    "duration": "1h 29m",
+                    "episodeCode": "S8-E36",
+                    "episodeName": "Day 35: An Advice from Makkal Selvan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7053/1731242007053-h",
+                    "updateDate": "10-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "35",
+                    "duration": "1h 20m",
+                    "episodeCode": "S8-E35",
+                    "episodeName": "Day 34: Weekly Review",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7396/1731152457396-h",
+                    "updateDate": "09-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "34",
+                    "duration": "1h 6m",
+                    "episodeCode": "S8-E34",
+                    "episodeName": "Day 33: Best and Worst Selection",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/253/1731069610253-h",
+                    "updateDate": "08-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "33",
+                    "duration": "1h 17m",
+                    "episodeCode": "S8-E33",
+                    "episodeName": "Day 32: Letters on the Way",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5218/1730997655218-h",
+                    "updateDate": "07-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "32",
+                    "duration": "1h 11m",
+                    "episodeCode": "S8-E32",
+                    "episodeName": "Day 31: Identify the Manipulator",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7174/1730907967174-h",
+                    "updateDate": "06-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "31",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E31",
+                    "episodeName": "Day 30: Triumphs and Troubles",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3581/1730821393581-h",
+                    "updateDate": "05-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "30",
+                    "duration": "1h 21m",
+                    "episodeCode": "S8-E30",
+                    "episodeName": "Day 29: The First Open Nominations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5608/1730737115608-h",
+                    "updateDate": "04-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "29",
+                    "duration": "2h 24m",
+                    "episodeCode": "S8-E29",
+                    "episodeName": "Day 28: Make Way for the Wildcards",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/955/1730639410955-h",
+                    "updateDate": "03-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "28",
+                    "duration": "1h 28m",
+                    "episodeCode": "S8-E28",
+                    "episodeName": "Day 27: Celebrating in Style with VJS",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3308/1730548683308-h",
+                    "updateDate": "02-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "27",
+                    "duration": "1h 9m",
+                    "episodeCode": "S8-E27",
+                    "episodeName": "Day 26: Women's Team Wins Again",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7656/1730469857656-h",
+                    "updateDate": "01-11-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "26",
+                    "duration": "1h 33m",
+                    "episodeCode": "S8-E26",
+                    "episodeName": "Day 25: Kavin's Diwali Surprise",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/185/1730381740185-h",
+                    "updateDate": "31-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "25",
+                    "duration": "1h 4m",
+                    "episodeCode": "S8-E25",
+                    "episodeName": "Day 24: Reel Ones Review the Real",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/431/1730299360431-h",
+                    "updateDate": "30-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "24",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E24",
+                    "episodeName": "Day 23: Rolling for Role Play",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2878/1730214892878-h",
+                    "updateDate": "29-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "23",
+                    "duration": "1h 0m",
+                    "episodeCode": "S8-E23",
+                    "episodeName": "Day 22: New Week, New Strategies",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2894/1730128642894-h",
+                    "updateDate": "28-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "22",
+                    "duration": "1h 19m",
+                    "episodeCode": "S8-E22",
+                    "episodeName": "Day 21: Housemates on the Hot Seat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9663/1730034009663-h",
+                    "updateDate": "27-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "21",
+                    "duration": "1h 14m",
+                    "episodeCode": "S8-E21",
+                    "episodeName": "Day 20: VJS Reviews the Gameplay",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9660/1729945839660-h",
+                    "updateDate": "26-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "20",
+                    "duration": "1h 14m",
+                    "episodeCode": "S8-E20",
+                    "episodeName": "Day 19: Sivakarthikeyan in BB House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6034/1729869186034-h",
+                    "updateDate": "25-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "19",
+                    "duration": "1h 2m",
+                    "episodeCode": "S8-E19",
+                    "episodeName": "Day 18: The Hotel Gets Upgraded",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5280/1729783855280-h",
+                    "updateDate": "24-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "18",
+                    "duration": "1h 5m",
+                    "episodeCode": "S8-E18",
+                    "episodeName": "Day 17: Role Reversal in the Hotel",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2017/1729696892017-h",
+                    "updateDate": "23-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "17",
+                    "duration": "1h 3m",
+                    "episodeCode": "S8-E17",
+                    "episodeName": "Day 16: First Guests of BB Hotel",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/472/1729614810472-h",
+                    "updateDate": "22-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "16",
+                    "duration": "1h 4m",
+                    "episodeCode": "S8-E16",
+                    "episodeName": "Day 15: Team Swap Trouble",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9827/1729522779827-h",
+                    "updateDate": "21-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "15",
+                    "duration": "1h 11m",
+                    "episodeCode": "S8-E15",
+                    "episodeName": "Day 14: VJS Debunks the Accusations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6723/1729423976723-h",
+                    "updateDate": "20-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "14",
+                    "duration": "1h 27m",
+                    "episodeCode": "S8-E14",
+                    "episodeName": "Day 13: Applauds from VJS",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3206/1729340063206-h",
+                    "updateDate": "19-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "13",
+                    "duration": "1h 4m",
+                    "episodeCode": "S8-E13",
+                    "episodeName": "Day 12: Victory for Women's Team",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5694/1729264585694-h",
+                    "updateDate": "18-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "12",
+                    "duration": "47m",
+                    "episodeCode": "S8-E12",
+                    "episodeName": "Day 11: A Neck and Neck Task",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2863/1729177392863-h",
+                    "updateDate": "17-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "11",
+                    "duration": "47m",
+                    "episodeCode": "S8-E11",
+                    "episodeName": "Day 10: King TV vs Queen TV",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8715/1729091298715-h",
+                    "updateDate": "16-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "10",
+                    "duration": "1h 2m",
+                    "episodeCode": "S8-E10",
+                    "episodeName": "Day 9: No Room for Mistakes",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8868/1729005548868-h",
+                    "updateDate": "15-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "9",
+                    "duration": "48m",
+                    "episodeCode": "S8-E9",
+                    "episodeName": "Day 8: Captaincy and Nominations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7335/1728918257335-h",
+                    "updateDate": "14-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "8",
+                    "duration": "1h 2m",
+                    "episodeCode": "S8-E8",
+                    "episodeName": "Day 7: Housemates in a Dilemma",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2924/1728827332924-h",
+                    "updateDate": "13-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "7",
+                    "duration": "1h 20m",
+                    "episodeCode": "S8-E7",
+                    "episodeName": "Day 6: Vijay Sethupathi Meets the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/250/1728736290250-h",
+                    "updateDate": "12-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "6",
+                    "duration": "1h 4m",
+                    "episodeCode": "S8-E6",
+                    "episodeName": "Day 5: The Nomination Free Pass",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9893/1728654519893-h",
+                    "updateDate": "11-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "5",
+                    "duration": "47m",
+                    "episodeCode": "S8-E5",
+                    "episodeName": "Day 4: Who Is a Better Parent?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/940/1728572550940-h",
+                    "updateDate": "10-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "4",
+                    "duration": "47m",
+                    "episodeCode": "S8-E4",
+                    "episodeName": "Day 3: Fiery Fights",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8975/1728486348975-h",
+                    "updateDate": "09-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "3",
+                    "duration": "48m",
+                    "episodeCode": "S8-E3",
+                    "episodeName": "Day 2: Swap Your Teammate!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4397/1728400504397-h",
+                    "updateDate": "08-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "2",
+                    "duration": "57m",
+                    "episodeCode": "S8-E2",
+                    "episodeName": "Day 1: First Eviction of S8",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7335/1728313927335-h",
+                    "updateDate": "07-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "1",
+                    "duration": "4h 23m",
+                    "episodeCode": "S8-E1",
+                    "episodeName": "Season Premiere",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3554/1728242013554-h",
+                    "updateDate": "06-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "106",
+                    "duration": "3h 37m",
+                    "episodeCode": "S7-E106",
+                    "episodeName": "Day 105: Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9174/1649174-h-17140e3edd02",
+                    "updateDate": "14-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "105",
+                    "duration": "1h 8m",
+                    "episodeCode": "S7-E105",
+                    "episodeName": "Day 104: Ex-Contestants Bid Goodbye",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8609/1648609-h-f953a7a20170",
+                    "updateDate": "13-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "104",
+                    "duration": "1h 12m",
+                    "episodeCode": "S7-E104",
+                    "episodeName": "Day 103: A Journey To Remember",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8232/1648232-h-c3145bdf0493",
+                    "updateDate": "12-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "103",
+                    "duration": "47m",
+                    "episodeCode": "S7-E103",
+                    "episodeName": "Day 102: A Happy Reunion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7850/1647850-h-f53d3ec04df9",
+                    "updateDate": "11-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "102",
+                    "duration": "48m",
+                    "episodeCode": "S7-E102",
+                    "episodeName": "Day 101: Top Five Declared!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7414/1647414-h-2d99f03f4d4b",
+                    "updateDate": "10-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "101",
+                    "duration": "47m",
+                    "episodeCode": "S7-E101",
+                    "episodeName": "Day 100: The Trio's Entry",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7012/1647012-h-7c5a090086b7",
+                    "updateDate": "09-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "100",
+                    "duration": "47m",
+                    "episodeCode": "S7-E100",
+                    "episodeName": "Day 99: Vote Appeal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6659/1646659-h-5c568eddc8f5",
+                    "updateDate": "08-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "99",
+                    "duration": "1h 7m",
+                    "episodeCode": "S7-E99",
+                    "episodeName": "Day 98: What's Your USP?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6314/1646314-h-e3433e3ff1d9",
+                    "updateDate": "07-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "98",
+                    "duration": "1h 2m",
+                    "episodeCode": "S7-E98",
+                    "episodeName": "Day 97: Beyond the Money Box",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6094/1646094-h-6b62ee347286",
+                    "updateDate": "06-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "97",
+                    "duration": "47m",
+                    "episodeCode": "S7-E97",
+                    "episodeName": "Day 96: The Magals' Surprise Visit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5810/1645810-h-fbf5500eba37",
+                    "updateDate": "05-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "96",
+                    "duration": "46m",
+                    "episodeCode": "S7-E96",
+                    "episodeName": "Day 95: Disputes and Dilemma",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5366/1645366-h-cd451d4ffd3a",
+                    "updateDate": "04-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "95",
+                    "duration": "45m",
+                    "episodeCode": "S7-E95",
+                    "episodeName": "Day 94: Where Is Maya?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4835/1644835-h-291589b6ab7f",
+                    "updateDate": "03-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "94",
+                    "duration": "46m",
+                    "episodeCode": "S7-E94",
+                    "episodeName": "Day 93: Enticing Offers and Stories",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4331/1644331-h-2d57ffd3a44e",
+                    "updateDate": "02-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "93",
+                    "duration": "46m",
+                    "episodeCode": "S7-E93",
+                    "episodeName": "Day 92: Happy New Year!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3931/1643931-h-208ac8d53415",
+                    "updateDate": "01-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "92",
+                    "duration": "1h 11m",
+                    "episodeCode": "S7-E92",
+                    "episodeName": "Day 91: An Ultimate Surprise or Shocker?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3543/1643543-h-9c85c9234585",
+                    "updateDate": "31-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "91",
+                    "duration": "1h 11m",
+                    "episodeCode": "S7-E91",
+                    "episodeName": "Day 90: TTF Result and Reviews",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3227/1643227-h-c0adb423b164",
+                    "updateDate": "30-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "90",
+                    "duration": "51m",
+                    "episodeCode": "S7-E90",
+                    "episodeName": "Day 89: Hold on Tight!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2873/1642873-h-f3013442737e",
+                    "updateDate": "29-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "89",
+                    "duration": "47m",
+                    "episodeCode": "S7-E89",
+                    "episodeName": "Day 88: A Battle of Wits",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2445/1642445-h-6a256c577bbb",
+                    "updateDate": "28-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "88",
+                    "duration": "46m",
+                    "episodeCode": "S7-E88",
+                    "episodeName": "Day 87: Red Card, Green Card",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1913/1641913-h-9d75322a0a15",
+                    "updateDate": "27-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "87",
+                    "duration": "47m",
+                    "episodeCode": "S7-E87",
+                    "episodeName": "Day 86: 'Ticket to Finale' Race Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1392/1641392-h-3bf7a20e20ec",
+                    "updateDate": "26-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "86",
+                    "duration": "55m",
+                    "episodeCode": "S7-E86",
+                    "episodeName": "Day 85: Gratitude and Grudges",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/911/1640911-h-0cb200af38cc",
+                    "updateDate": "25-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "85",
+                    "duration": "1h 8m",
+                    "episodeCode": "S7-E85",
+                    "episodeName": "Day 84: What's Your Roadmap?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/556/1640556-h-dfe1a206f6b3",
+                    "updateDate": "24-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "84",
+                    "duration": "1h 5m",
+                    "episodeCode": "S7-E84",
+                    "episodeName": "Day 83: Heartfelt Talks",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/249/1640249-h-613501185c68",
+                    "updateDate": "23-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "83",
+                    "duration": "46m",
+                    "episodeCode": "S7-E83",
+                    "episodeName": "Day 82: Joyful Surprises",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9877/1639877-h-5772af7f3058",
+                    "updateDate": "22-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "82",
+                    "duration": "57m",
+                    "episodeCode": "S7-E82",
+                    "episodeName": "Day 81: A Warning from BB",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9416/1639416-h-46bf665cca50",
+                    "updateDate": "21-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "81",
+                    "duration": "53m",
+                    "episodeCode": "S7-E81",
+                    "episodeName": "Day 80: Crowd Favourite",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9021/1639021-h-bf67472a2543",
+                    "updateDate": "20-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "80",
+                    "duration": "48m",
+                    "episodeCode": "S7-E80",
+                    "episodeName": "Day 79: And Freeze!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8537/1638537-h-6fc14b06c49a",
+                    "updateDate": "19-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "79",
+                    "duration": "48m",
+                    "episodeCode": "S7-E79",
+                    "episodeName": "Day 78: Captain-Free Zone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8194/1638194-h-3c51eabadb25",
+                    "updateDate": "18-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "78",
+                    "duration": "1h 8m",
+                    "episodeCode": "S7-E78",
+                    "episodeName": "Day 77: Self Evaluation with Kamal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7849/1637849-h-298440de001a",
+                    "updateDate": "17-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "77",
+                    "duration": "1h 16m",
+                    "episodeCode": "S7-E77",
+                    "episodeName": "Day 76: Reality Check",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7276/1637276-h-bc5a807d084f",
+                    "updateDate": "16-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "76",
+                    "duration": "47m",
+                    "episodeCode": "S7-E76",
+                    "episodeName": "Day 75: It's Time to Celebrate!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6909/1636909-h-2475d1d3b682",
+                    "updateDate": "15-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "75",
+                    "duration": "1h 2m",
+                    "episodeCode": "S7-E75",
+                    "episodeName": "Day 74: Mid-Week Eviction",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6515/1636515-h-72bfad840cc7",
+                    "updateDate": "14-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "74",
+                    "duration": "52m",
+                    "episodeCode": "S7-E74",
+                    "episodeName": "Day 73: Dance Marathon",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5972/1635972-h-a51c53116fe2",
+                    "updateDate": "13-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "73",
+                    "duration": "48m",
+                    "episodeCode": "S7-E73",
+                    "episodeName": "Day 72: A Race Against Time",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5502/1635502-h-67377090001d",
+                    "updateDate": "12-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "72",
+                    "duration": "47m",
+                    "episodeCode": "S7-E72",
+                    "episodeName": "Day 71: A Fresh Start?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5025/1635025-h-b7ee247f6558",
+                    "updateDate": "11-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "71",
+                    "duration": "1h 9m",
+                    "episodeCode": "S7-E71",
+                    "episodeName": "Day 70: Housemates in the Hot Seat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4619/1634619-h-9b1f047254cf",
+                    "updateDate": "10-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "70",
+                    "duration": "1h 8m",
+                    "episodeCode": "S7-E70",
+                    "episodeName": "Day 69: Strike Card",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4219/1634219-h-384858697e8a",
+                    "updateDate": "09-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "69",
+                    "duration": "53m",
+                    "episodeCode": "S7-E69",
+                    "episodeName": "Day 68: Jackpot Task",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3766/1633766-h-04149452cd4a",
+                    "updateDate": "08-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "68",
+                    "duration": "49m",
+                    "episodeCode": "S7-E68",
+                    "episodeName": "Day 67: Nixen's Outburst",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3294/1633294-h-3f88a1e9e296",
+                    "updateDate": "07-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "67",
+                    "duration": "47m",
+                    "episodeCode": "S7-E67",
+                    "episodeName": "Day 66: Galatta Kalloori",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2783/1632783-h-3c03f752c9b6",
+                    "updateDate": "06-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "66",
+                    "duration": "47m",
+                    "episodeCode": "S7-E66",
+                    "episodeName": "Day 65: Bommalattam Task",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2325/1632325-h-edfed9b328a6",
+                    "updateDate": "05-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "65",
+                    "duration": "52m",
+                    "episodeCode": "S7-E65",
+                    "episodeName": "Day 64: Captain Vishnu's Call",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1980/1631980-h-4f9096dd6cf1",
+                    "updateDate": "04-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "64",
+                    "duration": "1h 9m",
+                    "episodeCode": "S7-E64",
+                    "episodeName": "Day 63: Favouritism and Farewell",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1535/1631535-h-34db9c1b8560",
+                    "updateDate": "03-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "63",
+                    "duration": "1h 17m",
+                    "episodeCode": "S7-E63",
+                    "episodeName": "Day 62: Kamal's View on Captaincy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1186/1631186-h-828ab2467b29",
+                    "updateDate": "02-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "62",
+                    "duration": "47m",
+                    "episodeCode": "S7-E62",
+                    "episodeName": "Day 61: Captaincy Contender Chaos",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/928/1630928-h-833047a42e55",
+                    "updateDate": "01-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "61",
+                    "duration": "57m",
+                    "episodeCode": "S7-E61",
+                    "episodeName": "Day 60: Ties Create Troubles",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/477/1630477-h-9ae342ed6d13",
+                    "updateDate": "30-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "60",
+                    "duration": "48m",
+                    "episodeCode": "S7-E60",
+                    "episodeName": "Day 59: Nixen's Reign",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/179/1630179-h-8854a349a828",
+                    "updateDate": "29-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "59",
+                    "duration": "48m",
+                    "episodeCode": "S7-E59",
+                    "episodeName": "Day 58: Please Sir... Please Sir!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9774/1629774-h-4a449609d83d",
+                    "updateDate": "28-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "58",
+                    "duration": "48m",
+                    "episodeCode": "S7-E58",
+                    "episodeName": "Day 57: Harish's Surprise Visit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9360/1629360-h-1e86892c7321",
+                    "updateDate": "27-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "57",
+                    "duration": "1h 9m",
+                    "episodeCode": "S7-E57",
+                    "episodeName": "Day 56: Don't Break the Rules!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9023/1629023-h-6017c69a416c",
+                    "updateDate": "26-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "56",
+                    "duration": "1h 21m",
+                    "episodeCode": "S7-E56",
+                    "episodeName": "Day 55: Boogambam By Kamal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8777/1628777-h-aa024d45f38e",
+                    "updateDate": "25-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "55",
+                    "duration": "47m",
+                    "episodeCode": "S7-E55",
+                    "episodeName": "Day 54: Captaincy and Gold Star",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8576/1628576-h-71e9b6cf7933",
+                    "updateDate": "24-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "54",
+                    "duration": "48m",
+                    "episodeCode": "S7-E54",
+                    "episodeName": "Day 53: A Planned Attack",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8260/1628260-h-73f420701370",
+                    "updateDate": "23-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "53",
+                    "duration": "48m",
+                    "episodeCode": "S7-E53",
+                    "episodeName": "Day 52: Blame Game",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7945/1627945-h-18a6892f4ff3",
+                    "updateDate": "22-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "52",
+                    "duration": "48m",
+                    "episodeCode": "S7-E52",
+                    "episodeName": "Day 51: Tremors and Tiffs",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7543/1627543-h-8e0d41ca82cb",
+                    "updateDate": "21-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "51",
+                    "duration": "48m",
+                    "episodeCode": "S7-E51",
+                    "episodeName": "Day 50: A Shocking Twist!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7203/1627203-h-24403ddb1a8b",
+                    "updateDate": "20-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "50",
+                    "duration": "1h 3m",
+                    "episodeCode": "S7-E50",
+                    "episodeName": "Day 49: Happy 50th!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6834/1626834-h-1a893b3dd0da",
+                    "updateDate": "19-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "49",
+                    "duration": "1h 19m",
+                    "episodeCode": "S7-E49",
+                    "episodeName": "Day 48: Give Respect, Take Respect",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6669/1626669-h-5d901e887cec",
+                    "updateDate": "18-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "48",
+                    "duration": "1h 7m",
+                    "episodeCode": "S7-E48",
+                    "episodeName": "Day 47: Archana, Vichithra's Rebellion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6451/1626451-h-a24f37b9bdd4",
+                    "updateDate": "17-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "47",
+                    "duration": "48m",
+                    "episodeCode": "S7-E47",
+                    "episodeName": "Day 46: Who's the Best?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6140/1626140-h-0bf0d0939469",
+                    "updateDate": "16-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "46",
+                    "duration": "48m",
+                    "episodeCode": "S7-E46",
+                    "episodeName": "Day 45: Unnai Pol Oruvan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5780/1625780-h-6b2bda54dcf1",
+                    "updateDate": "15-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "45",
+                    "duration": "48m",
+                    "episodeCode": "S7-E45",
+                    "episodeName": "Day 44: Bedroom Access at Stake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5450/1625450-h-f1334d9de0a1",
+                    "updateDate": "14-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "44",
+                    "duration": "48m",
+                    "episodeCode": "S7-E44",
+                    "episodeName": "Day 43: BB and SB Unite for a Week!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5171/1625171-h-a15aa5d8f368",
+                    "updateDate": "13-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "43",
+                    "duration": "1h 8m",
+                    "episodeCode": "S7-E43",
+                    "episodeName": "Day 42: Happy Deepavali!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4844/1624844-h-9636e445bf97",
+                    "updateDate": "12-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "42",
+                    "duration": "1h 16m",
+                    "episodeCode": "S7-E42",
+                    "episodeName": "Day 41: Kamal’s Verdict",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4584/1624584-h-bbd6e422c8eb",
+                    "updateDate": "11-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "41",
+                    "duration": "48m",
+                    "episodeCode": "S7-E41",
+                    "episodeName": "Day 40: An Intense Court Session",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4333/1624333-h-ea69548947cc",
+                    "updateDate": "10-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "40",
+                    "duration": "47m",
+                    "episodeCode": "S7-E40",
+                    "episodeName": "Day 39: BB Court",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4001/1624001-h-b7694310f18a",
+                    "updateDate": "09-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "39",
+                    "duration": "48m",
+                    "episodeCode": "S7-E39",
+                    "episodeName": "Day 38: Guess Who",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3694/1623694-h-9ed2507f40cd",
+                    "updateDate": "08-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "38",
+                    "duration": "1h 23m",
+                    "episodeCode": "S7-E38",
+                    "episodeName": "Day 37: Kamal's Birthday Celebrations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3366/1623366-h-c8d6d90bb57b",
+                    "updateDate": "07-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "37",
+                    "duration": "57m",
+                    "episodeCode": "S7-E37",
+                    "episodeName": "Day 36: A Never-ending Strife",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2986/1622986-h-69d5fb3d3daf",
+                    "updateDate": "06-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "36",
+                    "duration": "1h 7m",
+                    "episodeCode": "S7-E36",
+                    "episodeName": "Day 35: Enlightenment and Eviction",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2615/1622615-h-d3db3e5c5534",
+                    "updateDate": "05-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "35",
+                    "duration": "1h 9m",
+                    "episodeCode": "S7-E35",
+                    "episodeName": "Day 34: Urimai Kural",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2310/1622310-h-f704348f1c57",
+                    "updateDate": "04-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "34",
+                    "duration": "48m",
+                    "episodeCode": "S7-E34",
+                    "episodeName": "Day 33: First Jail Entry",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2002/1622002-h-c5c5d7822e8e",
+                    "updateDate": "03-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "33",
+                    "duration": "47m",
+                    "episodeCode": "S7-E33",
+                    "episodeName": "Day 32: Vichithra vs SB House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1551/1621551-h-6ba82ca1d148",
+                    "updateDate": "02-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "32",
+                    "duration": "48m",
+                    "episodeCode": "S7-E32",
+                    "episodeName": "Day 31: BB Talent Show",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1160/1621160-h-1fc1e6a78580",
+                    "updateDate": "01-11-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "31",
+                    "duration": "47m",
+                    "episodeCode": "S7-E31",
+                    "episodeName": "Day 30: Don't Move!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/831/1620831-h-87609df27b68",
+                    "updateDate": "31-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "30",
+                    "duration": "47m",
+                    "episodeCode": "S7-E30",
+                    "episodeName": "Day 29: Cold Reception",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/388/1620388-h-891456952cb5",
+                    "updateDate": "30-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "29",
+                    "duration": "2h 7m",
+                    "episodeCode": "S7-E29",
+                    "episodeName": "Day 28: Wildcard Special",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9856/1619856-h-6f80edb6e43b",
+                    "updateDate": "29-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "28",
+                    "duration": "1h 9m",
+                    "episodeCode": "S7-E28",
+                    "episodeName": "Day 27: It's Time for a Kurumpadam",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9338/1619338-h-355422a71cdc",
+                    "updateDate": "28-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "27",
+                    "duration": "47m",
+                    "episodeCode": "S7-E27",
+                    "episodeName": "Day 26: A Crazy Day for the Captain",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9027/1619027-h-57af05e3da60",
+                    "updateDate": "27-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "26",
+                    "duration": "47m",
+                    "episodeCode": "S7-E26",
+                    "episodeName": "Day 25: Ranking Task",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8535/1618535-h-7013538e1a02",
+                    "updateDate": "26-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "25",
+                    "duration": "47m",
+                    "episodeCode": "S7-E25",
+                    "episodeName": "Day 24: Like or Dislike?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7949/1617949-h-928a9592e2f4",
+                    "updateDate": "25-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "24",
+                    "duration": "47m",
+                    "episodeCode": "S7-E24",
+                    "episodeName": "Day 23: Battery Recharge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7377/1617377-h-09ad817b55d0",
+                    "updateDate": "24-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "23",
+                    "duration": "47m",
+                    "episodeCode": "S7-E23",
+                    "episodeName": "Day 22: Poornima in Dilemma",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6810/1616810-h-db1511605ef6",
+                    "updateDate": "23-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "22",
+                    "duration": "1h 8m",
+                    "episodeCode": "S7-E22",
+                    "episodeName": "Day 21: Kamal's Special Class",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6229/1616229-h-6b5ee66714e6",
+                    "updateDate": "22-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "21",
+                    "duration": "1h 3m",
+                    "episodeCode": "S7-E21",
+                    "episodeName": "Day 20: Appreciations and Captaincy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5767/1615767-h-63a98197ef4a",
+                    "updateDate": "21-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "20",
+                    "duration": "47m",
+                    "episodeCode": "S7-E20",
+                    "episodeName": "Day 19: Food Crisis",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5427/1615427-h-be27b8f69c55",
+                    "updateDate": "20-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "19",
+                    "duration": "47m",
+                    "episodeCode": "S7-E19",
+                    "episodeName": "Day 18: Code Red! Code Red!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4762/1614762-h-1508d3693b55",
+                    "updateDate": "19-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "18",
+                    "duration": "48m",
+                    "episodeCode": "S7-E18",
+                    "episodeName": "Day 17: The Cursed Stone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3595/1613595-h-b9c8c24afa31",
+                    "updateDate": "18-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "17",
+                    "duration": "48m",
+                    "episodeCode": "S7-E17",
+                    "episodeName": "Day 16: Rasi Palan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2953/1612953-h-eb1e626ffd76",
+                    "updateDate": "17-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "16",
+                    "duration": "47m",
+                    "episodeCode": "S7-E16",
+                    "episodeName": "Day 15: A Joyous Day for Vishnu",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2473/1612473-h-ba38536ce634",
+                    "updateDate": "16-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "15",
+                    "duration": "1h 6m",
+                    "episodeCode": "S7-E15",
+                    "episodeName": "Day 14: Relax BB, Relax!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1868/1611868-h-d15e33ecc56c",
+                    "updateDate": "15-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "14",
+                    "duration": "1h 4m",
+                    "episodeCode": "S7-E14",
+                    "episodeName": "Day 13: Kamal's Wise Counsel",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1731/1611731-h-0ec664f3c200",
+                    "updateDate": "14-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "13",
+                    "duration": "48m",
+                    "episodeCode": "S7-E13",
+                    "episodeName": "Day 12: Aryamaala, Aryamaala",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1334/1611334-h-2b98d39e58ca",
+                    "updateDate": "13-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "12",
+                    "duration": "1h 7m",
+                    "episodeCode": "S7-E12",
+                    "episodeName": "Day 11: What's Cooking in the House?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/445/1610445-h-119b37da8de1",
+                    "updateDate": "12-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "11",
+                    "duration": "47m",
+                    "episodeCode": "S7-E11",
+                    "episodeName": "Day 10: Star Task",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9877/1609877-h-d96271d8f688",
+                    "updateDate": "11-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "10",
+                    "duration": "47m",
+                    "episodeCode": "S7-E10",
+                    "episodeName": "Day 9: A Lucky Day for Small Boss Housemates",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9185/1609185-h-cc78a2527e0d",
+                    "updateDate": "10-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "9",
+                    "duration": "48m",
+                    "episodeCode": "S7-E9",
+                    "episodeName": "Day 8: An Emotional Breakdown and Exit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8444/1608444-h-265d67860fe6",
+                    "updateDate": "09-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "8",
+                    "duration": "1h 7m",
+                    "episodeCode": "S7-E8",
+                    "episodeName": "Day 7: Kamal Issues a Strike Card",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8073/1608073-h-c39b02f68997",
+                    "updateDate": "08-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "7",
+                    "duration": "1h 12m",
+                    "episodeCode": "S7-E7",
+                    "episodeName": "Day 6: A Weekly Recap with Kamal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7787/1607787-h-ea91a3f33108",
+                    "updateDate": "07-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "6",
+                    "duration": "1h 7m",
+                    "episodeCode": "S7-E6",
+                    "episodeName": "Day 5: A Fun Debate Intensifies",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7203/1607203-h-bbb9b0cb2274",
+                    "updateDate": "06-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "5",
+                    "duration": "48m",
+                    "episodeCode": "S7-E5",
+                    "episodeName": "Day 4: Its Time to Pay the Credits",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6699/1606699-h-fc22f52f8614",
+                    "updateDate": "05-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "4",
+                    "duration": "46m",
+                    "episodeCode": "S7-E4",
+                    "episodeName": "Day 3: A Popularity Showdown",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5944/1605944-h-c9c5288249bb",
+                    "updateDate": "04-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "3",
+                    "duration": "48m",
+                    "episodeCode": "S7-E3",
+                    "episodeName": "Day 2: A Clash for the Household Chores",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4766/1604766-h-6729f1ae69c5",
+                    "updateDate": "03-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "2",
+                    "duration": "47m",
+                    "episodeCode": "S7-E2",
+                    "episodeName": "Day 1: Bigg House, Small House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4225/1604225-h-d04736743d60",
+                    "updateDate": "02-10-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "1",
+                    "duration": "3h 44m",
+                    "episodeCode": "S7-E1",
+                    "episodeName": "Season Premiere",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3958/1603958-h-bc8b6909e945",
+                    "updateDate": "01-10-2023",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
