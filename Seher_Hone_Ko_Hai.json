@@ -214,6 +214,406 @@
                     "episodeUrl": ""
                 },
                 {
+                    "seasonNumber": "2",
+                    "episodeNumber": "209",
+                    "duration": "21m",
+                    "episodeCode": "S2-E209",
+                    "episodeName": "Seher Faces a Dilemma",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6358/1788522446358-h",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "208",
+                    "duration": "20m",
+                    "episodeCode": "S2-E208",
+                    "episodeName": "Seher and Mahid Get Engaged",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9338/1788308289338-h",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "207",
+                    "duration": "21m",
+                    "episodeCode": "S2-E207",
+                    "episodeName": "Seher Accepts Mahid's Love",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2810/1788193302810-h",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "206",
+                    "duration": "20m",
+                    "episodeCode": "S2-E206",
+                    "episodeName": "Mahid Spellbound by Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7577/1788146557577-h",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "205",
+                    "duration": "43m",
+                    "episodeCode": "S2-E205",
+                    "episodeName": "Seher Fumes at Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8135/1787966138135-h",
+                    "updateDate": "29-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "204",
+                    "duration": "21m",
+                    "episodeCode": "S2-E204",
+                    "episodeName": "Mahid’s Fear of Losing Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5210/1787903975210-h",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "203",
+                    "duration": "22m",
+                    "episodeCode": "S2-E203",
+                    "episodeName": "Mahid's Marriage Proposal to Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1284/1787843281284-h",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "202",
+                    "duration": "22m",
+                    "episodeCode": "S2-E202",
+                    "episodeName": "Seher Uncovers Mahid's Reality",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4057/1787709354057-h",
+                    "updateDate": "26-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "201",
+                    "duration": "21m",
+                    "episodeCode": "S2-E201",
+                    "episodeName": "Seher Is in Severe Danger",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6467/1787626966467-h",
+                    "updateDate": "25-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "200",
+                    "duration": "21m",
+                    "episodeCode": "S2-E200",
+                    "episodeName": "Husna's Move Against Amaal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/195/1787536990195-h",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "24m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "Seher in a Fix",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/206/1773006830206-h",
+                    "updateDate": "09-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "69",
+                    "duration": "23m",
+                    "episodeCode": "S1-E69",
+                    "episodeName": "Wasim Schemes Against Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7703/1772779647703-h",
+                    "updateDate": "06-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "68",
+                    "duration": "22m",
+                    "episodeCode": "S1-E68",
+                    "episodeName": "Mahid Haunted by Memories",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/374/1772722540374-h",
+                    "updateDate": "05-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "67",
+                    "duration": "22m",
+                    "episodeCode": "S1-E67",
+                    "episodeName": "Amaal Seeks the Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3385/1772605313385-h",
+                    "updateDate": "04-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "66",
+                    "duration": "22m",
+                    "episodeCode": "S1-E66",
+                    "episodeName": "Seher Faces the Jungle's Threat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1588/1772517431588-h",
+                    "updateDate": "03-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "22m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "Seher, Mahid Face Forest Trouble",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1265/1772429201265-h",
+                    "updateDate": "02-03-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "64",
+                    "duration": "22m",
+                    "episodeCode": "S1-E64",
+                    "episodeName": "Mahid Fights Back",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8714/1772159278714-h",
+                    "updateDate": "27-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "22m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "Mahid Saves Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7691/1772106107691-h",
+                    "updateDate": "26-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "23m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "Husna Forces Kausar to Reveal Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2532/1772020672532-h",
+                    "updateDate": "25-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "24m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "Mahid Conceals Seher's Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2251/1771903792251-h",
+                    "updateDate": "24-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "23m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Seher Stands Her Ground",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7509/1771831817509-h",
+                    "updateDate": "23-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "23m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Seher's Ambition Unveiled",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9262/1771566749262-h",
+                    "updateDate": "20-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "23m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Mahid Hunts for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5482/1771472735482-h",
+                    "updateDate": "19-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "23m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Seher's Risky Escape",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5521/1771389915521-h",
+                    "updateDate": "18-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "23m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Kausar's Concern for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6054/1771317316054-h",
+                    "updateDate": "17-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "24m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Mahid's Gift for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4947/1771321124947-h",
+                    "updateDate": "16-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "23m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Sultana's Concern for Amaal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9765/1770996209765-h",
+                    "updateDate": "13-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "23m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Seher Earns the Niazis' Trust",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2064/1770863262064-h",
+                    "updateDate": "12-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "23m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Amaal's Artistic Aspirations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7149/1770780887149-h",
+                    "updateDate": "11-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "24m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Seher's Struggle to Prove Innocence",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5536/1770706875536-h",
+                    "updateDate": "10-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "22m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Seher's Freedom Put on Trial",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5864/1770602495864-h",
+                    "updateDate": "09-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "24m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Fareed Confides in Sultana",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5490/1770388905490-h",
+                    "updateDate": "06-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "23m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "Seher Reassures Kausar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5555/1770301275555-h",
+                    "updateDate": "05-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "22m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Mahid and Seher's Reception",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2728/1770214712728-h",
+                    "updateDate": "04-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "24m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Can Seher Truly Hide Her Pain?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5125/1770108185125-h",
+                    "updateDate": "03-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "24m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "A New Responsibility for Seher",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1169/1770007461169-h",
+                    "updateDate": "02-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "24m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Seher Trapped in Mahid's Rules",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8749/1769785068749-h",
+                    "updateDate": "30-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "24m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "Seher Faces a Cold Welcome",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/887/1769699220887-h",
+                    "updateDate": "29-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "23m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Seher Faces a Painful Moment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3336/1769613253336-h",
+                    "updateDate": "28-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "23m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Mahid Saves Seher's Life",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2405/1769526592405-h",
+                    "updateDate": "27-01-2026",
+                    "episodeUrl": ""
+                },
+                {
                     "seasonNumber": "1",
                     "episodeNumber": "40",
                     "duration": "24m",
