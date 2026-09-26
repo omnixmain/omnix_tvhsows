@@ -1,0 +1,59 @@
+{
+    "tvShows": [
+        {
+            "name": "Sayonee",
+            "banner": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/8982/1789906048982-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "September 26, 2026",
+            "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "24m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Maya Threatens Indira",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6652/1790383716652-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "22m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Saanvi Walks Out of the Shoot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8240/1790298278240-h",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "23m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Saanvi's Locket Reveals a Mystery",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6201/1790154776201-h",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Saanvi's Mother's Day Wish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4705/1790101344705-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
