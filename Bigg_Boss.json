@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "21",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E21",
+                    "episodeName": "BBHin Day 20: Salman Ka Reality Check!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8699/1790434958699-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-26th-september-2026/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "20",
                     "duration": "1h 12m",
                     "episodeCode": "S20-E20",
