@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "1h 11m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "BBBan Day 27: Dadar Darbar Turns Intense",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5113/1790426695113-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "27",
                     "duration": "58m",
                     "episodeCode": "S1-E27",
