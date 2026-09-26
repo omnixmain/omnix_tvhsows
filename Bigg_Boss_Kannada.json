@@ -1,0 +1,719 @@
+{
+    "tvShows": [
+        {
+            "name": "Bigg Boss Kannada",
+            "banner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "September 26, 2026",
+            "description": "Watch Bigg Boss Kannada on JioHotstar.",
+            "episodes": [
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "20",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E20",
+                    "episodeName": "BBKan Day 19: Eviction Turns Emotional",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8754/1790339218754-h",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "19",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E19",
+                    "episodeName": "BBKan Day 18: Advantagers Get a Bigg Offer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2093/1790254822093-h",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "18",
+                    "duration": "1h 6m",
+                    "episodeCode": "S13-E18",
+                    "episodeName": "BBKan Day 17: Roses or Thorns?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2245/1790171542245-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "17",
+                    "duration": "1h 4m",
+                    "episodeCode": "S13-E17",
+                    "episodeName": "BBKan Day 16: Kitchen Mess Triggers Fight",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/458/1790088250458-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "16",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E16",
+                    "episodeName": "BBKan Day 15: Emergency Exit Alert!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5532/1789994285532-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "15",
+                    "duration": "1h 26m",
+                    "episodeCode": "S13-E15",
+                    "episodeName": "BBKan Day 14: Who Gets Trapped?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/611/1789902350611-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "14",
+                    "duration": "1h 25m",
+                    "episodeCode": "S13-E14",
+                    "episodeName": "BBKan Day 13: High Drama in Panchayati",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4219/1789819934219-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "13",
+                    "duration": "1h 6m",
+                    "episodeCode": "S13-E13",
+                    "episodeName": "BBKan Day 12: Who Claims First Captaincy?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/154/1789737410154-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "12",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E12",
+                    "episodeName": "BBKan Day 11: Kitchen Theft Leads to Chaos",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6677/1789651006677-h",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "11",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E11",
+                    "episodeName": "BBKan Day 10: Game Flips After Nominations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8393/1789564038393-h",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "10",
+                    "duration": "1h 2m",
+                    "episodeCode": "S13-E10",
+                    "episodeName": "BBKan Day 9: First Nominations of the Season",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7346/1789474387346-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "9",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E9",
+                    "episodeName": "BBKan Day 8: Celebrations and Contendership",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8794/1789381718794-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "8",
+                    "duration": "1h 25m",
+                    "episodeCode": "S13-E8",
+                    "episodeName": "BBKan Day 7: First Eviction Shocks the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/501/1789300870501-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "7",
+                    "duration": "1h 26m",
+                    "episodeCode": "S13-E7",
+                    "episodeName": "BBKan Day 6: Weekend Panchayati",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3916/1789224473916-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "6",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E6",
+                    "episodeName": "BBKan Day 5: Last Diamond Task War!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4694/1789134634694-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "5",
+                    "duration": "1h 3m",
+                    "episodeCode": "S13-E5",
+                    "episodeName": "BBKan Day 4: Flight Swap Fight",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1887/1789042291887-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "4",
+                    "duration": "1h 3m",
+                    "episodeCode": "S13-E4",
+                    "episodeName": "BBKan Day 3: Cooking and Conflicts",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2127/1788961122127-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "3",
+                    "duration": "1h 3m",
+                    "episodeCode": "S13-E3",
+                    "episodeName": "BBKan Day 2: Path to First VIP!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9572/1788863589572-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "2",
+                    "duration": "1h 7m",
+                    "episodeCode": "S13-E2",
+                    "episodeName": "BBKan Day 1: Sweet Garlands, Brutal Kicks!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8957/1788793288957-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "1",
+                    "duration": "3h 8m",
+                    "episodeCode": "S13-E1",
+                    "episodeName": "BBKan: Grand Take Off",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2126/1788688232126-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "54",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E54",
+                    "episodeName": "BBKan Day 53: Rage and Hunger in the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6959/1763647646959-h",
+                    "updateDate": "20-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "53",
+                    "duration": "1h 3m",
+                    "episodeCode": "S12-E53",
+                    "episodeName": "BBKan Day 52: Ashwini vs the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9085/1763555849085-h",
+                    "updateDate": "19-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "51",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E51",
+                    "episodeName": "BBKan Day 50: Rule-Breakers Get Their Due",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2558/1763382822558-h",
+                    "updateDate": "17-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "49",
+                    "duration": "1h 24m",
+                    "episodeCode": "S12-E49",
+                    "episodeName": "BBKan Day 48: Housemates Face Sudeep’s Critique",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2649/1763213582649-h",
+                    "updateDate": "15-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "48",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E48",
+                    "episodeName": "BBKan Day 47: House Duties Face New Trials",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8553/1763127618553-h",
+                    "updateDate": "14-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "47",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E47",
+                    "episodeName": "BBKan Day 46: Safe Team Wins, Unity Still Lost!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5213/1763041585213-h",
+                    "updateDate": "13-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "46",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E46",
+                    "episodeName": "BBKan Day 45: Victory Sparks Heated Team Clash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6007/1762956186007-h",
+                    "updateDate": "12-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "45",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E45",
+                    "episodeName": "BBKan Day 44: Water Poured, Tempers Soar!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7607/1762864407607-h",
+                    "updateDate": "11-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "44",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E44",
+                    "episodeName": "BBKan Day 43: Drama Peaks in Chilli Challenge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3517/1762780333517-h",
+                    "updateDate": "10-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "43",
+                    "duration": "1h 24m",
+                    "episodeCode": "S12-E43",
+                    "episodeName": "BBKan Day 42: Yellow or Red Card?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3000/1762685223000-h",
+                    "updateDate": "09-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "42",
+                    "duration": "1h 25m",
+                    "episodeCode": "S12-E42",
+                    "episodeName": "BBKan Day 41: Kichchana Chappale Goes to...",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8643/1762610478643-h",
+                    "updateDate": "08-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "41",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E41",
+                    "episodeName": "BBKan Day 40: Captain Mallu Takes Charge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1119/1762522331119-h",
+                    "updateDate": "07-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "40",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E40",
+                    "episodeName": "BBKan Day 39: Letters, Loyalties, and Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5125/1762434995125-h",
+                    "updateDate": "06-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "39",
+                    "duration": "1h 4m",
+                    "episodeCode": "S12-E39",
+                    "episodeName": "BBKan Day 38: Rift Ignites Over Family Letter",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1823/1762350121823-h",
+                    "updateDate": "05-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "38",
+                    "duration": "1h 1m",
+                    "episodeCode": "S12-E38",
+                    "episodeName": "BBKan Day 37: An Unexpected Twist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5565/1762262495565-h",
+                    "updateDate": "04-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "37",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E37",
+                    "episodeName": "BBKan Day 36: Who Deserves to Stay?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1964/1762176091964-h",
+                    "updateDate": "03-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "36",
+                    "duration": "1h 25m",
+                    "episodeCode": "S12-E36",
+                    "episodeName": "BBKan Day 35: Sudeep’s English Twist for Gilli",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/305/1762093410305-h",
+                    "updateDate": "02-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "35",
+                    "duration": "1h 26m",
+                    "episodeCode": "S12-E35",
+                    "episodeName": "BBKan Day 34: Sudeep Reviews the Task Fight",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3872/1762003493872-h",
+                    "updateDate": "01-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "34",
+                    "duration": "1h 6m",
+                    "episodeCode": "S12-E34",
+                    "episodeName": "BBKan Day 33: BB Fest Turns Dramatic",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/316/1761920160316-h",
+                    "updateDate": "31-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "33",
+                    "duration": "1h 4m",
+                    "episodeCode": "S12-E33",
+                    "episodeName": "BBKan Day 32: Cultural Day at BB College",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7825/1761833657825-h",
+                    "updateDate": "30-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "32",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E32",
+                    "episodeName": "BBKan Day 31: Duty Drama to Kabaddi Conflict",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7746/1761745387746-h",
+                    "updateDate": "29-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "31",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E31",
+                    "episodeName": "BBKan Day 30: A Phone Call to the Parents",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6458/1761657776458-h",
+                    "updateDate": "28-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "30",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E30",
+                    "episodeName": "BBKan Day 29: Back to College!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7676/1761572687676-h",
+                    "updateDate": "27-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "29",
+                    "duration": "1h 19m",
+                    "episodeCode": "S12-E29",
+                    "episodeName": "BBKan Day 28: Super Sunday with Sudeep",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4387/1761487884387-h",
+                    "updateDate": "26-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "28",
+                    "duration": "1h 25m",
+                    "episodeCode": "S12-E28",
+                    "episodeName": "BBKan Day 27: Right, Wrong and Ruckus",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5920/1761396105920-h",
+                    "updateDate": "25-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "27",
+                    "duration": "1h 1m",
+                    "episodeCode": "S12-E27",
+                    "episodeName": "BBKan Day 26: Who Will Take the Captain’s Seat?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8813/1761311648813-h",
+                    "updateDate": "24-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "26",
+                    "duration": "1h 4m",
+                    "episodeCode": "S12-E26",
+                    "episodeName": "BBKan Day 25: Diwali Lights, Heated Fights",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4864/1761228344864-h",
+                    "updateDate": "23-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "25",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E25",
+                    "episodeName": "BBKan Day 24: Captaincy Task Ignites Clashes!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4735/1761141204735-h",
+                    "updateDate": "22-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "24",
+                    "duration": "1h 6m",
+                    "episodeCode": "S12-E24",
+                    "episodeName": "BBKan Day 23: Hearts on the Line",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1275/1761043261275-h",
+                    "updateDate": "21-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "23",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E23",
+                    "episodeName": "BBKan Day 22: Wild Cards Shake Up the Game",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/632/1760955530632-h",
+                    "updateDate": "20-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "22",
+                    "duration": "2h 8m",
+                    "episodeCode": "S12-E22",
+                    "episodeName": "BBKan Day 21: Grand Launch 2.0",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8194/1760872778194-h",
+                    "updateDate": "19-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "21",
+                    "duration": "2h 10m",
+                    "episodeCode": "S12-E21",
+                    "episodeName": "BBKan Day 20: 1st Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6199/1760787816199-h",
+                    "updateDate": "18-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "20",
+                    "duration": "1h 3m",
+                    "episodeCode": "S12-E20",
+                    "episodeName": "BBKan Day 19: BB News Panel",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1769/1760708611769-h",
+                    "updateDate": "17-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "19",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E19",
+                    "episodeName": "BBKan Day 18: Party Ends, Panic Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/656/1760620170656-h",
+                    "updateDate": "16-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "18",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E18",
+                    "episodeName": "BBKan Day 17: Finale Line-Up Takes a Turn",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6621/1760534036621-h",
+                    "updateDate": "15-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "17",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E17",
+                    "episodeName": "BBKan Day 16: Twists Rock the Road to the Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6764/1760447986764-h",
+                    "updateDate": "14-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "16",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E16",
+                    "episodeName": "BBKan Day 15: BB Breaks the Bond!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1863/1760348651863-h",
+                    "updateDate": "13-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "15",
+                    "duration": "1h 26m",
+                    "episodeCode": "S12-E15",
+                    "episodeName": "BBKan Day 14: House of Crowns",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2987/1760275172987-h",
+                    "updateDate": "12-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "14",
+                    "duration": "1h 26m",
+                    "episodeCode": "S12-E14",
+                    "episodeName": "BBKan Day 13: Sudeep’s Back in Action",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9321/1760185059321-h",
+                    "updateDate": "11-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "13",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E13",
+                    "episodeName": "BBKan Day 12: Janti Go on a Strike",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6226/1760104356226-h",
+                    "updateDate": "10-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "12",
+                    "duration": "57m",
+                    "episodeCode": "S12-E12",
+                    "episodeName": "BBKan Day 11: Sudden Exit, What’s the Truth?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2400/1760017252400-h",
+                    "updateDate": "09-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "11",
+                    "duration": "55m",
+                    "episodeCode": "S12-E11",
+                    "episodeName": "BBKan Day 10: Fight for A Spot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8514/1759927598514-h",
+                    "updateDate": "08-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "10",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E10",
+                    "episodeName": "BBKan Day 9: Nomination Drama Hits BB House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/372/1759842660372-h",
+                    "updateDate": "07-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "9",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E9",
+                    "episodeName": "BBKan Day 8: Clash of Onti and Janti",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6652/1759749126652-h",
+                    "updateDate": "06-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "7",
+                    "duration": "1h 22m",
+                    "episodeCode": "S12-E7",
+                    "episodeName": "BBKan Day 6: Sudeep Kicks Off First Panchayati",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6946/1759583286946-h",
+                    "updateDate": "04-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "6",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E6",
+                    "episodeName": "BBKan Day 5: Nominations Begin With a Twist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6641/1759503826641-h",
+                    "updateDate": "03-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "5",
+                    "duration": "1h 1m",
+                    "episodeCode": "S12-E5",
+                    "episodeName": "BBKan Day 4: Blame Game",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8749/1759411448749-h",
+                    "updateDate": "02-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "4",
+                    "duration": "1h 6m",
+                    "episodeCode": "S12-E4",
+                    "episodeName": "BBKan Day 3: A Secret Task from BB",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5963/1759330805963-h",
+                    "updateDate": "01-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "3",
+                    "duration": "1h 4m",
+                    "episodeCode": "S12-E3",
+                    "episodeName": "BBKan Day 2: Finale Task Already in Week One?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3893/1759238023893-h",
+                    "updateDate": "30-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "2",
+                    "duration": "1h 2m",
+                    "episodeCode": "S12-E2",
+                    "episodeName": "BBKan Day 1: Early Eviction Shocker!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9416/1759157699416-h",
+                    "updateDate": "29-09-2025",
+                    "episodeUrl": ""
+                }
+            ]
+        }
+    ]
+}
