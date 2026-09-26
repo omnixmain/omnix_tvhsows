@@ -8,11 +8,21 @@
             "year": "2026",
             "ageRating": "U/A 13+",
             "streaming": "JioHotstar",
-            "streamingLogo": "https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
             "ottReleaseDate": "September 26, 2026",
             "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "24m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Maya Threatens Indira",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6652/1790383716652-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "3",
