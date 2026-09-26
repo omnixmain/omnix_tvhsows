@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "21",
+                    "duration": "1h 3m",
+                    "episodeCode": "S10-E21",
+                    "episodeName": "BBTam Day 20: Eviction Twist Unvieled",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7511/1790426297511-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "20",
                     "duration": "1h 5m",
                     "episodeCode": "S10-E20",
@@ -2331,6 +2341,266 @@
                     "episodeName": "Season Premiere",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3554/1728242013554-h",
                     "updateDate": "06-10-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "106",
+                    "duration": "3h 37m",
+                    "episodeCode": "S7-E106",
+                    "episodeName": "Day 105: Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9174/1649174-h-17140e3edd02",
+                    "updateDate": "14-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "105",
+                    "duration": "1h 8m",
+                    "episodeCode": "S7-E105",
+                    "episodeName": "Day 104: Ex-Contestants Bid Goodbye",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8609/1648609-h-f953a7a20170",
+                    "updateDate": "13-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "104",
+                    "duration": "1h 12m",
+                    "episodeCode": "S7-E104",
+                    "episodeName": "Day 103: A Journey To Remember",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8232/1648232-h-c3145bdf0493",
+                    "updateDate": "12-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "103",
+                    "duration": "47m",
+                    "episodeCode": "S7-E103",
+                    "episodeName": "Day 102: A Happy Reunion",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7850/1647850-h-f53d3ec04df9",
+                    "updateDate": "11-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "102",
+                    "duration": "48m",
+                    "episodeCode": "S7-E102",
+                    "episodeName": "Day 101: Top Five Declared!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7414/1647414-h-2d99f03f4d4b",
+                    "updateDate": "10-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "101",
+                    "duration": "47m",
+                    "episodeCode": "S7-E101",
+                    "episodeName": "Day 100: The Trio's Entry",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7012/1647012-h-7c5a090086b7",
+                    "updateDate": "09-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "100",
+                    "duration": "47m",
+                    "episodeCode": "S7-E100",
+                    "episodeName": "Day 99: Vote Appeal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6659/1646659-h-5c568eddc8f5",
+                    "updateDate": "08-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "99",
+                    "duration": "1h 7m",
+                    "episodeCode": "S7-E99",
+                    "episodeName": "Day 98: What's Your USP?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6314/1646314-h-e3433e3ff1d9",
+                    "updateDate": "07-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "98",
+                    "duration": "1h 2m",
+                    "episodeCode": "S7-E98",
+                    "episodeName": "Day 97: Beyond the Money Box",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6094/1646094-h-6b62ee347286",
+                    "updateDate": "06-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "97",
+                    "duration": "47m",
+                    "episodeCode": "S7-E97",
+                    "episodeName": "Day 96: The Magals' Surprise Visit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5810/1645810-h-fbf5500eba37",
+                    "updateDate": "05-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "96",
+                    "duration": "46m",
+                    "episodeCode": "S7-E96",
+                    "episodeName": "Day 95: Disputes and Dilemma",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5366/1645366-h-cd451d4ffd3a",
+                    "updateDate": "04-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "95",
+                    "duration": "45m",
+                    "episodeCode": "S7-E95",
+                    "episodeName": "Day 94: Where Is Maya?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4835/1644835-h-291589b6ab7f",
+                    "updateDate": "03-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "94",
+                    "duration": "46m",
+                    "episodeCode": "S7-E94",
+                    "episodeName": "Day 93: Enticing Offers and Stories",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4331/1644331-h-2d57ffd3a44e",
+                    "updateDate": "02-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "93",
+                    "duration": "46m",
+                    "episodeCode": "S7-E93",
+                    "episodeName": "Day 92: Happy New Year!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3931/1643931-h-208ac8d53415",
+                    "updateDate": "01-01-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "92",
+                    "duration": "1h 11m",
+                    "episodeCode": "S7-E92",
+                    "episodeName": "Day 91: An Ultimate Surprise or Shocker?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3543/1643543-h-9c85c9234585",
+                    "updateDate": "31-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "91",
+                    "duration": "1h 11m",
+                    "episodeCode": "S7-E91",
+                    "episodeName": "Day 90: TTF Result and Reviews",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3227/1643227-h-c0adb423b164",
+                    "updateDate": "30-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "90",
+                    "duration": "51m",
+                    "episodeCode": "S7-E90",
+                    "episodeName": "Day 89: Hold on Tight!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2873/1642873-h-f3013442737e",
+                    "updateDate": "29-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "89",
+                    "duration": "47m",
+                    "episodeCode": "S7-E89",
+                    "episodeName": "Day 88: A Battle of Wits",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2445/1642445-h-6a256c577bbb",
+                    "updateDate": "28-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "88",
+                    "duration": "46m",
+                    "episodeCode": "S7-E88",
+                    "episodeName": "Day 87: Red Card, Green Card",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1913/1641913-h-9d75322a0a15",
+                    "updateDate": "27-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "87",
+                    "duration": "47m",
+                    "episodeCode": "S7-E87",
+                    "episodeName": "Day 86: 'Ticket to Finale' Race Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1392/1641392-h-3bf7a20e20ec",
+                    "updateDate": "26-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "86",
+                    "duration": "55m",
+                    "episodeCode": "S7-E86",
+                    "episodeName": "Day 85: Gratitude and Grudges",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/911/1640911-h-0cb200af38cc",
+                    "updateDate": "25-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "85",
+                    "duration": "1h 8m",
+                    "episodeCode": "S7-E85",
+                    "episodeName": "Day 84: What's Your Roadmap?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/556/1640556-h-dfe1a206f6b3",
+                    "updateDate": "24-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "84",
+                    "duration": "1h 5m",
+                    "episodeCode": "S7-E84",
+                    "episodeName": "Day 83: Heartfelt Talks",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/249/1640249-h-613501185c68",
+                    "updateDate": "23-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "83",
+                    "duration": "46m",
+                    "episodeCode": "S7-E83",
+                    "episodeName": "Day 82: Joyful Surprises",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9877/1639877-h-5772af7f3058",
+                    "updateDate": "22-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "82",
+                    "duration": "57m",
+                    "episodeCode": "S7-E82",
+                    "episodeName": "Day 81: A Warning from BB",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9416/1639416-h-46bf665cca50",
+                    "updateDate": "21-12-2023",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "7",
+                    "episodeNumber": "81",
+                    "duration": "53m",
+                    "episodeCode": "S7-E81",
+                    "episodeName": "Day 80: Crowd Favourite",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9021/1639021-h-bf67472a2543",
+                    "updateDate": "20-12-2023",
                     "episodeUrl": ""
                 },
                 {
