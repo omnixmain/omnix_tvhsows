@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2379/1789053792379-i",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "2",
                     "duration": "1h 0m",
                     "episodeCode": "S1-E2",
