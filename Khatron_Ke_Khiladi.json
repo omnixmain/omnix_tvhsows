@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "15",
+                    "episodeNumber": "17",
+                    "duration": "1h 9m",
+                    "episodeCode": "S15-E17",
+                    "episodeName": "Race to the Semi-finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3073/1790369883073-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
                     "episodeNumber": "16",
                     "duration": "1h 12m",
                     "episodeCode": "S15-E16",
