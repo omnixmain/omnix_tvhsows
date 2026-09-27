@@ -235,6 +235,166 @@
                 },
                 {
                     "seasonNumber": "9",
+                    "episodeNumber": "106",
+                    "duration": "2h 30m",
+                    "episodeCode": "S9-E106",
+                    "episodeName": "BBTel Day 105: Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6001/1766404386001-h",
+                    "updateDate": "21-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "105",
+                    "duration": "1h 11m",
+                    "episodeCode": "S9-E105",
+                    "episodeName": "BBTel Day 104: Stars Arrive and Secrets Spill",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3782/1766235423782-h",
+                    "updateDate": "20-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "104",
+                    "duration": "49m",
+                    "episodeCode": "S9-E104",
+                    "episodeName": "BBTel Day 103: Memories Before the Crown",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8630/1766149998630-h",
+                    "updateDate": "19-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "103",
+                    "duration": "47m",
+                    "episodeCode": "S9-E103",
+                    "episodeName": "BBTel Day 102: Journeys That Defined Them",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/78/1766064390078-h",
+                    "updateDate": "18-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "102",
+                    "duration": "46m",
+                    "episodeCode": "S9-E102",
+                    "episodeName": "BBTel Day 101: An Emotional Recap",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1430/1765974851430-h",
+                    "updateDate": "17-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "101",
+                    "duration": "42m",
+                    "episodeCode": "S9-E101",
+                    "episodeName": "BBTel Day 100: Pushing Limits in the Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3706/1765890303706-h",
+                    "updateDate": "16-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "100",
+                    "duration": "43m",
+                    "episodeCode": "S9-E100",
+                    "episodeName": "BBTel Day 99: One Beat Away from the Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1848/1765801281848-h",
+                    "updateDate": "15-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "99",
+                    "duration": "1h 5m",
+                    "episodeCode": "S9-E99",
+                    "episodeName": "BBTel Day 98: Sunday Funday with the King",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/915/1765724960915-h",
+                    "updateDate": "14-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "98",
+                    "duration": "1h 7m",
+                    "episodeCode": "S9-E98",
+                    "episodeName": "BBTel Day 97: Double Eviction?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7510/1765634207510-h",
+                    "updateDate": "13-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "97",
+                    "duration": "47m",
+                    "episodeCode": "S9-E97",
+                    "episodeName": "BBTel Day 96: Breakdown Before the Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5065/1765544225065-h",
+                    "updateDate": "12-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "96",
+                    "duration": "46m",
+                    "episodeCode": "S9-E96",
+                    "episodeName": "BBTel Day 95: Bigg Sacrifices",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4229/1765458504229-h",
+                    "updateDate": "11-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "95",
+                    "duration": "49m",
+                    "episodeCode": "S9-E95",
+                    "episodeName": "BBTel Day 94: The Finale Race Intensifies",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8652/1765373358652-h",
+                    "updateDate": "10-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "94",
+                    "duration": "42m",
+                    "episodeCode": "S9-E94",
+                    "episodeName": "BBTel Day 93: Fights, Fun and Fan Fury",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6629/1765290446629-h",
+                    "updateDate": "09-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "93",
+                    "duration": "43m",
+                    "episodeCode": "S9-E93",
+                    "episodeName": "BBTel Day 92: Idhi Fair Kaadhu BB!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/171/1765197250171-h",
+                    "updateDate": "08-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "92",
+                    "duration": "1h 6m",
+                    "episodeCode": "S9-E92",
+                    "episodeName": "BBTel Day 91: Game Night with Nagarjuna",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1282/1765112441282-h",
+                    "updateDate": "07-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "91",
+                    "duration": "1h 2m",
+                    "episodeCode": "S9-E91",
+                    "episodeName": "BBTel Day 90: Thumbs Up, Thumbs Down",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8592/1765027668592-h",
+                    "updateDate": "06-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
                     "episodeNumber": "90",
                     "duration": "55m",
                     "episodeCode": "S9-E90",
