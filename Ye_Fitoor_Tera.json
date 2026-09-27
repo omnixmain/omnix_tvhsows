@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "22m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Saumya's Alliance with Ridhan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7288/1790456067288-h",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "51",
                     "duration": "23m",
                     "episodeCode": "S1-E51",
