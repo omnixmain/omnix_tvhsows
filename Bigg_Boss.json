@@ -2355,6 +2355,86 @@
                 },
                 {
                     "seasonNumber": "13",
+                    "episodeNumber": "139",
+                    "duration": "2h 31m",
+                    "episodeCode": "S13-E139",
+                    "episodeName": "And the winner is …",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/898/1734091010898-h",
+                    "updateDate": "15-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "138",
+                    "duration": "1h 9m",
+                    "episodeCode": "S13-E138",
+                    "episodeName": "A stroll down the memory lane!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5103/1738848475103-h",
+                    "updateDate": "14-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "137",
+                    "duration": "1h 9m",
+                    "episodeCode": "S13-E137",
+                    "episodeName": "Shh... Bhoot aaya, buri khabar laya!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1440/1738848451440-h",
+                    "updateDate": "13-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "136",
+                    "duration": "1h 14m",
+                    "episodeCode": "S13-E136",
+                    "episodeName": "#Sidnaz ki sachayi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4779/1738848464779-h",
+                    "updateDate": "12-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "135",
+                    "duration": "1h 16m",
+                    "episodeCode": "S13-E135",
+                    "episodeName": "Rajat Sharma's Bigg Adalat!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2035/1738848462035-h",
+                    "updateDate": "11-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "134",
+                    "duration": "56m",
+                    "episodeCode": "S13-E134",
+                    "episodeName": "Saavdhan! Ghar aaye Ayushmann!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2659/1738848452659-h",
+                    "updateDate": "10-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "133",
+                    "duration": "1h 22m",
+                    "episodeCode": "S13-E133",
+                    "episodeName": "Shilpa-Salman ne ki yaadein taaza!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8024/1738848448024-h",
+                    "updateDate": "09-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "132",
+                    "duration": "1h 27m",
+                    "episodeCode": "S13-E132",
+                    "episodeName": "Kick-starting a healthy day with Shilpa!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9488/1738848459488-h",
+                    "updateDate": "08-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
                     "episodeNumber": "131",
                     "duration": "47m",
                     "episodeCode": "S13-E131",
