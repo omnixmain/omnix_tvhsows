@@ -25,6 +25,16 @@
                 },
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "43m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Antidotes and Aftermath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/403/1790416160403-h",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "13",
                     "duration": "43m",
                     "episodeCode": "S1-E13",
