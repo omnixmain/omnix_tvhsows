@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "16",
+                    "duration": "1h 17m",
+                    "episodeCode": "S5-E16",
+                    "episodeName": "Ticket to Finale Unlocked!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4169/1790507894169-h",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "15",
                     "duration": "1h 8m",
                     "episodeCode": "S5-E15",
