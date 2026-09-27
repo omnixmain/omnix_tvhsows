@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "24m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Maya's Father Regrets His Mistake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/506/1790418050506-h",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "4",
                     "duration": "24m",
                     "episodeCode": "S1-E4",
