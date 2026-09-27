@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "45m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/425/1790431140425-i",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "28",
                     "duration": "1h 10m",
                     "episodeCode": "S1-E28",
