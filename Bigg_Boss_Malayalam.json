@@ -16,7 +16,7 @@
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "21",
-                    "duration": "1h 6m",
+                    "duration": "1h 3m",
                     "episodeCode": "S8-E21",
                     "episodeName": "BBMal Day 20: Lalettan Issues an Ultimatum",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3649/1790425523649-h",
@@ -212,6 +212,16 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7150/1788786777150-h",
                     "updateDate": "07-09-2026",
                     "episodeUrl": "https://serialtvmaza.net/bigg-boss-8-malayalam-7th-september-2026-full-episode-2/"
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "1",
+                    "duration": "3h 9m",
+                    "episodeCode": "S8-E1",
+                    "episodeName": "BBMal: Season Premiere",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6273/1788698896273-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-malayalam-season-8-6th-september-2026-full-episode-1/"
                 }
             ]
         }
