@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "26m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Saumya Complains Against Roop",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2413/1790558022413-h",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "52",
                     "duration": "22m",
                     "episodeCode": "S1-E52",
