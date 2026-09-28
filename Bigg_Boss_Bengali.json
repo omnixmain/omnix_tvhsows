@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "58m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "BBBan Day 29: Anuska's Wild Card Power Play",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1559/1790603241559-h",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-28th-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "29",
                     "duration": "1h 9m",
                     "episodeCode": "S1-E29",
