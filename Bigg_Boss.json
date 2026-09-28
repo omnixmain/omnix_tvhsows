@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 27, 2026",
+            "ottReleaseDate": "September 28, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "22",
-                    "duration": "1h 9m",
+                    "duration": "1h 8m",
                     "episodeCode": "S20-E22",
                     "episodeName": "BBHin Day 21: Salman’s Star-Studded Evening",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1827/1790520271827-h",
