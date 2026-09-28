@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 28, 2026",
+            "ottReleaseDate": "September 29, 2026",
             "description": "Years after a harrowing separation, Angad and Vrinda’s paths cross again! Navigating lost love, is there a hope for VridAng’s reunion? Watch Kyunki Rishton Ke Bhi Roop Badalte Hain - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "193",
+                    "duration": "25m",
+                    "episodeCode": "S1-E193",
+                    "episodeName": "Angad Terminates Vikas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6135/1790602986135-h",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/kyunki-rishton-ke-bhi-roop-badalte-hai-28th-september-2026/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "192",
@@ -511,7 +521,7 @@
                     "episodeName": "Mitali's Strategy Fails",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4949/1786286324949-h",
                     "updateDate": "09-08-2026",
-                    "episodeUrl": "https://serialtvmaza.net/kyunki-rishton-ke-bhi-roop-badalte-hai-9th-august-2026-full-episode/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
