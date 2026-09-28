@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "23",
+                    "duration": "1h 6m",
+                    "episodeCode": "S20-E23",
+                    "episodeName": "BBHin Day 22: Room 2X - Double the Twists!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9009/1790606189009-h",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-28th-september-2026/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "22",
                     "duration": "1h 8m",
                     "episodeCode": "S20-E22",
