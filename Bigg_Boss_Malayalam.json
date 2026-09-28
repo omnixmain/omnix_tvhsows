@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "September 27, 2026",
+            "ottReleaseDate": "September 28, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "22",
-                    "duration": "1h 6m",
+                    "duration": "1h 4m",
                     "episodeCode": "S8-E22",
                     "episodeName": "BBMal Day 21: Lalettan Demands Answers",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4863/1790507234863-h",
