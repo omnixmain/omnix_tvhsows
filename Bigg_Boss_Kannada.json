@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "13",
+                    "episodeNumber": "23",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E23",
+                    "episodeName": "BBKan Day 22: A Hijack by the Wildcards",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8113/1790605068113-h",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-kannada-season-13-28th-september-2026/"
+                },
+                {
+                    "seasonNumber": "13",
                     "episodeNumber": "22",
                     "duration": "2h 8m",
                     "episodeCode": "S13-E22",
