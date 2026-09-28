@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 28, 2026",
+            "ottReleaseDate": "September 29, 2026",
             "description": "Shivprasad and Shalini juggle middle-class family life with their two kids. But hush! Shivprasad is also a secret agent, how long can he keep up his cover? Watch Mr. and Mrs. Parshuram - Hindi Drama Action serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Watch First Episode",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6826/1775723706826-i",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "195",
@@ -1931,16 +1941,6 @@
                     "episodeName": "Shalini Confronts Ayushi",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1174/1770192761174-h",
                     "updateDate": "04-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "26m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Meet Shivprasad A.K.A. Parshuram",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5992/1770073825992-h",
-                    "updateDate": "03-02-2026",
                     "episodeUrl": ""
                 }
             ]
