@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "203",
+                    "duration": "23m",
+                    "episodeCode": "S1-E203",
+                    "episodeName": "Ashish's Revelation to Mogra",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3961/1790648183961-h",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/mahadev-and-sons-29th-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "202",
                     "duration": "24m",
                     "episodeCode": "S1-E202",
@@ -511,7 +521,7 @@
                     "episodeName": "Family Time for Mahadev",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8307/1785544708307-h",
                     "updateDate": "01-08-2026",
-                    "episodeUrl": "https://serialtvmaza.net/mahadev-and-sons-1st-august-2026-full-episode/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -1801,16 +1811,6 @@
                     "episodeName": "Dheeraj Stands by Ketan",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1853/1770192901853-h",
                     "updateDate": "04-02-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "22",
-                    "duration": "24m",
-                    "episodeCode": "S1-E22",
-                    "episodeName": "Ketan and Narmada's Wedding",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1937/1770113731937-h",
-                    "updateDate": "03-02-2026",
                     "episodeUrl": ""
                 }
             ]
