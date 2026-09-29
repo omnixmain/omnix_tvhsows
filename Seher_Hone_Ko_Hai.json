@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "231",
+                    "duration": "22m",
+                    "episodeCode": "S2-E231",
+                    "episodeName": "Mahid Comes to Seher's Aid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6253/1790648196253-h",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "230",
                     "duration": "24m",
                     "episodeCode": "S2-E230",
