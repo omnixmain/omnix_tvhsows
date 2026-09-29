@@ -15,23 +15,13 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "1",
+                    "episodeNumber": "4",
                     "duration": "45m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Watch Now",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Watch In Your Language",
                     "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
                     "updateDate": "29-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "45m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Watch for Free",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "29-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/crime-patrol-2026-3rd-september-2026-full-episode-4/"
                 },
                 {
                     "seasonNumber": "1",
@@ -41,17 +31,27 @@
                     "episodeName": "Watch KBC Episodes for Free",
                     "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
                     "updateDate": "29-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/crime-patrol-2026-2nd-september-2026-full-episode-3/"
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "4",
+                    "episodeNumber": "2",
                     "duration": "45m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Watch In Your Language",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Watch for Free",
                     "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
                     "updateDate": "29-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/crime-patrol-2026-1st-september-2026-full-episode-2/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Watch Now",
+                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/crime-patrol-2026-31st-august-2026-full-episode-1/"
                 }
             ]
         }
