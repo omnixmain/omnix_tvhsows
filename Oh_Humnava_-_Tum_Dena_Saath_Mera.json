@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "160",
+                    "duration": "30m",
+                    "episodeCode": "S1-E160",
+                    "episodeName": "Rakshit, Aparajita's Love in Hiding",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2219/1790648282219-h",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/o-humnava-tum-dena-saath-mera-29th-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "159",
                     "duration": "26m",
                     "episodeCode": "S1-E159",
@@ -511,7 +521,7 @@
                     "episodeName": "Aparajita Suspects Mohit",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8730/1786143618730-h",
                     "updateDate": "08-08-2026",
-                    "episodeUrl": "https://serialtvmaza.net/o-humnava-tum-dena-saath-mera-8th-august-2026-full-episode/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
