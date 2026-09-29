@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "21m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Saanvi Performs Indira's Last Rites",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2413/1790648142413-h",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/sayonee-29th-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "6",
                     "duration": "21m",
                     "episodeCode": "S1-E6",
