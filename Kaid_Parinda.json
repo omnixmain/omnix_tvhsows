@@ -55,21 +55,21 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "36m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Sone Ki Salakhein",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7861/1790294267861-h",
-                    "updateDate": "25-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "2",
                     "duration": "32m",
                     "episodeCode": "S1-E2",
                     "episodeName": "Raakh Hui Masumiyat!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9933/1790303889933-h",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "36m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Sone Ki Salakhein",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7861/1790294267861-h",
                     "updateDate": "25-09-2026",
                     "episodeUrl": ""
                 }
