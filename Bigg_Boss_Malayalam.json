@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "24",
+                    "duration": "45m",
+                    "episodeCode": "S8-E24",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "23",
                     "duration": "1h 8m",
                     "episodeCode": "S8-E23",
@@ -61,7 +71,7 @@
                     "episodeName": "BBMal Day 18: Lines Crossed, No Task, Only Trouble",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5395/1790250625395-h",
                     "updateDate": "24-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bbm8-24th-sept-2026/"
                 },
                 {
                     "seasonNumber": "8",
@@ -71,7 +81,7 @@
                     "episodeName": "BBMal Day 17: Bans, Brawls and Blockades",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5826/1790172065826-h",
                     "updateDate": "23-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bbm8-23rd-sept-2026-reality-show-episode-18/"
                 },
                 {
                     "seasonNumber": "8",
