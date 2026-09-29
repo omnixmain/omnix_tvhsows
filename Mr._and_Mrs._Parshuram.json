@@ -15,16 +15,6 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "45m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Watch First Episode",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6826/1775723706826-i",
-                    "updateDate": "29-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "195",
                     "duration": "21m",
                     "episodeCode": "S1-E195",
@@ -1941,6 +1931,16 @@
                     "episodeName": "Shalini Confronts Ayushi",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1174/1770192761174-h",
                     "updateDate": "04-02-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "26m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Meet Shivprasad A.K.A. Parshuram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5992/1770073825992-h",
+                    "updateDate": "03-02-2026",
                     "episodeUrl": ""
                 }
             ]
