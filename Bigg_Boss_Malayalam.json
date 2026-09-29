@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "September 28, 2026",
+            "ottReleaseDate": "September 29, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "23",
-                    "duration": "1h 9m",
+                    "duration": "1h 8m",
                     "episodeCode": "S8-E23",
                     "episodeName": "BBMal Day 22: Inventory Task Goes Topsy-Turvy",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/738/1790601040738-h",
