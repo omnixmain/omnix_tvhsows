@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "26m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Anoop's Fear for Saumya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1751/1790648221751-h",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "53",
                     "duration": "26m",
                     "episodeCode": "S1-E53",
