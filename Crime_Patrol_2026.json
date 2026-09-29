@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Crime Patrol 2026",
-            "banner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+            "banner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,9 +10,50 @@
             "streaming": "Sony TV",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 28, 2026",
-            "description": "Watch Crime Patrol 2026 on Sony TV.",
-            "episodes": []
+            "ottReleaseDate": "September 29, 2026",
+            "description": "Sony LIV - Top premium streaming platform where you can watch popular TV Shows, Movies, Sports, Web Series. Enjoy your favourite Live TV Channels online",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Watch Now",
+                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Watch for Free",
+                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Watch KBC Episodes for Free",
+                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "45m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Watch In Your Language",
+                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                }
+            ]
         }
     ]
 }
