@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "45m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3192/1790057083192-i",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "30",
                     "duration": "58m",
                     "episodeCode": "S1-E30",
@@ -71,7 +81,7 @@
                     "episodeName": "BBBan Day 24: Humans Vs Robots Task",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5726/1790177345726-h",
                     "updateDate": "23-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bbbs3-23rd-sept-2026-reality-show-episode-25/"
                 },
                 {
                     "seasonNumber": "1",
