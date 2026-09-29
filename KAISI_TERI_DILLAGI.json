@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "74",
+                    "duration": "22m",
+                    "episodeCode": "S1-E74",
+                    "episodeName": "EP 74 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2074-29092026172247",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "73",
                     "duration": "22m",
                     "episodeCode": "S1-E73",
