@@ -15,16 +15,6 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "45m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Watch First Episode",
-                    "episodeBanner": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTAR_DTH/SERIES/6ab6d2ac8cf142b91222ecbc/images/PORTRAIT/1790280424834-v?o=production",
-                    "updateDate": "29-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "6",
                     "duration": "37m",
                     "episodeCode": "S1-E6",
@@ -61,6 +51,16 @@
                     "episodeName": "Khushkhabri Ya Nayi Dehshat?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/786/1790409760786-h",
                     "updateDate": "26-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "36m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Sone Ki Salakhein",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7861/1790294267861-h",
+                    "updateDate": "25-09-2026",
                     "episodeUrl": ""
                 },
                 {
