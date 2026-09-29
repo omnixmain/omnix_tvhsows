@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "September 28, 2026",
+            "ottReleaseDate": "September 29, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
                 {
@@ -1301,56 +1301,6 @@
                     "episodeName": "BBTel: Season Premiere",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4272/1757246994272-h",
                     "updateDate": "07-09-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "106",
-                    "duration": "2h 38m",
-                    "episodeCode": "S8-E106",
-                    "episodeName": "Day 105: Grand Finale",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8328/1734263228328-h",
-                    "updateDate": "15-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "105",
-                    "duration": "59m",
-                    "episodeCode": "S8-E105",
-                    "episodeName": "Day 104: And the Countdown Begins!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1095/1734176311095-h",
-                    "updateDate": "14-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "104",
-                    "duration": "50m",
-                    "episodeCode": "S8-E104",
-                    "episodeName": "Day 103: Reliving the Season",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/810/1734097730810-h",
-                    "updateDate": "13-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "103",
-                    "duration": "51m",
-                    "episodeCode": "S8-E103",
-                    "episodeName": "Day 102: A Trip Down the Memory Lane",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3515/1734012113515-h",
-                    "updateDate": "12-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "102",
-                    "duration": "41m",
-                    "episodeCode": "S8-E102",
-                    "episodeName": "Day 101: A Fun Banter with BB",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/966/1733923800966-h",
-                    "updateDate": "11-12-2024",
                     "episodeUrl": ""
                 },
                 {
