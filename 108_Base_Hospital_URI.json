@@ -15,16 +15,6 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "45m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Watch First Episode",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/983/1785772110983-i",
-                    "updateDate": "29-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "14",
                     "duration": "43m",
                     "episodeCode": "S1-E14",
@@ -41,7 +31,7 @@
                     "episodeName": "Sameer's Sudden Announcement",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/115/1790414440115-h",
                     "updateDate": "26-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/108-base-hospital-uri-26th-september-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/108-base-hospital-uri-27th-september-2026/"
                 },
                 {
                     "seasonNumber": "1",
@@ -152,6 +142,16 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4035/1786720614035-h",
                     "updateDate": "16-08-2026",
                     "episodeUrl": "https://serialtvmaza.net/108-base-hospital-uri-16th-august-2026-full-episode-2/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "44m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Naina, Anirudh, and a Shared Past!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4873/1786717554873-h",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": "https://serialtvmaza.net/108-base-hospital-uri-15th-august-2026-full-episode-1/"
                 }
             ]
         }
