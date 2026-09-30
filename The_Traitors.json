@@ -2,106 +2,26 @@
     "tvShows": [
         {
             "name": "The Traitors",
-            "banner": "https://m.media-amazon.com/images/S/pv-target-images/fad6d509f51af541c4850fa61f3f8dbdfacff627de48373b9dec5aaf5b11a929.jpg",
+            "banner": "https://m.media-amazon.com/images/S/pv-target-images/ad3affb5a758971605601f3e133a661e23782f371ef3be13092796e55d17c775.jpg",
             "genre": "Action, Drama",
             "rating": "8.5",
             "year": "2026",
             "ageRating": "16+",
             "streaming": "Prime Video",
-            "streamingLogo": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+            "streamingLogo": "https://i.ibb.co/YBGzhkN1/prime-video-icon.png",
             "language": "English / Hindi",
-            "ottReleaseDate": "September 30, 2026",
-            "description": "Watch The Traitors on Prime Video.",
+            "ottReleaseDate": "August 13, 2026",
+            "description": "Rise and shine... it's dhoka time, again. Karan Johar returns as the ultimate gamemaster for a thrilling new season of The Traitors. Hidden Traitors move in secret while the Innocents race to uncover them in a high-stakes battle of trust, deception and strategy. With shocking twists, dangerous missions and betrayal at every turn, the fight for the prize pot becomes more unpredictable than ever.\n",
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "1",
+                    "episodeNumber": "11",
                     "duration": "45m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Episode 1",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/313779d2d625011ce0f186d2041a82c7d323250eded94d62927bf9ca3caf7607._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "13-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "45m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Episode 2",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/f8e180476b31f2f599a528d9db4f76fa104e85ec15a3fb80142427442a97849a._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "13-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "45m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Episode 3",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/196bc244f6d17c6f5cc659a58bcce9562d1efc9445fde193ee45b6cfdfa0eb57._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "13-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "45m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Episode 4",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/a9b05efc3af0884b3f35a60313201107911ce4eabb33c71cc358115ed24b4f0e._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "20-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "5",
-                    "duration": "45m",
-                    "episodeCode": "S1-E5",
-                    "episodeName": "Episode 5",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/a36e3bc0af288798621d96809caf4c5c03cd19bbef53a053adda896411285679._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "20-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "6",
-                    "duration": "45m",
-                    "episodeCode": "S1-E6",
-                    "episodeName": "Episode 6",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/2e758f54553c713a68ec0ace7e602769e01732ddfeaa23411b0ffd2c57615f64._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "20-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "7",
-                    "duration": "45m",
-                    "episodeCode": "S1-E7",
-                    "episodeName": "Episode 7",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7d939f871273519de1c24a94d5c8c65b0a531ec40984d8663878c39787e5d17c._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "27-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "8",
-                    "duration": "45m",
-                    "episodeCode": "S1-E8",
-                    "episodeName": "Episode 8",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/12937cabf585921c3801fccbf6fde3d5bc124bf829d3ef386c952f9623d4af13._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "27-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "9",
-                    "duration": "45m",
-                    "episodeCode": "S1-E9",
-                    "episodeName": "Episode 9",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/ceaad656033b50791a58949a63c25b58dfc7ee552af9d67eac36b6c2ab520f58._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "27-08-2026",
-                    "episodeUrl": ""
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Reunion",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7ab966bf9d4d485db473519ec39766a577831089c5ca601d182a47ddb0f74de9._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": "https://hubcloud.cx/video/xuhx1elcevuret4"
                 },
                 {
                     "seasonNumber": "1",
@@ -111,19 +31,100 @@
                     "episodeName": "Episode 10",
                     "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/b7ea1ecaaf6803f6a832fd9a2628682bda23528f44f14c5dfeb329a7e46ee086._BR-6_AC_SX720_FMjpg_.jpg",
                     "updateDate": "03-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://hubcloud.cx/video/mq3cvr2c2xao1rr"
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "11",
+                    "episodeNumber": "9",
                     "duration": "45m",
-                    "episodeCode": "S1-E11",
-                    "episodeName": "Reunion",
-                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7ab966bf9d4d485db473519ec39766a577831089c5ca601d182a47ddb0f74de9._BR-6_AC_SX720_FMjpg_.jpg",
-                    "updateDate": "09-09-2026",
-                    "episodeUrl": ""
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Episode 9",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/ceaad656033b50791a58949a63c25b58dfc7ee552af9d67eac36b6c2ab520f58._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": "https://hubcloud.cx/video/6kbn2nwni6th8ot"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "45m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Episode 8",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/12937cabf585921c3801fccbf6fde3d5bc124bf829d3ef386c952f9623d4af13._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": "https://hubcloud.cx/video/n27gakgksrpayaq"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "45m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Episode 7",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/7d939f871273519de1c24a94d5c8c65b0a531ec40984d8663878c39787e5d17c._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": "https://hubcloud.cx/video/o1h4dvo1zgf1xsf"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "45m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Episode 6",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/d60fce5ad8d566d07eec4619dc741d756ea42ca1c052ebde85bd917abc2f1975._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": "https://pixeldrain.dev/api/file/nVGzwNDr?download"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "45m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Episode 5",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/4142b575b54a4c91db62ba4c4fae1583ca5e9c69274597f3fc67239b4a76eb43._BR-6_AC_SX720_FMjpg_.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": "https://pixeldrain.dev/api/file/MCyAWJyd?download"
+                },
+                {
+                    "episodeCode": "S1-E4",
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "45m",
+                    "episodeName": "Episode 4",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/a9b05efc3af0884b3f35a60313201107911ce4eabb33c71cc358115ed24b4f0e._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeUrl": "https://pixeldrain.dev/api/file/qkyXLe8a?download",
+                    "updateDate": "20-08-2026"
+                },
+                {
+                    "episodeCode": "S1-E3",
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeName": "Episode 3",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/e03b5be4150d20f2c6ef7fbc1c79455d95155e29c0d1a1b3152b56a2d1887524._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeUrl": "https://pixeldrain.dev/api/file/GJsMeTs5?download",
+                    "updateDate": "13-08-2026"
+                },
+                {
+                    "episodeCode": "S1-E2",
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeName": "Episode 2",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/f8e180476b31f2f599a528d9db4f76fa104e85ec15a3fb80142427442a97849a._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeUrl": "https://pixeldrain.dev/api/file/P465BaSV?download",
+                    "updateDate": "13-08-2026"
+                },
+                {
+                    "episodeCode": "S1-E1",
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeName": "Episode 1",
+                    "episodeBanner": "https://m.media-amazon.com/images/S/pv-target-images/313779d2d625011ce0f186d2041a82c7d323250eded94d62927bf9ca3caf7607._BR-6_AC_SX720_FMjpg_.jpg",
+                    "episodeUrl": "https://pixeldrain.dev/api/file/uoDk5rBW?download",
+                    "updateDate": "13-08-2026"
                 }
-            ]
+            ],
+            "ottPlayUrl": "https://github.com/omnixmain/omnix_tvhsows/raw/refs/heads/main/The_Traitors.json"
         }
     ]
 }
