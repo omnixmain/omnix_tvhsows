@@ -12,7 +12,48 @@
             "language": "Hindi",
             "ottReleaseDate": "September 30, 2026",
             "description": "Sony LIV - Top premium streaming platform where you can watch popular TV Shows, Movies, Sports, Web Series. Enjoy your favourite Live TV Channels online",
-            "episodes": []
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "45m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Watch In Your Language",
+                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/family-full-house-with-rohit-sharma-27th-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Watch KBC Episodes for Free",
+                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/family-full-house-with-rohit-sharma-26th-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "45m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Watch for Free",
+                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/family-full-house-with-rohit-sharma-20th-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Watch Now",
+                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/family-full-house-with-rohit-sharma-19th-september-2026/"
+                }
+            ]
         }
     ]
 }
