@@ -1,0 +1,90 @@
+{
+    "tvShows": [
+        {
+            "name": "Kyunki \"Papa Kehte Hain\"",
+            "banner": "https://m.media-amazon.com/images/M/MV5BZDVjNzFiNjMtYzE2Mi00ZWY4LWFjYjctMGE0ZGE2MjUxMmJmXkEyXkFqcGc@._V1_.jpg",
+            "genre": "Comedy",
+            "rating": "8.8",
+            "year": "2026",
+            "ageRating": "7+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "September 22, 2026",
+            "description": "After their free-spirited parents die unexpectedly, five siblings are left to face life alone. At 24, eldest brother Pawan becomes their reluctant guardian as strict relatives impose traditional values. Amid financial hardship, conflict and growing pains, the siblings rely on one another, redefining family, responsibility and resilience while holding on to the love and freedom that shaped them.",
+            "episodes": [
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 7,
+                    "duration": "23m",
+                    "episodeCode": "S01-E7",
+                    "episodeName": "Pawan Hides The Truth",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/a460ca0a2de486a5c0b8663ab2e6672b.jpg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/kyunki-papa-kehte-hain-29th-september-2026/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 6,
+                    "duration": "24m",
+                    "episodeCode": "S01-E6",
+                    "episodeName": "Lakshya Goes Missing",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/01a4d5f52c4efcc00111e8f7e861e353.jpg",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/kyunki-papa-kehte-hain-28th-september-2026/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 5,
+                    "duration": "25m",
+                    "episodeCode": "S01-E5",
+                    "episodeName": "A New Beginning For Pawan",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/e6caeca3d3ca20404b8f4794de5b162a.jpg",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/kyunki-papa-kehte-hain-26th-september-2026/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 4,
+                    "duration": "25m",
+                    "episodeCode": "S01-E4",
+                    "episodeName": "Pawan’s New Business Plan",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/a1e42cf8b17de9d1637af26aad5a7cd5.jpg",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": "https://playdesi.se/kyunki-papa-kehte-hain-25th-september-2026-video-episode-4/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 3,
+                    "duration": "25m",
+                    "episodeCode": "S01-E3",
+                    "episodeName": "Chachaji's Cricket Pitch Threat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/790457b27029be77d9f9bf6a0f60becc.jpg",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://playdesi.se/kyunki-papa-kehte-hain-24th-september-2026-video-episode-3/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 2,
+                    "duration": "23m",
+                    "episodeCode": "S01-E2",
+                    "episodeName": "Amber Stuns The Family",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/cda24671cce2dccf1d0f2cf3b6fe8121.jpg",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://playdesi.se/kyunki-papa-kehte-hain-23rd-september-2026-video-episode-2/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 1,
+                    "duration": "30m",
+                    "episodeCode": "S01-E1",
+                    "episodeName": "Pawan Steps Up For His Family",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/238a5c4e832dff71023a61f822e23f0b.jpg",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://playdesi.se/kyunki-papa-kehte-hain-22nd-september-2026-video-episode-1/"
+                }
+            ],
+            "ottPlayUrl": "https://www.ottplay.com/show/web-series-kyunki-papa-kehte-hain-2026/3c2c41030b451"
+        }
+    ]
+}
