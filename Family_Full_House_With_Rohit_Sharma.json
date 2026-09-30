@@ -2,58 +2,59 @@
     "tvShows": [
         {
             "name": "Family Full House With Rohit Sharma",
-            "banner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-            "genre": "Drama, Entertainment",
-            "rating": "8.0",
+            "banner": "https://img.airtel.tv/unsafe/fit-in/440x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/SONYLIV_VOD/SERIES/6a95c8a52fce96b5b3d67186/images/PORTRAIT/1789720680020261_Signature_600x900_clean_Airtel_Portrait.jpg?o=production",
+            "genre": "Reality",
+            "rating": "4.1",
             "year": "2026",
-            "ageRating": "U/A 13+",
-            "streaming": "Sony TV",
-            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "ageRating": "3+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 30, 2026",
-            "description": "Sony LIV - Top premium streaming platform where you can watch popular TV Shows, Movies, Sports, Web Series. Enjoy your favourite Live TV Channels online",
+            "ottReleaseDate": "September 19, 2026",
+            "description": "Rohit Sharma brings a fresh dose of family entertainment with Family Full House, streaming on Sony LIV from 19th September.",
             "episodes": [
                 {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "45m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Watch In Your Language",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/family-full-house-with-rohit-sharma-27th-september-2026/"
+                    "seasonNumber": 1,
+                    "episodeNumber": 4,
+                    "duration": "61m",
+                    "episodeCode": "S01-E4",
+                    "episodeName": "Suniel & Neha Turn Up The Fun",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/033a1169fbffd608bc47cc2c5ccaab7c.jpg",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/family-full-house-with-rohit-sharma-27th-september-2026/"
                 },
                 {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "45m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Watch KBC Episodes for Free",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/family-full-house-with-rohit-sharma-26th-september-2026/"
+                    "episodeCode": "S01-E3",
+                    "seasonNumber": 1,
+                    "episodeNumber": 3,
+                    "duration": "63m",
+                    "episodeName": "Dhawan & Paul Bring The House Down",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/7986db0add4be84b18c5c421ad733436.jpg",
+                    "episodeUrl": "https://playdesi.se/family-full-house-with-rohit-sharma-26th-september-2026-video-episode-3/",
+                    "updateDate": "26-09-2026"
                 },
                 {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "45m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Watch for Free",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/family-full-house-with-rohit-sharma-20th-september-2026/"
+                    "seasonNumber": 1,
+                    "episodeNumber": 2,
+                    "duration": "62m",
+                    "episodeCode": "S01-E2",
+                    "episodeName": "Bollywood Stars Take Over Family Full House",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/f1ba0bd45f66a27e7697bb428c389d60.jpg",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": "https://playdesi.se/family-full-house-with-rohit-sharma-20th-september-2026-video-episode-2/"
                 },
                 {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "45m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Watch Now",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/family-full-house-with-rohit-sharma-19th-september-2026/"
+                    "seasonNumber": 1,
+                    "episodeNumber": 1,
+                    "duration": "67m",
+                    "episodeCode": "S01-E1",
+                    "episodeName": "Mumbai Punters vs Team Vibe",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/9a3b8eedda911d58b36620990dc75922.jpg",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": "https://playdesi.se/family-full-house-with-rohit-sharma-19th-september-2026-video-episode-1/"
                 }
-            ]
+            ],
+            "ottPlayUrl": "https://www.ottplay.com/show/web-series-family-full-house-with-rohit-sharma-2026/e3218baf91395"
         }
     ]
 }
