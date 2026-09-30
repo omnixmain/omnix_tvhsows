@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "25",
+                    "duration": "45m",
+                    "episodeCode": "S10-E25",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/hastinapur-ke-veer-30th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "24",
                     "duration": "1h 13m",
                     "episodeCode": "S10-E24",
@@ -1011,7 +1021,7 @@
                     "episodeName": "BBTel Day 30: Half Scores, Full Drama!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9695/1759842389695-h",
                     "updateDate": "07-10-2025",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-29th-september-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "9",
@@ -1071,7 +1081,7 @@
                     "episodeName": "BBTel Day 24: Clash of the Contenders",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3157/1759325543157-h",
                     "updateDate": "01-10-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-30th-september-2026/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1312,256 +1322,6 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4272/1757246994272-h",
                     "updateDate": "07-09-2025",
                     "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-6th-september-2026-full-episode-1/"
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "106",
-                    "duration": "2h 38m",
-                    "episodeCode": "S8-E106",
-                    "episodeName": "Day 105: Grand Finale",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8328/1734263228328-h",
-                    "updateDate": "15-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "105",
-                    "duration": "59m",
-                    "episodeCode": "S8-E105",
-                    "episodeName": "Day 104: And the Countdown Begins!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1095/1734176311095-h",
-                    "updateDate": "14-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "104",
-                    "duration": "50m",
-                    "episodeCode": "S8-E104",
-                    "episodeName": "Day 103: Reliving the Season",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/810/1734097730810-h",
-                    "updateDate": "13-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "103",
-                    "duration": "51m",
-                    "episodeCode": "S8-E103",
-                    "episodeName": "Day 102: A Trip Down the Memory Lane",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3515/1734012113515-h",
-                    "updateDate": "12-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "102",
-                    "duration": "41m",
-                    "episodeCode": "S8-E102",
-                    "episodeName": "Day 101: A Fun Banter with BB",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/966/1733923800966-h",
-                    "updateDate": "11-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "101",
-                    "duration": "45m",
-                    "episodeCode": "S8-E101",
-                    "episodeName": "Day 100: Bigg Wins",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5198/1733840185198-h",
-                    "updateDate": "10-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "100",
-                    "duration": "45m",
-                    "episodeCode": "S8-E100",
-                    "episodeName": "Day 99: Maa vs BB Parivaaram",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4689/1733752254689-h",
-                    "updateDate": "09-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "99",
-                    "duration": "1h 1m",
-                    "episodeCode": "S8-E99",
-                    "episodeName": "Day 98: Meet the Finalists",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8031/1733666098031-h",
-                    "updateDate": "08-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "98",
-                    "duration": "1h 7m",
-                    "episodeCode": "S8-E98",
-                    "episodeName": "Day 97: Eviction Shocker",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/817/1733576600817-h",
-                    "updateDate": "07-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "97",
-                    "duration": "47m",
-                    "episodeCode": "S8-E97",
-                    "episodeName": "Day 96: Verbal War",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9969/1733499159969-h",
-                    "updateDate": "06-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "96",
-                    "duration": "41m",
-                    "episodeCode": "S8-E96",
-                    "episodeName": "Day 95: Who Will Secure the Next Spot?",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9005/1733413449005-h",
-                    "updateDate": "05-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "95",
-                    "duration": "47m",
-                    "episodeCode": "S8-E95",
-                    "episodeName": "Day 94: Task Decision Sparks Unrest",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5779/1733323095779-h",
-                    "updateDate": "04-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "94",
-                    "duration": "46m",
-                    "episodeCode": "S8-E94",
-                    "episodeName": "Day 93: Vote Appeal",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2491/1733232802491-h",
-                    "updateDate": "03-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "93",
-                    "duration": "44m",
-                    "episodeCode": "S8-E93",
-                    "episodeName": "Day 92: A Battle for the Second Spot",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9740/1733150489740-h",
-                    "updateDate": "02-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "92",
-                    "duration": "1h 3m",
-                    "episodeCode": "S8-E92",
-                    "episodeName": "Day 91: One Left, Who's Next?",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5928/1733058315928-h",
-                    "updateDate": "01-12-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "91",
-                    "duration": "1h 16m",
-                    "episodeCode": "S8-E91",
-                    "episodeName": "Day 90: Double Eviction",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8804/1732970848804-h",
-                    "updateDate": "30-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "90",
-                    "duration": "43m",
-                    "episodeCode": "S8-E90",
-                    "episodeName": "Day 89: Ticket To Finale Goes to...",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7808/1732891717808-h",
-                    "updateDate": "29-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "89",
-                    "duration": "47m",
-                    "episodeCode": "S8-E89",
-                    "episodeName": "Day 88: May the Strongest One Win",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9810/1732806559810-h",
-                    "updateDate": "28-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "88",
-                    "duration": "47m",
-                    "episodeCode": "S8-E88",
-                    "episodeName": "Day 87: Strength, Strategy Put to Test",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3535/1732721113535-h",
-                    "updateDate": "27-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "87",
-                    "duration": "49m",
-                    "episodeCode": "S8-E87",
-                    "episodeName": "Day 86: The TTF Race Begins",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7689/1732634027689-h",
-                    "updateDate": "26-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "86",
-                    "duration": "57m",
-                    "episodeCode": "S8-E86",
-                    "episodeName": "Day 85: Paint it Red!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1849/1732541741849-h",
-                    "updateDate": "25-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "85",
-                    "duration": "1h 5m",
-                    "episodeCode": "S8-E85",
-                    "episodeName": "Day 84: Eviction Day",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5271/1732447665271-h",
-                    "updateDate": "24-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "84",
-                    "duration": "1h 9m",
-                    "episodeCode": "S8-E84",
-                    "episodeName": "Day 83: A Stern Warning from the King",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2810/1732367442810-h",
-                    "updateDate": "23-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "83",
-                    "duration": "47m",
-                    "episodeCode": "S8-E83",
-                    "episodeName": "Day 82: Season's Last Mega Chief",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1654/1732288461654-h",
-                    "updateDate": "22-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "82",
-                    "duration": "49m",
-                    "episodeCode": "S8-E82",
-                    "episodeName": "Day 81: Vishwak Sen Visits the House",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8960/1732201418960-h",
-                    "updateDate": "21-11-2024",
-                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "8",
@@ -2061,7 +1821,7 @@
                     "episodeName": "Day 30: Clan Shakti's Winning Streak",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5356/1727783075356-h",
                     "updateDate": "01-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-29th-september-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "8",
@@ -2121,7 +1881,7 @@
                     "episodeName": "Day 24: A Bigg Twist",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7345/1727267037345-h",
                     "updateDate": "25-09-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-30th-september-2026/"
                 },
                 {
                     "seasonNumber": "8",
