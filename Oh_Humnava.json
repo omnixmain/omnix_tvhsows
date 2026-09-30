@@ -1,0 +1,70 @@
+{
+    "tvShows": [
+        {
+            "name": "Oh Humnava",
+            "banner": "https://images.ottplay.com/posters/a6a2a6ddd7191a57ab07d3427807088a.jpg",
+            "genre": "Drama, Entertainment",
+            "rating": "6.8",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img10.hotstar.com/image/upload/f_auto,q_90/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "Apr 20, 2026",
+            "description": "Aparajita is an artist with a bitter past, and our hero Rakshit—a reserved businessman with no place for love! These two hearts meet, but will romance bloom? Watch Oh Humnava - Tum Dena Saath Mera - Hindi Romance Drama serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "157",
+                    "duration": "22m",
+                    "episodeCode": "S1-E157",
+                    "episodeName": "Rakshit Honours Aparajita's Comfort",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/144/1790383460144-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": "https://playdesi.se/o-humnava-tum-dena-saath-mera-25th-september-2026-video-episode-156/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "156",
+                    "duration": "25m",
+                    "episodeCode": "S1-E156",
+                    "episodeName": "Aparajita's Shocking Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/689/1790295070689-h",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": "https://playdesi.se/o-humnava-tum-dena-saath-mera-25th-september-2026-video-episode-156/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "155",
+                    "duration": "27m",
+                    "episodeCode": "S1-E155",
+                    "episodeName": "Aparajita Handles the Chaos",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9772/1790209949772-h",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://playdesi.se/o-humnava-tum-dena-saath-mera-24th-september-2026-video-episode-155/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "154",
+                    "duration": "25m",
+                    "episodeCode": "S1-E154",
+                    "episodeName": "Sudha's Concern for Avinash",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6387/1790123656387-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://playdesi.se/o-humnava-tum-dena-saath-mera-23rd-september-2026-video-episode-154/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "153",
+                    "duration": "35m",
+                    "episodeCode": "S1-E153",
+                    "episodeName": "Aparajita's Gratitude to Rakshit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4783/1790037774783-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://playdesi.se/o-humnava-tum-dena-saath-mera-22nd-september-2026-video-episode-153/"
+                }
+            ],
+            "ottPlayUrl": "https://github.com/omnixmain/omnix_tvhsows/raw/refs/heads/main/Oh_Humnava.json"
+        }
+    ]
+}
