@@ -1,0 +1,60 @@
+{
+    "tvShows": [
+        {
+            "name": "Jagadhatri",
+            "banner": "https://images.ottplay.com/posters/0192b417c6358b9a1265f703c0d45d7b.jpg",
+            "genre": "Drama",
+            "rating": "3.8",
+            "year": "2025",
+            "ageRating": "13+",
+            "streaming": "ZEE5",
+            "streamingLogo": "",
+            "language": "Hindi",
+            "ottReleaseDate": "November 10, 2025",
+            "description": "Jagadhatri is a captivating Hindi-language television drama series that premiered on 10 November 2025 on Zee TV. This show unfolds the journey of Jagadhatri, portrayed by Sonakshi Batra, whose life is steeped in mystery and duality. On the surface, she appears to be a demure young woman with a heart dedicated to charitable activities, but in reality, she operates as a fiery intelligence officer under the code name Agent JD. Her story intricately weaves themes of heroism, hidden identity, justice, and the pursuit of truth as she navigates dangerous missions and emotional turmoil. Accompanying her in the narrative is her closest college friend Shivay, played by Farman Haider, whose loyalty and emotional grounding are tested as the story unfolds. With gripping drama and action, Jagadhatri challenges societal norms and showcases the empowerment of women while maintaining strong traditional values. The production brings together modern elements combined with mythical and heroic attributes to connect with today's viewers, creating a remarkable blend of inspiration, thrill, and emotional depth.",
+            "episodes": [
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 318,
+                    "duration": "27m",
+                    "episodeCode": "S01-E318",
+                    "episodeName": "Jagadhatri Predicts Rudra's Next Move",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/818a93635faacefc6fa67ac12af5992f.jpg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/jagadhatri-29th-september-2026/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 317,
+                    "duration": "27m",
+                    "episodeCode": "S01-E317",
+                    "episodeName": "A Shocking Clue Reaches Maya",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/393481ef9f22f03d63e7f3c380fc9ba9.jpg",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/jagadhatri-28th-september-2026-full-episode"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 316,
+                    "duration": "31m",
+                    "episodeCode": "S01-E316",
+                    "episodeName": "Rudra's Royal Disguise",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/d48008d9b77f0104e1db5b32c6f7191a.jpg",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/jagadhatri-25th-september-2026/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 315,
+                    "duration": "31m",
+                    "episodeCode": "S01-E315",
+                    "episodeName": "Lilly’s Secret Strategy",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/37248110baf13eb1033c76fdaa4461f9.jpg",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/jgd-24th-sept-2026-serial-today-episode"
+                }
+            ],
+            "ottPlayUrl": "https://www.ottplay.com/show/web-series-jagadhatri-2025/d547e20131231"
+        }
+    ]
+}
