@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 29, 2026",
+            "ottReleaseDate": "September 30, 2026",
             "description": "Next-door-girl Jahnvi marries dashing businessman Viraj, unaware of his over-possessive nature! Trapped in life’s worst nightmare, will she find an escape? Watch Kaid Parinda - Saubhagyavati Bhava Series - Hindi Thriller Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "34m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Maut Ka Jaal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7073/1790692937073-h",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/kaid-parinda-saubhagyavati-bhava-series-season-1-4/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "6",
@@ -69,7 +79,7 @@
                     "duration": "36m",
                     "episodeCode": "S1-E1",
                     "episodeName": "Sone Ki Salakhein",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7861/1790294267861-h",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3683/1790726853683-h",
                     "updateDate": "25-09-2026",
                     "episodeUrl": "https://serialtvmaza.net/kaid-parinda-saubhagyavati-bhava-series-season-1/"
                 }
