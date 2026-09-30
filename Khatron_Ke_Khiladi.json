@@ -1,0 +1,199 @@
+{
+    "tvShows": [
+        {
+            "name": "Khatron Ke Khiladi",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9782/1785503959782-i",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "September 30, 2026",
+            "description": "Brace for one last showdown as host Rohit Shetty brings ‘Darr Ka Final Padhav’, which will be as extreme as it gets! 5 Khiladis, 1 trophy—who’ll ace this race? Watch Khatron Ke Khiladi - Hindi Reality serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "18",
+                    "duration": "1h 14m",
+                    "episodeCode": "S15-E18",
+                    "episodeName": "An Epic Showdown!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5159/1790370275159-h",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-27th-september-2026/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "17",
+                    "duration": "1h 9m",
+                    "episodeCode": "S15-E17",
+                    "episodeName": "Race to the Semi-finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3073/1790369883073-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-26th-september-2026/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "16",
+                    "duration": "1h 12m",
+                    "episodeCode": "S15-E16",
+                    "episodeName": "The 'Badla' Gets Bigger",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/896/1789826510896-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-20th-september-2026/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "15",
+                    "duration": "1h 14m",
+                    "episodeCode": "S15-E15",
+                    "episodeName": "Revenge Mode On",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1362/1789808191362-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-19th-september-2026/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "14",
+                    "duration": "1h 12m",
+                    "episodeCode": "S15-E14",
+                    "episodeName": "Game Mein Aayega Twist!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8125/1789253258125-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-13th-september-2026-full-episode-14/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "13",
+                    "duration": "1h 12m",
+                    "episodeCode": "S15-E13",
+                    "episodeName": "Khatra Trending Hai",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5730/1789213195730-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-12th-september-2026-full-episode-13/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "12",
+                    "duration": "1h 14m",
+                    "episodeCode": "S15-E12",
+                    "episodeName": "Face-off! Crack it for the Jacket",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5533/1788616505533-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-6th-september-2026-full-episode-12/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "11",
+                    "duration": "1h 8m",
+                    "episodeCode": "S15-E11",
+                    "episodeName": "All Eyes on ‘Special Power’",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7161/1788605107161-h",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-5th-september-2026-full-episode-11/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "10",
+                    "duration": "1h 7m",
+                    "episodeCode": "S15-E10",
+                    "episodeName": "Lights, Camera, Khatra!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2937/1787986232937-h",
+                    "updateDate": "30-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-30th-august-2026-full-episode-10/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "9",
+                    "duration": "1h 10m",
+                    "episodeCode": "S15-E9",
+                    "episodeName": "It's a High-Stakes Blockbuster",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6532/1787986006532-h",
+                    "updateDate": "29-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-29th-august-2026-full-episode-9/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "8",
+                    "duration": "1h 13m",
+                    "episodeCode": "S15-E8",
+                    "episodeName": "Racing against the 'Khatra'",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/837/1787305260837-h",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-23rd-august-2026-full-episode-8/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "7",
+                    "duration": "1h 9m",
+                    "episodeCode": "S15-E7",
+                    "episodeName": "Har Second Mein Darr",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7663/1787305187663-h",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/kaid-parinda-saubhagyavati-bhava-series-season-1-4/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "6",
+                    "duration": "1h 14m",
+                    "episodeCode": "S15-E6",
+                    "episodeName": "Sab Hoga Achanak-Bhayanak!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/415/1786876290415-h",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-16th-august-2026-full-episode-6/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "5",
+                    "duration": "1h 12m",
+                    "episodeCode": "S15-E5",
+                    "episodeName": "Fear of Change",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2145/1786727382145-h",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/rise-and-fall-season-2-episode-5/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "4",
+                    "duration": "1h 8m",
+                    "episodeCode": "S15-E4",
+                    "episodeName": "No Privacy, No Mercy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4310/1786089584310-h",
+                    "updateDate": "09-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-9th-august-2026-full-episode-4/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "3",
+                    "duration": "1h 13m",
+                    "episodeCode": "S15-E3",
+                    "episodeName": "Fear of Privacy, Unlocked!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9070/1786089529070-h",
+                    "updateDate": "08-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-8th-august-2026-full-episode-03/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "2",
+                    "duration": "1h 6m",
+                    "episodeCode": "S15-E2",
+                    "episodeName": "Fear Gets Personal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1078/1785514301078-h",
+                    "updateDate": "02-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-2nd-august-2026-full-episode-02/"
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "1",
+                    "duration": "1h 19m",
+                    "episodeCode": "S15-E1",
+                    "episodeName": "Grand Premiere: Darr Ka Naya Daur!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1790/1785514181790-h",
+                    "updateDate": "01-08-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/khatron-ke-khiladi-15-grand-premiere-1st-august-2026-full-episode-01/"
+                }
+            ]
+        }
+    ]
+}
