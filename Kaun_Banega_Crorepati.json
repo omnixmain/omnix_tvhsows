@@ -1,0 +1,320 @@
+{
+    "tvShows": [
+        {
+            "name": "Kaun Banega Crorepati",
+            "banner": "https://images.ottplay.com/posters/3af5bf6957de4e07db6bbebc05725fdb.jpg",
+            "genre": "Game Show",
+            "rating": "7.9",
+            "year": "2026",
+            "ageRating": "U",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png?h=100&w=100&q=high",
+            "language": "Hindi",
+            "ottReleaseDate": "August 19, 2019",
+            "description": "Kaun Banega Crorepati returns with a brand-new season premiering on 10 August 2026. Hosted by the legendary Amitabh Bachchan, the iconic quiz show welcomes contestants from across India to the hot seat, where they face increasingly challenging questions for a chance to win the INR 7 crore jackpot.",
+            "episodes": [
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 37,
+                    "duration": "79m",
+                    "episodeCode": "S18-E37",
+                    "episodeName": "Shourjya Das On The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/92b19b0299a28edcf1c73ed11e71c231.jpg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/kaun-banega-crorepati-18-29th-september-2026/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 36,
+                    "duration": "81m",
+                    "episodeCode": "S18-E36",
+                    "episodeName": "Ajay Poonia In The Spotlight",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/d8b05fef6dd25e2cc145c393beb43ded.jpg",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/kaun-banega-crorepati-18-28th-september-2026/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 35,
+                    "duration": "89m",
+                    "episodeCode": "S18-E35",
+                    "episodeName": "Three Stars, One Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/0419a41d9cdddb43ecf6452e10f5c390.jpg",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": "https://playdesi.se/kaun-banega-crorepati-18-25th-september-2026-video-episode-34/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 34,
+                    "duration": "87m",
+                    "episodeCode": "S18-E34",
+                    "episodeName": "Aarya Sahani On The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/fd76423d85ee93538bf7f3c418c5540a.jpg",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://playdesi.se/kaun-banega-crorepati-18-24th-september-2026-video-episode-33/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 33,
+                    "duration": "79m",
+                    "episodeCode": "S18-E33",
+                    "episodeName": "Shobha Paunikar Takes The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/06079c74a7445de6cb60f22dba5bb1b9.jpg",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://playdesi.se/kaun-banega-crorepati-18-23rd-september-2026-video-episode-32/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 32,
+                    "duration": "91m",
+                    "episodeCode": "S18-E32",
+                    "episodeName": "Prashant Kumar Sinha Takes The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/154927182b3c382473a69161fd08f2fd.jpg",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://playdesi.se/kaun-banega-crorepati-18-22nd-september-2026-video-episode-31/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 31,
+                    "duration": "88m",
+                    "episodeCode": "S18-E31",
+                    "episodeName": "Punam Saroj Takes The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/60a1270788d64da7aea2b80014c37628.jpg",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": "https://playdesi.se/kaun-banega-crorepati-18-21st-september-2026-video-episode-30/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 30,
+                    "duration": "78m",
+                    "episodeCode": "S18-E30",
+                    "episodeName": "Stand-Up Comedians On The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/b40e496ad97c7b7e52a84edb53010f44.jpg",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": "https://playdesi.se/kaun-banega-crorepati-18-18th-september-2026-video-episode-29/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 29,
+                    "duration": "73m",
+                    "episodeCode": "S18-E29",
+                    "episodeName": "Shikhar Aggarwal Takes The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/7a50824c1fdeda3d988ecda0ca139f34.jpg",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": "https://playdesi.se/kaun-banega-crorepati-18-17th-september-2026-video-episode-28/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 28,
+                    "duration": "64m",
+                    "episodeCode": "S18-E28",
+                    "episodeName": "Kapila Taneja’s KBC Journey Begins",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/9fff27f423fd9279fa209054895fbcda.jpg",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": "https://playdesi.se/kaun-banega-crorepati-18-17th-september-2026-video-episode-28/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 27,
+                    "duration": "80m",
+                    "episodeCode": "S18-E27",
+                    "episodeName": "Salim Mestry Takes The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/a010b3395a13b2a50842cadd00f90f7b.jpg",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/kaun-banega-crorepati-18-16th-september-2026-video-episode-27/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 26,
+                    "duration": "72m",
+                    "episodeCode": "S18-E26",
+                    "episodeName": "Arpita Jha's ₹1 Crore Moment",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/81c745b0d7825f3446e3f5bae86a7542.jpg",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/kaun-banega-crorepati-18-15th-september-2026-video-episode-26/"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 25,
+                    "duration": "81m",
+                    "episodeCode": "S18-E25",
+                    "episodeName": "Arpita Jha’s Journey To The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/ba1c5bda98b8ab2c87d41b3fdf3a5432.jpg",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6aa458e1d8aa25ef77a34478"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 24,
+                    "duration": "73m",
+                    "episodeCode": "S18-E24",
+                    "episodeName": "Uddeshya Sachan’s Journey Of Hope",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/5f889a5b393a384663c21c01e0fa1703.jpg",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6aa3a5bd95f5aa95ac9b263c"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 23,
+                    "duration": "82m",
+                    "episodeCode": "S18-E23",
+                    "episodeName": "Kamaljit’s Inspiring Journey",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/e1ae47b7d9142d636c1ea3b7b6fc3aba.jpg",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6aa25c5a138d8fcdf74f2ce5"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 22,
+                    "duration": "79m",
+                    "episodeCode": "S18-E22",
+                    "episodeName": "Kritagya On Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/70eb4de6342da8cfad2efd41fb9d2487.jpg",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6aa1107287a896c1b95171b8"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 21,
+                    "duration": "80m",
+                    "episodeCode": "S18-E21",
+                    "episodeName": "Durga Prasad Sahu On The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/9de5736807488a391cb36cb991d41916.jpg",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a9fbbc3e44353525177157b"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 20,
+                    "duration": "97m",
+                    "episodeCode": "S18-E20",
+                    "episodeName": "Akshay And Saif On Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/4f092db63096ac0254f8a7f20f4fdaf7.jpg",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a9d0bca6d56e9930678e510"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 19,
+                    "duration": "74m",
+                    "episodeCode": "S18-E19",
+                    "episodeName": "Manoj Kumar's Wise Moves",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/68605658e4600eb7f6da2ea2b266e2cf.jpg",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a9d0c036d56e9930678e511"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 18,
+                    "duration": "77m",
+                    "episodeCode": "S18-E18",
+                    "episodeName": "Pooja Das’s Big Chance",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/6c94977e11351e87d56bcdadbf62d458.jpg",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a9d0c266d56e9930678e512"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 10,
+                    "duration": "106m",
+                    "episodeCode": "S18-E10",
+                    "episodeName": "Ruchita’s ₹1 Crore Challenge",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/fb423cbb6eada5435ac169d673148423.jpg",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a8957920a2bf4083480398d"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 9,
+                    "duration": "82m",
+                    "episodeCode": "S18-E9",
+                    "episodeName": "Ruchita Takes The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/4758f782aaedd5063c9ade4d90f7229f.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a87df89d4901ed7d36dcae1"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 8,
+                    "duration": "76m",
+                    "episodeCode": "S18-E8",
+                    "episodeName": "Yogesh Sahu’s Crore Question",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/e605a3d200048167f1f398ed06c0f6c7.jpg",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a872819d4901ed7d36dc8e0"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 7,
+                    "duration": "81m",
+                    "episodeCode": "S18-E7",
+                    "episodeName": "Yogesh Sahu In The KBC Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/60e7c34d82e13fdc26f70b12ee88f5ae.jpg",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a84bfab012aec7898ef45dc"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 6,
+                    "duration": "96m",
+                    "episodeCode": "S18-E6",
+                    "episodeName": "CWG Champions Take The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/3f6ced1bdd3b08486d3ad2868bae73b6.jpg",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a83f6053e8c9150ce9ee97d"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 5,
+                    "duration": "92m",
+                    "episodeCode": "S18-E5",
+                    "episodeName": "Skyroot Stars On KBC",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/cfe0ed4e964ff23fd406edae0f2aaefa.jpg",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a7f69b6f1eba752e9775a75"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 4,
+                    "duration": "75m",
+                    "episodeCode": "S18-E4",
+                    "episodeName": "Dr. Jagrati Agarwal On The KBC Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/b4a2576962f357dc328b30debb8ddc92.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a7e0892154905fcdea645c8"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 3,
+                    "duration": "86m",
+                    "episodeCode": "S18-E3",
+                    "episodeName": "Dr. Ganesh Baraiya’s KBC Challenge",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/ae6b581d03e814fa3cbd390774ca242a.jpg",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a7cd6e4b7359dae3e42ce89"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 2,
+                    "duration": "81m",
+                    "episodeCode": "S18-E2",
+                    "episodeName": "Bablu Kumar Pandit Takes The Hot Seat",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/b77504df695ee2bd5059611871ccda0f.jpg",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a7b7215a3b48528a0578e4a"
+                },
+                {
+                    "seasonNumber": 18,
+                    "episodeNumber": 1,
+                    "duration": "87m",
+                    "episodeCode": "S18-E1",
+                    "episodeName": "A Star-Studded Start To KBC",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/a1d567205f802bf6101eb44e3bcf1dc5.jpg",
+                    "updateDate": "10-08-2026",
+                    "episodeUrl": "https://tgg.addyop.com/dl/6a7b7215a3b48528a0578e49"
+                }
+            ],
+            "ottPlayUrl": "https://www.ottplay.com/show/web-series-kaun-banega-crorepati-2026/47e5cb6730122?from=search"
+        }
+    ]
+}
