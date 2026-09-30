@@ -1,0 +1,160 @@
+{
+    "tvShows": [
+        {
+            "name": "Hastinapur Ke Veer",
+            "banner": "https://images.slivcdn.com/videoasset_images/manage_file/1000022466/1787062831294494_HKV_Interim_Arjun_Drona_portrait_thumb.jpg",
+            "genre": "Mythology",
+            "rating": "8.4",
+            "year": "2026",
+            "ageRating": "3+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "June 2, 2026",
+            "description": "Hastinapur Ke Veer explores how no child is born into war but shaped into it. Told through a child-centric lens, it delves into Duryodhan's need for validation, Yudhishthira's burden of righteousness, Arjun's longing for approval, Bheem's instinctive justice, and Karna's abandonment. With flawed parenting at its core, the show reveals how love, silence, and choices shape destiny, making war a result of emotional wounds rather than fate.",
+            "episodes": [
+                {
+                    "seasonNumber": 2,
+                    "episodeNumber": 103,
+                    "duration": "23m",
+                    "episodeCode": "S02-E103",
+                    "episodeName": "Radheya’s Destiny Unfolds",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/cd68b083d77cacaee4c44667a6dd0869.jpg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/hastinapur-ke-veer-29th-september-2026/"
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodeNumber": 102,
+                    "duration": "22m",
+                    "episodeCode": "S02-E102",
+                    "episodeName": "Radheya Chooses His Destiny",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/32477af17835bdc179284a330b2868c9.jpg",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/hastinapur-ke-veer-28th-september-2026/"
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodeNumber": 101,
+                    "duration": "22m",
+                    "episodeCode": "S02-E101",
+                    "episodeName": "The Truth Behind Duryodhan",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/f2ef3a53bfe94a1bd0ee11ec79b02f9f.jpg",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-26th-september-2026-video-episode-101/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 100,
+                    "duration": "21m",
+                    "episodeCode": "S01-E100",
+                    "episodeName": "The Warrior Within Radheya",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/98177203e205a1ea82ebaa82fab4fe40.jpg",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-25th-september-2026-video-episode-100/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 99,
+                    "duration": "22m",
+                    "episodeCode": "S01-E99",
+                    "episodeName": "Surya Putra Radheya",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/ecbe25ebe793c24aab91d7abe1254585.jpg",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-24th-september-2026-video-episode-99/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 98,
+                    "duration": "22m",
+                    "episodeCode": "S01-E98",
+                    "episodeName": "Duryodhan’s Secret Pact",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/4f759c36f924ed72cd605cf949cfe21a.jpg",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-23rd-september-2026-video-episode-98/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 97,
+                    "duration": "23m",
+                    "episodeCode": "S01-E97",
+                    "episodeName": "Duryodhan Joins Forces With Jarasandh",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/f354b530588547ac359e6c6a6faaffc9.jpg",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-22nd-september-2026-video-episode-97/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 96,
+                    "duration": "21m",
+                    "episodeCode": "S01-E96",
+                    "episodeName": "Duryodhan's Next Move",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/a0c23b736f1f83a965d1823fb092629d.jpg",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-21st-september-2026-video-episode-96/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 95,
+                    "duration": "22m",
+                    "episodeCode": "S01-E95",
+                    "episodeName": "Duryodhan's Biggest Triumph",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/7d9bc8144d354cd6aa1c0ed1c4dc6d4d.jpg",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-19th-september-2026-video-episode-95/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 94,
+                    "duration": "23m",
+                    "episodeCode": "S01-E94",
+                    "episodeName": "Bhishma Challenges Jarasandh",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/0e4acb364b7ae81117e5b41d79a1e154.jpg",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-18th-september-2026-video-episode-94/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 93,
+                    "duration": "21m",
+                    "episodeCode": "S01-E93",
+                    "episodeName": "Madhuli Faces Dhritarashtra",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/5b388ce5c1db331ab687946d9208abba.jpg",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-17th-september-2026-video-episode-93/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 92,
+                    "duration": "23m",
+                    "episodeCode": "S01-E92",
+                    "episodeName": "Madhuli Traps The Pandavas",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/91c73711c90e4b23792fea3f86260650.jpg",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-16th-september-2026-video-episode-92/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 91,
+                    "duration": "22m",
+                    "episodeCode": "S01-E91",
+                    "episodeName": "The Pandavas Discover A Vital Clue",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/b013c288f4b1dd0def297c526a255485.jpg",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-15th-september-2026-video-episode-91/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 90,
+                    "duration": "21m",
+                    "episodeCode": "S01-E90",
+                    "episodeName": "Kunti Teaches The Pandavas A Lesson",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/929342f2b5ec2d096486dc1d20c0aede.jpg",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://playdesi.se/hastinapur-ke-veer-14th-september-2026-video-episode-90/"
+                }
+            ],
+            "ottPlayUrl": "https://www.ottplay.com/show/web-series-hastinapur-ke-veer-2026/78b4eda570379?from=search"
+        }
+    ]
+}
