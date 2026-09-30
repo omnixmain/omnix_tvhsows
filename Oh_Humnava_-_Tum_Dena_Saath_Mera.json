@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 29, 2026",
+            "ottReleaseDate": "September 30, 2026",
             "description": "Aparajita is an artist with a bitter past, and our hero Rakshit—a reserved businessman with no place for love! These two hearts meet, but will romance bloom? Watch Oh Humnava - Tum Dena Saath Mera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "161",
+                    "duration": "26m",
+                    "episodeCode": "S1-E161",
+                    "episodeName": "Aparajita Accepts Sudha's Decision",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/391/1790737490391-h",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/o-humnava-tum-dena-saath-mera-30th-september-2026/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "160",
@@ -511,7 +521,7 @@
                     "episodeName": "Rohan Discovers Aradhya's Truth",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6005/1786210336005-h",
                     "updateDate": "09-08-2026",
-                    "episodeUrl": "https://serialtvmaza.net/o-humnava-tum-dena-saath-mera-9th-august-2026-full-episode/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -1311,7 +1321,7 @@
                     "episodeName": "Will Rakshit Help Aparajita?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/934/1779236920934-h",
                     "updateDate": "20-05-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-29th-september-2026/"
                 },
                 {
                     "seasonNumber": "1",
@@ -1381,7 +1391,7 @@
                     "episodeName": "Rakshit Rebukes Ira",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3444/1778634243444-h",
                     "updateDate": "13-05-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-kannada-season-13-29th-september-2026/"
                 },
                 {
                     "seasonNumber": "1",
@@ -1551,7 +1561,7 @@
                     "episodeName": "Rakshit's Painful Past",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6555/1777172726555-h",
                     "updateDate": "26-04-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/kaid-parinda-saubhagyavati-bhava-series-season-1-4/"
                 },
                 {
                     "seasonNumber": "1",
@@ -1601,16 +1611,6 @@
                     "episodeName": "Rakshit's Return Shocks the Family",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/457/1776784780457-h",
                     "updateDate": "21-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "23m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Meet Rakshit, Aparajita",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7817/1776632057817-h",
-                    "updateDate": "20-04-2026",
                     "episodeUrl": ""
                 }
             ]
