@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 29, 2026",
+            "ottReleaseDate": "September 30, 2026",
             "description": "Abandoned by her mother, Mannat becomes a successful chef and finds love with Vikrant, only for destiny to separate them. Will she be able to reclaim her love? Watch Mannat - Har Khushi Paane Ki - Hindi Family Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "570",
+                    "duration": "22m",
+                    "episodeCode": "S1-E570",
+                    "episodeName": "Vikrant's Failed Attempt",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9142/1790737519142-h",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "569",
