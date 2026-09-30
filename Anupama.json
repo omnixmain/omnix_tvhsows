@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Anupama",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
+            "banner": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTAR_DTH/SERIES/690e0260365a9d4e7af88470/images/PORTRAIT/1778505391250-v?o=production",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 30, 2026",
+            "ottReleaseDate": "September 28, 2026",
             "description": "From broken ambitions to changing relationships, Anupama has seen it all! A new journey brings her to the serene Goa. Will her passion find a new home? Watch Anupama - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
                 {
@@ -20,76 +20,6 @@
                     "episodeCode": "S1-E2157",
                     "episodeName": "RV Plots Against Anupama",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3193/1790737683193-h",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "57",
-                    "duration": "20m",
-                    "episodeCode": "S1-E57",
-                    "episodeName": "Samar, Nandini Get Romantic",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "56",
-                    "duration": "20m",
-                    "episodeCode": "S1-E56",
-                    "episodeName": "Anupama Attends the Meeting",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "55",
-                    "duration": "20m",
-                    "episodeCode": "S1-E55",
-                    "episodeName": "The Shahs Meet Anuj",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "54",
-                    "duration": "20m",
-                    "episodeCode": "S1-E54",
-                    "episodeName": "Samar's Life in Peril",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "53",
-                    "duration": "20m",
-                    "episodeCode": "S1-E53",
-                    "episodeName": "Kavya Is Thrilled",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "52",
-                    "duration": "20m",
-                    "episodeCode": "S1-E52",
-                    "episodeName": "Anuj Longs for Anupama",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "51",
-                    "duration": "21m",
-                    "episodeCode": "S1-E51",
-                    "episodeName": "Anupama, Anuj Shake a Leg",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
                     "updateDate": "30-09-2026",
                     "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
                 },
@@ -582,8 +512,79 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2112/1786498592112-h",
                     "updateDate": "12-08-2026",
                     "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-12th-august-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "20m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Samar, Nandini Get Romantic",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "20m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Anupama Attends the Meeting",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "20m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "The Shahs Meet Anuj",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "20m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Samar's Life in Peril",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "20m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Kavya Is Thrilled",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "20m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Anuj Longs for Anupama",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "21m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Anupama, Anuj Shake a Leg",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/636/1778505460636-i",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/anupamaa-30th-september-2026-today-episode/"
                 }
-            ]
+            ],
+            "ottPlayUrl": "https://github.com/omnixmain/omnix_tvhsows/raw/refs/heads/main/Anupama.json"
         }
     ]
 }
