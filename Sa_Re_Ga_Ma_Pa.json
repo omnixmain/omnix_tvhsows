@@ -1,0 +1,60 @@
+{
+    "tvShows": [
+        {
+            "name": "Sa Re Ga Ma Pa",
+            "banner": "https://images.ottplay.com/posters/2f1e1bfb031cd427a4739fed5b39b750.jpg",
+            "genre": "Reality",
+            "rating": "3.8",
+            "year": "2026",
+            "ageRating": "13+",
+            "streaming": "ZEE5",
+            "streamingLogo": "https://cdn.cookielaw.org/logos/a5b54f2f-7212-4d0e-9118-d271f0972554/01985f24-76a5-746c-a2ab-56472a981752/9a323df4-12c6-4561-9d47-d360d6f95ab1/Z5logo_coloured_Onetrust_60x60.png",
+            "language": "Hindi",
+            "ottReleaseDate": "September 19, 2026",
+            "description": "A grand stage where extraordinary voices compete to become India's next singing icon.",
+            "episodes": [
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 4,
+                    "duration": "67m",
+                    "episodeCode": "S01-E4",
+                    "episodeName": "Sa Re Ga Ma Pa 2026 - September 27, 2026",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/4364d43d2190fb2fd04c29b6aff8511b.jpg",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/sa-re-ga-ma-pa-2026-27th-september-2026/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 3,
+                    "duration": "66m",
+                    "episodeCode": "S01-E3",
+                    "episodeName": "Sa Re Ga Ma Pa 2026 - September 26, 2026",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/3b4e859373b6d09806b7435f7ce4c3e9.jpg",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": "https://playdesi.se/sa-re-ga-ma-pa-26th-september-2026-video-episode-3/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 2,
+                    "duration": "62m",
+                    "episodeCode": "S01-E2",
+                    "episodeName": "Episode 2 - Sa Re Ga Ma Pa 2026",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/42571b6863cc16785e509269c6a6829d.jpg",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": "https://playdesi.se/sa-re-ga-ma-pa-20th-september-2026-video-episode-2/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 1,
+                    "duration": "1m",
+                    "episodeCode": "S01-E1",
+                    "episodeName": "Sa Re Ga Ma Pa 2026 - Promo",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/a07aa1f97a500d421382653c837a50f0.jpg",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": "https://playdesi.se/sa-re-ga-ma-pa-19th-september-2026-video-episode-1/"
+                }
+            ],
+            "ottPlayUrl": "https://www.ottplay.com/show/web-series-sa-re-ga-ma-pa-2026-2026/e0272dd7bd172"
+        }
+    ]
+}
