@@ -15,20 +15,10 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "45m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Watch In Your Language",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/family-full-house-with-rohit-sharma-27th-september-2026/"
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "3",
                     "duration": "45m",
                     "episodeCode": "S1-E3",
-                    "episodeName": "Watch KBC Episodes for Free",
+                    "episodeName": "Watch for Free",
                     "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
                     "updateDate": "30-09-2026",
                     "episodeUrl": "https://serialtvmaza.net/family-full-house-with-rohit-sharma-26th-september-2026/"
@@ -38,7 +28,7 @@
                     "episodeNumber": "2",
                     "duration": "45m",
                     "episodeCode": "S1-E2",
-                    "episodeName": "Watch for Free",
+                    "episodeName": "Watch KBC Episodes for Free",
                     "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
                     "updateDate": "30-09-2026",
                     "episodeUrl": "https://serialtvmaza.net/family-full-house-with-rohit-sharma-20th-september-2026/"
