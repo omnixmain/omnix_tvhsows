@@ -2,58 +2,129 @@
     "tvShows": [
         {
             "name": "Crime Patrol 2026",
-            "banner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-            "genre": "Drama, Entertainment",
-            "rating": "8.0",
+            "banner": "https://image.tmdb.org/t/p/w400/vJGNaikuHhz9nVM3Ta8u6Fy1BjH.jpg",
+            "genre": "Crime",
+            "rating": "6.7",
             "year": "2026",
-            "ageRating": "U/A 13+",
-            "streaming": "Sony TV",
-            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "ageRating": "16+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 30, 2026",
-            "description": "Sony LIV - Top premium streaming platform where you can watch popular TV Shows, Movies, Sports, Web Series. Enjoy your favourite Live TV Channels online",
+            "ottReleaseDate": "August 31, 2026",
+            "description": "Crime Patrol 2026 explores chilling crimes born from ordinary emotions that spiral into irreversible acts. Inspired by real cases that shocked the nation, each story reveals how a single lapse can devastate many lives. In a world stripped of fear, patience, and remorse, the show examines the thin line between human vulnerability and criminal intent, from Insaaniyat Se Haivaaniyat Tak.",
             "episodes": [
                 {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "45m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Watch In Your Language",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/ye-fitoor-tera-30th-september-2026-today-episode/"
+                    "seasonNumber": 1,
+                    "episodeNumber": 18,
+                    "duration": "47m",
+                    "episodeCode": "S01-E18",
+                    "episodeName": "Aakrosh - Part 2",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/76d71722e0640721f2c546e5fd63affe.jpg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/crime-patrol-2026-29th-september-2026/"
                 },
                 {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "45m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Watch KBC Episodes for Free",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/ye-fitoor-tera-30th-september-2026-today-episode/"
+                    "seasonNumber": 1,
+                    "episodeNumber": 17,
+                    "duration": "48m",
+                    "episodeCode": "S01-E17",
+                    "episodeName": "Aakrosh - Part 1",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/95adf45f03a415e4047e1c7f599924d4.jpg",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/crime-patrol-2026-28th-september-2026/"
                 },
                 {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "45m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Watch for Free",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/ye-fitoor-tera-30th-september-2026-today-episode/"
+                    "seasonNumber": 1,
+                    "episodeNumber": 16,
+                    "duration": "42m",
+                    "episodeCode": "S01-E16",
+                    "episodeName": "Babli Aur Paakhi - Part 2",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/b7128b5d3a4c68daf7af08224e4fd293.jpg",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://playdesi.se/crime-patrol-24th-september-2026-video-episode-16/"
                 },
                 {
+                    "seasonNumber": 1,
+                    "episodeNumber": 15,
+                    "duration": "42m",
+                    "episodeCode": "S01-E15",
+                    "episodeName": "Babli aur Paakhi - Part 1",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/acaccdca06e5456d6a68dc44de344df3.jpg",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://playdesi.se/crime-patrol-23rd-september-2026-video-episode-15/"
+                },
+                {
+                    "episodeCode": "S01-E14",
                     "seasonNumber": "1",
-                    "episodeNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "46m",
+                    "episodeName": "Katil Ishq - Part 2",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/9702703cc117843d3b9771abc285ff01.jpg",
+                    "episodeUrl": "https://playdesi.se/crime-patrol-22nd-september-2026-video-episode-14/",
+                    "updateDate": "22-09-2026"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 13,
+                    "duration": "44m",
+                    "episodeCode": "S01-E13",
+                    "episodeName": "Katil Ishq - Part 1",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/4f56346347383f995b754a1603c828b1.jpg",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": "https://playdesi.se/crime-patrol-21st-september-2026-video-episode-13/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 12,
                     "duration": "45m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Watch Now",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/ye-fitoor-tera-30th-september-2026-today-episode/"
+                    "episodeCode": "S01-E12",
+                    "episodeName": "Daraar - Part 2",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/d1492bf499872c1f716921001ee16930.jpg",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": "https://playdesi.se/crime-patrol-17th-september-2026-video-episode-12/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 11,
+                    "duration": "48m",
+                    "episodeCode": "S01-E11",
+                    "episodeName": "Daraar - Part 1",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/72d5759397d439db2504a7649eb30806.jpg",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/crime-patrol-16th-september-2026-video-episode-11/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 10,
+                    "duration": "50m",
+                    "episodeCode": "S01-E10",
+                    "episodeName": "Dafan - Part 2",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/cf94558797d106d3e2fff34a5d2904a3.jpg",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/crime-patrol-15th-september-2026-video-episode-10/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 9,
+                    "duration": "46m",
+                    "episodeCode": "S01-E9",
+                    "episodeName": "Dafan - Part 1",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/c85879958a1a7c0e2cc2b438db43ddb2.jpg",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/crime-patrol-14th-september-2026-video-episode-9/"
+                },
+                {
+                    "seasonNumber": 1,
+                    "episodeNumber": 8,
+                    "duration": "47m",
+                    "episodeCode": "S01-E8",
+                    "episodeName": "#Love #Tu meri life hai",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/de7ee199c12bc8f5a6146ab6375900cb.jpg",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": "https://tv-shows.owner-omnix.workers.dev/crime-patrol-10th-september-2026-video-episode-8/"
                 }
-            ]
+            ],
+            "ottPlayUrl": "https://www.ottplay.com/show/web-series-crime-patrol-2026-2026/220272f3da466?from=search"
         }
     ]
 }
