@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 29, 2026",
+            "ottReleaseDate": "September 30, 2026",
             "description": "Once an AIPMT topper, Aarambhi’s life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance? Watch Dr. Aarambhi - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "200",
+                    "duration": "22m",
+                    "episodeCode": "S1-E200",
+                    "episodeName": "Raj Fights to Save Manmeet",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5929/1790737495929-h",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/dr-aarambhi-30th-september-2026/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "199",
@@ -511,7 +521,7 @@
                     "episodeName": "Dhruv's Silent Guilt for Aarambhi",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6814/1785818986814-h",
                     "updateDate": "04-08-2026",
-                    "episodeUrl": "https://serialtvmaza.net/dr-aarambhi-4th-august-2026-full-episode/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -1701,7 +1711,7 @@
                     "episodeName": "Vishwas Faces Avantika's Wish",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7536/1773133217536-h",
                     "updateDate": "10-03-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-29th-september-2026/"
                 },
                 {
                     "seasonNumber": "1",
@@ -1771,7 +1781,7 @@
                     "episodeName": "Vishwas Fumes at Aarambhi",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2018/1772159212018-h",
                     "updateDate": "27-02-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-kannada-season-13-29th-september-2026/"
                 },
                 {
                     "seasonNumber": "1",
@@ -1941,7 +1951,7 @@
                     "episodeName": "Aarambhi Betrayed at the Brink",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/339/1770192880339-h",
                     "updateDate": "04-02-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/kaid-parinda-saubhagyavati-bhava-series-season-1-4/"
                 },
                 {
                     "seasonNumber": "1",
