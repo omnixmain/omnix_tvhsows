@@ -1,0 +1,30 @@
+{
+    "tvShows": [
+        {
+            "name": "Taarak Mehta Ka Ooltah Chashmah",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021341/1785231142473758_TMKOC25_Portrait_Thumb.jpg",
+            "genre": "Drama, Comedy",
+            "rating": "8.4",
+            "year": "2008",
+            "ageRating": "7+, U/A, 8+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "Jul 28, 2008",
+            "description": "A lively Mumbai society navigates everyday challenges with humor, friendship, and unity, celebrating life and togetherness.",
+            "episodes": [
+                {
+                    "seasonNumber": 49,
+                    "episodeNumber": 4828,
+                    "duration": "21m",
+                    "episodeCode": "S49-E4828",
+                    "episodeName": "Chalu Pandey Solves The Case",
+                    "episodeBanner": "https://images.ottplay.com/backdrops/e4f9488617e4dbfbac2f58cd9726ec22.jpg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://playdesi.se/taarak-mehta-ka-ooltah-chashmah-29th-september-2026-video-episode-4833/"
+                }
+            ],
+            "ottPlayUrl": "https://www.ottplay.com/show/tv-show-taarak-mehta-ka-ooltah-chashmah-2008/60e273f90cae9"
+        }
+    ]
+}
