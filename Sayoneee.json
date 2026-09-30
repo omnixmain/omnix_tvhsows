@@ -2,15 +2,15 @@
     "tvShows": [
         {
             "name": "Sayoneee",
-            "banner": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/8982/1789906048982-i",
+            "banner": "https://i.ibb.co/rKwWCrd1/sayonee.jpg",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
             "ageRating": "U/A 13+",
             "streaming": "JioHotstar",
-            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "streamingLogo": "https://secure-media.hotstar.com/web-assets/prod/jv-jhs_favicon.ico",
             "language": "Hindi",
-            "ottReleaseDate": "September 26, 2026",
+            "ottReleaseDate": "September 23, 2026",
             "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
                 {
@@ -21,7 +21,7 @@
                     "episodeName": "Maya Threatens Indira",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6652/1790383716652-h",
                     "updateDate": "26-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/sayonee-26th-september-2026/"
                 },
                 {
                     "seasonNumber": "1",
@@ -31,7 +31,7 @@
                     "episodeName": "Saanvi Walks Out of the Shoot",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8240/1790298278240-h",
                     "updateDate": "25-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://playdesi.se/sayonee-25th-september-2026-video-episode-3/"
                 },
                 {
                     "seasonNumber": "1",
@@ -41,7 +41,7 @@
                     "episodeName": "Saanvi's Locket Reveals a Mystery",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6201/1790154776201-h",
                     "updateDate": "24-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://playdesi.se/sayonee-24th-september-2026-video-episode-2/"
                 },
                 {
                     "seasonNumber": "1",
@@ -51,9 +51,10 @@
                     "episodeName": "Saanvi's Mother's Day Wish",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4705/1790101344705-h",
                     "updateDate": "23-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://playdesi.se/sayonee-23rd-september-2026-video-episode-1/"
                 }
-            ]
+            ],
+            "ottPlayUrl": "https://github.com/omnixmain/omnix_tvhsows/raw/refs/heads/main/Sayoneee.json"
         }
     ]
 }
