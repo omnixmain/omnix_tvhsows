@@ -15,6 +15,406 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "112",
+                    "duration": "21m",
+                    "episodeCode": "S1-E112",
+                    "episodeName": "Shivprasad Eases Shalini's Fear",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3740/1779757363740-h",
+                    "updateDate": "26-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "111",
+                    "duration": "20m",
+                    "episodeCode": "S1-E111",
+                    "episodeName": "Manish's Challenge to Nandini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9453/1779671859453-h",
+                    "updateDate": "25-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "110",
+                    "duration": "21m",
+                    "episodeCode": "S1-E110",
+                    "episodeName": "Shalini Turns Down Aradhya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5513/1779591235513-h",
+                    "updateDate": "24-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "109",
+                    "duration": "22m",
+                    "episodeCode": "S1-E109",
+                    "episodeName": "A Mystery Deepens for Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1491/1779524381491-h",
+                    "updateDate": "23-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "108",
+                    "duration": "23m",
+                    "episodeCode": "S1-E108",
+                    "episodeName": "Karan's Plan Unfolds",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3399/1779420323399-h",
+                    "updateDate": "22-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "107",
+                    "duration": "23m",
+                    "episodeCode": "S1-E107",
+                    "episodeName": "Malhar's Stern Warning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/927/1779326770927-h",
+                    "updateDate": "21-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "106",
+                    "duration": "21m",
+                    "episodeCode": "S1-E106",
+                    "episodeName": "Parshuram's Ultimatum to Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9364/1779233319364-h",
+                    "updateDate": "20-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "105",
+                    "duration": "21m",
+                    "episodeCode": "S1-E105",
+                    "episodeName": "Karan Attacks Shivprasad, Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2774/1779154122774-h",
+                    "updateDate": "19-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "104",
+                    "duration": "21m",
+                    "episodeCode": "S1-E104",
+                    "episodeName": "Trouble Looms for Pihu, Chintu",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8434/1779081678434-h",
+                    "updateDate": "18-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "103",
+                    "duration": "21m",
+                    "episodeCode": "S1-E103",
+                    "episodeName": "Parshuram in Action",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1659/1778982391659-h",
+                    "updateDate": "17-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "102",
+                    "duration": "20m",
+                    "episodeCode": "S1-E102",
+                    "episodeName": "Aradhya Questions Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2669/1778909532669-h",
+                    "updateDate": "16-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "101",
+                    "duration": "21m",
+                    "episodeCode": "S1-E101",
+                    "episodeName": "Nandini Persuades Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9016/1778807799016-h",
+                    "updateDate": "15-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "100",
+                    "duration": "21m",
+                    "episodeCode": "S1-E100",
+                    "episodeName": "Will Shalini Save Kabir?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/335/1778727870335-h",
+                    "updateDate": "14-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "99",
+                    "duration": "21m",
+                    "episodeCode": "S1-E99",
+                    "episodeName": "Karan Under Interrogation",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3419/1778634253419-h",
+                    "updateDate": "13-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "98",
+                    "duration": "21m",
+                    "episodeCode": "S1-E98",
+                    "episodeName": "Chintu's Terrifying Encounter",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8478/1778560758478-h",
+                    "updateDate": "12-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "97",
+                    "duration": "21m",
+                    "episodeCode": "S1-E97",
+                    "episodeName": "Nandini Faces Malhar's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4668/1778461754668-h",
+                    "updateDate": "11-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "96",
+                    "duration": "20m",
+                    "episodeCode": "S1-E96",
+                    "episodeName": "Karan Suspects Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3666/1778384043666-h",
+                    "updateDate": "10-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "95",
+                    "duration": "20m",
+                    "episodeCode": "S1-E95",
+                    "episodeName": "Chintu, Pihu's Future at Stake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3922/1778330183922-h",
+                    "updateDate": "09-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "94",
+                    "duration": "22m",
+                    "episodeCode": "S1-E94",
+                    "episodeName": "Sheetal's Ultimatum to Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/706/1778203670706-h",
+                    "updateDate": "08-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "93",
+                    "duration": "23m",
+                    "episodeCode": "S1-E93",
+                    "episodeName": "Parshuram Cautions Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6556/1778115026556-h",
+                    "updateDate": "07-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "92",
+                    "duration": "22m",
+                    "episodeCode": "S1-E92",
+                    "episodeName": "Shalini's Open Challenge to Manish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8018/1778029238018-h",
+                    "updateDate": "06-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "91",
+                    "duration": "20m",
+                    "episodeCode": "S1-E91",
+                    "episodeName": "Aradhya's Revelation Shocks Karan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3116/1777941883116-h",
+                    "updateDate": "05-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "90",
+                    "duration": "21m",
+                    "episodeCode": "S1-E90",
+                    "episodeName": "Shivprasad Stands by Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1836/1777857111836-h",
+                    "updateDate": "04-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "89",
+                    "duration": "20m",
+                    "episodeCode": "S1-E89",
+                    "episodeName": "Malhar Blocks Deepali's Visit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9550/1777777869550-h",
+                    "updateDate": "03-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "88",
+                    "duration": "20m",
+                    "episodeCode": "S1-E88",
+                    "episodeName": "Karan Faces Serious Trouble",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1739/1777722701739-h",
+                    "updateDate": "02-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "87",
+                    "duration": "23m",
+                    "episodeCode": "S1-E87",
+                    "episodeName": "Manish Confronts Nandini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1886/1777585541886-h",
+                    "updateDate": "01-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "86",
+                    "duration": "21m",
+                    "episodeCode": "S1-E86",
+                    "episodeName": "Karan Threatens Shalini",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7975/1777509347975-h",
+                    "updateDate": "30-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "85",
+                    "duration": "21m",
+                    "episodeCode": "S1-E85",
+                    "episodeName": "Karan Targets Shalini's Kids",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1486/1777426671486-h",
+                    "updateDate": "29-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "84",
+                    "duration": "20m",
+                    "episodeCode": "S1-E84",
+                    "episodeName": "Chintu Faces Karan's Warning",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7651/1777336587651-h",
+                    "updateDate": "28-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "83",
+                    "duration": "20m",
+                    "episodeCode": "S1-E83",
+                    "episodeName": "Aradhya's Bold Stand for Kabir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2820/1777249222820-h",
+                    "updateDate": "27-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "82",
+                    "duration": "22m",
+                    "episodeCode": "S1-E82",
+                    "episodeName": "Shalini Worries about Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2921/1777172662921-h",
+                    "updateDate": "26-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "81",
+                    "duration": "21m",
+                    "episodeCode": "S1-E81",
+                    "episodeName": "Tension Brews between Karan, Manish",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4608/1777110384608-h",
+                    "updateDate": "25-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "80",
+                    "duration": "21m",
+                    "episodeCode": "S1-E80",
+                    "episodeName": "Manish's Plot for Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9672/1776992579672-h",
+                    "updateDate": "24-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "79",
+                    "duration": "22m",
+                    "episodeCode": "S1-E79",
+                    "episodeName": "Shalini Rescues Shivprasad",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/807/1776913280807-h",
+                    "updateDate": "23-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "78",
+                    "duration": "24m",
+                    "episodeCode": "S1-E78",
+                    "episodeName": "Aradhya Takes Charge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/741/1776822790741-h",
+                    "updateDate": "22-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "77",
+                    "duration": "23m",
+                    "episodeCode": "S1-E77",
+                    "episodeName": "Sheetal Plots Against Parshuram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7281/1776784697281-h",
+                    "updateDate": "21-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "76",
+                    "duration": "21m",
+                    "episodeCode": "S1-E76",
+                    "episodeName": "Shalini Springs Into Action",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7363/1776666247363-h",
+                    "updateDate": "20-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "75",
+                    "duration": "21m",
+                    "episodeCode": "S1-E75",
+                    "episodeName": "Shalini Defies Karan's Threat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5741/1776568555741-h",
+                    "updateDate": "19-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "74",
+                    "duration": "20m",
+                    "episodeCode": "S1-E74",
+                    "episodeName": "A Shocker for Sheetal",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5227/1776470765227-h",
+                    "updateDate": "18-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "73",
+                    "duration": "20m",
+                    "episodeCode": "S1-E73",
+                    "episodeName": "Shalini's Concern for Parshuram",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5254/1776371635254-h",
+                    "updateDate": "17-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "72",
                     "duration": "20m",
                     "episodeCode": "S1-E72",
@@ -411,7 +811,7 @@
                     "episodeName": "Shivprasad's Growing Suspicion",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5362/1772866585362-h",
                     "updateDate": "07-03-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-1st-october-2026/"
                 },
                 {
                     "seasonNumber": "1",
@@ -471,7 +871,7 @@
                     "episodeName": "Shalini Confronts Shivprasad",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6370/1772257656370-h",
                     "updateDate": "28-02-2026",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-1st-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-malayalam-season-8-1st-october-2026/"
                 },
                 {
                     "seasonNumber": "1",
