@@ -15,16 +15,6 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "33",
-                    "duration": "45m",
-                    "episodeCode": "S1-E33",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3192/1790057083192-i",
-                    "updateDate": "01-10-2026",
-                    "episodeUrl": "https://serialtvmaza.net/thodi-si-umeed-thoda-sa-aasman-1st-october-2026/"
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "32",
                     "duration": "59m",
                     "episodeCode": "S1-E32",
