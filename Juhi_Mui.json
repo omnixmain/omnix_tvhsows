@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 30, 2026",
+            "ottReleaseDate": "October 01, 2026",
             "description": "Sharp-witted Juhi is an autistic prodigy, often ridiculed by the world! When chaos strikes, she dons the lawyer’s cape, with her brother as the guiding light. Watch Juhi Mui - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "77",
+                    "duration": "24m",
+                    "episodeCode": "S1-E77",
+                    "episodeName": "Juhi Confesses Her Feelings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2663/1790821132663-h",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/juhi-mui-1st-october-2026-today-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "76",
@@ -701,7 +711,7 @@
                     "episodeName": "Rajendra's Will Shocks Suchitra",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4598/1783481704598-h",
                     "updateDate": "08-07-2026",
-                    "episodeUrl": "https://serialtvmaza.net/juhi-mui-8th-july-2026-full-episode/"
+                    "episodeUrl": "https://serialtvmaza.net/kaid-parinda-saubhagyavati-bhava-series-season-1-2026-episode-8/"
                 },
                 {
                     "seasonNumber": "1",
