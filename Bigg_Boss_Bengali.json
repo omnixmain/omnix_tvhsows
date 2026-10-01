@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "59m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "BBBan Day 32: Canvas-e-Captain Gets Intense",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7034/1790862937034-h",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-1st-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "32",
                     "duration": "59m",
                     "episodeCode": "S1-E32",
