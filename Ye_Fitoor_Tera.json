@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 30, 2026",
+            "ottReleaseDate": "October 01, 2026",
             "description": "Reclusive Saumya finds the strength to reclaim her life when she meets Jeet, a free-spirited rebel. A passionate love story blooms in the heart of Prayagraj. Watch Yeh Fitoor Tera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "27m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Reva's Stand Against Saumya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/965/1790819600965-h",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/ye-fitoor-tera-1st-october-2026/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "55",
@@ -491,7 +501,7 @@
                     "episodeName": "Jeet Stands by Saumya",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1375/1786497571375-h",
                     "updateDate": "12-08-2026",
-                    "episodeUrl": "https://serialtvmaza.net/ye-fitoor-tera-12th-august-2026-full-episode/"
+                    "episodeUrl": "https://serialtvmaza.net/kaid-parinda-saubhagyavati-bhava-series-season-1-2026-episode-8/"
                 },
                 {
                     "seasonNumber": "1",
