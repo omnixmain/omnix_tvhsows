@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "45m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3192/1790057083192-i",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/thodi-si-umeed-thoda-sa-aasman-2nd-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "33",
                     "duration": "59m",
                     "episodeCode": "S1-E33",
@@ -181,7 +191,7 @@
                     "episodeName": "BBBan Day 16: 'Durge Dakati' Begins",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8059/1789482368059-h",
                     "updateDate": "15-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/the-court-season-1-2026-episode-17-20/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-15th-september-2026-full-episode-17/"
                 },
                 {
                     "seasonNumber": "1",
@@ -221,7 +231,7 @@
                     "episodeName": "BBBan Day 12: Is Love Brewing in the House?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1542/1789133931542-h",
                     "updateDate": "11-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/ali-baba-aur-40-bhoot-season-1-2026-episode-13-16/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-11th-september-2026-full-episode-13/"
                 },
                 {
                     "seasonNumber": "1",
@@ -311,7 +321,7 @@
                     "episodeName": "BBBan Day 03: First Task, New Equations",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6798/1788356416798-h",
                     "updateDate": "02-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/apollo-has-fallen-season-1-2026-episode-4/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-2nd-september-2026-full-episode-4/"
                 },
                 {
                     "seasonNumber": "1",
