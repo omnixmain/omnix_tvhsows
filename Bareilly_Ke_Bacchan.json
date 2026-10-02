@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 01, 2026",
+            "ottReleaseDate": "October 02, 2026",
             "description": "Young and ambitious, Sangam ends up marrying the carefree Krishna Bacchan! But the Bacchans have never lived with a woman, so how will the ‘new Bahu’ fare? Watch Bareilly Ke Bacchan - Hindi Drama Family Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "97",
+                    "duration": "23m",
+                    "episodeCode": "S1-E97",
+                    "episodeName": "Ganga's Cooking Talk Puts Jyoti Off",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8833/1790908798833-h",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bareilly-ke-bachchan-2nd-october-2026/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "96",
