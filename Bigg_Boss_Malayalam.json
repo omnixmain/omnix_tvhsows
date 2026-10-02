@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "27",
+                    "duration": "45m",
+                    "episodeCode": "S8-E27",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/thodi-si-umeed-thoda-sa-aasman-2nd-october-2026/"
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "26",
                     "duration": "1h 7m",
                     "episodeCode": "S8-E26",
@@ -151,7 +161,7 @@
                     "episodeName": "BBMal Day 12: Jail Food Before Actual Jail Time",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4578/1789737484578-h",
                     "updateDate": "18-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/ali-baba-aur-40-bhoot-season-1-2026-episode-13-16/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-malayalam-season-8-18th-september-2026/"
                 },
                 {
                     "seasonNumber": "8",
@@ -241,7 +251,7 @@
                     "episodeName": "BBMal Day 3: Bigg Boss Cuts Off the Basics",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9445/1788961629445-h",
                     "updateDate": "09-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/apollo-has-fallen-season-1-2026-episode-4/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-8-malayalam-9th-september-2026-full-episode-4/"
                 },
                 {
                     "seasonNumber": "8",
