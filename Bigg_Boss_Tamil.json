@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "27",
+                    "duration": "45m",
+                    "episodeCode": "S10-E27",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/thodi-si-umeed-thoda-sa-aasman-2nd-october-2026/"
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "26",
                     "duration": "1h 9m",
                     "episodeCode": "S10-E26",
@@ -151,7 +161,7 @@
                     "episodeName": "BBTam Day 12: New King and Servants",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4164/1789736914164-h",
                     "updateDate": "18-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/ali-baba-aur-40-bhoot-season-1-2026-episode-13-16/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-18th-september-2026/"
                 },
                 {
                     "seasonNumber": "10",
@@ -241,7 +251,7 @@
                     "episodeName": "BBTam Day 3: A Shocking Exit",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8170/1788966968170-h",
                     "updateDate": "09-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/apollo-has-fallen-season-1-2026-episode-4/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-10-tamil-9th-september-2026-full-episode-4/"
                 },
                 {
                     "seasonNumber": "10",
@@ -272,6 +282,166 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5574/1788700215574-h",
                     "updateDate": "06-09-2026",
                     "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-6th-september-2026-full-episode-1/"
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "106",
+                    "duration": "3h 24m",
+                    "episodeCode": "S9-E106",
+                    "episodeName": "BBTam Day 105: Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4811/1768806174811-h",
+                    "updateDate": "18-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "105",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E105",
+                    "episodeName": "BBTam Day 104: The Final Night in the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8902/1768652318902-h",
+                    "updateDate": "17-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "104",
+                    "duration": "51m",
+                    "episodeCode": "S9-E104",
+                    "episodeName": "BBTam Day 103: A Blast from the Past",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2069/1768569622069-h",
+                    "updateDate": "16-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "103",
+                    "duration": "51m",
+                    "episodeCode": "S9-E103",
+                    "episodeName": "BBTam Day 102: Pongalo Pongal!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1694/1768483251694-h",
+                    "updateDate": "15-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "102",
+                    "duration": "51m",
+                    "episodeCode": "S9-E102",
+                    "episodeName": "BBTam Day 101: Friendship, Fights and Feelings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4659/1768396794659-h",
+                    "updateDate": "14-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "101",
+                    "duration": "42m",
+                    "episodeCode": "S9-E101",
+                    "episodeName": "BBTam Day 100: Celebrating the Bigg Milestone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1857/1768306711857-h",
+                    "updateDate": "13-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "100",
+                    "duration": "50m",
+                    "episodeCode": "S9-E100",
+                    "episodeName": "BBTam Day 99: Finale Week",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6282/1768219886282-h",
+                    "updateDate": "12-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "99",
+                    "duration": "1h 2m",
+                    "episodeCode": "S9-E99",
+                    "episodeName": "BBTam Day 98: Chinna Kurumpadam, Bigg Twists",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7076/1768138667076-h",
+                    "updateDate": "11-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "98",
+                    "duration": "1h 3m",
+                    "episodeCode": "S9-E98",
+                    "episodeName": "BBTam Day 97: First Encounters, Final Farewells",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3863/1768051053863-h",
+                    "updateDate": "10-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "97",
+                    "duration": "52m",
+                    "episodeCode": "S9-E97",
+                    "episodeName": "BBTam Day 96: Vinoth's Shocking Move",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8646/1767967238646-h",
+                    "updateDate": "09-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "96",
+                    "duration": "49m",
+                    "episodeCode": "S9-E96",
+                    "episodeName": "BBTam Day 95: Can The Final 6 Pull It Off?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8494/1767877438494-h",
+                    "updateDate": "08-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "95",
+                    "duration": "50m",
+                    "episodeCode": "S9-E95",
+                    "episodeName": "BBTam Day 94: Top Six vs Evictees",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3971/1767790413971-h",
+                    "updateDate": "07-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "94",
+                    "duration": "51m",
+                    "episodeCode": "S9-E94",
+                    "episodeName": "BBTam Day 93: Big Money Temptation Starts",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2594/1767705642594-h",
+                    "updateDate": "06-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "93",
+                    "duration": "51m",
+                    "episodeCode": "S9-E93",
+                    "episodeName": "BBTam Day 92: Panapetti 2.0",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3519/1767618723519-h",
+                    "updateDate": "05-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "92",
+                    "duration": "1h 2m",
+                    "episodeCode": "S9-E92",
+                    "episodeName": "BBTam Day 91: Meet the First Finalist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6687/1767536326687-h",
+                    "updateDate": "04-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "91",
+                    "duration": "1h 8m",
+                    "episodeCode": "S9-E91",
+                    "episodeName": "BBTam Day 90: No More Warnings!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6888/1767457726888-h",
+                    "updateDate": "03-01-2026",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "9",
@@ -811,7 +981,7 @@
                     "episodeName": "BBTam Day 36: Nominations and New Alliances",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6999/1762780556999-h",
                     "updateDate": "10-11-2025",
-                    "episodeUrl": "https://serialtvmaza.net/heart-beat-season-3-2026-episode-37-40/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "9",
@@ -911,7 +1081,7 @@
                     "episodeName": "BBTam Day 26: Lockers Open, Truths Spoken",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7673/1761919937673-h",
                     "updateDate": "31-10-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-2nd-october-2026-today-episode-27/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1051,7 +1221,7 @@
                     "episodeName": "BBTam Day 12: Captaincy Contenders Face-Off",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1905/1760708921905-h",
                     "updateDate": "17-10-2025",
-                    "episodeUrl": "https://serialtvmaza.net/ali-baba-aur-40-bhoot-season-1-2026-episode-13-16/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-18th-september-2026/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1141,7 +1311,7 @@
                     "episodeName": "BBTam Day 3: The Battle for Captaincy Begins",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6403/1759930696403-h",
                     "updateDate": "08-10-2025",
-                    "episodeUrl": "https://serialtvmaza.net/apollo-has-fallen-season-1-2026-episode-4/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-10-tamil-9th-september-2026-full-episode-4/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1871,7 +2041,7 @@
                     "episodeName": "Day 36: New Rules for the Captain",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7425/1731339817425-h",
                     "updateDate": "11-11-2024",
-                    "episodeUrl": "https://serialtvmaza.net/heart-beat-season-3-2026-episode-37-40/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "8",
@@ -1971,7 +2141,7 @@
                     "episodeName": "Day 26: Women's Team Wins Again",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7656/1730469857656-h",
                     "updateDate": "01-11-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-2nd-october-2026-today-episode-27/"
                 },
                 {
                     "seasonNumber": "8",
@@ -2111,7 +2281,7 @@
                     "episodeName": "Day 12: Victory for Women's Team",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5694/1729264585694-h",
                     "updateDate": "18-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/ali-baba-aur-40-bhoot-season-1-2026-episode-13-16/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-18th-september-2026/"
                 },
                 {
                     "seasonNumber": "8",
@@ -2201,7 +2371,7 @@
                     "episodeName": "Day 3: Fiery Fights",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8975/1728486348975-h",
                     "updateDate": "09-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/apollo-has-fallen-season-1-2026-episode-4/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-10-tamil-9th-september-2026-full-episode-4/"
                 },
                 {
                     "seasonNumber": "8",
