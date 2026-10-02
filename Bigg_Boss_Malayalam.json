@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "October 01, 2026",
+            "ottReleaseDate": "October 02, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "26",
-                    "duration": "1h 8m",
+                    "duration": "1h 7m",
                     "episodeCode": "S8-E26",
                     "episodeName": "BBMal Day 25: Twisted Mind Games and Team Swaps",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4990/1790861394990-h",
