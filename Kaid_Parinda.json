@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "46m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Dard Ka Aakhri Padhav!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1103/1790996901103-h",
+                    "updateDate": "03-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/kaid-parinda-saubhagyavati-bhava-series-season-1-2026-episode-10/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "9",
                     "duration": "40m",
                     "episodeCode": "S1-E9",
