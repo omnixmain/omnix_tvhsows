@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "1h 9m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Single vs Married!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9379/1790972549379-h",
+                    "updateDate": "03-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/india-ke-top-1-3rd-october-2026-full-episode-5/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "4",
                     "duration": "1h 5m",
                     "episodeCode": "S1-E4",
