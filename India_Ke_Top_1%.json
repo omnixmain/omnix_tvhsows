@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "45m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9275/1790660089275-i",
+                    "updateDate": "04-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tum-se-tum-tak-4th-october-2026-today-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "5",
                     "duration": "1h 9m",
                     "episodeCode": "S1-E5",
