@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "165",
+                    "duration": "21m",
+                    "episodeCode": "S1-E165",
+                    "episodeName": "Arvind's Plea to Sudha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6445/1791074536445-h",
+                    "updateDate": "04-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/o-humnava-tum-dena-saath-mera-4th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "164",
                     "duration": "21m",
                     "episodeCode": "S1-E164",
@@ -1391,7 +1401,7 @@
                     "episodeName": "Ira Plots against Aparajita",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7715/1778909497715-h",
                     "updateDate": "16-05-2026",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-3rd-october-2026-today-episode-27/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -1511,7 +1521,7 @@
                     "episodeName": "Avinash, Aradhya Blame Aparajita",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9787/1777869559787-h",
                     "updateDate": "04-05-2026",
-                    "episodeUrl": "https://serialtvmaza.net/108-base-hospital-uri-3rd-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
