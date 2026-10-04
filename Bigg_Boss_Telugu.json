@@ -14,6 +14,296 @@
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
                 {
+                    "seasonNumber": "10",
+                    "episodeNumber": "29",
+                    "duration": "45m",
+                    "episodeCode": "S10-E29",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "04-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tum-se-tum-tak-4th-october-2026-today-full-episode/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "28",
+                    "duration": "1h 16m",
+                    "episodeCode": "S10-E28",
+                    "episodeName": "BBTel Day 27: Nagarjuna Exposes Game Secrets",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/741/1791034720741-h",
+                    "updateDate": "03-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-3rd-october-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "27",
+                    "duration": "1h 11m",
+                    "episodeCode": "S10-E27",
+                    "episodeName": "BBTel Day 26: Immunity Up for Grabs",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7176/1790947937176-h",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-2nd-october-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "26",
+                    "duration": "1h 16m",
+                    "episodeCode": "S10-E26",
+                    "episodeName": "BBTel Day 25: Daggers and Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4371/1790863764371-h",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-1st-october-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "25",
+                    "duration": "1h 3m",
+                    "episodeCode": "S10-E25",
+                    "episodeName": "BBTel Day 24: Fire and Lava Challenge",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7635/1790775947635-h",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-30th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "24",
+                    "duration": "1h 13m",
+                    "episodeCode": "S10-E24",
+                    "episodeName": "BBTel Day 23: Who Will Face the Danger?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5808/1790684285808-h",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-29th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "23",
+                    "duration": "1h 8m",
+                    "episodeCode": "S10-E23",
+                    "episodeName": "BBTel Day 22: Daggers and Broken Alliances!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9025/1790604859025-h",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-28th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "22",
+                    "duration": "1h 25m",
+                    "episodeCode": "S10-E22",
+                    "episodeName": "BBTel Day 21: Twists and Temptation Peaks",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1244/1790507151244-h",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-27th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "21",
+                    "duration": "1h 14m",
+                    "episodeCode": "S10-E21",
+                    "episodeName": "BBTel Day 20: Nagarjuna Reacts to House Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3560/1790435103560-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-26th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "20",
+                    "duration": "1h 14m",
+                    "episodeCode": "S10-E20",
+                    "episodeName": "BBTel Day 19: New Entries and New Captain",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9451/1790339569451-h",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-25th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "19",
+                    "duration": "1h 5m",
+                    "episodeCode": "S10-E19",
+                    "episodeName": "BBTel Day 18: Comments Create a Stir",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3185/1790254403185-h",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bbte10-24th-sept-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "18",
+                    "duration": "1h 10m",
+                    "episodeCode": "S10-E18",
+                    "episodeName": "BBTel Day 17: Letters Burn, Alliances Break",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7863/1790171767863-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/mtv-hustle-season-5-4th-october-2026-today-full-episode-18/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "17",
+                    "duration": "1h 7m",
+                    "episodeCode": "S10-E17",
+                    "episodeName": "BBTel Day 16: Debjani’s Lifeline Shattered",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7729/1790085177729-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-22nd-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "16",
+                    "duration": "1h 12m",
+                    "episodeCode": "S10-E16",
+                    "episodeName": "BBTel Day 15: Friendships Crumble in the House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6328/1789994106328-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/108-base-hospital-uri-4th-october-2026-today-full-episode-16/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "15",
+                    "duration": "1h 24m",
+                    "episodeCode": "S10-E15",
+                    "episodeName": "BBTel Day 14: Who Is Master, Who Is Puppet?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9209/1789900239209-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-20th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "14",
+                    "duration": "1h 14m",
+                    "episodeCode": "S10-E14",
+                    "episodeName": "BBTel Day 13: It's A Day of Punishments",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7038/1789825467038-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-19th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "13",
+                    "duration": "1h 2m",
+                    "episodeCode": "S10-E13",
+                    "episodeName": "BBTel Day 12: Clash for First Captaincy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2131/1789737232131-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-18th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "12",
+                    "duration": "1h 4m",
+                    "episodeCode": "S10-E12",
+                    "episodeName": "BBTel Day 11: Task Twists Flip Captaincy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2215/1789658302215-h",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-17th-september-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "11",
+                    "duration": "1h 8m",
+                    "episodeCode": "S10-E11",
+                    "episodeName": "BBTel Day 10: Captaincy Contenders' Race",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3907/1789562733907-h",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-16th-september-2026-full-episode-11/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "10",
+                    "duration": "1h 1m",
+                    "episodeCode": "S10-E10",
+                    "episodeName": "BBTel Day 9: Competetive Spirit Sets In",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4930/1789474224930-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-15th-september-2026-full-episode-10/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "9",
+                    "duration": "1h 10m",
+                    "episodeCode": "S10-E9",
+                    "episodeName": "BBTel Day 8: Power of People Nominations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/573/1789390260573-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/rise-and-fall-season-2-episode-9-4th-october-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "8",
+                    "duration": "56m",
+                    "episodeCode": "S10-E8",
+                    "episodeName": "BBTel Day 7: The Black Key",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5831/1789300735831-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/the-punisher-season-1-2026-episode-8/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "7",
+                    "duration": "1h 7m",
+                    "episodeCode": "S10-E7",
+                    "episodeName": "BBTel Day 6: The King Checks In",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2828/1789217682828-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-12th-september-2026-full-episode-7/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "6",
+                    "duration": "1h 3m",
+                    "episodeCode": "S10-E6",
+                    "episodeName": "BBTel Day 5: Midweek Eviction!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6014/1789134126014-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-11th-september-2026-full-episode-6/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "5",
+                    "duration": "1h 6m",
+                    "episodeCode": "S10-E5",
+                    "episodeName": "BBTel Day 4: First Nomination of the Season",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3537/1789050783537-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/family-full-house-with-rohit-sharma-3rd-october-2026/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "4",
+                    "duration": "1h 6m",
+                    "episodeCode": "S10-E4",
+                    "episodeName": "BBTel Day 3: High Risk Zone Unlocked",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6907/1788953926907-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-10-telugu-9th-september-2026-full-episode-4/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "3",
+                    "duration": "1h 7m",
+                    "episodeCode": "S10-E3",
+                    "episodeName": "BBTel Day 2: Protect the Boss!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2518/1788876522518-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-10-telugu-8th-september-2026-full-episode-3/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "2",
+                    "duration": "57m",
+                    "episodeCode": "S10-E2",
+                    "episodeName": "BBTel Day 1: Hidden Power Drop",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9893/1788793999893-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-10-telugu-7th-september-2026-full-episode-2/"
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "1",
+                    "duration": "2h 41m",
+                    "episodeCode": "S10-E1",
+                    "episodeName": "BBTel: Season Premiere",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3531/1788692933531-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-6th-september-2026-full-episode-1/"
+                },
+                {
                     "seasonNumber": "9",
                     "episodeNumber": "106",
                     "duration": "2h 30m",
@@ -731,7 +1021,7 @@
                     "episodeName": "BBTel Day 34: Enter the Powerastra",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5348/1760186315348-h",
                     "updateDate": "11-10-2025",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-3rd-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "9",
@@ -901,7 +1191,7 @@
                     "episodeName": "BBTel Day 17: Battery Low, Drama High",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9067/1758724749067-h",
                     "updateDate": "24-09-2025",
-                    "episodeUrl": "https://serialtvmaza.net/bbte10-23rd-sept-2026-reality-show-episode-18/"
+                    "episodeUrl": "https://serialtvmaza.net/mtv-hustle-season-5-4th-october-2026-today-full-episode-18/"
                 },
                 {
                     "seasonNumber": "9",
@@ -921,7 +1211,7 @@
                     "episodeName": "BBTel Day 15: Swap a Nominee!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8815/1758549938815-h",
                     "updateDate": "22-09-2025",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-21st-september-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/108-base-hospital-uri-4th-october-2026-today-full-episode-16/"
                 },
                 {
                     "seasonNumber": "9",
@@ -991,7 +1281,7 @@
                     "episodeName": "BBTel Day 8: Paint to Nominate",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7400/1757943487400-h",
                     "updateDate": "15-09-2025",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-14th-september-2026-full-episode-9/"
+                    "episodeUrl": "https://serialtvmaza.net/rise-and-fall-season-2-episode-9-4th-october-2026-full-episode/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1001,7 +1291,7 @@
                     "episodeName": "BBTel Day 7: First Eviction",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2884/1757853922884-h",
                     "updateDate": "14-09-2025",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-13th-september-2026-full-episode-8/"
+                    "episodeUrl": "https://serialtvmaza.net/the-punisher-season-1-2026-episode-8/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1061,7 +1351,7 @@
                     "episodeName": "BBTel Day 1: Drama Over Duty",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6337/1757347306337-h",
                     "updateDate": "08-09-2025",
-                    "episodeUrl": "https://serialtvmaza.net/the-great-indian-kapil-show-season-5-3rd-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-10-telugu-7th-september-2026-full-episode-2/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1072,406 +1362,6 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4272/1757246994272-h",
                     "updateDate": "07-09-2025",
                     "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-6th-september-2026-full-episode-1/"
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "81",
-                    "duration": "44m",
-                    "episodeCode": "S8-E81",
-                    "episodeName": "Day 80: One Last Battle to Become Contender",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9592/1732115889592-h",
-                    "updateDate": "20-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "80",
-                    "duration": "45m",
-                    "episodeCode": "S8-E80",
-                    "episodeName": "Day 79: Housemates in a Fix",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3480/1732028563480-h",
-                    "updateDate": "19-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "79",
-                    "duration": "52m",
-                    "episodeCode": "S8-E79",
-                    "episodeName": "Day 78: Evictees' Comeback!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/121/1731942480121-h",
-                    "updateDate": "18-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "78",
-                    "duration": "1h 0m",
-                    "episodeCode": "S8-E78",
-                    "episodeName": "Day 77: A Game-Changing Choice",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4156/1731848904156-h",
-                    "updateDate": "17-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "77",
-                    "duration": "1h 7m",
-                    "episodeCode": "S8-E77",
-                    "episodeName": "Day 76: Limitless Fun with the Guests",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2093/1731767072093-h",
-                    "updateDate": "16-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "76",
-                    "duration": "48m",
-                    "episodeCode": "S8-E76",
-                    "episodeName": "Day 75: Unexpected Arrivals, Unlimited Joy",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6509/1731679586509-h",
-                    "updateDate": "15-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "75",
-                    "duration": "51m",
-                    "episodeCode": "S8-E75",
-                    "episodeName": "Day 74: Happy Reunions",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4217/1731593864217-h",
-                    "updateDate": "14-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "74",
-                    "duration": "50m",
-                    "episodeCode": "S8-E74",
-                    "episodeName": "Day 73: A Sweet Surprise for Avinash",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2100/1731510922100-h",
-                    "updateDate": "13-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "73",
-                    "duration": "52m",
-                    "episodeCode": "S8-E73",
-                    "episodeName": "Day 72: Family Week",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7768/1731419037768-h",
-                    "updateDate": "12-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "72",
-                    "duration": "45m",
-                    "episodeCode": "S8-E72",
-                    "episodeName": "Day 71: Nomination Fall Out",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7046/1731336857046-h",
-                    "updateDate": "11-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "71",
-                    "duration": "1h 17m",
-                    "episodeCode": "S8-E71",
-                    "episodeName": "Day 70: Cosplay Fun and Food Theft",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1170/1731320421170-h",
-                    "updateDate": "10-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "70",
-                    "duration": "58m",
-                    "episodeCode": "S8-E70",
-                    "episodeName": "Day 69: Nagarjuna's Verdict",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6249/1731161386249-h",
-                    "updateDate": "09-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "69",
-                    "duration": "56m",
-                    "episodeCode": "S8-E69",
-                    "episodeName": "Day 68: Eviction Shield",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5507/1731069255507-h",
-                    "updateDate": "08-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "68",
-                    "duration": "50m",
-                    "episodeCode": "S8-E68",
-                    "episodeName": "Day 67: Chaos Over Contendership",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6894/1730976116894-h",
-                    "updateDate": "07-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "67",
-                    "duration": "41m",
-                    "episodeCode": "S8-E67",
-                    "episodeName": "Day 66: Spill the Tea",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4806/1730891094806-h",
-                    "updateDate": "06-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "66",
-                    "duration": "44m",
-                    "episodeCode": "S8-E66",
-                    "episodeName": "Day 65: Contendership Up For Grabs",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6460/1730805636460-h",
-                    "updateDate": "05-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "65",
-                    "duration": "52m",
-                    "episodeCode": "S8-E65",
-                    "episodeName": "Day 64: Nomination Frenzy",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6326/1730717536326-h",
-                    "updateDate": "04-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "64",
-                    "duration": "1h 3m",
-                    "episodeCode": "S8-E64",
-                    "episodeName": "Day 63: Non-Stop Fun with the King",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3970/1730639173970-h",
-                    "updateDate": "03-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "63",
-                    "duration": "1h 2m",
-                    "episodeCode": "S8-E63",
-                    "episodeName": "Day 62: Nagarjuna’s Message to the House",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5128/1730550645128-h",
-                    "updateDate": "02-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "62",
-                    "duration": "52m",
-                    "episodeCode": "S8-E62",
-                    "episodeName": "Day 61: Happy Diwali!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7095/1730467847095-h",
-                    "updateDate": "01-11-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "61",
-                    "duration": "46m",
-                    "episodeCode": "S8-E61",
-                    "episodeName": "Day 60: Emotional Outbursts",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9528/1730381929528-h",
-                    "updateDate": "31-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "60",
-                    "duration": "49m",
-                    "episodeCode": "S8-E60",
-                    "episodeName": "Day 59: Team Yellow Lags Behind",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8244/1730299188244-h",
-                    "updateDate": "30-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "59",
-                    "duration": "48m",
-                    "episodeCode": "S8-E59",
-                    "episodeName": "Day 58: The Mega Clan",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3899/1730214273899-h",
-                    "updateDate": "29-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "58",
-                    "duration": "53m",
-                    "episodeCode": "S8-E58",
-                    "episodeName": "Day 57: It's Jail Time for Nominees",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7574/1730129047574-h",
-                    "updateDate": "28-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "57",
-                    "duration": "2h 31m",
-                    "episodeCode": "S8-E57",
-                    "episodeName": "Day 56: Diwali Dhamaka",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6954/1730027596954-h",
-                    "updateDate": "27-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "56",
-                    "duration": "1h 18m",
-                    "episodeCode": "S8-E56",
-                    "episodeName": "Day 55: Funday with Suriya",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4449/1729945744449-h",
-                    "updateDate": "26-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "55",
-                    "duration": "51m",
-                    "episodeCode": "S8-E55",
-                    "episodeName": "Day 54: Meet Your New Mega Chief",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8050/1729868788050-h",
-                    "updateDate": "25-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "54",
-                    "duration": "52m",
-                    "episodeCode": "S8-E54",
-                    "episodeName": "Day 53: OG Clan Turns the Table",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9511/1729781649511-h",
-                    "updateDate": "24-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "53",
-                    "duration": "49m",
-                    "episodeCode": "S8-E53",
-                    "episodeName": "Day 52: Royals' Shenanigans",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/181/1729680150181-h",
-                    "updateDate": "23-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "52",
-                    "duration": "52m",
-                    "episodeCode": "S8-E52",
-                    "episodeName": "Day 51: Pot-breaking Nominations",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8901/1729596128901-h",
-                    "updateDate": "22-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "51",
-                    "duration": "59m",
-                    "episodeCode": "S8-E51",
-                    "episodeName": "Day 50: Midway through the Race",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9021/1729523459021-h",
-                    "updateDate": "21-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "49",
-                    "duration": "1h 13m",
-                    "episodeCode": "S8-E49",
-                    "episodeName": "Day 48: Its Time for 'BB Times'",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/960/1729339510960-h",
-                    "updateDate": "19-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "48",
-                    "duration": "51m",
-                    "episodeCode": "S8-E48",
-                    "episodeName": "Day 47: Final Fight for Mega Chief",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/291/1729264170291-h",
-                    "updateDate": "18-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "47",
-                    "duration": "49m",
-                    "episodeCode": "S8-E47",
-                    "episodeName": "Day 46: High Voltage Drama",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/435/1729177140435-h",
-                    "updateDate": "17-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "46",
-                    "duration": "50m",
-                    "episodeCode": "S8-E46",
-                    "episodeName": "Day 45: Brawls Over Battery",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5733/1729091575733-h",
-                    "updateDate": "16-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "45",
-                    "duration": "55m",
-                    "episodeCode": "S8-E45",
-                    "episodeName": "Day 44: The Game-Changer",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1634/1729005261634-h",
-                    "updateDate": "15-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "44",
-                    "duration": "57m",
-                    "episodeCode": "S8-E44",
-                    "episodeName": "Day 43: Killer Girls Get to Choose",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8473/1728918498473-h",
-                    "updateDate": "14-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "43",
-                    "duration": "2h 14m",
-                    "episodeCode": "S8-E43",
-                    "episodeName": "Day 42: Dusshera Subhakankshalu",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8720/1728822468720-h",
-                    "updateDate": "13-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "42",
-                    "duration": "1h 7m",
-                    "episodeCode": "S8-E42",
-                    "episodeName": "Day 41: A Spotlight on Royal Clan",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2914/1728736192914-h",
-                    "updateDate": "12-10-2024",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "41",
-                    "duration": "50m",
-                    "episodeCode": "S8-E41",
-                    "episodeName": "Day 40: Royals Fight for Leadership",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/518/1728659280518-h",
-                    "updateDate": "11-10-2024",
-                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "8",
@@ -1531,7 +1421,7 @@
                     "episodeName": "Day 34: A Reality Check",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/8469/1728121368469-h",
                     "updateDate": "05-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-3rd-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "8",
@@ -1701,7 +1591,7 @@
                     "episodeName": "Day 17: Prabhavathi Is Back!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5822/1726663465822-h",
                     "updateDate": "18-09-2024",
-                    "episodeUrl": "https://serialtvmaza.net/bbte10-23rd-sept-2026-reality-show-episode-18/"
+                    "episodeUrl": "https://serialtvmaza.net/mtv-hustle-season-5-4th-october-2026-today-full-episode-18/"
                 },
                 {
                     "seasonNumber": "8",
@@ -1721,7 +1611,7 @@
                     "episodeName": "Day 15: Dusty Nominations and Drama",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2293/1726483852293-h",
                     "updateDate": "16-09-2024",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-21st-september-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/108-base-hospital-uri-4th-october-2026-today-full-episode-16/"
                 },
                 {
                     "seasonNumber": "8",
@@ -1791,7 +1681,7 @@
                     "episodeName": "Day 8: A Colourful Nomination",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5757/1725895285757-h",
                     "updateDate": "09-09-2024",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-14th-september-2026-full-episode-9/"
+                    "episodeUrl": "https://serialtvmaza.net/rise-and-fall-season-2-episode-9-4th-october-2026-full-episode/"
                 },
                 {
                     "seasonNumber": "8",
@@ -1801,7 +1691,7 @@
                     "episodeName": "Day 7: First Eviction",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4678/1725797354678-h",
                     "updateDate": "08-09-2024",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-telugu-season-10-13th-september-2026-full-episode-8/"
+                    "episodeUrl": "https://serialtvmaza.net/the-punisher-season-1-2026-episode-8/"
                 },
                 {
                     "seasonNumber": "8",
@@ -1861,7 +1751,7 @@
                     "episodeName": "Day 1: A Task for the Third Chief",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4801/1725292264801-h",
                     "updateDate": "02-09-2024",
-                    "episodeUrl": "https://serialtvmaza.net/the-great-indian-kapil-show-season-5-3rd-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-10-telugu-7th-september-2026-full-episode-2/"
                 },
                 {
                     "seasonNumber": "8",
