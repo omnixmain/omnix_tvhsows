@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "October 05, 2026",
+            "ottReleaseDate": "October 06, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "30",
+                    "duration": "1h 10m",
+                    "episodeCode": "S10-E30",
+                    "episodeName": "BBTam Day 29: New Leader and Nominations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8822/1791206638822-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-5th-october-2026-video/"
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "29",
@@ -1001,7 +1011,7 @@
                     "episodeName": "BBTam Day 36: Nominations and New Alliances",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6999/1762780556999-h",
                     "updateDate": "10-11-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-5th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1071,7 +1081,7 @@
                     "episodeName": "BBTam Day 29: One House, One Rule",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/172/1762176150172-h",
                     "updateDate": "03-11-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-5th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1271,7 +1281,7 @@
                     "episodeName": "BBTam Day 9: Bommai Battles",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6998/1760450086998-h",
                     "updateDate": "14-10-2025",
-                    "episodeUrl": "https://serialtvmaza.net/rise-and-fall-season-2-episode-10-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-15th-september-2026-full-episode-10/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1281,7 +1291,7 @@
                     "episodeName": "BBTam Day 8: From Noise to Nominations",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4946/1760361914946-h",
                     "updateDate": "13-10-2025",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-9-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-14th-september-2026-full-episode-9/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1291,7 +1301,7 @@
                     "episodeName": "BBTam Day 7: Season’s First Eviction",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7578/1760275787578-h",
                     "updateDate": "12-10-2025",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-8-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-13th-september-2026-full-episode-8/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1301,7 +1311,7 @@
                     "episodeName": "BBTam Day 6: A Reality Check with VJS",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3463/1760185933463-h",
                     "updateDate": "11-10-2025",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-7-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-12th-september-2026-full-episode-7/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1311,7 +1321,7 @@
                     "episodeName": "BBTam Day 5: Fake Fights, Real Tears",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2165/1760106442165-h",
                     "updateDate": "10-10-2025",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-6-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-11th-september-2026-full-episode-6/"
                 },
                 {
                     "seasonNumber": "9",
@@ -2061,7 +2071,7 @@
                     "episodeName": "Day 36: New Rules for the Captain",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7425/1731339817425-h",
                     "updateDate": "11-11-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-5th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "8",
@@ -2131,7 +2141,7 @@
                     "episodeName": "Day 29: The First Open Nominations",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5608/1730737115608-h",
                     "updateDate": "04-11-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-5th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "8",
@@ -2331,7 +2341,7 @@
                     "episodeName": "Day 9: No Room for Mistakes",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8868/1729005548868-h",
                     "updateDate": "15-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/rise-and-fall-season-2-episode-10-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-15th-september-2026-full-episode-10/"
                 },
                 {
                     "seasonNumber": "8",
@@ -2341,7 +2351,7 @@
                     "episodeName": "Day 8: Captaincy and Nominations",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7335/1728918257335-h",
                     "updateDate": "14-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-9-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-14th-september-2026-full-episode-9/"
                 },
                 {
                     "seasonNumber": "8",
@@ -2351,7 +2361,7 @@
                     "episodeName": "Day 7: Housemates in a Dilemma",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2924/1728827332924-h",
                     "updateDate": "13-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-8-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-13th-september-2026-full-episode-8/"
                 },
                 {
                     "seasonNumber": "8",
@@ -2361,7 +2371,7 @@
                     "episodeName": "Day 6: Vijay Sethupathi Meets the House",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/250/1728736290250-h",
                     "updateDate": "12-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-7-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-12th-september-2026-full-episode-7/"
                 },
                 {
                     "seasonNumber": "8",
@@ -2371,7 +2381,7 @@
                     "episodeName": "Day 5: The Nomination Free Pass",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9893/1728654519893-h",
                     "updateDate": "11-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-6-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-11th-september-2026-full-episode-6/"
                 },
                 {
                     "seasonNumber": "8",
