@@ -10,18 +10,18 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 05, 2026",
+            "ottReleaseDate": "October 06, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "30",
-                    "duration": "45m",
+                    "duration": "1h 7m",
                     "episodeCode": "S20-E30",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "episodeName": "BBHin Day 29: Pack a Nomination Punch!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8763/1791211538763-h",
                     "updateDate": "05-10-2026",
-                    "episodeUrl": "https://serialtvmaza.net/tum-se-tum-tak-5th-october-2026-video-episode/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-5th-october-2026-video-episode-30/"
                 },
                 {
                     "seasonNumber": "20",
@@ -312,6 +312,66 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6945/1788707656945-h",
                     "updateDate": "06-09-2026",
                     "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-grand-premiere-6th-september-2026-full-episode-1/"
+                },
+                {
+                    "seasonNumber": "19",
+                    "episodeNumber": "106",
+                    "duration": "2h 17m",
+                    "episodeCode": "S19-E106",
+                    "episodeName": "BBHin Day 105: Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5315/1765148065315-h",
+                    "updateDate": "07-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "19",
+                    "episodeNumber": "105",
+                    "duration": "1h 12m",
+                    "episodeCode": "S19-E105",
+                    "episodeName": "BBHin Day 104: One Day to Go!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4390/1765026204390-h",
+                    "updateDate": "06-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "19",
+                    "episodeNumber": "104",
+                    "duration": "1h 7m",
+                    "episodeCode": "S19-E104",
+                    "episodeName": "BBHin Day 103: Rewind and Reflect",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6316/1764944286316-h",
+                    "updateDate": "05-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "19",
+                    "episodeNumber": "103",
+                    "duration": "1h 12m",
+                    "episodeCode": "S19-E103",
+                    "episodeName": "BBHin Day 102: One Out! Meet the ‘Top 5’",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5691/1764856885691-h",
+                    "updateDate": "04-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "19",
+                    "episodeNumber": "102",
+                    "duration": "1h 8m",
+                    "episodeCode": "S19-E102",
+                    "episodeName": "BBHin Day 101: Welcome to BB Open Mic",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9948/1764768689948-h",
+                    "updateDate": "03-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "19",
+                    "episodeNumber": "101",
+                    "duration": "1h 11m",
+                    "episodeCode": "S19-E101",
+                    "episodeName": "BBHin Day 100: Tense Se Intense Tak!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5519/1764682125519-h",
+                    "updateDate": "02-12-2025",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "19",
@@ -951,7 +1011,7 @@
                     "episodeName": "BBHin Day 36: Captainship, More Like Hardship!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8596/1759156278596-h",
                     "updateDate": "29-09-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-5th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "19",
@@ -1021,7 +1081,7 @@
                     "episodeName": "BBHin Day 29: Ghar Ka Mahaul Is Hot!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7310/1758548907310-h",
                     "updateDate": "22-09-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-5th-october-2026-video-episode-30/"
                 },
                 {
                     "seasonNumber": "19",
@@ -1221,7 +1281,7 @@
                     "episodeName": "BBHin Day 09: Nominations Aur Nok-Jhok!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9944/1757413049944-h",
                     "updateDate": "02-09-2025",
-                    "episodeUrl": "https://serialtvmaza.net/rise-and-fall-season-2-episode-10-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-15th-september-2026/"
                 },
                 {
                     "seasonNumber": "19",
@@ -1231,7 +1291,7 @@
                     "episodeName": "BBHin Day 08: Safai Pe Epic Ladayi",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9646/1757413029646-h",
                     "updateDate": "01-09-2025",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-9-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-14th-september-2026-watch-online-full-episode-9/"
                 },
                 {
                     "seasonNumber": "19",
@@ -1241,7 +1301,7 @@
                     "episodeName": "BB Hin Day 07: Weekend Verdict with Salman",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7444/1757413007444-h",
                     "updateDate": "31-08-2025",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-8-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-13th-september-2026-full-episode-8/"
                 },
                 {
                     "seasonNumber": "19",
@@ -1251,7 +1311,7 @@
                     "episodeName": "BB Hin Day 06: Pehla Pehla 'Vaar' Hai!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3766/1757412973766-h",
                     "updateDate": "30-08-2025",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-7-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-12th-september-2026-full-episode-7/"
                 },
                 {
                     "seasonNumber": "19",
@@ -1261,7 +1321,7 @@
                     "episodeName": "BBHin Day 05: The Chosen One",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2906/1757412922906-h",
                     "updateDate": "29-08-2025",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-6-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-11th-september-2026-full-episode-6/"
                 },
                 {
                     "seasonNumber": "19",
@@ -2011,7 +2071,7 @@
                     "episodeName": "Kise Milegi BAD News?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3070/1734100883070-h",
                     "updateDate": "11-11-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-5th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "18",
@@ -2081,7 +2141,7 @@
                     "episodeName": "Time God Vivian Ke Haath Ultimate Power",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3346/1734100703346-h",
                     "updateDate": "04-11-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-5th-october-2026-video-episode-30/"
                 },
                 {
                     "seasonNumber": "18",
@@ -2281,7 +2341,7 @@
                     "episodeName": "Nominations Ka Khatra!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4512/1734100614512-h",
                     "updateDate": "15-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/rise-and-fall-season-2-episode-10-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-15th-september-2026/"
                 },
                 {
                     "seasonNumber": "18",
@@ -2291,7 +2351,7 @@
                     "episodeName": "Kaun Banega Time God?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2689/1738675362689-h",
                     "updateDate": "14-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-9-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-14th-september-2026-watch-online-full-episode-9/"
                 },
                 {
                     "seasonNumber": "18",
@@ -2301,7 +2361,7 @@
                     "episodeName": "Entertainment Ki Barsaat",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2753/1738675362753-h",
                     "updateDate": "13-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-8-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-13th-september-2026-full-episode-8/"
                 },
                 {
                     "seasonNumber": "18",
@@ -2311,7 +2371,7 @@
                     "episodeName": "''Women Card Please Outside''",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3925/1738675363925-h",
                     "updateDate": "12-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-7-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-12th-september-2026-full-episode-7/"
                 },
                 {
                     "seasonNumber": "18",
@@ -2321,7 +2381,7 @@
                     "episodeName": "''Shilpaji Fattu!''",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3481/1734100633481-h",
                     "updateDate": "11-10-2024",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-6-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-11th-september-2026-full-episode-6/"
                 },
                 {
                     "seasonNumber": "18",
@@ -2372,6 +2432,486 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7656/1738854857656-h",
                     "updateDate": "06-10-2024",
                     "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-grand-premiere-6th-september-2026-full-episode-1/"
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "139",
+                    "duration": "2h 31m",
+                    "episodeCode": "S13-E139",
+                    "episodeName": "And the winner is …",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/898/1734091010898-h",
+                    "updateDate": "15-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "138",
+                    "duration": "1h 9m",
+                    "episodeCode": "S13-E138",
+                    "episodeName": "A stroll down the memory lane!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5103/1738848475103-h",
+                    "updateDate": "14-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "137",
+                    "duration": "1h 9m",
+                    "episodeCode": "S13-E137",
+                    "episodeName": "Shh... Bhoot aaya, buri khabar laya!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1440/1738848451440-h",
+                    "updateDate": "13-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "136",
+                    "duration": "1h 14m",
+                    "episodeCode": "S13-E136",
+                    "episodeName": "#Sidnaz ki sachayi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4779/1738848464779-h",
+                    "updateDate": "12-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "135",
+                    "duration": "1h 16m",
+                    "episodeCode": "S13-E135",
+                    "episodeName": "Rajat Sharma's Bigg Adalat!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2035/1738848462035-h",
+                    "updateDate": "11-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "134",
+                    "duration": "56m",
+                    "episodeCode": "S13-E134",
+                    "episodeName": "Saavdhan! Ghar aaye Ayushmann!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2659/1738848452659-h",
+                    "updateDate": "10-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "133",
+                    "duration": "1h 22m",
+                    "episodeCode": "S13-E133",
+                    "episodeName": "Shilpa-Salman ne ki yaadein taaza!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8024/1738848448024-h",
+                    "updateDate": "09-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "132",
+                    "duration": "1h 27m",
+                    "episodeCode": "S13-E132",
+                    "episodeName": "Kick-starting a healthy day with Shilpa!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9488/1738848459488-h",
+                    "updateDate": "08-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "131",
+                    "duration": "47m",
+                    "episodeCode": "S13-E131",
+                    "episodeName": "Rashami ne lagaya Bigg Boss pe ilzaam!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9832/1738848469832-h",
+                    "updateDate": "07-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "130",
+                    "duration": "59m",
+                    "episodeCode": "S13-E130",
+                    "episodeName": "Ulti pad gayi Shehnaz ki chaal!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4540/1738848454540-h",
+                    "updateDate": "06-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "129",
+                    "duration": "1h 17m",
+                    "episodeCode": "S13-E129",
+                    "episodeName": "The end of #Sidnaaz?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2509/1738848472509-h",
+                    "updateDate": "05-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "128",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E128",
+                    "episodeName": "Housemates vs journalists!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8404/1738848478404-h",
+                    "updateDate": "04-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "127",
+                    "duration": "1h 10m",
+                    "episodeCode": "S13-E127",
+                    "episodeName": "Somvaar ka vaar with team Malang!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/587/1738848480587-h",
+                    "updateDate": "03-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "126",
+                    "duration": "1h 34m",
+                    "episodeCode": "S13-E126",
+                    "episodeName": "Rashami ko laga Himanshi ka jhatka!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7711/1738848467711-h",
+                    "updateDate": "02-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "125",
+                    "duration": "1h 38m",
+                    "episodeCode": "S13-E125",
+                    "episodeName": "OMG! Vikas knocks Himanshi out?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9736/1738848479736-h",
+                    "updateDate": "01-02-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "124",
+                    "duration": "1h 15m",
+                    "episodeCode": "S13-E124",
+                    "episodeName": "Himanshi ne khole kuch ankahe raaz!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1726/1738848451726-h",
+                    "updateDate": "31-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "123",
+                    "duration": "1h 11m",
+                    "episodeCode": "S13-E123",
+                    "episodeName": "Vikas-Kashmera's showdown!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9259/1738848479259-h",
+                    "updateDate": "30-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "122",
+                    "duration": "1h 4m",
+                    "episodeCode": "S13-E122",
+                    "episodeName": "A love triangle in the making?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5584/1738848475584-h",
+                    "updateDate": "29-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "121",
+                    "duration": "1h 6m",
+                    "episodeCode": "S13-E121",
+                    "episodeName": "Asim ne khola apna dil!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1018/1738848461018-h",
+                    "updateDate": "28-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "120",
+                    "duration": "1h 14m",
+                    "episodeCode": "S13-E120",
+                    "episodeName": "Shuklaji bitten by the jealousy bug!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1979/1738848471979-h",
+                    "updateDate": "27-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "119",
+                    "duration": "1h 15m",
+                    "episodeCode": "S13-E119",
+                    "episodeName": "BB house turns dance floor!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9495/1738848469495-h",
+                    "updateDate": "26-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "118",
+                    "duration": "1h 27m",
+                    "episodeCode": "S13-E118",
+                    "episodeName": "Bhai ne dikyhaya Sid-Asim ko dwar!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4359/1738848464359-h",
+                    "updateDate": "25-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "117",
+                    "duration": "1h 6m",
+                    "episodeCode": "S13-E117",
+                    "episodeName": "Toot gaya Arti ke sabar ka baandh!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/411/1738848470411-h",
+                    "updateDate": "24-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "116",
+                    "duration": "1h 9m",
+                    "episodeCode": "S13-E116",
+                    "episodeName": "Vishal ne diya Shefali ko dhoka!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3967/1738848463967-h",
+                    "updateDate": "23-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "115",
+                    "duration": "1h 13m",
+                    "episodeCode": "S13-E115",
+                    "episodeName": "Rotiyon pe chidi Rashami-Mahira ki jung!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2318/1738848462318-h",
+                    "updateDate": "22-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "114",
+                    "duration": "1h 9m",
+                    "episodeCode": "S13-E114",
+                    "episodeName": "Rashami-Arti bani sherniyaan!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3066/1738848483066-h",
+                    "updateDate": "21-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "113",
+                    "duration": "1h 6m",
+                    "episodeCode": "S13-E113",
+                    "episodeName": "Sidharth-Asim lock horns, once again!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2340/1738848452340-h",
+                    "updateDate": "20-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "112",
+                    "duration": "1h 39m",
+                    "episodeCode": "S13-E112",
+                    "episodeName": "Bigg Boss ke ghar, Love Aaj Kal!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2396/1738848452396-h",
+                    "updateDate": "19-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "111",
+                    "duration": "1h 29m",
+                    "episodeCode": "S13-E111",
+                    "episodeName": "Paras-Madhurima pe toota Bhai ka keher!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4407/1738848464407-h",
+                    "updateDate": "18-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "110",
+                    "duration": "1h 15m",
+                    "episodeCode": "S13-E110",
+                    "episodeName": "Maa ko dekh, bacche bane Shuklaji!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1359/1738848481359-h",
+                    "updateDate": "17-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "109",
+                    "duration": "1h 9m",
+                    "episodeCode": "S13-E109",
+                    "episodeName": "Parag ki dhamki, Asim ki chuppi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3372/1738848393372-h",
+                    "updateDate": "16-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "108",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E108",
+                    "episodeName": "Vishal gets a s'pan'king!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3387/1738848463387-h",
+                    "updateDate": "15-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "107",
+                    "duration": "1h 15m",
+                    "episodeCode": "S13-E107",
+                    "episodeName": "Shuklaji ne kiya sanchalako par vaar!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9158/1738848479158-h",
+                    "updateDate": "14-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "106",
+                    "duration": "58m",
+                    "episodeCode": "S13-E106",
+                    "episodeName": "Hina comes with a special surprise!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7283/1738848457283-h",
+                    "updateDate": "13-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "105",
+                    "duration": "1h 25m",
+                    "episodeCode": "S13-E105",
+                    "episodeName": "Laxmi ki kahani, Deepika ki zubani",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5467/1738848475467-h",
+                    "updateDate": "12-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "104",
+                    "duration": "1h 28m",
+                    "episodeCode": "S13-E104",
+                    "episodeName": "Ghar mein aayi Laxmi, layi khushi!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7917/1738848447917-h",
+                    "updateDate": "11-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "103",
+                    "duration": "1h 4m",
+                    "episodeCode": "S13-E103",
+                    "episodeName": "Comedy neh pakada, Paritosh neh jakada!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2831/1738848472831-h",
+                    "updateDate": "10-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "102",
+                    "duration": "1h 16m",
+                    "episodeCode": "S13-E102",
+                    "episodeName": "Vikas Khanna's healthy food challenge!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5660/1734091835660-h",
+                    "updateDate": "09-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "101",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E101",
+                    "episodeName": "Trio gets a Bigg punishment!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6228/1734091566228-h",
+                    "updateDate": "08-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "100",
+                    "duration": "1h 1m",
+                    "episodeCode": "S13-E100",
+                    "episodeName": "Mahira ka naseeb, Shehnaz ka khel!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1062/1734090711062-h",
+                    "updateDate": "07-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "99",
+                    "duration": "52m",
+                    "episodeCode": "S13-E99",
+                    "episodeName": "Vishal-Madhurima ka mahayudh!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/960/1734091610960-h",
+                    "updateDate": "06-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "98",
+                    "duration": "1h 25m",
+                    "episodeCode": "S13-E98",
+                    "episodeName": "Queen Kangana ne liya Bhai se Panga!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8322/1738848458322-h",
+                    "updateDate": "05-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "97",
+                    "duration": "1h 24m",
+                    "episodeCode": "S13-E97",
+                    "episodeName": "Search for Kajol-Ajay's Jodi No.1!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8364/1738848448364-h",
+                    "updateDate": "04-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "96",
+                    "duration": "58m",
+                    "episodeCode": "S13-E96",
+                    "episodeName": "Rishtein mein aayi kadwahat?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4461/1738848474461-h",
+                    "updateDate": "03-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "95",
+                    "duration": "1h 9m",
+                    "episodeCode": "S13-E95",
+                    "episodeName": "Madhurima makes the rules!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1328/1738848481328-h",
+                    "updateDate": "02-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "94",
+                    "duration": "1h 7m",
+                    "episodeCode": "S13-E94",
+                    "episodeName": "Mahira-Shehnaz ki dosti ka the end?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2404/1738848472404-h",
+                    "updateDate": "01-01-2020",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "93",
+                    "duration": "1h 17m",
+                    "episodeCode": "S13-E93",
+                    "episodeName": "Naye saal ki shaandar shuruaat!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5191/1738848455191-h",
+                    "updateDate": "31-12-2019",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "92",
+                    "duration": "1h 28m",
+                    "episodeCode": "S13-E92",
+                    "episodeName": "Celebration galore for Salman!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3742/1738848453742-h",
+                    "updateDate": "30-12-2019",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "13",
@@ -2911,7 +3451,7 @@
                     "episodeName": "Rishton mein padi dararein?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2904/1738848462904-h",
                     "updateDate": "05-11-2019",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-5th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "13",
@@ -2981,7 +3521,7 @@
                     "episodeName": "The Bigg midnight shocker!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/701/1734091580701-h",
                     "updateDate": "29-10-2019",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-5th-october-2026-video-episode-30/"
                 },
                 {
                     "seasonNumber": "13",
@@ -3181,7 +3721,7 @@
                     "episodeName": "'Roti' riots take over the house!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9907/1738848459907-h",
                     "updateDate": "08-10-2019",
-                    "episodeUrl": "https://serialtvmaza.net/rise-and-fall-season-2-episode-10-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-15th-september-2026/"
                 },
                 {
                     "seasonNumber": "13",
@@ -3191,7 +3731,7 @@
                     "episodeName": "Nominations ne jagaya Sherni ko!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1873/1738848451873-h",
                     "updateDate": "07-10-2019",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-9-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-14th-september-2026-watch-online-full-episode-9/"
                 },
                 {
                     "seasonNumber": "13",
@@ -3201,7 +3741,7 @@
                     "episodeName": "Hina layi anokha BB Bazaar!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4712/1738848464712-h",
                     "updateDate": "06-10-2019",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-8-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-13th-september-2026-full-episode-8/"
                 },
                 {
                     "seasonNumber": "13",
@@ -3211,7 +3751,7 @@
                     "episodeName": "Salman's 'eye-opening' Vaar!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1126/1734091251126-h",
                     "updateDate": "05-10-2019",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-7-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-12th-september-2026-full-episode-7/"
                 },
                 {
                     "seasonNumber": "13",
@@ -3221,7 +3761,7 @@
                     "episodeName": "In the spotlight: Paras!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7775/1738850137775-h",
                     "updateDate": "04-10-2019",
-                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-6-5th-october-2026/"
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-11th-september-2026-full-episode-6/"
                 },
                 {
                     "seasonNumber": "13",
