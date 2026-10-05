@@ -10,9 +10,59 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 04, 2026",
+            "ottReleaseDate": "October 05, 2026",
             "description": "Escaping a toxic relationship, 35-year-old Preeti finds love and solace with Aarav. But the age gap stigma follows them everywhere! Can love overpower it all? Watch Shayad Yahi Hai Pyaar - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "24m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Shanaya Humiliates Gaurav",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2196/1791170052196-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-10-5th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "23m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Aarav Encourages Preeti",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1977/1791169881977-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-10-5th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "24m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Shanti Demands the Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7340/1791169847340-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-10-5th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "23m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Gaurav Faces Aarav's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6432/1791169836432-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-10-5th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "23m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Gaurav Breaks Preeti's Heart",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/92/1791169960092-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/shayad-yahi-hai-pyaar-episode-10-5th-october-2026/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "5",
