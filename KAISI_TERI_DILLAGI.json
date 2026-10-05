@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "79",
+                    "duration": "22m",
+                    "episodeCode": "S1-E79",
+                    "episodeName": "EP 79 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "78",
                     "duration": "22m",
                     "episodeCode": "S1-E78",
@@ -39,7 +49,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E76",
                     "episodeName": "EP 76 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2076-05102026231702",
                     "updateDate": "01-10-2026",
                     "episodeUrl": ""
                 },
