@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Bengali",
-            "ottReleaseDate": "October 05, 2026",
+            "ottReleaseDate": "October 06, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "59m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "BBBan Day 36: Dada’s Poll Drops a Bombshell",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3078/1791211173078-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-5th-october-2026-video/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "36",
