@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "October 05, 2026",
+            "ottReleaseDate": "October 06, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "30",
+                    "duration": "1h 10m",
+                    "episodeCode": "S8-E30",
+                    "episodeName": "BBMal Day 29: Wildcards Seize Captaincy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6650/1791209606650-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-malayalam-season-8-5th-october-2026/"
+                },
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "29",
