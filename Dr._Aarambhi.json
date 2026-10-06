@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "205",
+                    "duration": "28m",
+                    "episodeCode": "S1-E205",
+                    "episodeName": "Aarambhi Gets Arrested",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6919/1791251296919-h",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/dr-aarambhi-6th-october-2026-video-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "204",
                     "duration": "24m",
                     "episodeCode": "S1-E204",
@@ -1311,6 +1321,196 @@
                     "episodeName": "Aarambhi Supports Raj",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7328/1778482707328-h",
                     "updateDate": "11-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "74",
+                    "duration": "27m",
+                    "episodeCode": "S1-E74",
+                    "episodeName": "A Shocker for Raj and Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/607/1778208530607-h",
+                    "updateDate": "08-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "73",
+                    "duration": "27m",
+                    "episodeCode": "S1-E73",
+                    "episodeName": "Vishwas, Aarambhi at Odds",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6550/1778117496550-h",
+                    "updateDate": "07-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "72",
+                    "duration": "27m",
+                    "episodeCode": "S1-E72",
+                    "episodeName": "Vihaan Goes Missing",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/95/1778033840095-h",
+                    "updateDate": "06-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "71",
+                    "duration": "26m",
+                    "episodeCode": "S1-E71",
+                    "episodeName": "Soundarya Gives Aarambhi Strength",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9087/1777948079087-h",
+                    "updateDate": "05-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "27m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "Aarambhi's Strong Resolve",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1300/1777882201300-h",
+                    "updateDate": "04-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "69",
+                    "duration": "23m",
+                    "episodeCode": "S1-E69",
+                    "episodeName": "Sunil Supports Aarambhi's Career",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6324/1777576606324-h",
+                    "updateDate": "01-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "68",
+                    "duration": "24m",
+                    "episodeCode": "S1-E68",
+                    "episodeName": "Aarambhi Shines on Podcast",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9353/1777512359353-h",
+                    "updateDate": "30-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "67",
+                    "duration": "23m",
+                    "episodeCode": "S1-E67",
+                    "episodeName": "Dimple Probes Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5839/1777432155839-h",
+                    "updateDate": "29-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "66",
+                    "duration": "23m",
+                    "episodeCode": "S1-E66",
+                    "episodeName": "Aarambhi's Clever Plot",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/713/1777342130713-h",
+                    "updateDate": "28-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "24m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "Manju's Plea to Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/225/1777257980225-h",
+                    "updateDate": "27-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "64",
+                    "duration": "23m",
+                    "episodeCode": "S1-E64",
+                    "episodeName": "Shocking News for Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1489/1776997541489-h",
+                    "updateDate": "24-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "23m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "Sunil Fumes at Dimple",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/978/1776914760978-h",
+                    "updateDate": "23-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "24m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "Aarambhi Confronts Avantika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3948/1776822823948-h",
+                    "updateDate": "22-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "24m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "Can Aarambhi Clear Her Name?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1495/1776784721495-h",
+                    "updateDate": "21-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "40m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Aarambhi's Bold Move Stuns Vishwas",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1362/1776666291362-h",
+                    "updateDate": "20-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "23m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Aarambhi Decides To Fight Back",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3170/1776440463170-h",
+                    "updateDate": "17-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "23m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Saniya's Truth Shocks Aarambhi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7460/1776352027460-h",
+                    "updateDate": "16-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "24m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Aarambhi's Moment to Shine",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6322/1776265886322-h",
+                    "updateDate": "15-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "23m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Aarambhi's Escape Against All Odds",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9099/1776186929099-h",
+                    "updateDate": "14-04-2026",
                     "episodeUrl": ""
                 }
             ]
