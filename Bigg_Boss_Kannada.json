@@ -315,6 +315,56 @@
                 },
                 {
                     "seasonNumber": "12",
+                    "episodeNumber": "113",
+                    "duration": "4h 7m",
+                    "episodeCode": "S12-E113",
+                    "episodeName": "BBKan Day 112: Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9384/1768810749384-h",
+                    "updateDate": "18-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "111",
+                    "duration": "1h 4m",
+                    "episodeCode": "S12-E111",
+                    "episodeName": "BBKan Day 110: A House Full of Emotions",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6942/1768565496942-h",
+                    "updateDate": "16-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "110",
+                    "duration": "1h 3m",
+                    "episodeCode": "S12-E110",
+                    "episodeName": "BBKan Day 109: Festive Fun and Apology Letters",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2130/1768481522130-h",
+                    "updateDate": "15-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "109",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E109",
+                    "episodeName": "BBKan Day 108: Mid-week Eviction Twist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9391/1768394119391-h",
+                    "updateDate": "14-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
+                    "episodeNumber": "108",
+                    "duration": "1h 5m",
+                    "episodeCode": "S12-E108",
+                    "episodeName": "BBKan Day 107: Vote Appeals Stir Deep Emotions",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1829/1768306551829-h",
+                    "updateDate": "13-01-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "12",
                     "episodeNumber": "107",
                     "duration": "1h 3m",
                     "episodeCode": "S12-E107",
@@ -971,7 +1021,7 @@
                     "episodeName": "BBKan Day 36: Who Deserves to Stay?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1964/1762176091964-h",
                     "updateDate": "03-11-2025",
-                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-5th-october-2026-video/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "12",
