@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "31",
+                    "duration": "1h 9m",
+                    "episodeCode": "S10-E31",
+                    "episodeName": "BBTam Day 30: Chaos, Betrayals and Magic Potions",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9583/1791291219583-h",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "30",
                     "duration": "1h 10m",
                     "episodeCode": "S10-E30",
@@ -1372,6 +1382,266 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/726/1759663820726-h",
                     "updateDate": "05-10-2025",
                     "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-6th-september-2026-full-episode-1/"
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "106",
+                    "duration": "3h 54m",
+                    "episodeCode": "S8-E106",
+                    "episodeName": "Day 105: Grand Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9701/1737291369701-h",
+                    "updateDate": "19-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "105",
+                    "duration": "1h 16m",
+                    "episodeCode": "S8-E105",
+                    "episodeName": "Day 104: The Last Day in BB House",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5295/1737204695295-h",
+                    "updateDate": "18-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "104",
+                    "duration": "1h 50m",
+                    "episodeCode": "S8-E104",
+                    "episodeName": "Day 103: Let's Rewind",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2216/1737132932216-h",
+                    "updateDate": "17-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "103",
+                    "duration": "1h 39m",
+                    "episodeCode": "S8-E103",
+                    "episodeName": "Day 102: Final Race for the Money Box",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7122/1737039437122-h",
+                    "updateDate": "16-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "102",
+                    "duration": "1h 17m",
+                    "episodeCode": "S8-E102",
+                    "episodeName": "Day 101: Ma Ka Pa in the House!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6829/1736955856829-h",
+                    "updateDate": "15-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "101",
+                    "duration": "1h 35m",
+                    "episodeCode": "S8-E101",
+                    "episodeName": "Day 100: Pongalo Pongal!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7651/1736868217651-h",
+                    "updateDate": "14-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "100",
+                    "duration": "1h 22m",
+                    "episodeCode": "S8-E100",
+                    "episodeName": "Day 99: Reunions Cause Chaos",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8585/1736782178585-h",
+                    "updateDate": "13-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "99",
+                    "duration": "1h 30m",
+                    "episodeCode": "S8-E99",
+                    "episodeName": "Day 98: An Unexpected Elimination",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3847/1736689283847-h",
+                    "updateDate": "12-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "98",
+                    "duration": "1h 36m",
+                    "episodeCode": "S8-E98",
+                    "episodeName": "Day 97: A Surprise Eviction",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3638/1736606483638-h",
+                    "updateDate": "11-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "97",
+                    "duration": "1h 5m",
+                    "episodeCode": "S8-E97",
+                    "episodeName": "Day 96: Clashes and Confrontations",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6512/1736522506512-h",
+                    "updateDate": "10-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "96",
+                    "duration": "1h 11m",
+                    "episodeCode": "S8-E96",
+                    "episodeName": "Day 95: Dance Battles",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7370/1736436857370-h",
+                    "updateDate": "09-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "95",
+                    "duration": "1h 9m",
+                    "episodeCode": "S8-E95",
+                    "episodeName": "Day 94: Top 8 vs Challengers",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1692/1736350101692-h",
+                    "updateDate": "08-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "94",
+                    "duration": "1h 8m",
+                    "episodeCode": "S8-E94",
+                    "episodeName": "Day 93: It's Time for Feedback!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8453/1736262798453-h",
+                    "updateDate": "07-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "93",
+                    "duration": "1h 1m",
+                    "episodeCode": "S8-E93",
+                    "episodeName": "Day 92: Wildcard Knockout!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8073/1736177068073-h",
+                    "updateDate": "06-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "92",
+                    "duration": "1h 18m",
+                    "episodeCode": "S8-E92",
+                    "episodeName": "Day 91: Meet Your First Finalist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9730/1736078809730-h",
+                    "updateDate": "05-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "91",
+                    "duration": "1h 22m",
+                    "episodeCode": "S8-E91",
+                    "episodeName": "Day 90: VJS Questions the Strategy",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9509/1735989659509-h",
+                    "updateDate": "04-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "90",
+                    "duration": "1h 1m",
+                    "episodeCode": "S8-E90",
+                    "episodeName": "Day 89: One Last Call",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8942/1735912338942-h",
+                    "updateDate": "03-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "89",
+                    "duration": "1h 13m",
+                    "episodeCode": "S8-E89",
+                    "episodeName": "Day 88: Deals and Disputes",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9828/1735833019828-h",
+                    "updateDate": "02-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "88",
+                    "duration": "1h 26m",
+                    "episodeCode": "S8-E88",
+                    "episodeName": "Day 87: New Year, New Challenges",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1416/1735747991416-h",
+                    "updateDate": "01-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "87",
+                    "duration": "1h 0m",
+                    "episodeCode": "S8-E87",
+                    "episodeName": "Day 86: A Tough Fight",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4614/1735655624614-h",
+                    "updateDate": "31-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "86",
+                    "duration": "56m",
+                    "episodeCode": "S8-E86",
+                    "episodeName": "Day 85: And the Games Begin!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4703/1735563534703-h",
+                    "updateDate": "30-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "85",
+                    "duration": "1h 18m",
+                    "episodeCode": "S8-E85",
+                    "episodeName": "Day 84: Ticket to Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7977/1735480057977-h",
+                    "updateDate": "29-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "84",
+                    "duration": "1h 19m",
+                    "episodeCode": "S8-E84",
+                    "episodeName": "Day 83: Saturday Eviction",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8646/1735386728646-h",
+                    "updateDate": "28-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "83",
+                    "duration": "1h 12m",
+                    "episodeCode": "S8-E83",
+                    "episodeName": "Day 82: Support and Surprises",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5429/1735313555429-h",
+                    "updateDate": "27-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "82",
+                    "duration": "1h 17m",
+                    "episodeCode": "S8-E82",
+                    "episodeName": "Day 81: Happy Reunions",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3286/1735226313286-h",
+                    "updateDate": "26-12-2024",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "81",
+                    "duration": "1h 23m",
+                    "episodeCode": "S8-E81",
+                    "episodeName": "Day 80: Emotional Surprises",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5903/1735142735903-h",
+                    "updateDate": "25-12-2024",
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "8",
