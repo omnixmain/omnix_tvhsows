@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "237",
+                    "duration": "28m",
+                    "episodeCode": "S2-E237",
+                    "episodeName": "Seher Marries Mahid",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9813/1791251339813-h",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "236",
                     "duration": "24m",
                     "episodeCode": "S2-E236",
