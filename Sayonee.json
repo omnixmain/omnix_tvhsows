@@ -15,11 +15,21 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "19m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Kabir Defends Saanvi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4131/1791251334131-h",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/sayonee-6th-october-2026-video-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "13",
                     "duration": "19m",
                     "episodeCode": "S1-E13",
-                    "episodeName": "Aditya Accepts Sukumani's Apology",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2510/1791163372510-h",
+                    "episodeName": "Aditya Forgives Sukumani",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/534/1791239260534-h",
                     "updateDate": "05-10-2026",
                     "episodeUrl": "https://serialtvmaza.net/sayonee-5th-october-2026-video-episode/"
                 },
