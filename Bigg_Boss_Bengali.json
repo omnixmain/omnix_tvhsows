@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "59m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "BBBan Day 37: BB Lockdown Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4469/1791293934469-h",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "37",
                     "duration": "58m",
                     "episodeCode": "S1-E37",
