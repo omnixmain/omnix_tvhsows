@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "13",
+                    "episodeNumber": "31",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E31",
+                    "episodeName": "BBKan Day 30: Demons vs Angels",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6967/1791291736967-h",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
                     "episodeNumber": "30",
                     "duration": "1h 5m",
                     "episodeCode": "S13-E30",
