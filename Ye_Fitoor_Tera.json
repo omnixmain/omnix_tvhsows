@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "25m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "Saumya Proves Jeet's Innocence",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9538/1791335939538-h",
+                    "updateDate": "07-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/ye-fitoor-tera-7th-october-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "61",
                     "duration": "25m",
                     "episodeCode": "S1-E61",
