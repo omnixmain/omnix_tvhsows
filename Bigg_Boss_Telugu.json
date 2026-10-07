@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "October 06, 2026",
+            "ottReleaseDate": "October 07, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "31",
-                    "duration": "1h 15m",
+                    "duration": "1h 13m",
                     "episodeCode": "S10-E31",
                     "episodeName": "BBTel Day 30: Who Will Get Maximum Votes?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7959/1791291387959-h",
