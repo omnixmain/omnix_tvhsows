@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "32",
+                    "duration": "45m",
+                    "episodeCode": "S8-E32",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "07-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "31",
                     "duration": "1h 9m",
                     "episodeCode": "S8-E31",
