@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 06, 2026",
+            "ottReleaseDate": "October 07, 2026",
             "description": "Sharp-witted Juhi is an autistic prodigy, often ridiculed by the world! When chaos strikes, she dons the lawyer’s cape, with her brother as the guiding light. Watch Juhi Mui - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "83",
+                    "duration": "29m",
+                    "episodeCode": "S1-E83",
+                    "episodeName": "Juhi Probes Sanyam's Hidden Truth",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7041/1791337827041-h",
+                    "updateDate": "07-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/juhi-mui-7th-october-2026-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "82",
