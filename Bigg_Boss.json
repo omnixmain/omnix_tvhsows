@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 06, 2026",
+            "ottReleaseDate": "October 07, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
                 {
@@ -322,66 +322,6 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6945/1788707656945-h",
                     "updateDate": "06-09-2026",
                     "episodeUrl": "https://serialtvmaza.net/bigg-boss-20-grand-premiere-6th-september-2026-full-episode-1/"
-                },
-                {
-                    "seasonNumber": "19",
-                    "episodeNumber": "106",
-                    "duration": "2h 17m",
-                    "episodeCode": "S19-E106",
-                    "episodeName": "BBHin Day 105: Grand Finale",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5315/1765148065315-h",
-                    "updateDate": "07-12-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "19",
-                    "episodeNumber": "105",
-                    "duration": "1h 12m",
-                    "episodeCode": "S19-E105",
-                    "episodeName": "BBHin Day 104: One Day to Go!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4390/1765026204390-h",
-                    "updateDate": "06-12-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "19",
-                    "episodeNumber": "104",
-                    "duration": "1h 7m",
-                    "episodeCode": "S19-E104",
-                    "episodeName": "BBHin Day 103: Rewind and Reflect",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6316/1764944286316-h",
-                    "updateDate": "05-12-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "19",
-                    "episodeNumber": "103",
-                    "duration": "1h 12m",
-                    "episodeCode": "S19-E103",
-                    "episodeName": "BBHin Day 102: One Out! Meet the ‘Top 5’",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5691/1764856885691-h",
-                    "updateDate": "04-12-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "19",
-                    "episodeNumber": "102",
-                    "duration": "1h 8m",
-                    "episodeCode": "S19-E102",
-                    "episodeName": "BBHin Day 101: Welcome to BB Open Mic",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9948/1764768689948-h",
-                    "updateDate": "03-12-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "19",
-                    "episodeNumber": "101",
-                    "duration": "1h 11m",
-                    "episodeCode": "S19-E101",
-                    "episodeName": "BBHin Day 100: Tense Se Intense Tak!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5519/1764682125519-h",
-                    "updateDate": "02-12-2025",
-                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "19",
