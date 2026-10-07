@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "October 06, 2026",
+            "ottReleaseDate": "October 07, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "31",
-                    "duration": "1h 10m",
+                    "duration": "1h 9m",
                     "episodeCode": "S8-E31",
                     "episodeName": "BBMal Day 30: Secret Tasks, Tears and Exit Plea",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2307/1791291112307-h",
