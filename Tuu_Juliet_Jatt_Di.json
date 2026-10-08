@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 07, 2026",
+            "ottReleaseDate": "October 08, 2026",
             "description": "Heer and Nawab's bitter past resurfaces when three juniors face a complicated romance, making them question if their love deserves another chance. Watch Tuu Juliet Jatt Di - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "326",
+                    "duration": "27m",
+                    "episodeCode": "S1-E326",
+                    "episodeName": "Heer Fights for Nawab",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/430/1791424780430-h",
+                    "updateDate": "08-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-8th-october-2026-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "325",
@@ -912,6 +922,196 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1834/1783646301834-h",
                     "updateDate": "10-07-2026",
                     "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-10th-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "235",
+                    "duration": "20m",
+                    "episodeCode": "S1-E235",
+                    "episodeName": "Nawab's Promise to Heer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2058/1783572032058-h",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-9th-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "234",
+                    "duration": "20m",
+                    "episodeCode": "S1-E234",
+                    "episodeName": "Heer, Nawab's Special Night",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9196/1783513429196-h",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-8th-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "233",
+                    "duration": "20m",
+                    "episodeCode": "S1-E233",
+                    "episodeName": "Will Heer Return Home?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5579/1783423455579-h",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-7th-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "232",
+                    "duration": "20m",
+                    "episodeCode": "S1-E232",
+                    "episodeName": "Heer Faces Daler's Wrath",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7974/1783340267974-h",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-6th-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "231",
+                    "duration": "20m",
+                    "episodeCode": "S1-E231",
+                    "episodeName": "Nawab Refuses Dilip's Request",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1529/1783262121529-h",
+                    "updateDate": "05-07-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-5th-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "230",
+                    "duration": "20m",
+                    "episodeCode": "S1-E230",
+                    "episodeName": "Nawab Questions Heer's Motives",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/354/1783190030354-h",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-4th-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "229",
+                    "duration": "20m",
+                    "episodeCode": "S1-E229",
+                    "episodeName": "Heer's Confrontation Backfires",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6276/1783094766276-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-3rd-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "228",
+                    "duration": "20m",
+                    "episodeCode": "S1-E228",
+                    "episodeName": "Heer, Nawab Steal the Show",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6964/1783004836964-h",
+                    "updateDate": "02-07-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-2nd-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "227",
+                    "duration": "20m",
+                    "episodeCode": "S1-E227",
+                    "episodeName": "Heer Uncovers a Shocking Clue",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/959/1782921290959-h",
+                    "updateDate": "01-07-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-1st-july-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "226",
+                    "duration": "21m",
+                    "episodeCode": "S1-E226",
+                    "episodeName": "Heer's Secret Plan in Action",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4343/1782838034343-h",
+                    "updateDate": "30-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "225",
+                    "duration": "21m",
+                    "episodeCode": "S1-E225",
+                    "episodeName": "Dilip, Gulaab's Anniversary Fallout",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7368/1782754367368-h",
+                    "updateDate": "29-06-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-29th-june-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "224",
+                    "duration": "23m",
+                    "episodeCode": "S1-E224",
+                    "episodeName": "Nawab and Heer's Mission Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/543/1782667040543-h",
+                    "updateDate": "28-06-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-28th-june-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "223",
+                    "duration": "23m",
+                    "episodeCode": "S1-E223",
+                    "episodeName": "Dilip Secures Gulaab's Vote",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5223/1782577385223-h",
+                    "updateDate": "27-06-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-27th-june-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "222",
+                    "duration": "20m",
+                    "episodeCode": "S1-E222",
+                    "episodeName": "Pammi's Truth Shocks Heer",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2093/1782495992093-h",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-26th-june-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "221",
+                    "duration": "21m",
+                    "episodeCode": "S1-E221",
+                    "episodeName": "Nawab Faces an Attack",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8385/1782411258385-h",
+                    "updateDate": "25-06-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-25th-june-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "220",
+                    "duration": "21m",
+                    "episodeCode": "S1-E220",
+                    "episodeName": "Heer Lands in Unexpected Trouble",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1667/1782318931667-h",
+                    "updateDate": "24-06-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-24th-june-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "219",
+                    "duration": "21m",
+                    "episodeCode": "S1-E219",
+                    "episodeName": "A Miracle for Neelu's Treatment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5781/1782234155781-h",
+                    "updateDate": "23-06-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-23rd-june-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "218",
+                    "duration": "21m",
+                    "episodeCode": "S1-E218",
+                    "episodeName": "Heer Turns to Ajit for Help",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2939/1782141662939-h",
+                    "updateDate": "22-06-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-22nd-june-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "217",
+                    "duration": "23m",
+                    "episodeCode": "S1-E217",
+                    "episodeName": "Heer Boosts Nawab's Confidence",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8760/1782052108760-h",
+                    "updateDate": "21-06-2026",
+                    "episodeUrl": "https://serialtvmaza.net/tu-juliet-jatt-di-21st-june-2026-full-episode/"
                 }
             ]
         }
