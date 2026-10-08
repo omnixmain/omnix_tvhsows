@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "13",
+                    "episodeNumber": "33",
+                    "duration": "1h 4m",
+                    "episodeCode": "S13-E33",
+                    "episodeName": "BBKan Day 32: Asiya Faces the Verdicts!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9442/1791459749442-h",
+                    "updateDate": "08-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-kannada-season-13-8th-october-2026/"
+                },
+                {
+                    "seasonNumber": "13",
                     "episodeNumber": "32",
                     "duration": "1h 5m",
                     "episodeCode": "S13-E32",
@@ -1081,7 +1091,7 @@
                     "episodeName": "BBKan Day 32: Cultural Day at BB College",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7825/1761833657825-h",
                     "updateDate": "30-10-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-kannada-season-13-8th-october-2026/"
                 },
                 {
                     "seasonNumber": "12",
