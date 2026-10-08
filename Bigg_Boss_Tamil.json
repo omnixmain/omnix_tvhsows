@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "October 07, 2026",
+            "ottReleaseDate": "October 08, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
                 {
@@ -21,7 +21,7 @@
                     "episodeName": "BBTam Day 31: Blue Bricks Rule!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9247/1791378999247-h",
                     "updateDate": "07-10-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-7th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "10",
@@ -335,6 +335,306 @@
                 },
                 {
                     "seasonNumber": "9",
+                    "episodeNumber": "70",
+                    "duration": "1h 6m",
+                    "episodeCode": "S9-E70",
+                    "episodeName": "BBTam Day 69: House in the Hot Seat",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7863/1765631697863-h",
+                    "updateDate": "13-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "69",
+                    "duration": "51m",
+                    "episodeCode": "S9-E69",
+                    "episodeName": "BBTam Day 68: Chaos at the BB Court",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7155/1765548367155-h",
+                    "updateDate": "12-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "68",
+                    "duration": "52m",
+                    "episodeCode": "S9-E68",
+                    "episodeName": "BBTam Day 67: Funny Trials and Kitchen Fights",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/385/1765459930385-h",
+                    "updateDate": "11-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "67",
+                    "duration": "50m",
+                    "episodeCode": "S9-E67",
+                    "episodeName": "BBTam Day 66: Court Dismissed!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8523/1765375158523-h",
+                    "updateDate": "10-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "66",
+                    "duration": "51m",
+                    "episodeCode": "S9-E66",
+                    "episodeName": "BBTam Day 65: Secrets, Rules and Court Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5498/1765287115498-h",
+                    "updateDate": "09-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "65",
+                    "duration": "50m",
+                    "episodeCode": "S9-E65",
+                    "episodeName": "BBTam Day 64: New Week, Same Old Drama",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4500/1765201504500-h",
+                    "updateDate": "08-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "64",
+                    "duration": "1h 6m",
+                    "episodeCode": "S9-E64",
+                    "episodeName": "BBTam Day 63: Recap with VJS",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6082/1765112806082-h",
+                    "updateDate": "07-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "63",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E63",
+                    "episodeName": "BBTam Day 62: Carelessness Exposed by VJS",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8553/1765027308553-h",
+                    "updateDate": "06-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "62",
+                    "duration": "41m",
+                    "episodeCode": "S9-E62",
+                    "episodeName": "BBTam Day 61: Race to Escape",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1288/1764940311288-h",
+                    "updateDate": "05-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "61",
+                    "duration": "51m",
+                    "episodeCode": "S9-E61",
+                    "episodeName": "BBTam Day 60: Jodi Task Turns Turbulent",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9587/1764857249587-h",
+                    "updateDate": "04-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "60",
+                    "duration": "50m",
+                    "episodeCode": "S9-E60",
+                    "episodeName": "BBTam Day 59: BB Schools the Housemates",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4164/1764769584164-h",
+                    "updateDate": "03-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "59",
+                    "duration": "51m",
+                    "episodeCode": "S9-E59",
+                    "episodeName": "BBTam Day 58: Modern vs Retro Cinema Team",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/574/1764682500574-h",
+                    "updateDate": "02-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "58",
+                    "duration": "51m",
+                    "episodeCode": "S9-E58",
+                    "episodeName": "BBTam Day 57: Heartfelt Talks to Heated Debates",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4813/1764599104813-h",
+                    "updateDate": "01-12-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "57",
+                    "duration": "1h 3m",
+                    "episodeCode": "S9-E57",
+                    "episodeName": "BBTam Day 56: Letters Unveiled, Bonds Shake",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7038/1764505907038-h",
+                    "updateDate": "30-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "56",
+                    "duration": "1h 1m",
+                    "episodeCode": "S9-E56",
+                    "episodeName": "BBTam Day 55: VJS Evaluates Task and Attitude",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9106/1764424129106-h",
+                    "updateDate": "29-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "55",
+                    "duration": "54m",
+                    "episodeCode": "S9-E55",
+                    "episodeName": "BBTam Day 54: A Day of Lessons and Penalties",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7477/1764337727477-h",
+                    "updateDate": "28-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "54",
+                    "duration": "51m",
+                    "episodeCode": "S9-E54",
+                    "episodeName": "BBTam Day 53: Uniforms Lost, Secrets Found",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8118/1764252898118-h",
+                    "updateDate": "27-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "53",
+                    "duration": "49m",
+                    "episodeCode": "S9-E53",
+                    "episodeName": "BBTam Day 52: Commotion in the Campus",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6082/1764164306082-h",
+                    "updateDate": "26-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "52",
+                    "duration": "52m",
+                    "episodeCode": "S9-E52",
+                    "episodeName": "BBTam Day 51: From School Bells to Star Visit",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6239/1764079766239-h",
+                    "updateDate": "25-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "51",
+                    "duration": "52m",
+                    "episodeCode": "S9-E51",
+                    "episodeName": "BBTam Day 50: A Reality Check from Home",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2846/1763995962846-h",
+                    "updateDate": "24-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "50",
+                    "duration": "1h 5m",
+                    "episodeCode": "S9-E50",
+                    "episodeName": "BBTam Day 49: Half-Century, Full Surprise",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/693/1763906050693-h",
+                    "updateDate": "23-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "49",
+                    "duration": "1h 8m",
+                    "episodeCode": "S9-E49",
+                    "episodeName": "BBTam Day 48: No Mercy for the Wildcards!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7867/1763820717867-h",
+                    "updateDate": "22-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "48",
+                    "duration": "45m",
+                    "episodeCode": "S9-E48",
+                    "episodeName": "BBTam Day 47: Kavin Shows Up with a Surprise",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2696/1763734432696-h",
+                    "updateDate": "21-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "47",
+                    "duration": "45m",
+                    "episodeCode": "S9-E47",
+                    "episodeName": "BBTam Day 46: Only One Team Stands Tall",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9319/1763647329319-h",
+                    "updateDate": "20-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "46",
+                    "duration": "52m",
+                    "episodeCode": "S9-E46",
+                    "episodeName": "BBTam Day 45: From Arguments to Achievements",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3006/1763561983006-h",
+                    "updateDate": "19-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "45",
+                    "duration": "47m",
+                    "episodeCode": "S9-E45",
+                    "episodeName": "BBTam Day 44: Soru Soapu Mopu Task Kicks Off",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8978/1763475648978-h",
+                    "updateDate": "18-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "44",
+                    "duration": "51m",
+                    "episodeCode": "S9-E44",
+                    "episodeName": "BBTam Day 43: Special Guests and Selection",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7224/1763383607224-h",
+                    "updateDate": "17-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "43",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E43",
+                    "episodeName": "BBTam Day 42: VJS Probes Task Abandonment",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1153/1763300611153-h",
+                    "updateDate": "16-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "42",
+                    "duration": "1h 4m",
+                    "episodeCode": "S9-E42",
+                    "episodeName": "BBTam Day 41: VJS Warns Against Blind Loyalty",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3363/1763213423363-h",
+                    "updateDate": "15-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
+                    "episodeNumber": "41",
+                    "duration": "50m",
+                    "episodeCode": "S9-E41",
+                    "episodeName": "BBTam Day 40: Fights and a Fallout",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7010/1763128217010-h",
+                    "updateDate": "14-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
                     "episodeNumber": "40",
                     "duration": "48m",
                     "episodeCode": "S9-E40",
@@ -421,7 +721,7 @@
                     "episodeName": "BBTam Day 31: Manager Under Fire",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3529/1762350343529-h",
                     "updateDate": "05-11-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-7th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1481,7 +1781,7 @@
                     "episodeName": "Day 31: Identify the Manipulator",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7174/1730907967174-h",
                     "updateDate": "06-11-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-tamil-season-10-7th-october-2026-video/"
                 },
                 {
                     "seasonNumber": "8",
