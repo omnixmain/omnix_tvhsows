@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "57m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "BBBan Day 39: One Ring, One New Captain",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7040/1791467057040-h",
+                    "updateDate": "08-10-2026",
+                    "episodeUrl": "https://serialtvmaza.net/bigg-boss-bangla-season-3-8th-october-2026-video/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "39",
                     "duration": "59m",
                     "episodeCode": "S1-E39",
