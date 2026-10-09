@@ -10,9 +10,109 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 09, 2026",
+            "ottReleaseDate": "October 10, 2026",
             "description": "Single mother Dr. Nayanika lives a serene life with her daughter, Ujjaini. Then enters pop star Ishaan, reigniting her world, albeit with uncalled chaos! Watch Sairaab - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "20m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Ujjaini Apologises to Nayanika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8642/1783733308642-h",
+                    "updateDate": "11-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "21m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Ishaan Reveals Nayanika's Condition",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1946/1783646501946-h",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "20m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Nayanika Gets Interrogated",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1159/1783559731159-h",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "23m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Ujjaini's Accusations Hurt Nayanika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5088/1783479605088-h",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "21m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Ishaan Defends Nayanika Against Eena",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1636/1783385131636-h",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "21m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Ishaan Comforts Nayanika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3300/1783348963300-h",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "20m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Angana Probes Indranil's Feelings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5137/1783212525137-h",
+                    "updateDate": "05-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "20m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Nayanika feels Grateful",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9635/1783124929635-h",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "21m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Ishaan Cares for Nayanika",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2804/1783048502804-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "21m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Nayanika's Life Takes a Tragic Turn",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9323/1782957409323-h",
+                    "updateDate": "02-07-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "30",
