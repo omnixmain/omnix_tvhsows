@@ -15,36 +15,6 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "113",
-                    "duration": "20m",
-                    "episodeCode": "S1-E113",
-                    "episodeName": "Rayan: A New Dawn",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7922/1790050407922-h",
-                    "updateDate": "22-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "112",
-                    "duration": "20m",
-                    "episodeCode": "S1-E112",
-                    "episodeName": "Angana's Change of Heart",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8934/1790069808934-h",
-                    "updateDate": "21-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "111",
-                    "duration": "21m",
-                    "episodeCode": "S1-E111",
-                    "episodeName": "Ishaan, Nayanika's Wedding Night",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6/1789864680006-h",
-                    "updateDate": "20-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "110",
                     "duration": "21m",
                     "episodeCode": "S1-E110",
