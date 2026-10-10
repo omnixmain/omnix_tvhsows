@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "241",
+                    "duration": "32m",
+                    "episodeCode": "S2-E241",
+                    "episodeName": "Mahid and Seher's Misunderstanding",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3278/1791595113278-h",
+                    "updateDate": "10-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "240",
                     "duration": "30m",
                     "episodeCode": "S2-E240",
