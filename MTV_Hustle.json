@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "19",
+                    "duration": "2h 4m",
+                    "episodeCode": "S5-E19",
+                    "episodeName": "The Grand Finale Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1943/1791635351943-h",
+                    "updateDate": "10-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/mtv-hustle-season-5-10th-october-2026/#respond"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "18",
                     "duration": "1h 24m",
                     "episodeCode": "S5-E18",
@@ -221,7 +231,7 @@
                     "episodeName": "The Final Showcase",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2957/1734311142957-h",
                     "updateDate": "15-12-2024",
-                    "episodeUrl": "https://serialtvmaza.to/mtv-hustle-season-5-4th-october-2026-today-full-episode-18/"
+                    "episodeUrl": "https://serialtvmaza.to/mtv-hustle-season-5-10th-october-2026/"
                 },
                 {
                     "seasonNumber": "4",
