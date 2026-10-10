@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "35",
+                    "duration": "1h 4m",
+                    "episodeCode": "S8-E35",
+                    "episodeName": "BBMal Day 34: Lalettan's Revelations and Warnings",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2617/1791633382617-h",
+                    "updateDate": "10-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "34",
                     "duration": "1h 11m",
                     "episodeCode": "S8-E34",
