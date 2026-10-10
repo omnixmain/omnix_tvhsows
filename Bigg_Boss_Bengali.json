@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Bigg Boss Bengali",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3804/1791582263804-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/510/1791622740510-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -13,6 +13,16 @@
             "ottReleaseDate": "October 10, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "45m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/510/1791622740510-i",
+                    "updateDate": "10-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "41",
