@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "43m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Jahnvi's Murder Shocks Everyone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4968/1791595144968-h",
+                    "updateDate": "10-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/108-base-hospital-uri-10th-october-2026/#respond"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "16",
                     "duration": "43m",
                     "episodeCode": "S1-E16",
