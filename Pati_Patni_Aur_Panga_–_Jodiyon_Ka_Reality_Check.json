@@ -1,0 +1,329 @@
+{
+    "tvShows": [
+        {
+            "name": "Pati Patni Aur Panga – Jodiyon Ka Reality Check",
+            "banner": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTAR_DTH/SERIES/690e0b58e8538d5c8a62bdb5/images/PORTRAIT/1790752263770-v?o=production",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 10, 2026",
+            "description": "Fresh jodis, fresh chemistry, and full-on pange! Get ready for a fun-filled new season, where love meets nok-jhok, and the end result—bang-on dhamaal. Watch Dhamaal with Pati Patni Aur Panga - Jodiyon Ka Reality Check - Hindi Reality Comedy serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "1",
+                    "duration": "1h 14m",
+                    "episodeCode": "S2-E1",
+                    "episodeName": "Grand Premiere: Let the Panga Begin!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6758/1791556356758-h",
+                    "updateDate": "10-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/dhamaal-with-pati-patni-aur-panga-season-2-10th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "1h 15m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Tables Can Turn! Dhamaal Finale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9789/1763202199789-h",
+                    "updateDate": "15-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "1h 13m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "From Panga to Poison… Naagin Takes Over",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6390/1762669516390-h",
+                    "updateDate": "09-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "1h 8m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Laughter Chef Meets Pati Patni Aur Panga!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8113/1762600598113-h",
+                    "updateDate": "08-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "1h 9m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Dare, Drama and The Great Laddoo Rescue",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2382/1761987652382-h",
+                    "updateDate": "02-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "1h 10m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "India Ki Demand aur Jodiyon Ka Reality Check",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2026/1761987352026-h",
+                    "updateDate": "01-11-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "1h 13m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Panga with Shehnaaz",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6804/1761485026804-h",
+                    "updateDate": "26-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "1h 13m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Ekta’s Diwali Dhamaka!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4841/1760811864841-h",
+                    "updateDate": "19-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "1h 14m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Diwali Crackers with Mallika!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3905/1760788843905-h",
+                    "updateDate": "18-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "1h 15m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "The Wedding Festivities Continues!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7362/1760184187362-h",
+                    "updateDate": "12-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "1h 17m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Avika-Milind Ka Shubh Vivah!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8023/1760184078023-h",
+                    "updateDate": "11-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "1h 2m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Ladkiwale vs Ladkewale",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2926/1759577932926-h",
+                    "updateDate": "05-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "1h 9m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Avika-Milind Ka Mahasangeet",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8095/1759577318095-h",
+                    "updateDate": "04-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "59m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Navratri Blessings with Radhe Maa",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2961/1758980782961-h",
+                    "updateDate": "28-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Navratri with Neha Kakkar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6538/1758980566538-h",
+                    "updateDate": "27-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "1h 9m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Daav Laga",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5856/1758363105856-h",
+                    "updateDate": "21-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Jodiyon Ki Takkar",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8209/1758362858209-h",
+                    "updateDate": "20-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "1h 5m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Shock Lagaa Kyaa",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2526/1757763372526-h",
+                    "updateDate": "14-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Biwi Number 1 Ka Panga",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2111/1757763142111-h",
+                    "updateDate": "13-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "50m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "No Lies Zone",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7580/1757136347580-h",
+                    "updateDate": "07-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "49m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Sehenshakti Ki Pariksha",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4196/1757136174196-h",
+                    "updateDate": "06-09-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "51m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Romance with Twist- Fall in love",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5816/1756550435816-h",
+                    "updateDate": "31-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "50m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Saas-Bahu aur Panga",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/791/1756550150791-h",
+                    "updateDate": "30-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "48m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Kabhi Keechad Kabhi Kamai",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9169/1755925899169-h",
+                    "updateDate": "24-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "1h 16m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Filmy Night",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6402/1755925866402-h",
+                    "updateDate": "23-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Do Jism Ek Jaan",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8062/1755300068062-h",
+                    "updateDate": "17-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "1h 12m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Pregnant Pati, Ghulam Patni",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4535/1755299984535-h",
+                    "updateDate": "16-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "1h 12m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Inked with Love",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4926/1754723144926-h",
+                    "updateDate": "10-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "1h 8m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Rasmein Traditions With a Twist",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7307/1754722017307-h",
+                    "updateDate": "09-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "1h 39m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Ghar Ki Kahaani, Help Ki Zubaani!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2204/1754228232204-h",
+                    "updateDate": "03-08-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "1h 43m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "The Grand Premiere Begins",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1471/1754142571471-h",
+                    "updateDate": "02-08-2025",
+                    "episodeUrl": "https://serialtvmaza.to/dhamaal-with-pati-patni-aur-panga-season-2-10th-october-2026/"
+                }
+            ]
+        }
+    ]
+}
