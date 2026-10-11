@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "36",
+                    "duration": "1h 8m",
+                    "episodeCode": "S8-E36",
+                    "episodeName": "BBMal Day 35: Chinese Whispers and Harsh Truths",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/870/1791723430870-h",
+                    "updateDate": "11-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "35",
                     "duration": "1h 4m",
                     "episodeCode": "S8-E35",
