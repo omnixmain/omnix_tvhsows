@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "20",
+                    "duration": "1h 55m",
+                    "episodeCode": "S5-E20",
+                    "episodeName": "The Winner Is…",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3647/1791723283647-h",
+                    "updateDate": "11-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/mtv-hustle-season-5-grand-finale-11th-october-2026/#respond"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "19",
                     "duration": "2h 4m",
                     "episodeCode": "S5-E19",
                     "episodeName": "The Grand Finale Begins",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1943/1791635351943-h",
                     "updateDate": "10-10-2026",
-                    "episodeUrl": "https://serialtvmaza.to/mtv-hustle-season-5-10th-october-2026/#respond"
+                    "episodeUrl": "https://serialtvmaza.to/mtv-hustle-season-5-grand-finale-11th-october-2026/"
                 },
                 {
                     "seasonNumber": "5",
@@ -221,7 +231,7 @@
                     "episodeName": "The Grand Finale",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/203/1740499120203-h",
                     "updateDate": "21-12-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/mtv-hustle-season-5-grand-finale-11th-october-2026/"
                 },
                 {
                     "seasonNumber": "4",
