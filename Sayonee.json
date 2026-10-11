@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "22m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Aryan Turns Yuvraj Against Saanvi",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2172/1791681392172-h",
+                    "updateDate": "11-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sayonee-11th-october-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "18",
                     "duration": "23m",
                     "episodeCode": "S1-E18",
