@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "66",
+                    "duration": "23m",
+                    "episodeCode": "S1-E66",
+                    "episodeName": "Jeet's Timely Help to Saumya",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9813/1791681219813-h",
+                    "updateDate": "11-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/ye-fitoor-tera-11th-october-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "65",
                     "duration": "23m",
                     "episodeCode": "S1-E65",
