@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "October 11, 2026",
+            "ottReleaseDate": "October 12, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "37",
+                    "duration": "1h 12m",
+                    "episodeCode": "S10-E37",
+                    "episodeName": "BBTel Day 36: Road Block Week",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8602/1791811248602-h",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-12th-october-2026-watch-online-video-episode-37/"
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "36",
@@ -21,7 +31,7 @@
                     "episodeName": "BBTel Day 35: Wildcards Strike Shalini!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4945/1791719834945-h",
                     "updateDate": "11-10-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-11th-october-2026/"
                 },
                 {
                     "seasonNumber": "10",
@@ -302,76 +312,6 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5831/1789300735831-h",
                     "updateDate": "13-09-2026",
                     "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-13th-september-2026-full-episode-8/"
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "7",
-                    "duration": "1h 7m",
-                    "episodeCode": "S10-E7",
-                    "episodeName": "BBTel Day 6: The King Checks In",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2828/1789217682828-h",
-                    "updateDate": "12-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-12th-september-2026-full-episode-7/"
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "6",
-                    "duration": "1h 3m",
-                    "episodeCode": "S10-E6",
-                    "episodeName": "BBTel Day 5: Midweek Eviction!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6014/1789134126014-h",
-                    "updateDate": "11-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-11th-september-2026-full-episode-6/"
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "5",
-                    "duration": "1h 6m",
-                    "episodeCode": "S10-E5",
-                    "episodeName": "BBTel Day 4: First Nomination of the Season",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3537/1789050783537-h",
-                    "updateDate": "10-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-10-telugu-10th-september-2026-full-episode-5/"
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "4",
-                    "duration": "1h 6m",
-                    "episodeCode": "S10-E4",
-                    "episodeName": "BBTel Day 3: High Risk Zone Unlocked",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6907/1788953926907-h",
-                    "updateDate": "09-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-10-telugu-9th-september-2026-full-episode-4/"
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "3",
-                    "duration": "1h 7m",
-                    "episodeCode": "S10-E3",
-                    "episodeName": "BBTel Day 2: Protect the Boss!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2518/1788876522518-h",
-                    "updateDate": "08-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-10-telugu-8th-september-2026-full-episode-3/"
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "2",
-                    "duration": "57m",
-                    "episodeCode": "S10-E2",
-                    "episodeName": "BBTel Day 1: Hidden Power Drop",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9893/1788793999893-h",
-                    "updateDate": "07-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-10-telugu-7th-september-2026-full-episode-2/"
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "1",
-                    "duration": "2h 41m",
-                    "episodeCode": "S10-E1",
-                    "episodeName": "BBTel: Season Premiere",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3531/1788692933531-h",
-                    "updateDate": "06-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-6th-september-2026-full-episode-1/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1071,7 +1011,7 @@
                     "episodeName": "BBTel Day 36: Firestorms' First Day",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1286/1760361391286-h",
                     "updateDate": "13-10-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-12th-october-2026-watch-online-video-episode-37/"
                 },
                 {
                     "seasonNumber": "9",
@@ -1081,7 +1021,7 @@
                     "episodeName": "BBTel Day 35: King Unleashes the Firestorm",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4168/1760273684168-h",
                     "updateDate": "12-10-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-11th-october-2026/"
                 },
                 {
                     "seasonNumber": "9",
@@ -2121,7 +2061,7 @@
                     "episodeName": "Day 36: New Housemates, New Drama",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9452/1728314399452-h",
                     "updateDate": "07-10-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-12th-october-2026-watch-online-video-episode-37/"
                 },
                 {
                     "seasonNumber": "8",
@@ -2131,7 +2071,7 @@
                     "episodeName": "Day 35: The Grand Reload Event",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6876/1728212666876-h",
                     "updateDate": "06-10-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-telugu-season-10-11th-october-2026/"
                 },
                 {
                     "seasonNumber": "8",
