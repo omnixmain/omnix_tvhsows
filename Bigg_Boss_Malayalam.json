@@ -10,18 +10,28 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "October 11, 2026",
+            "ottReleaseDate": "October 12, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "37",
+                    "duration": "45m",
+                    "episodeCode": "S8-E37",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "36",
-                    "duration": "1h 8m",
+                    "duration": "1h 6m",
                     "episodeCode": "S8-E36",
                     "episodeName": "BBMal Day 35: Chinese Whispers and Harsh Truths",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/870/1791723430870-h",
                     "updateDate": "11-10-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-malayalam-season-8-11th-october-2026/"
                 },
                 {
                     "seasonNumber": "8",
