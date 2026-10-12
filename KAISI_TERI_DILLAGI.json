@@ -15,11 +15,21 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "85",
+                    "duration": "22m",
+                    "episodeCode": "S1-E85",
+                    "episodeName": "EP 85 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2085-12102026204233",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "84",
                     "duration": "22m",
                     "episodeCode": "S1-E84",
                     "episodeName": "EP 84 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2084-12102026204845",
                     "updateDate": "10-10-2026",
                     "episodeUrl": ""
                 },
@@ -29,7 +39,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E83",
                     "episodeName": "EP 83 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2083-12102026210047",
                     "updateDate": "09-10-2026",
                     "episodeUrl": ""
                 },
@@ -39,7 +49,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E82",
                     "episodeName": "EP 82 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2082-12102026212752",
                     "updateDate": "08-10-2026",
                     "episodeUrl": ""
                 },
@@ -49,7 +59,7 @@
                     "duration": "22m",
                     "episodeCode": "S1-E81",
                     "episodeName": "EP 81 | KAISI TERI DILLAGI",
-                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/processed-Images/6a4ba334a73b9c3dd6cf6911-1783356448316-xl_image_16_9/712x400-large-xl_image_16_9.jpg",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2081-12102026212827",
                     "updateDate": "07-10-2026",
                     "episodeUrl": ""
                 },
