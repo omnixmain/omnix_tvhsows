@@ -10,13 +10,23 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 11, 2026",
+            "ottReleaseDate": "October 12, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "37",
+                    "duration": "1h 6m",
+                    "episodeCode": "S20-E37",
+                    "episodeName": "BBHin Day 36: Kalesh Trending Hai!",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/562/1791816340562-h",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-12th-october-2026-watch-online-video-episode-37/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "36",
-                    "duration": "1h 8m",
+                    "duration": "1h 7m",
                     "episodeCode": "S20-E36",
                     "episodeName": "BBHin Day 35: Salman Turns Up the Heat",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/7573/1791726087573-h",
@@ -1071,7 +1081,7 @@
                     "episodeName": "BBHin Day 36: Captainship, More Like Hardship!",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8596/1759156278596-h",
                     "updateDate": "29-09-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-12th-october-2026-watch-online-video-episode-37/"
                 },
                 {
                     "seasonNumber": "19",
@@ -1432,66 +1442,6 @@
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2759/1757412422759-h",
                     "updateDate": "24-08-2025",
                     "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-grand-premiere-6th-september-2026-full-episode-1/"
-                },
-                {
-                    "seasonNumber": "18",
-                    "episodeNumber": "106",
-                    "duration": "2h 7m",
-                    "episodeCode": "S18-E106",
-                    "episodeName": "BB 18 Ka Dhamakedar Finale",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/5611/1739389085611-h",
-                    "updateDate": "19-01-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "18",
-                    "episodeNumber": "105",
-                    "duration": "1h 31m",
-                    "episodeCode": "S18-E105",
-                    "episodeName": "Supporters Vs Media: Kiska Hoga Palda Bhari?",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8210/1737299708210-h",
-                    "updateDate": "18-01-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "18",
-                    "episodeNumber": "104",
-                    "duration": "1h 2m",
-                    "episodeCode": "S18-E104",
-                    "episodeName": "Gharwalon Ki Iconic BB Journey",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8822/1737214508822-h",
-                    "updateDate": "17-01-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "18",
-                    "episodeNumber": "103",
-                    "duration": "1h 1m",
-                    "episodeCode": "S18-E103",
-                    "episodeName": "BB Journey Ki Ek Yaadgaar Jhalak!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1190/1737129921190-h",
-                    "updateDate": "16-01-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "18",
-                    "episodeNumber": "102",
-                    "duration": "51m",
-                    "episodeCode": "S18-E102",
-                    "episodeName": "Finale Se Pehle Shocking Eviction",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/4950/1737044124950-h",
-                    "updateDate": "15-01-2025",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "18",
-                    "episodeNumber": "101",
-                    "duration": "50m",
-                    "episodeCode": "S18-E101",
-                    "episodeName": "Karan Ke “Certificates” Par Uthe Sawaal!",
-                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/9971/1736958909971-h",
-                    "updateDate": "14-01-2025",
-                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "18",
@@ -2131,7 +2081,7 @@
                     "episodeName": "Kise Milegi BAD News?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/3070/1734100883070-h",
                     "updateDate": "11-11-2024",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-12th-october-2026-watch-online-video-episode-37/"
                 },
                 {
                     "seasonNumber": "18",
@@ -3511,7 +3461,7 @@
                     "episodeName": "Rishton mein padi dararein?",
                     "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/2904/1738848462904-h",
                     "updateDate": "05-11-2019",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-12th-october-2026-watch-online-video-episode-37/"
                 },
                 {
                     "seasonNumber": "13",
