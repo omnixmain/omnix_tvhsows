@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Bigg Boss Bengali",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/510/1791622740510-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9618/1791797289618-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,18 +10,28 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Bengali",
-            "ottReleaseDate": "October 11, 2026",
+            "ottReleaseDate": "October 12, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "43",
-                    "duration": "45m",
-                    "episodeCode": "S1-E43",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/510/1791622740510-i",
-                    "updateDate": "11-10-2026",
+                    "episodeNumber": "44",
+                    "duration": "1h 0m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "BBBan Day 43: A Sudden Goodbye",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/8767/1791811738767-h",
+                    "updateDate": "12-10-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "1h 8m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "BBBan Day 42: Who Will Win Dada’s Verdict?",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/1614/1791725211614-h",
+                    "updateDate": "11-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-bangla-season-3-11th-october-2026/"
                 },
                 {
                     "seasonNumber": "1",
