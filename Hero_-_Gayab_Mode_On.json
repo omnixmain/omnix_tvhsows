@@ -1,0 +1,2379 @@
+{
+    "tvShows": [
+        {
+            "name": "Hero - Gayab Mode On",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/hero_9nov_web_detail_coverbg.jpg",
+            "genre": "Fantasy",
+            "rating": "8.0",
+            "year": "2020",
+            "ageRating": "U/A 13+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 13, 2026",
+            "description": "Long ago, in the fight between the good and the evil, a powerful ring gets lost. This isn't any ordinary ring, for the one who wears it can become invisible. Back to the modern times, this ring finds its way to a powerful being, who is silent on the surface and stirs up a storm within. [Director - Tushar Jai Bhatia. Producer - Alind Shrivastav, Sakshi Thakkar and Nisar Parvez]",
+            "episodes": [
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "236",
+                    "duration": "20m",
+                    "episodeCode": "S3-E236",
+                    "episodeName": "Veer Aur Aditi Ki Shaadi",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep236_landscape_thumb.jpg",
+                    "updateDate": "30-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-aur-aditi-ki-shaadi-1000141962?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "235",
+                    "duration": "20m",
+                    "episodeCode": "S3-E235",
+                    "episodeName": "Aditi Ke Liye Amrit",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep235_landscape_thumb.jpg",
+                    "updateDate": "29-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/aditi-ke-liye-amrit-1000141738?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "234",
+                    "duration": "20m",
+                    "episodeCode": "S3-E234",
+                    "episodeName": "Professor Ka The End",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep234_landscape_thumb.jpg",
+                    "updateDate": "28-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/professor-ka-the-end-1000141586?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "233",
+                    "duration": "20m",
+                    "episodeCode": "S3-E233",
+                    "episodeName": "The Final Farewell",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep233_landscape_thumb.jpg",
+                    "updateDate": "27-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-final-farewell-1000141504?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "232",
+                    "duration": "20m",
+                    "episodeCode": "S3-E232",
+                    "episodeName": "The Hero Way",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep232_landscape_thumb.jpg",
+                    "updateDate": "26-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-hero-way-1000141349?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "231",
+                    "duration": "20m",
+                    "episodeCode": "S3-E231",
+                    "episodeName": "Aditi Leaves",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep231_landscape_thumb.jpg",
+                    "updateDate": "25-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/aditi-leaves-1000141196?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "230",
+                    "duration": "20m",
+                    "episodeCode": "S3-E230",
+                    "episodeName": "Kumar Gets Kidnapped",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep230_landscape_thumb.jpg",
+                    "updateDate": "23-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/kumar-gets-kidnapped-1000140975?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "229",
+                    "duration": "20m",
+                    "episodeCode": "S3-E229",
+                    "episodeName": "Burai Kya Hoti Hai",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep229_landscape_thumb.jpg",
+                    "updateDate": "22-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/burai-kya-hoti-hai-1000140830?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "228",
+                    "duration": "20m",
+                    "episodeCode": "S3-E228",
+                    "episodeName": "Burai Ki Pariskha",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep228_landscape_thumb.jpg",
+                    "updateDate": "21-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/burai-ki-pariskha-1000140707?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "227",
+                    "duration": "20m",
+                    "episodeCode": "S3-E227",
+                    "episodeName": "Veer's New Employers",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep227_landscape_thumb.jpg",
+                    "updateDate": "20-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-new-employers-1000140511?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "226",
+                    "duration": "20m",
+                    "episodeCode": "S3-E226",
+                    "episodeName": "Once A Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep226_landscape_thumb.jpg",
+                    "updateDate": "19-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/once-a-hero-1000140249?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "225",
+                    "duration": "20m",
+                    "episodeCode": "S3-E225",
+                    "episodeName": "Aditi Kidnapped",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_heroo_ep225_landscape_thumb.jpg",
+                    "updateDate": "18-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/aditi-kidnapped-1000140075?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "224",
+                    "duration": "20m",
+                    "episodeCode": "S3-E224",
+                    "episodeName": "One With The Bearer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_hero_ep224_landscape_thumb.jpg",
+                    "updateDate": "16-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/one-with-the-bearer-1000139803?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "223",
+                    "duration": "20m",
+                    "episodeCode": "S3-E223",
+                    "episodeName": "Aaj Ka Plan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep223_landscape_thumb.jpg",
+                    "updateDate": "15-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/aaj-ka-plan-1000139669?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "222",
+                    "duration": "20m",
+                    "episodeCode": "S3-E222",
+                    "episodeName": "Professor Ka Ram Ram",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep222_landscape_thumb.jpg",
+                    "updateDate": "14-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/professor-ka-ram-ram-1000139529?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "221",
+                    "duration": "20m",
+                    "episodeCode": "S3-E221",
+                    "episodeName": "Jeet Hero Ki Hoti Hai",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep221_landscape_thumb.jpg",
+                    "updateDate": "13-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/jeet-hero-ki-hoti-hai-1000139431?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "220",
+                    "duration": "19m",
+                    "episodeCode": "S3-E220",
+                    "episodeName": "Shukracharya Ka Naya Senapati",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep220_landscape_thumb.jpg",
+                    "updateDate": "12-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shukracharya-ka-naya-senapati-1000139330?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "219",
+                    "duration": "20m",
+                    "episodeCode": "S3-E219",
+                    "episodeName": "Acchai Ka Raasta",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep219_landscape_thumb.jpg",
+                    "updateDate": "11-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/acchai-ka-raasta-1000139231?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "218",
+                    "duration": "18m",
+                    "episodeCode": "S3-E218",
+                    "episodeName": "Hero Crosses The Line",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep218_landscape_thumb.jpg",
+                    "updateDate": "09-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-crosses-the-line-1000138972?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "217",
+                    "duration": "20m",
+                    "episodeCode": "S3-E217",
+                    "episodeName": "Bantu Retrieves The Dagger",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_heroo_ep217_Landscape_Thumb.jpg",
+                    "updateDate": "08-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-retrieves-the-dagger-1000138825?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "216",
+                    "duration": "20m",
+                    "episodeCode": "S3-E216",
+                    "episodeName": "Saving Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep216_landscape_thumb.jpg",
+                    "updateDate": "07-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/saving-hero-1000138695?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "215",
+                    "duration": "20m",
+                    "episodeCode": "S3-E215",
+                    "episodeName": "Bantu Ka Subscription",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_heroo_ep215_Landscape_Thumb.jpg",
+                    "updateDate": "06-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-ka-subscription-1000138545?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "214",
+                    "duration": "20m",
+                    "episodeCode": "S3-E214",
+                    "episodeName": "Yakshika Reveals Her Plans",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep214_landscape_thumb.jpg",
+                    "updateDate": "05-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/yakshika-reveals-her-plans-1000138407?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "213",
+                    "duration": "20m",
+                    "episodeCode": "S3-E213",
+                    "episodeName": "Teesra Charan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep213_landscape_thumb.jpg",
+                    "updateDate": "04-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/teesra-charan-1000138330?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "212",
+                    "duration": "20m",
+                    "episodeCode": "S3-E212",
+                    "episodeName": "Hero Ka Remote",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep212_landscape_thumb.jpg",
+                    "updateDate": "01-10-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-ka-remote-1000137934?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "211",
+                    "duration": "20m",
+                    "episodeCode": "S3-E211",
+                    "episodeName": "Shukracharya Summons Holika",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep211_landscape_thumb.jpg",
+                    "updateDate": "30-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shukracharya-summons-holika-1000137750?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "210",
+                    "duration": "20m",
+                    "episodeCode": "S3-E210",
+                    "episodeName": "Bantu Released",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep210_landscape_thumb.jpg",
+                    "updateDate": "29-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-released-1000137592?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "209",
+                    "duration": "20m",
+                    "episodeCode": "S3-E209",
+                    "episodeName": "Haar Se Pehle Haar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_heroo_ep209_Landscape_Thumb.jpg",
+                    "updateDate": "28-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/haar-se-pehle-haar-1000137374?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "208",
+                    "duration": "20m",
+                    "episodeCode": "S3-E208",
+                    "episodeName": "Professor Makes His Move",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep208_landscape_thumb.jpg",
+                    "updateDate": "27-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/professor-makes-his-move-1000137246?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "207",
+                    "duration": "20m",
+                    "episodeCode": "S3-E207",
+                    "episodeName": "Bhasmasur Ka Time Khatam",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep207_landscape_thumb.jpg",
+                    "updateDate": "24-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bhasmasur-ka-time-khatam-1000136876?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "206",
+                    "duration": "20m",
+                    "episodeCode": "S3-E206",
+                    "episodeName": "Aditi Tracks Mamaji",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep206_landscape_thumb.jpg",
+                    "updateDate": "23-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/aditi-tracks-mamaji-1000136719?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "205",
+                    "duration": "21m",
+                    "episodeCode": "S3-E205",
+                    "episodeName": "Hero Faces Bhasmasur",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep205_landscape_thumb.jpg",
+                    "updateDate": "22-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-faces-bhasmasur-1000136594?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "204",
+                    "duration": "20m",
+                    "episodeCode": "S3-E204",
+                    "episodeName": "Bhasmasur's Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep204_landscape_thumb.jpg",
+                    "updateDate": "21-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bhasmasurs-challenge-1000136482?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "203",
+                    "duration": "20m",
+                    "episodeCode": "S3-E203",
+                    "episodeName": "Mamaji Returns",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep203_landscape_thumb.jpg",
+                    "updateDate": "20-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/mamaji-returns-1000136350?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "202",
+                    "duration": "20m",
+                    "episodeCode": "S3-E202",
+                    "episodeName": "Bhasmasur Revived",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_heroo_ep202_170921_Landscape_Thumb.jpg",
+                    "updateDate": "17-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bhasmasur-revived-1000136065?watch=true"
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodeNumber": "201",
+                    "duration": "20m",
+                    "episodeCode": "S3-E201",
+                    "episodeName": "Veer Gayab Hai",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep201_landscape_thumb.jpg",
+                    "updateDate": "16-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-gayab-hai-1000135889?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "200",
+                    "duration": "20m",
+                    "episodeCode": "S2-E200",
+                    "episodeName": "Bantu Captured?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep200_landscape_thumb.jpg",
+                    "updateDate": "15-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-captured-1000135716?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "199",
+                    "duration": "19m",
+                    "episodeCode": "S2-E199",
+                    "episodeName": "Shukracharya Loses His Calm",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep199_landscape_thumb.jpg",
+                    "updateDate": "14-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shukracharya-loses-his-calm-1000135526?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "198",
+                    "duration": "20m",
+                    "episodeCode": "S2-E198",
+                    "episodeName": "Yakshika Complains About Bantu",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep198_landscape_thumb.jpg",
+                    "updateDate": "13-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/yakshika-complains-about-bantu-1000135437?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "197",
+                    "duration": "21m",
+                    "episodeCode": "S2-E197",
+                    "episodeName": "Hero Catches The Professor",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep197_landscape_thumb.jpg",
+                    "updateDate": "10-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-catches-the-professor-1000135074?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "196",
+                    "duration": "21m",
+                    "episodeCode": "S2-E196",
+                    "episodeName": "Yakshika Uses Her Powers On Aditi",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep196_Landscape_thumb.jpg",
+                    "updateDate": "09-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/yakshika-uses-her-powers-on-aditi-1000134945?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "195",
+                    "duration": "21m",
+                    "episodeCode": "S2-E195",
+                    "episodeName": "The Professor Takes Hero By Surprise",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep195_landscape_thumb.jpg",
+                    "updateDate": "08-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-professor-takes-hero-by-surprise-1000134792?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "194",
+                    "duration": "21m",
+                    "episodeCode": "S2-E194",
+                    "episodeName": "The Professor Calls Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep194_landscape_thumb.jpg",
+                    "updateDate": "07-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-professor-calls-hero-1000134651?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "193",
+                    "duration": "20m",
+                    "episodeCode": "S2-E193",
+                    "episodeName": "Bantu Returns Safely",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep193_landscape_thumb.jpg",
+                    "updateDate": "06-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-returns-safely-1000134495?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "192",
+                    "duration": "21m",
+                    "episodeCode": "S2-E192",
+                    "episodeName": "Finding Bantu",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep192_landscape_thumb.jpg",
+                    "updateDate": "03-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/finding-bantu-1000133935?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "191",
+                    "duration": "21m",
+                    "episodeCode": "S2-E191",
+                    "episodeName": "Interrogating The Professor",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep191_020921_Landscape_Thumb.jpg",
+                    "updateDate": "02-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/interrogating-the-professor-1000133735?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "190",
+                    "duration": "20m",
+                    "episodeCode": "S2-E190",
+                    "episodeName": "The Professor In Disguise",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep190_010921_Landscape_Thumb.jpg",
+                    "updateDate": "01-09-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-professor-in-disguise-1000133496?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "189",
+                    "duration": "21m",
+                    "episodeCode": "S2-E189",
+                    "episodeName": "Hunting For The Professor",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep189_landscape_thumb.jpg",
+                    "updateDate": "31-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hunting-for-the-professor-1000133399?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "188",
+                    "duration": "20m",
+                    "episodeCode": "S2-E188",
+                    "episodeName": "Hero In Jail",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep188_landscape_thumb.jpg",
+                    "updateDate": "30-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-in-jail-1000133341?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "187",
+                    "duration": "20m",
+                    "episodeCode": "S2-E187",
+                    "episodeName": "Yakshika's Plan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep187_landscape_thumb.jpg",
+                    "updateDate": "27-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/yakshikas-plan-1000132952?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "186",
+                    "duration": "21m",
+                    "episodeCode": "S2-E186",
+                    "episodeName": "New Neighbour",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep186_landscape_thumb.jpg",
+                    "updateDate": "26-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/new-neighbour-1000132833?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "185",
+                    "duration": "21m",
+                    "episodeCode": "S2-E185",
+                    "episodeName": "Professor's Evil Plan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep185_landscape_thumb.jpg",
+                    "updateDate": "25-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/professors-evil-plan-1000132628?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "184",
+                    "duration": "21m",
+                    "episodeCode": "S2-E184",
+                    "episodeName": "The CM Kidnapped",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep184_240821_Landscape_Thumb.jpg",
+                    "updateDate": "24-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-cm-kidnapped-1000132480?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "183",
+                    "duration": "20m",
+                    "episodeCode": "S2-E183",
+                    "episodeName": "Sheher Ka Bodyguard",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep183_landscape_thumb.jpg",
+                    "updateDate": "23-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/sheher-ka-bodyguard-1000132356?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "182",
+                    "duration": "20m",
+                    "episodeCode": "S2-E182",
+                    "episodeName": "Amal Finds The Problem",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep182_landscape_thumb.jpg",
+                    "updateDate": "20-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/amal-finds-the-problem-1000132037?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "181",
+                    "duration": "21m",
+                    "episodeCode": "S2-E181",
+                    "episodeName": "Shukracharya Wants Amrit",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep181_landscape_thumb.jpg",
+                    "updateDate": "19-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shukracharya-wants-amrit-1000131928?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "180",
+                    "duration": "21m",
+                    "episodeCode": "S2-E180",
+                    "episodeName": "All The Goons On The Floor",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep180_landscape_thumb.jpg",
+                    "updateDate": "18-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/all-the-goons-on-the-floor-1000131851?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "179",
+                    "duration": "20m",
+                    "episodeCode": "S2-E179",
+                    "episodeName": "The Evil Ring",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep179_landscape_thumb.jpg",
+                    "updateDate": "17-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-evil-ring-1000131744?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "178",
+                    "duration": "21m",
+                    "episodeCode": "S2-E178",
+                    "episodeName": "Amal Surrounded",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep178_landscape_thumb.jpg",
+                    "updateDate": "16-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/amal-surrounded-1000131576?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "177",
+                    "duration": "21m",
+                    "episodeCode": "S2-E177",
+                    "episodeName": "Finding The Meaning",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep177_landscape_thumb.jpg",
+                    "updateDate": "13-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/finding-the-meaning-1000131042?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "176",
+                    "duration": "21m",
+                    "episodeCode": "S2-E176",
+                    "episodeName": "Amal's Clue",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep176_landscape_thumb.jpg",
+                    "updateDate": "12-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/amals-clue-1000130815?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "175",
+                    "duration": "20m",
+                    "episodeCode": "S2-E175",
+                    "episodeName": "Veer Looks For His Family",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep175_landscape_thumb.jpg",
+                    "updateDate": "11-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-looks-for-his-family-1000130720?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "174",
+                    "duration": "21m",
+                    "episodeCode": "S2-E174",
+                    "episodeName": "Last Goodbyes",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep174_landscape_thumb.jpg",
+                    "updateDate": "10-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/last-goodbyes-1000130623?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "173",
+                    "duration": "21m",
+                    "episodeCode": "S2-E173",
+                    "episodeName": "One More Sacrifice",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep173_landscape_thumb.jpg",
+                    "updateDate": "09-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/one-more-sacrifice-1000130559?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "172",
+                    "duration": "21m",
+                    "episodeCode": "S2-E172",
+                    "episodeName": "Astral Powers",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep172_landscape_thumb.jpg",
+                    "updateDate": "06-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/astral-powers-1000130058?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "171",
+                    "duration": "20m",
+                    "episodeCode": "S2-E171",
+                    "episodeName": "Finding The Amrit",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep171_landscape_thumb.jpg",
+                    "updateDate": "05-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/finding-the-amrit-1000129863?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "170",
+                    "duration": "21m",
+                    "episodeCode": "S2-E170",
+                    "episodeName": "Going Back In Time",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep170_landscape_thumb.jpg",
+                    "updateDate": "04-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/going-back-in-time-1000129651?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "169",
+                    "duration": "21m",
+                    "episodeCode": "S2-E169",
+                    "episodeName": "Finding The Solution",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep169_landscape_thumb.jpg",
+                    "updateDate": "03-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/finding-the-solution-1000129502?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "168",
+                    "duration": "21m",
+                    "episodeCode": "S2-E168",
+                    "episodeName": "Near Extinction",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep168_landscape_thumb.jpg",
+                    "updateDate": "02-08-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/near-extinction-1000129313?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "167",
+                    "duration": "21m",
+                    "episodeCode": "S2-E167",
+                    "episodeName": "Amal Back In His Lair",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep167_landscape_thumb.jpg",
+                    "updateDate": "30-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/amal-back-in-his-lair-1000128766?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "166",
+                    "duration": "20m",
+                    "episodeCode": "S2-E166",
+                    "episodeName": "Shivaay Meets Veer's Mother",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep166_landscape_thumb.jpg",
+                    "updateDate": "29-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shivaay-meets-veers-mother-1000128520?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "165",
+                    "duration": "20m",
+                    "episodeCode": "S2-E165",
+                    "episodeName": "Shukracharya Ka Naya Dhaatu",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep165_landscape_thumb.jpg",
+                    "updateDate": "28-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shukracharya-ka-naya-dhaatu-1000128280?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "164",
+                    "duration": "20m",
+                    "episodeCode": "S2-E164",
+                    "episodeName": "Pyaar Ke Layak",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep164-landscape_thumb.jpg",
+                    "updateDate": "27-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/pyaar-ke-layak-1000128125?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "163",
+                    "duration": "21m",
+                    "episodeCode": "S2-E163",
+                    "episodeName": "Amal Nanda Reunited",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep163_landscape_thumb.jpg",
+                    "updateDate": "26-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/amal-nanda-reunited-1000127944?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "162",
+                    "duration": "21m",
+                    "episodeCode": "S2-E162",
+                    "episodeName": "Amal Nanda Revived",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep162_landscape_thumb.jpg",
+                    "updateDate": "23-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/amal-nanda-revived-1000127390?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "161",
+                    "duration": "20m",
+                    "episodeCode": "S2-E161",
+                    "episodeName": "Journey To Revive Amal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep161_landscape_thumb.jpg",
+                    "updateDate": "22-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/journey-to-revive-amal-1000127264?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "160",
+                    "duration": "21m",
+                    "episodeCode": "S2-E160",
+                    "episodeName": "Nayi Yojna Ka Aarambh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep160_landscape_thumb.jpg",
+                    "updateDate": "21-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/nayi-yojna-ka-aarambh-1000127156?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "159",
+                    "duration": "21m",
+                    "episodeCode": "S2-E159",
+                    "episodeName": "Shivaay Begs Mahadev",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep159_landscape_thumb.jpg",
+                    "updateDate": "20-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shivaay-begs-mahadev-1000126946?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "158",
+                    "duration": "21m",
+                    "episodeCode": "S2-E158",
+                    "episodeName": "Amal's Passing",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep158_landscape_thumb.jpg",
+                    "updateDate": "19-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/amals-passing-1000126769?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "157",
+                    "duration": "20m",
+                    "episodeCode": "S2-E157",
+                    "episodeName": "Persuading Rocky",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep157_landscape_thumb.jpg",
+                    "updateDate": "16-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/persuading-rocky-1000126197?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "156",
+                    "duration": "21m",
+                    "episodeCode": "S2-E156",
+                    "episodeName": "Evil Hamesha Haarta Hai",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep156_landscape_thumb.jpg",
+                    "updateDate": "15-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/evil-hamesha-haarta-hai-1000126073?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "155",
+                    "duration": "21m",
+                    "episodeCode": "S2-E155",
+                    "episodeName": "Fight Till Death",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep155-landscape_thumb.jpg",
+                    "updateDate": "14-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/fight-till-death-1000125940?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "154",
+                    "duration": "21m",
+                    "episodeCode": "S2-E154",
+                    "episodeName": "Mamaji Hospitalised",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep154_landscape_thumb.jpg",
+                    "updateDate": "13-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/mamaji-hospitalised-1000125708?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "153",
+                    "duration": "21m",
+                    "episodeCode": "S2-E153",
+                    "episodeName": "Bantu Hospitalised",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep153_landscape_Thumb.jpg",
+                    "updateDate": "12-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-hospitalised-1000125630?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "152",
+                    "duration": "21m",
+                    "episodeCode": "S2-E152",
+                    "episodeName": "No One To Trust",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep152_landscape_thumb.jpg",
+                    "updateDate": "09-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/no-one-to-trust-1000125164?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "151",
+                    "duration": "21m",
+                    "episodeCode": "S2-E151",
+                    "episodeName": "Veer And Amal At Large",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep151_landscape_thumb.jpg",
+                    "updateDate": "08-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-and-amal-at-large-1000125008?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "150",
+                    "duration": "21m",
+                    "episodeCode": "S2-E150",
+                    "episodeName": "Veer's New Power",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep150_landscape_thumb.jpg",
+                    "updateDate": "07-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-new-power-1000124895?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "149",
+                    "duration": "21m",
+                    "episodeCode": "S2-E149",
+                    "episodeName": "The Fight Against Mayavani",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep149_landscape_thumb.jpg",
+                    "updateDate": "06-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-fight-against-mayavani-1000124791?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "148",
+                    "duration": "20m",
+                    "episodeCode": "S2-E148",
+                    "episodeName": "Shivaay Follows Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep148_landcape_thumb.jpg",
+                    "updateDate": "05-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shivaay-follows-veer-1000124634?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "147",
+                    "duration": "21m",
+                    "episodeCode": "S2-E147",
+                    "episodeName": "Veer Escapes",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep147_landscape_thumb.jpg",
+                    "updateDate": "02-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-escapes-1000124245?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "146",
+                    "duration": "21m",
+                    "episodeCode": "S2-E146",
+                    "episodeName": "The Saat Lok",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep146_landscape_thumb.jpg",
+                    "updateDate": "01-07-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-saat-lok-1000124110?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "145",
+                    "duration": "21m",
+                    "episodeCode": "S2-E145",
+                    "episodeName": "Veer Develops Mistrust",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep145_landscape_thumb.jpg",
+                    "updateDate": "30-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-develops-mistrust-1000123999?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "144",
+                    "duration": "21m",
+                    "episodeCode": "S2-E144",
+                    "episodeName": "Shukracharya Spreads His Trap",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep144_landscape_thumb.jpg",
+                    "updateDate": "29-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shukracharya-spreads-his-trap-1000123849?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "143",
+                    "duration": "21m",
+                    "episodeCode": "S2-E143",
+                    "episodeName": "Friends Turn Enemies",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep143_landscape_thumb.jpg",
+                    "updateDate": "28-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/friends-turn-enemies-1000123662?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "142",
+                    "duration": "23m",
+                    "episodeCode": "S2-E142",
+                    "episodeName": "Aadha Satya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep142_landscape_thumb.jpg",
+                    "updateDate": "25-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/aadha-satya-1000123228?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "141",
+                    "duration": "24m",
+                    "episodeCode": "S2-E141",
+                    "episodeName": "Shivaay's Truth",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep141_landscape_thumb.jpg",
+                    "updateDate": "24-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shivaays-truth-1000123040?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "140",
+                    "duration": "23m",
+                    "episodeCode": "S2-E140",
+                    "episodeName": "Hero Fights The Monster",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep140_landscape_thumb.jpg",
+                    "updateDate": "23-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-fights-the-monster-1000122853?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "139",
+                    "duration": "23m",
+                    "episodeCode": "S2-E139",
+                    "episodeName": "Sweety Starts Suspecting Shocker",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep139_landscape_thumb.jpg",
+                    "updateDate": "22-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/sweety-starts-suspecting-shocker-1000122685?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "138",
+                    "duration": "23m",
+                    "episodeCode": "S2-E138",
+                    "episodeName": "Finding The Pishaach",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep138_landscape_thumb.jpg",
+                    "updateDate": "21-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/finding-the-pishaach-1000122487?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "137",
+                    "duration": "23m",
+                    "episodeCode": "S2-E137",
+                    "episodeName": "Trouble At Both Ends",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep137_180621_Landscape_Thumb.jpg",
+                    "updateDate": "18-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/trouble-at-both-ends-1000121974?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "136",
+                    "duration": "22m",
+                    "episodeCode": "S2-E136",
+                    "episodeName": "Amal Looks For Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep136_landscape_thumb.jpg",
+                    "updateDate": "17-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/amal-looks-for-veer-1000121759?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "135",
+                    "duration": "23m",
+                    "episodeCode": "S2-E135",
+                    "episodeName": "Meeting Prajapati",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep135_landscape_thumb.jpg",
+                    "updateDate": "16-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/meeting-prajapati-1000121521?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "134",
+                    "duration": "22m",
+                    "episodeCode": "S2-E134",
+                    "episodeName": "Shocker Saves The Day",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep134_landscape_thumb.jpg",
+                    "updateDate": "15-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shocker-saves-the-day-1000121337?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "133",
+                    "duration": "24m",
+                    "episodeCode": "S2-E133",
+                    "episodeName": "Shock Shock Shocker",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep133_landscape_thumb.jpg",
+                    "updateDate": "14-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shock-shock-shocker-1000121055?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "132",
+                    "duration": "23m",
+                    "episodeCode": "S2-E132",
+                    "episodeName": "New Trouble At The Camp",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep132_landscape_thumb.jpg",
+                    "updateDate": "11-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/new-trouble-at-the-camp-1000120539?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "131",
+                    "duration": "23m",
+                    "episodeCode": "S2-E131",
+                    "episodeName": "Rocky Meets Shukracharya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep131_landscape_thumb.jpg",
+                    "updateDate": "10-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/rocky-meets-shukracharya-1000120367?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "130",
+                    "duration": "23m",
+                    "episodeCode": "S2-E130",
+                    "episodeName": "Veer And Shivaay's Disguise",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep130_landscape_thumb.jpg",
+                    "updateDate": "09-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-and-shivaays-disguise-1000120242?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "129",
+                    "duration": "23m",
+                    "episodeCode": "S2-E129",
+                    "episodeName": "The Training Continues",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep129_landscape_thumb.jpg",
+                    "updateDate": "08-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-training-continues-1000119952?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "128",
+                    "duration": "23m",
+                    "episodeCode": "S2-E128",
+                    "episodeName": "Smoke Crisis Averted",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep128_landscape_thumb.jpg",
+                    "updateDate": "07-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/smoke-crisis-averted-1000119860?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "127",
+                    "duration": "23m",
+                    "episodeCode": "S2-E127",
+                    "episodeName": "Gajasur Has The Ring",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep127_landscape_thumb.jpg",
+                    "updateDate": "04-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/gajasur-has-the-ring-1000119569?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "126",
+                    "duration": "23m",
+                    "episodeCode": "S2-E126",
+                    "episodeName": "Veer Without The Ring",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep126_landscape_thumb.jpg",
+                    "updateDate": "03-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-without-the-ring-1000119450?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "125",
+                    "duration": "23m",
+                    "episodeCode": "S2-E125",
+                    "episodeName": "Veer Faces Gajasur",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep125_landscape_thumb.jpg",
+                    "updateDate": "02-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-faces-gajasur-1000119355?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "124",
+                    "duration": "23m",
+                    "episodeCode": "S2-E124",
+                    "episodeName": "Now Is The Time Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep124_landscape_thumb.jpg",
+                    "updateDate": "01-06-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/now-is-the-time-veer-1000119200?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "123",
+                    "duration": "24m",
+                    "episodeCode": "S2-E123",
+                    "episodeName": "Saving Bantu Bhai",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep123_landscape_thumb.jpg",
+                    "updateDate": "31-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/saving-bantu-bhai-1000119131?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "122",
+                    "duration": "21m",
+                    "episodeCode": "S2-E122",
+                    "episodeName": "Veer Prioritises",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep122_landscape_thumb.jpg",
+                    "updateDate": "28-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-prioritises-1000118932?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "121",
+                    "duration": "22m",
+                    "episodeCode": "S2-E121",
+                    "episodeName": "Veer And Shivaay's Mission",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep121_landscape_thumb.jpg",
+                    "updateDate": "27-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-and-shivaays-mission-1000118823?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "120",
+                    "duration": "21m",
+                    "episodeCode": "S2-E120",
+                    "episodeName": "Veer Heads Into The Smoke",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep120_landscape_thumb.jpg",
+                    "updateDate": "26-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-heads-into-the-smoke-1000118740?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "119",
+                    "duration": "22m",
+                    "episodeCode": "S2-E119",
+                    "episodeName": "Bantu Bhai",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep119_landscape_thumb.jpg",
+                    "updateDate": "25-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-bhai-1000118620?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "118",
+                    "duration": "22m",
+                    "episodeCode": "S2-E118",
+                    "episodeName": "Faster Than An Arrow",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep118_landscape_thumb.jpg",
+                    "updateDate": "24-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/faster-than-an-arrow-1000118553?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "117",
+                    "duration": "22m",
+                    "episodeCode": "S2-E117",
+                    "episodeName": "Connecting With The Ring",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep117_landscape_thumb.jpg",
+                    "updateDate": "21-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/connecting-with-the-ring-1000118295?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "116",
+                    "duration": "22m",
+                    "episodeCode": "S2-E116",
+                    "episodeName": "Guru Khatri Introduces Himself",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep116_landscape_thumb.jpg",
+                    "updateDate": "20-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/guru-khatri-introduces-himself-1000118207?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "115",
+                    "duration": "22m",
+                    "episodeCode": "S2-E115",
+                    "episodeName": "Taking Mumbai Back From The Goons",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_herogayabmodeon_ep115_Landscape_Thumb.jpg",
+                    "updateDate": "19-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/taking-mumbai-back-from-the-goons-1000118152?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "114",
+                    "duration": "22m",
+                    "episodeCode": "S2-E114",
+                    "episodeName": "Veer Arrives At The Camp",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep114_Landscape_Thumb.jpg",
+                    "updateDate": "18-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-arrives-at-the-camp-1000118080?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "113",
+                    "duration": "21m",
+                    "episodeCode": "S2-E113",
+                    "episodeName": "The Asurs' Secrets",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_herogayabmodeon_ep113_Landscape_Thumb.jpg",
+                    "updateDate": "17-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-asurs-secrets-1000118034?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "112",
+                    "duration": "21m",
+                    "episodeCode": "S2-E112",
+                    "episodeName": "Veer Prepares For War",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep112_landscape_thumb.jpg",
+                    "updateDate": "14-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-prepares-for-war-1000117838?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "111",
+                    "duration": "21m",
+                    "episodeCode": "S2-E111",
+                    "episodeName": "Dansh's Past",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep111_landscape_thumb.jpg",
+                    "updateDate": "13-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/danshs-past-1000117772?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "110",
+                    "duration": "21m",
+                    "episodeCode": "S2-E110",
+                    "episodeName": "The Ring Is As Powerful As Its Bearer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep110_landscape_thumb.jpg",
+                    "updateDate": "12-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-ring-is-as-powerful-as-its-bearer-1000117687?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "109",
+                    "duration": "20m",
+                    "episodeCode": "S2-E109",
+                    "episodeName": "Crossing The Jungle",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep109_landscape_thumb.jpg",
+                    "updateDate": "11-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/crossing-the-jungle-1000117599?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "108",
+                    "duration": "21m",
+                    "episodeCode": "S2-E108",
+                    "episodeName": "Dansh's Truth",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep108_landscape_thumb.jpg",
+                    "updateDate": "10-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/danshs-truth-1000117531?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "107",
+                    "duration": "21m",
+                    "episodeCode": "S2-E107",
+                    "episodeName": "Dansh's Origin",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep107_landscape_thumb.jpg",
+                    "updateDate": "07-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/danshs-origin-1000117327?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "106",
+                    "duration": "21m",
+                    "episodeCode": "S2-E106",
+                    "episodeName": "Crossing The Maze",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep106_landscape_thumb.jpg",
+                    "updateDate": "06-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/crossing-the-maze-1000117243?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "105",
+                    "duration": "21m",
+                    "episodeCode": "S2-E105",
+                    "episodeName": "Escaping Death",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep105_landscape_thumb.jpg",
+                    "updateDate": "05-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/escaping-death-1000117154?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "104",
+                    "duration": "21m",
+                    "episodeCode": "S2-E104",
+                    "episodeName": "Veer And Shivaay Join Forces",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep104_landscape_thumb.jpg",
+                    "updateDate": "04-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-and-shivaay-join-forces-1000117086?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "103",
+                    "duration": "21m",
+                    "episodeCode": "S2-E103",
+                    "episodeName": "Veer And Shivaay Captured",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep103_landscape_thumb.jpg",
+                    "updateDate": "03-05-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-and-shivaay-captured-1000117039?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "102",
+                    "duration": "20m",
+                    "episodeCode": "S2-E102",
+                    "episodeName": "Veer's Training Continues",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep102_landscape_thumb.jpg",
+                    "updateDate": "30-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-training-continues-1000116778?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "101",
+                    "duration": "21m",
+                    "episodeCode": "S2-E101",
+                    "episodeName": "Dansh Escapes",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep101_landscape_thumb.jpg",
+                    "updateDate": "29-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-escapes-1000116678?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "100",
+                    "duration": "20m",
+                    "episodeCode": "S1-E100",
+                    "episodeName": "Riding The Avalanche",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep100_landscape_thumb.jpg",
+                    "updateDate": "28-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/riding-the-avalanche-1000116583?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "99",
+                    "duration": "20m",
+                    "episodeCode": "S1-E99",
+                    "episodeName": "Reach Mansarovar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep99_landscape_thum.jpg",
+                    "updateDate": "27-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/reach-mansarovar-1000116499?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "98",
+                    "duration": "21m",
+                    "episodeCode": "S1-E98",
+                    "episodeName": "Heroes Never Die",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep98_landscape_thumb.jpg",
+                    "updateDate": "26-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/heroes-never-die-1000116437?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "97",
+                    "duration": "20m",
+                    "episodeCode": "S1-E97",
+                    "episodeName": "Veer Visits Kailash Parbat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep97_landscape_thumb.jpg",
+                    "updateDate": "20-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-visits-kailash-parbat-1000115934?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "96",
+                    "duration": "21m",
+                    "episodeCode": "S1-E96",
+                    "episodeName": "The War Has Just Begun",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep96_landscape_thumb.jpg",
+                    "updateDate": "19-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-war-has-just-begun-1000115444?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "95",
+                    "duration": "21m",
+                    "episodeCode": "S1-E95",
+                    "episodeName": "The End Of Hero?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep95_landscape_thumb.jpg",
+                    "updateDate": "16-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-end-of-hero-1000115095?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "94",
+                    "duration": "21m",
+                    "episodeCode": "S1-E94",
+                    "episodeName": "Hero's New Powers",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep94_landscape_thumb.jpg",
+                    "updateDate": "15-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/heros-new-powers-1000114935?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "93",
+                    "duration": "21m",
+                    "episodeCode": "S1-E93",
+                    "episodeName": "Hero Commandeers The Alien Pod",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep93_landscape_thumb.jpg",
+                    "updateDate": "14-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-commandeers-the-alien-pod-1000114848?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "92",
+                    "duration": "21m",
+                    "episodeCode": "S1-E92",
+                    "episodeName": "Hero Hijacks Alien Pod",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep92_landscape_thumb.jpg",
+                    "updateDate": "13-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-hijacks-alien-pod-1000114755?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "91",
+                    "duration": "21m",
+                    "episodeCode": "S1-E91",
+                    "episodeName": "Hero Hai Toh Hope Hai",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep91_landscape_thumb.jpg",
+                    "updateDate": "12-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-hai-toh-hope-hai-1000114648?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "90",
+                    "duration": "21m",
+                    "episodeCode": "S1-E90",
+                    "episodeName": "Veer And Bantu In The Spaceship",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep90_landscape_thumb.jpg",
+                    "updateDate": "09-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-and-bantu-in-the-spaceship-1000114311?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "89",
+                    "duration": "21m",
+                    "episodeCode": "S1-E89",
+                    "episodeName": "Veer Discovers Dansh's Plans",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep89_landscape_thumb.jpg",
+                    "updateDate": "08-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-discovers-danshs-plans-1000114172?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "88",
+                    "duration": "21m",
+                    "episodeCode": "S1-E88",
+                    "episodeName": "Aliens Prepare For War",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep88_landscape_thumb.jpg",
+                    "updateDate": "07-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/aliens-prepare-for-war-1000114040?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "87",
+                    "duration": "21m",
+                    "episodeCode": "S1-E87",
+                    "episodeName": "Zara Will Support Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep87_landscape_thumb.jpg",
+                    "updateDate": "06-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zara-will-support-veer-1000113905?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "86",
+                    "duration": "21m",
+                    "episodeCode": "S1-E86",
+                    "episodeName": "Discovering Secrets",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep86_landscape_thumb.jpg",
+                    "updateDate": "05-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/discovering-secrets-1000113785?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "85",
+                    "duration": "21m",
+                    "episodeCode": "S1-E85",
+                    "episodeName": "Veer Unlocks The Coded Device",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_herogayabmodeon_ep85_Landscape_Thumb.jpg",
+                    "updateDate": "02-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-unlocks-the-coded-device-1000113562?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "84",
+                    "duration": "21m",
+                    "episodeCode": "S1-E84",
+                    "episodeName": "Dansh Ka Sach",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_herogayabmodeon_ep84_Landscape_Thumb_01.jpg",
+                    "updateDate": "01-04-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-ka-sach-1000113514?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "83",
+                    "duration": "21m",
+                    "episodeCode": "S1-E83",
+                    "episodeName": "Veer And Dansh Connect The Dots",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep83_landscape_thumb.jpg",
+                    "updateDate": "31-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-and-dansh-connect-the-dots-1000113384?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "82",
+                    "duration": "21m",
+                    "episodeCode": "S1-E82",
+                    "episodeName": "Aloma Finally Meets Dansh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep82_landscape_thumb.jpg",
+                    "updateDate": "30-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/aloma-finally-meets-dansh-1000113276?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "81",
+                    "duration": "21m",
+                    "episodeCode": "S1-E81",
+                    "episodeName": "Sweety Missing",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep81_landscape_thumb.jpg",
+                    "updateDate": "29-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/sweety-missing-1000113174?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "80",
+                    "duration": "21m",
+                    "episodeCode": "S1-E80",
+                    "episodeName": "Rocky's Evolution",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep80_landscape_thumb.jpg",
+                    "updateDate": "26-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/rockys-evolution-1000112856?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "79",
+                    "duration": "22m",
+                    "episodeCode": "S1-E79",
+                    "episodeName": "Maha Dansh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep79_landscape_thumb.jpg",
+                    "updateDate": "25-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/maha-dansh-1000112672?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "78",
+                    "duration": "21m",
+                    "episodeCode": "S1-E78",
+                    "episodeName": "Dansh's Next Move",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep78_landscape_thumb.jpg",
+                    "updateDate": "24-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/danshs-next-move-1000112523?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "77",
+                    "duration": "21m",
+                    "episodeCode": "S1-E77",
+                    "episodeName": "Hero Challenges Dansh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep77_landscape_thumb.jpg",
+                    "updateDate": "23-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/hero-challenges-dansh-1000112294?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "76",
+                    "duration": "21m",
+                    "episodeCode": "S1-E76",
+                    "episodeName": "Dansh Lays A Trap",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep76_landscape_thumb.jpg",
+                    "updateDate": "22-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-lays-a-trap-1000112127?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "75",
+                    "duration": "21m",
+                    "episodeCode": "S1-E75",
+                    "episodeName": "Rocky Baits Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep75_landscape_thumb.jpg",
+                    "updateDate": "19-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/rocky-baits-hero-1000111886?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "74",
+                    "duration": "21m",
+                    "episodeCode": "S1-E74",
+                    "episodeName": "The Veer Zara Love Story",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep74_landscape_thumb.jpg",
+                    "updateDate": "18-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-veer-zara-love-story-1000111678?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "73",
+                    "duration": "21m",
+                    "episodeCode": "S1-E73",
+                    "episodeName": "The Simple Life Of Zara",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep73_landscape_thumb.jpg",
+                    "updateDate": "17-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-simple-life-of-zara-1000111517?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "72",
+                    "duration": "21m",
+                    "episodeCode": "S1-E72",
+                    "episodeName": "Zara's Birthday",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep72_landscape_thumb.jpg",
+                    "updateDate": "16-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zaras-birthday-1000111394?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "71",
+                    "duration": "20m",
+                    "episodeCode": "S1-E71",
+                    "episodeName": "Keeping An Eye On Amal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep71_landscape_thumb.jpg",
+                    "updateDate": "15-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/keeping-an-eye-on-amal-1000111260?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "21m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "Bantu Figures It Out",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep70_landscape_thumb.jpg",
+                    "updateDate": "12-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-figures-it-out-1000110960?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "69",
+                    "duration": "21m",
+                    "episodeCode": "S1-E69",
+                    "episodeName": "Aloma Follows Rocky's Hunch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep69_landscape_thumb.jpg",
+                    "updateDate": "11-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/aloma-follows-rockys-hunch-1000110822?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "68",
+                    "duration": "21m",
+                    "episodeCode": "S1-E68",
+                    "episodeName": "Dansh Gets Serious",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep68_landscape_thumb.jpg",
+                    "updateDate": "10-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-gets-serious-1000110698?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "67",
+                    "duration": "21m",
+                    "episodeCode": "S1-E67",
+                    "episodeName": "Dansh's Close Encounters",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep67_landscape_thumb.jpg",
+                    "updateDate": "09-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/danshs-close-encounters-1000110583?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "66",
+                    "duration": "21m",
+                    "episodeCode": "S1-E66",
+                    "episodeName": "Dansh Gets Hospitalized",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep66_landscape_Thumb.jpg",
+                    "updateDate": "08-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-gets-hospitalized-1000110504?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "21m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "Amal's Welcome Back Party",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep65_landscape_thumb.jpg",
+                    "updateDate": "05-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/amals-welcome-back-party-1000110239?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "64",
+                    "duration": "21m",
+                    "episodeCode": "S1-E64",
+                    "episodeName": "Dansh Loses His Patience",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep64_landscape_thumb.jpg",
+                    "updateDate": "04-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-loses-his-patience-1000110160?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "21m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "Veer Takes Amal To The Police",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep63_landscape_thumb.jpg",
+                    "updateDate": "03-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-takes-amal-to-the-police-1000109813?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "21m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "Dansh Is Running Out Of Time",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep62_landscape_thumb.jpg",
+                    "updateDate": "02-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-is-running-out-of-time-1000109695?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "21m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "Veer's Suspicion Rises",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep61_landscape_thumb.jpg",
+                    "updateDate": "01-03-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-suspicion-rises-1000109646?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "21m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Dansh Invades As Amal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep60_landscape_thumb.jpg",
+                    "updateDate": "26-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-invades-as-amal-1000109335?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "21m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Zara's Treat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_herogayabmodeon_ep59_Landscape_Thumb.jpg",
+                    "updateDate": "25-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zaras-treat-1000109208?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "22m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Rocky Confronts Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep58_landscape_thumb.jpg",
+                    "updateDate": "24-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/rocky-confronts-veer-1000109109?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "21m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Zara Used As Bait",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_herogayabmodeon_ep57_230221_Landscape_Thumb.jpg",
+                    "updateDate": "23-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zara-used-as-bait-1000109038?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "22m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Veer's Condition Is Critical",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_herogayabmodeon_ep56_Landscape_Thumb.jpg",
+                    "updateDate": "22-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-condition-is-critical-1000108978?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "22m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Dansh Captures Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/HERO_GAYAB_MODE_ON_EP_55_Landscape_Thumb.jpg",
+                    "updateDate": "19-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-captures-veer-1000108723?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "21m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Veer Meets Dansh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep54_landscape_thumb.jpg",
+                    "updateDate": "18-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-meets-dansh-1000108615?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "22m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Veer Discovers The Ball's Secret",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep53_landscape_thumb.jpg",
+                    "updateDate": "17-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-discovers-the-balls-secret-1000108446?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "22m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Rocky Fights Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/herogayabmodeon_ep52_landscape_thumb.jpg",
+                    "updateDate": "16-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/rocky-fights-hero-1000108279?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "21m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Zara's Date With Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep51_landscape_thumb.jpg",
+                    "updateDate": "15-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zaras-date-with-hero-1000108190?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "22m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Zara Meets Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep50_Landscape_Thumb.jpg",
+                    "updateDate": "12-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zara-meets-hero-1000107839?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "22m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Aloma's Mission For Rocky",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep49_Landscape_Thumb.jpg",
+                    "updateDate": "11-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/alomas-mission-for-rocky-1000107722?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "22m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "Dansh Finds Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep48_landscape_thumb.jpg",
+                    "updateDate": "10-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-finds-veer-1000107562?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "22m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Veer's Promise To Bhatkal Uncle",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep47_landscape_thumb.jpg",
+                    "updateDate": "09-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-promise-to-bhatkal-uncle-1000107437?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "22m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Bhatkal's Shok Sabha",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep46_landscape_thumb.jpg",
+                    "updateDate": "08-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bhatkals-shok-sabha-1000107342?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "21m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Zara Calls Hero Out",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep45_Landscape_Thumb.jpg",
+                    "updateDate": "05-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zara-calls-hero-out-1000107003?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "22m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Zaara Saves Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep44_landscape_thumb.jpg",
+                    "updateDate": "04-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zaara-saves-veer-1000106877?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "21m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "Veer Almost Catches His Father",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep43_landscape_thumb.jpg",
+                    "updateDate": "03-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-almost-catches-his-father-1000106751?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "22m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Bantu Talks To The Alien",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep42_landscape_thumb.jpg",
+                    "updateDate": "02-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-talks-to-the-alien-1000106670?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "22m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Zara Defamed By The Media",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep41_landscape_thumb.jpg",
+                    "updateDate": "01-02-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zara-defamed-by-the-media-1000106574?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "21m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "MAD: Mission Alien Daboch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep40_Landscape_Thumb.jpg",
+                    "updateDate": "29-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/mad-mission-alien-daboch-1000106254?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "22m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Veer Trains Zara",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep39_landscape_thumb.jpg",
+                    "updateDate": "28-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-trains-zara-1000106122?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "22m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Veer Challenges Dansh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep38_landscape_thumb.jpg",
+                    "updateDate": "27-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-challenges-dansh-1000106006?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "22m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Team Aliens Vs Team Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep37_landscape_Thumb.jpg",
+                    "updateDate": "26-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/team-aliens-vs-team-hero-1000105935?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "22m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Bantu Learns The Truth",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep36_landscape_thumb.jpg",
+                    "updateDate": "25-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bantu-learns-the-truth-1000105863?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "22m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "The Hero Revealed",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep35_Landscape_Thumb.jpg",
+                    "updateDate": "22-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-hero-revealed-1000105529?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "22m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Veer Kidnapped",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep34_Landscape_Thumb.jpg",
+                    "updateDate": "21-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-kidnapped-1000105331?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "21m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Zara Finds Out About Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep33_landscape_Thumb.jpg",
+                    "updateDate": "20-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zara-finds-out-about-hero-1000105185?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "21m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Dansh Confronts Bhatkal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep32_landscape_thumb.jpg",
+                    "updateDate": "19-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-confronts-bhatkal-1000105105?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "22m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Veer's New Costume",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep31_landscape_Thumb.jpg",
+                    "updateDate": "18-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-new-costume-1000104929?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "21m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Veer Saves Zara",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep30_landscape_thumb.jpg",
+                    "updateDate": "15-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-saves-zara-1000104427?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "22m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Veer Is A Yodha",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep29_landscape_thumb.jpg",
+                    "updateDate": "14-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-is-a-yodha-1000104277?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "21m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Veer Confronts",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep28_landscape_thumb.jpg",
+                    "updateDate": "13-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-confronts-1000104166?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "22m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "Veer Gets Hospitalized",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep27_landscape_Thumb.jpg",
+                    "updateDate": "12-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-gets-hospitalized-1000104081?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "21m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Veer's New Powers",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep26_landscape_thumb.jpg",
+                    "updateDate": "11-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-new-powers-1000103972?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "22m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "Veer Finds His Father's Hidden Office",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep25_landscape_thumb.jpg",
+                    "updateDate": "08-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-finds-his-fathers-hidden-office-1000103432?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "23m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Bhatkal Uncle Deciphers The Map",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep24_landscape_thumb.jpg",
+                    "updateDate": "07-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/bhatkal-uncle-deciphers-the-map-1000103245?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "22m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Veer Gets Caught",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep23_landscape_thumb.jpg",
+                    "updateDate": "06-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-gets-caught-1000103031?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "21m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Veer Locates The Secret Lab",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep22_landscape_thumb.jpg",
+                    "updateDate": "05-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-locates-the-secret-lab-1000102902?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "23m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Danish's Next Target",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep21_landscape_thumb.jpg",
+                    "updateDate": "04-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/danishs-next-target-1000102810?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "22m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Veer On A Mission",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep20_landscape_thumb.jpg",
+                    "updateDate": "01-01-2021",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-on-a-mission-1000102573?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "21m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Zara's Big Secret",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep19_landscape_thumb.jpg",
+                    "updateDate": "31-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/zaras-big-secret-1000102504?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "22m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Professor Bhatkalâ€™s Intel",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep18_landscape_thumb.jpg",
+                    "updateDate": "30-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/professor-bhatkal-s-intel-1000102418?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "21m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Shaawn Gets Closer To Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep17_Landscape_Thumb_new.jpg",
+                    "updateDate": "29-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shaawn-gets-closer-to-veer-1000102282?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "22m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Veer And Rocky-Zara's Kissing Scene",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep16_landscape_thumb.jpg",
+                    "updateDate": "28-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-and-rocky-zaras-kissing-scene-1000102130?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "23m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Veer On A Mission",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_hero_ep15_Landscape_Thumb.jpg",
+                    "updateDate": "25-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-on-a-mission-1000101687?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "23m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Dansh-Veer's Quest",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep14_landscape_thumb.jpg",
+                    "updateDate": "24-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-veers-quest-1000101610?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "24m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Veer Dons The Magical Ring",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep13_landscape_thumb.jpg",
+                    "updateDate": "23-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-dons-the-magical-ring-1000101419?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "23m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Veer Trapped",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep12_landscape_thumb.jpg",
+                    "updateDate": "22-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-trapped-1000101318?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "22m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "The Ring Crisis For Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep11_landscape_thumb.jpg",
+                    "updateDate": "21-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-ring-crisis-for-veer-1000101206?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "24m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Will Veer Get Lured By The Ring?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep10_landscape_thumb.jpg",
+                    "updateDate": "18-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/will-veer-get-lured-by-the-ring-1000100762?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "24m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Veer's Incredible Luck",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep09_landscape_thumb.jpg",
+                    "updateDate": "17-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-incredible-luck-1000100582?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "23m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Veer-Dansh: Race For The Ring",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep08_landscape_thumb.jpg",
+                    "updateDate": "16-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veer-dansh-race-for-the-ring-1000100363?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "23m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Veer's Stunt Goes Awry",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep07_landscape_thumb.jpg",
+                    "updateDate": "15-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/veers-stunt-goes-awry-1000100284?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "24m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "An Intoxicated Veer!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep06_landscape_thumb.jpg",
+                    "updateDate": "14-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/an-intoxicated-veer-1000100204?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "24m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Dansh Lands On Rudraprakash",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep05_landscape_thumb.jpg",
+                    "updateDate": "11-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/dansh-lands-on-rudraprakash-1000099930?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "22m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "The Lee Challenge For Veer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep04_landscape_thumb.jpg",
+                    "updateDate": "10-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-lee-challenge-for-veer-1000099753?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "24m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Will Veer Reach Rudraprakash?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep03_landscape_thumb.jpg",
+                    "updateDate": "09-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/will-veer-reach-rudraprakash-1000099626?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "24m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "The Weapon Of Destruction",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep02_landscape_thumb.jpg",
+                    "updateDate": "08-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/the-weapon-of-destruction-1000099523?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "40m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Shukracharya's Ring Of Invisibility",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/hero_ep01_landscape_thumb.jpg",
+                    "updateDate": "07-12-2020",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hero-gayab-mode-on-1700000278/shukracharyas-ring-of-invisibility-1000099358?watch=true"
+                }
+            ]
+        }
+    ]
+}
