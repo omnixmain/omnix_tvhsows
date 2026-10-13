@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "45m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9618/1791797289618-i",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "44",
                     "duration": "1h 0m",
                     "episodeCode": "S1-E44",
