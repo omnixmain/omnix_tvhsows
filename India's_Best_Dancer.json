@@ -1,0 +1,359 @@
+{
+    "tvShows": [
+        {
+            "name": "India's Best Dancer",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019343/1780742659908886_IBD_5_web_detail_coverbg_V2.jpg",
+            "genre": "Reality, Dance",
+            "rating": "8.0",
+            "year": "2020",
+            "ageRating": "U",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 13, 2026",
+            "description": "India's Best Dancer returns for its fifth season with Karisma Kapoor, Javed Jaffrey, Terence Lewis, Geeta Kapur and host Haarsh Limbachiyaa. Featuring extraordinary performances by talented young dancers from across the country, the stage is set for an unforgettable celebration of dance.",
+            "episodes": [
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "34",
+                    "duration": "75m",
+                    "episodeCode": "S5-E34",
+                    "episodeName": "The Ultimate Grand Finale - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025058/1790509954530741_INDIAS_BEST_DANCER_5_EP_34_landscape_thumb.jpeg",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/the-ultimate-grand-finale-part-2-1090544996?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "33",
+                    "duration": "76m",
+                    "episodeCode": "S5-E33",
+                    "episodeName": "The Ultimate Grand Finale - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024923/1790425255994491_INDIAS_BEST_DANCER_5-EP_33_landscape.jpg",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/the-ultimate-grand-finale-part-1-1090544798?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "32",
+                    "duration": "69m",
+                    "episodeCode": "S5-E32",
+                    "episodeName": "Semi Finals - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024276/1789890746860857_INDIAS_BEST_DANCER_5-EP_32_landscape.jpg",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/semi-finals-part-2-1090543175?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "31",
+                    "duration": "83m",
+                    "episodeCode": "S5-E31",
+                    "episodeName": "Semi Finals - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024185/1789800192912524_INDIAS_BEST_DANCER_5-EP_31_landscape.jpg",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/semi-finals-part-1-1090542992?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "30",
+                    "duration": "78m",
+                    "episodeCode": "S5-E30",
+                    "episodeName": " Dance Ka Tyohaar - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023907/1789280712673599_INDIAS_BEST_DANCER_5_EP_30_landscape_thumb.jpg",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/dance-ka-tyohaar-part-2-1090542445?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "29",
+                    "duration": "79m",
+                    "episodeCode": "S5-E29",
+                    "episodeName": " Dance Ka Tyohaar - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023883/1789208316698519_INDIAS_BEST_DANCER_5-EP_29_landscape.jpg",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/dance-ka-tyohaar-part-1-1090542409?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "28",
+                    "duration": "74m",
+                    "episodeCode": "S5-E28",
+                    "episodeName": "Celebrating The Legendary Zeenat Aman - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023574/1788686637454739_INDIAS_BEST_DANCER_5-EP_28_landscape_thumb.jpg",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/celebrating-the-legendary-zeenat-aman-part-2-1090541671?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "27",
+                    "duration": "78m",
+                    "episodeCode": "S5-E27",
+                    "episodeName": "Celebrating The Legendary Zeenat Aman - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023517/1788593588917847_INDIAs_BEST_DANCER_5-EP_27_landscape.jpg",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/celebrating-the-legendary-zeenat-aman-part-1-1090541602?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "26",
+                    "duration": "80m",
+                    "episodeCode": "S5-E26",
+                    "episodeName": " Debut Dhamaka Special - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023184/1788068969857882_INDIAS_BEST_DANCER_5-EP_26_landscape_thumb.jpg",
+                    "updateDate": "30-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/debut-dhamaka-special-part-2-1090540971?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "25",
+                    "duration": "74m",
+                    "episodeCode": "S5-E25",
+                    "episodeName": "Debut Dhamaka Special - Part 1 ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023152/1787995382817511_INDIAS_BEST_DANCER_5-EP_25_landscape.jpg",
+                    "updateDate": "29-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/debut-dhamaka-special-part-1-1090540877?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "24",
+                    "duration": "84m",
+                    "episodeCode": "S5-E24",
+                    "episodeName": "Award-Winning Performances - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022730/1787479429397741_INDIAS_BEST_DANCER_5_EP_24_landscape_thumb.jpg",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/award-winning-performances-part-2-1090540141?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "23",
+                    "duration": "81m",
+                    "episodeCode": "S5-E23",
+                    "episodeName": "Award-Winning Performances - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022702/1787401177223154_INDIAS_BEST_DANCER_5-EP_23_landscape_thumb.jpg",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/award-winning-performances-part-1-1090540067?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "22",
+                    "duration": "80m",
+                    "episodeCode": "S5-E22",
+                    "episodeName": "The Great Grand Tashan - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022289/178687379375010_INDIAS_BEST_DANCER_5_EP_22_landscape_thumb.jpg",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/the-great-grand-tashan-part-2-1090539409?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "21",
+                    "duration": "88m",
+                    "episodeCode": "S5-E21",
+                    "episodeName": "The Great Grand Tashan - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022359/1786968430459406_INDIAS_BEST_DANCER_5-EP_21_landscape.jpg",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/the-great-grand-tashan-part-1-1090539362?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "20",
+                    "duration": "83m",
+                    "episodeCode": "S5-E20",
+                    "episodeName": "A Fun Twist On The Dance Floor - Part 2 ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021958/1786273699935913_INDIAs_BEST_DANCER_5-EP_20_landscape_thumb.jpg",
+                    "updateDate": "09-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/a-fun-twist-on-the-dance-floor-part-2-1090538940?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "19",
+                    "duration": "86m",
+                    "episodeCode": "S5-E19",
+                    "episodeName": "A Fun Twist On The Dance Floor - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021934/1786198855790241_INDIAS_BEST_DANCER_5_EP_19_landscape_thumb.jpg",
+                    "updateDate": "08-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/a-fun-twist-on-the-dance-floor-part-1-1090538849?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "18",
+                    "duration": "85m",
+                    "episodeCode": "S5-E18",
+                    "episodeName": "Choreographer Swap Special Part - 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021714/1785667550373203_INDIAS_BEST_DANCER_5-EP_18_landscape.jpg",
+                    "updateDate": "02-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/choreographer-swap-special-part-2-1090538452?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "17",
+                    "duration": "81m",
+                    "episodeCode": "S5-E17",
+                    "episodeName": "Choreographer Swap Special - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021613/1785583294384752_INDIAS_BEST_DANCER_5-EP_17_landscape.jpg",
+                    "updateDate": "01-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/choreographer-swap-special-part-1-1090538306?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "16",
+                    "duration": "81m",
+                    "episodeCode": "S5-E16",
+                    "episodeName": "Legendary Stars Grace The Stage - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021078/1785065826646456_INDIAS_BEST_DANCER5_EP_16_landscape_thumb.jpg",
+                    "updateDate": "26-07-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/legendary-stars-grace-the-stage-part-2-1090537418?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "15",
+                    "duration": "73m",
+                    "episodeCode": "S5-E15",
+                    "episodeName": "Legendary Stars Grace The Stage",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021003/1784976452347326_INDIAS_BEST_DANCER_5-EP_15_landscape.jpg",
+                    "updateDate": "25-07-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/legendary-stars-grace-the-stage-1090537243?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "14",
+                    "duration": "68m",
+                    "episodeCode": "S5-E14",
+                    "episodeName": "Best Ka Super Sangam - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020707/1784458825126493_INDIAS_BEST_DANCER_5EP_14_landscape_thumb.jpg",
+                    "updateDate": "19-07-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/best-ka-super-sangam-part-2-1090536857?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "13",
+                    "duration": "73m",
+                    "episodeCode": "S5-E13",
+                    "episodeName": "Best Ka Super Sangam",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020695/1784375116286927_INDIAS_BEST_DANCER_5-EP_13_landscape.jpg",
+                    "updateDate": "18-07-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/best-ka-super-sangam-1090536804?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "12",
+                    "duration": "72m",
+                    "episodeCode": "S5-E12",
+                    "episodeName": "Super Dhamaal With Boogie Woogie",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020512/1783850621361209_INDIAS_BEST_DANCER_5_EP_12_landscape_thumb.jpg",
+                    "updateDate": "12-07-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/super-dhamaal-with-boogie-woogie-1090536508?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "11",
+                    "duration": "68m",
+                    "episodeCode": "S5-E11",
+                    "episodeName": "Dhamaal 4 Stars On India's Best Dancer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020484/1783772943619690_INDIAS_BEST_DANCER_5-EP_11_landscape.jpg",
+                    "updateDate": "11-07-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/dhamaal-4-stars-on-indias-best-dancer-1090536457?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "10",
+                    "duration": "73m",
+                    "episodeCode": "S5-E10",
+                    "episodeName": "Ameesha Patel Lights Up the Stage",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020351/1783241089033834_INDIAS_BEST_DANCER_5-EP_10_landscape_thumb.jpg",
+                    "updateDate": "05-07-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/ameesha-patel-lights-up-the-stage-1090536151?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "9",
+                    "duration": "68m",
+                    "episodeCode": "S5-E9",
+                    "episodeName": "Shilpa Shirodkar Cheers The Dancers",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020344/1783166914782248_INDIAS_BEST_DANCER_5_EP_09_landscape_thumb.jpg",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/shilpa-shirodkar-cheers-the-dancers-1090536137?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "8",
+                    "duration": "64m",
+                    "episodeCode": "S5-E8",
+                    "episodeName": "Urmila’s Iconic Journey - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020138/1782656699973780_IBD_S5_EP8_landscape_thumb.jpg",
+                    "updateDate": "28-06-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/urmilas-iconic-journey-part-2-1090535766?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "7",
+                    "duration": "68m",
+                    "episodeCode": "S5-E7",
+                    "episodeName": "Urmila’s Iconic Journey - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020090/1782554705849428_INDIAS_BEST_DANCER_5-EP_07_landscape.jpg",
+                    "updateDate": "27-06-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/urmilas-iconic-journey-part-1-1090535693?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "6",
+                    "duration": "81m",
+                    "episodeCode": "S5-E6",
+                    "episodeName": "Choreographers' Grand Celebration - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019810/1782028483307384_INDIAS_BEST_DANCER_5-EP_06_landscape_thumb.jpg",
+                    "updateDate": "21-06-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/choreographers-grand-celebration-part-2-1090535275?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "5",
+                    "duration": "77m",
+                    "episodeCode": "S5-E5",
+                    "episodeName": "Choreographers' Grand Celebration",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019785/1781956632223164_INDIAS_BEST_DANCER_5-EP_05_landscape.jpg",
+                    "updateDate": "20-06-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/choreographers-grand-celebration-1090535163?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "4",
+                    "duration": "74m",
+                    "episodeCode": "S5-E4",
+                    "episodeName": " Queen Of Elegance Is Back - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019596/1781428588528276_INDIAS_BEST_DANCER_5-EP_04_landscape_thumb.jpg",
+                    "updateDate": "14-06-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/queen-of-elegance-is-back-part-2-1090534756?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "3",
+                    "duration": "87m",
+                    "episodeCode": "S5-E3",
+                    "episodeName": "Queen Of Elegance Is Back - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019582/1781347349913540_INDIAS_BEST_DANCER_5_EP_03_landscape_thumb.jpg",
+                    "updateDate": "13-06-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/queen-of-elegance-is-back-part-1-1090534718?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "2",
+                    "duration": "77m",
+                    "episodeCode": "S5-E2",
+                    "episodeName": "India’s Dance Fever",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019389/1780822920276626_INDIAS_BEST_DANCER_5-EP_landscape_thumb.jpg",
+                    "updateDate": "07-06-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/indias-dance-fever-1090534310?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "1",
+                    "duration": "74m",
+                    "episodeCode": "S5-E1",
+                    "episodeName": "Celebrating Dance India",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019358/1780755099480382_INDIAS_BEST_DANCER_5-EP_01_landscape_thumb.jpg",
+                    "updateDate": "06-06-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/india-s-best-dancer-1700000180/celebrating-dance-india-1090534232?watch=true"
+                }
+            ]
+        }
+    ]
+}
