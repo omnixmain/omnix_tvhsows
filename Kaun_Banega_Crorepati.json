@@ -1,0 +1,3049 @@
+{
+    "tvShows": [
+        {
+            "name": "Kaun Banega Crorepati",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022022/1786383624382594_KBC25_26_3_web_detail_coverbg_V2.jpg",
+            "genre": "Game show",
+            "rating": "8.0",
+            "year": "2000",
+            "ageRating": "U/A 7+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 13, 2026",
+            "description": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
+            "episodes": [
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "46",
+                    "duration": "85m",
+                    "episodeCode": "S18-E46",
+                    "episodeName": "Rishabh Gurwara Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026189/1791807946843216_KAUN-BANEGA-CROREPATI-S18-EP-46_landscape_thumb.jpg",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/rishabh-gurwara-takes-the-hot-seat-1090547877?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "45",
+                    "duration": "104m",
+                    "episodeCode": "S18-E45",
+                    "episodeName": "Big B Welcomes Madhuri Dixit To The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026076/1791555847993201_KAUN_BANEGA_CROREPATI_S18_EP_45_landscape.jpg",
+                    "updateDate": "09-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/big-b-welcomes-madhuri-dixit-to-the-hot-seat-1090547615?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "44",
+                    "duration": "91m",
+                    "episodeCode": "S18-E44",
+                    "episodeName": "Ananya Mishra Faces The Ultimate Test",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026016/1791455156893465_KAUN-BANEGA-CROREPATI-S18-EP-44_landscape.jpg",
+                    "updateDate": "08-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ananya-mishra-faces-the-ultimate-test-1090547552?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "43",
+                    "duration": "79m",
+                    "episodeCode": "S18-E43",
+                    "episodeName": "Ananya Mishra's Chance To Shine",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025972/1791368534321869_KAUN-BANEGA-CROREPATI-S18-EP-43_landscape.jpg",
+                    "updateDate": "07-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ananya-mishras-chance-to-shine-1090547487?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "42",
+                    "duration": "86m",
+                    "episodeCode": "S18-E42",
+                    "episodeName": "Vinamra Koolwal Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025916/1791275461730589_KAUN-BANEGA-CROREPATI-S18-EP-42_landscape.jpg",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/vinamra-koolwal-takes-the-hot-seat-1090547313?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "41",
+                    "duration": "88m",
+                    "episodeCode": "S18-E41",
+                    "episodeName": "Ayushmann Khurrana And Sara Ali Khan Take The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025874/1791195996517599_KAUN-BANEGA-CROREPATI-S18-EP-41_landscape.jpg",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ayushmann-khurrana-and-sara-ali-khan-take-the-hot-seat-1090547179?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "40",
+                    "duration": "90m",
+                    "episodeCode": "S18-E40",
+                    "episodeName": "Chandra Prakash Tiwari On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025619/1790920845583214_KBC_S18_EP_40_landscape_thumb.jpeg",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/chandra-prakash-tiwari-on-the-hot-seat-1090546598?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "39",
+                    "duration": "70m",
+                    "episodeCode": "S18-E39",
+                    "episodeName": " Nitin Kumar Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025523/1790842148886472_KBC_S18_EP_39_landscape_thumb.jpeg",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/nitin-kumar-takes-the-hot-seat-1090546347?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "38",
+                    "duration": "80m",
+                    "episodeCode": "S18-E38",
+                    "episodeName": "Almas Khan’s Big Moment",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025383/1790691900902771_KAUN_BANEGA_CROREPATI_S18_EP_38_landscape_thumb.jpeg",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/almas-khans-big-moment-1090545855?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "37",
+                    "duration": "79m",
+                    "episodeCode": "S18-E37",
+                    "episodeName": "Shourjya Das On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025257/1790668416710933_KBC_S18_EP_37_landscape_thumb.jpeg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/shourjya-das-on-the-hot-seat-1090545589?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "36",
+                    "duration": "81m",
+                    "episodeCode": "S18-E36",
+                    "episodeName": "Ajay Poonia In The Spotlight",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025150/1790590689484895_KAUN_BANEGA_CROREPATI_S18_EP_36_landscape_thumb.jpeg",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ajay-poonia-in-the-spotlight-1090545376?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "35",
+                    "duration": "88m",
+                    "episodeCode": "S18-E35",
+                    "episodeName": "Three Stars, One Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024805/1790348084496896_KAUN-BANEGA-CROREPATI-S18-EP-35_landscape_thumb.jpg",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/three-stars-one-hot-seat-1090544507?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "34",
+                    "duration": "87m",
+                    "episodeCode": "S18-E34",
+                    "episodeName": "Aarya Sahani On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024645/1790244399216478_KAUN-BANEGA-CROREPATI-S18-EP-34_landscape.jpg",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/aarya-sahani-on-the-hot-seat-1090544093?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "33",
+                    "duration": "79m",
+                    "episodeCode": "S18-E33",
+                    "episodeName": "Shobha Paunikar Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024538/1790147973696288_KAUN-BANEGA-CROREPATI-S18-EP-33_landscape.jpg",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/shobha-paunikar-takes-the-hot-seat-1090543882?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "32",
+                    "duration": "91m",
+                    "episodeCode": "S18-E32",
+                    "episodeName": "Prashant Kumar Sinha Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024459/1790067233513771_KAUN-BANEGA-CROREPATI-S18-EP-32_landscape.jpg",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/prashant-kumar-sinha-takes-the-hot-seat-1090543569?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "31",
+                    "duration": "88m",
+                    "episodeCode": "S18-E31",
+                    "episodeName": "Punam Saroj Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024355/1789979679163598_KAUN-BANEGA-CROREPATI-S18-EP-31_landscape.jpg",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/punam-saroj-takes-the-hot-seat-1090543346?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "30",
+                    "duration": "78m",
+                    "episodeCode": "S18-E30",
+                    "episodeName": "Stand-Up Comedians On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024142/1789732274929113_KAUN-BANEGA-CROREPATI-S18-EP-30-_landscape.jpg",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/stand-up-comedians-on-the-hot-seat-1090542948?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "29",
+                    "duration": "73m",
+                    "episodeCode": "S18-E29",
+                    "episodeName": "Shikhar Aggarwal Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024071/1789626442152757_KAUN-BANEGA-CROREPATI-S18-EP-29_landscape.jpg",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/shikhar-aggarwal-takes-the-hot-seat-1090542773?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "28",
+                    "duration": "64m",
+                    "episodeCode": "S18-E28",
+                    "episodeName": "Kapila Taneja’s KBC Journey Begins",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024024/1789551506284626_KAUN-BANEGA-CROREPATI-S18-EP-28_landscape.jpg",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kapila-tanejas-kbc-journey-begins-1090542665?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "27",
+                    "duration": "80m",
+                    "episodeCode": "S18-E27",
+                    "episodeName": "Salim Mestry Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023980/1789473432372576_KAUN-BANEGA-CROREPATI-S18-EP-27_landscape.jpg",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/salim-mestry-takes-the-hot-seat-1090542565?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "26",
+                    "duration": "72m",
+                    "episodeCode": "S18-E26",
+                    "episodeName": "Arpita Jha's ₹1 Crore Moment",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023963/1789391331969162_KAUN_BANEGA_CROREPATI_S18_EP_26_landscape_thumb.jpg",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/arpita-jhas-1-crore-moment-1090542532?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "25",
+                    "duration": "81m",
+                    "episodeCode": "S18-E25",
+                    "episodeName": "Arpita Jha’s Journey To The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023822/1789112447583736_KAUN-BANEGA-CROREPATI-S18-EP-25_landscape.jpg",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/arpita-jhas-journey-to-the-hot-seat-1090542248?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "24",
+                    "duration": "73m",
+                    "episodeCode": "S18-E24",
+                    "episodeName": "Uddeshya Sachan’s Journey Of Hope",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023758/1789028758461784_KAUN-BANEGA-CROREPATI-S18-EP-24_landscape.jpg",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/uddeshya-sachans-journey-of-hope-1090542111?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "23",
+                    "duration": "82m",
+                    "episodeCode": "S18-E23",
+                    "episodeName": "Kamaljit’s Inspiring Journey",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023704/1788947304403728_KAUN-BANEGA-CROREPATI-S18-EP-23_landscape.jpg",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kamaljits-inspiring-journey-1090541951?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "22",
+                    "duration": "79m",
+                    "episodeCode": "S18-E22",
+                    "episodeName": "Kritagya On Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023651/1788856071245214_KAUN-BANEGA-CROREPATI-S18-EP-22_landscape.jpg",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kritagya-on-hot-seat-1090541819?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "21",
+                    "duration": "80m",
+                    "episodeCode": "S18-E21",
+                    "episodeName": "Durga Prasad Sahu On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023608/1788769278736826_KAUN-BANEGA-CROREPATI-S18-EP-21_landscape.jpg",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/durga-prasad-sahu-on-the-hot-seat-1090541719?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "20",
+                    "duration": "97m",
+                    "episodeCode": "S18-E20",
+                    "episodeName": "Akshay And Saif On Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023478/1788506834637178_KAUN-BANEGA-CROREPATI-S18-EP-20_landscape.jpg",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/akshay-and-saif-on-hot-seat-1090541514?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "19",
+                    "duration": "74m",
+                    "episodeCode": "S18-E19",
+                    "episodeName": "Manoj Kumar's Wise Moves",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023414/1788432135228540_KAUN-BANEGA-CROREPATI-S18-EP-19_landscape.jpg",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/manoj-kumars-wise-moves-1090541363?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "18",
+                    "duration": "77m",
+                    "episodeCode": "S18-E18",
+                    "episodeName": "Pooja Das’s Big Chance  ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023365/1788340959770103_KAUN-BANEGA-CROREPATI-S18-EP-18_landscape.jpg",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/pooja-dass-big-chance-1090541286?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "17",
+                    "duration": "67m",
+                    "episodeCode": "S18-E17",
+                    "episodeName": "Krishan Kumawat Takes Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023302/1788251580827394_KAUN-BANEGA-CROREPATI-S18-EP-17_landscape.jpg",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/krishan-kumawat-takes-challenge-1090541210?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "16",
+                    "duration": "64m",
+                    "episodeCode": "S18-E16",
+                    "episodeName": "Padminee Rai On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023235/1788169916227112_KAUN-BANEGA-CROREPATI-S18-EP-16_landscape.jpg",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/padminee-rai-on-the-hot-seat-1090541074?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "15",
+                    "duration": "88m",
+                    "episodeCode": "S18-E15",
+                    "episodeName": "Pragati Faces KBC Questions",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023097/1787908764902221_KAUN-BANEGA-CROREPATI-S18-EP-15_landscape.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/pragati-faces-kbc-questions-1090540783?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "14",
+                    "duration": "91m",
+                    "episodeCode": "S18-E14",
+                    "episodeName": "Dr. Anuj Bhatnagar’s Big Chance",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023009/1787812606200230_KAUN-BANEGA-CROREPATI-S18-EP-14_landscape.jpg",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/dr-anuj-bhatnagars-big-chance-1090540642?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "13",
+                    "duration": "98m",
+                    "episodeCode": "S18-E13",
+                    "episodeName": "Kishan Darji’s Hot Seat Moment",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022935/1787725861923195_KAUN_BANEGA_CROREPATI_S18_EP13_landscape_thumb.jpg",
+                    "updateDate": "26-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kishan-darjis-hot-seat-moment-1090540453?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "12",
+                    "duration": "87m",
+                    "episodeCode": "S18-E12",
+                    "episodeName": "Vishal Rathod’s KBC Journey",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022882/1787650649506275_KAUN-BANEGA-CROREPATI-S18-EP-12_landscape.jpg",
+                    "updateDate": "25-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/vishal-rathods-kbc-journey-1090540336?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "11",
+                    "duration": "81m",
+                    "episodeCode": "S18-E11",
+                    "episodeName": "Preeti Raj Takes The KBC Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022800/1787566512291388_KAUN-BANEGA-CROREPATI-S18-EP-11_landscape.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/preeti-raj-takes-the-kbc-hot-seat-1090540214?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "10",
+                    "duration": "106m",
+                    "episodeCode": "S18-E10",
+                    "episodeName": " Ruchita’s ₹1 Crore Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022652/1787310592053876_KAUN-BANEGA-CROREPATI-S18-EP-10_landscape.jpg",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ruchitas-1-crore-challenge-1090539976?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "9",
+                    "duration": "82m",
+                    "episodeCode": "S18-E9",
+                    "episodeName": "Ruchita Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022586/1787214745989262_KAUN-BANEGA-CROREPATI-S18-EP-09_landscape.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ruchita-takes-the-hot-seat-1090539878?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "8",
+                    "duration": "76m",
+                    "episodeCode": "S18-E8",
+                    "episodeName": "Yogesh Sahu’s Crore Question",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022520/1787136116658502_KAUN-BANEGA-CROREPATI-S18-EP-08_landscape.jpg",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yogesh-sahus-crore-question-1090539753?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "7",
+                    "duration": "81m",
+                    "episodeCode": "S18-E7",
+                    "episodeName": "Yogesh Sahu In The KBC Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022445/1787058785650152_KAUN-BANEGA-CROREPATI_S18-EP-07_landscape_thumb.jpg",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yogesh-sahu-in-the-kbc-hot-seat-1090539110?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "6",
+                    "duration": "96m",
+                    "episodeCode": "S18-E6",
+                    "episodeName": "CWG Champions Take The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022373/1786975510537408_KAUN-BANEGA-CROREPATI-S18-EP-06_landscape.jpg",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/cwg-champions-take-the-hot-seat-1090539111?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "5",
+                    "duration": "92m",
+                    "episodeCode": "S18-E5",
+                    "episodeName": "Skyroot Stars On KBC",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022207/1786718759296596_KAUN-BANEGA-CROREPATI-S18-EP-05_landscape_thumb.jpg",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/skyroot-stars-on-kbc-1090539253?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "4",
+                    "duration": "75m",
+                    "episodeCode": "S18-E4",
+                    "episodeName": "Dr. Jagrati Agarwal On The KBC Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022161/1786632373328161_KAUN-BANEGA-CROREPATI-S18-EP-04_landscape.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/dr-jagrati-agarwal-on-the-kbc-hot-seat-1090539113?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "3",
+                    "duration": "86m",
+                    "episodeCode": "S18-E3",
+                    "episodeName": "Dr. Ganesh Baraiya’s KBC Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022112/178654794561545_KAUN-BANEGA-CROREPATI-S18-EP-03_landscape_thumb.jpg",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/dr-ganesh-baraiyas-kbc-challenge-1090539114?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "2",
+                    "duration": "82m",
+                    "episodeCode": "S18-E2",
+                    "episodeName": "Bablu Kumar Pandit Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022073/1786461527342349_KAUN_BANEGA_CAROREPATI_S18_EP02_landscape_thumb.jpg",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bablu-kumar-pandit-takes-the-hot-seat-1090539044?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "1",
+                    "duration": "87m",
+                    "episodeCode": "S18-E1",
+                    "episodeName": "A Star-Studded Start To KBC",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022018/1786379154740789_KAUN-BANEGA-CAROREPATI-S18-EP-01_landscape_thumb.jpg",
+                    "updateDate": "10-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/a-star-studded-start-to-kbc-1090538557?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "105",
+                    "duration": "111m",
+                    "episodeCode": "S17-E105",
+                    "episodeName": "Khel Ka Aakhri Din",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012891/1767363763698853_KAUN-BANEGA-CROREPATI-S17-EP-105_landscape.jpg",
+                    "updateDate": "02-01-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/khel-ka-aakhri-din-1090498808?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "104",
+                    "duration": "75m",
+                    "episodeCode": "S17-E104",
+                    "episodeName": "Mangalmay Saal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012852/1767278578446670_KBC-S17-EP-104_landscape.jpg",
+                    "updateDate": "01-01-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/mangalmay-saal-1090498765?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "103",
+                    "duration": "94m",
+                    "episodeCode": "S17-E103",
+                    "episodeName": "Adhbhut, Adwitiya Aur Awishwasniya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012844/1767194211257830_KAUN-BANEGA-CROREPATI-S17-EP-103_landscape_thumb.jpg",
+                    "updateDate": "31-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/adhbhut-adwitiya-aur-awishwasniya-1090498731?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "102",
+                    "duration": "79m",
+                    "episodeCode": "S17-E102",
+                    "episodeName": "Biplab Biswas' Historic Climb",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012817/1767100541706896_KAUN-BANEGA-CROREPATI-S17-EP-102_landscape.jpg",
+                    "updateDate": "30-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/biplab-biswas-historic-climb-1090498725?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "101",
+                    "duration": "74m",
+                    "episodeCode": "S17-E101",
+                    "episodeName": "Kumar Mangalam Birla Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012795/1767012246415415_KAUN-BANEGA-CROREPATI-S17-EP-101_landscape.jpg",
+                    "updateDate": "29-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kumar-mangalam-birla-special-1090498689?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "100",
+                    "duration": "76m",
+                    "episodeCode": "S17-E100",
+                    "episodeName": "Courage, Confidence And Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012730/1766754334275726_KAUN-BANEGA-CROREPATI-S17-EP-100_landscape.jpg",
+                    "updateDate": "26-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/courage-confidence-and-hot-seat-1090498593?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "99",
+                    "duration": "68m",
+                    "episodeCode": "S17-E99",
+                    "episodeName": "Jeevan Ke Yaadgaar Pal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012711/1766663495637969_KAUN-BANEGA-CROREPATI-S17-EP-99_landscape.jpg",
+                    "updateDate": "25-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeevan-ke-yaadgaar-pal-1090498570?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "98",
+                    "duration": "77m",
+                    "episodeCode": "S17-E98",
+                    "episodeName": "Chamatkaro Ki Jholi",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012688/1766582319217437_KAUN-BANEGA-CROREPATI-S17-EP-98_landscape.jpg",
+                    "updateDate": "24-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/chamatkaro-ki-jholi-1090498530?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "97",
+                    "duration": "79m",
+                    "episodeCode": "S17-E97",
+                    "episodeName": "Chah Se Manzil Tak Ka Safar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012675/1766500721743814_KAUN-BANEGA-CROREPATI-S17-EP-97_landscape.jpg",
+                    "updateDate": "23-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/chah-se-manzil-tak-ka-safar-1090498509?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "96",
+                    "duration": "69m",
+                    "episodeCode": "S17-E96",
+                    "episodeName": "Naya Hafte Naye Chehre",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012661/1766412666198477_KAUN-BANEGA-CROREPATI-S17-EP-96_landscape.jpg",
+                    "updateDate": "22-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/naya-hafte-naye-chehre-1090498467?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "95",
+                    "duration": "84m",
+                    "episodeCode": "S17-E95",
+                    "episodeName": "Parivar Ka Tyohaar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012555/1766149281091338_KAUN-BANEGA-CROREPATI-S17-EP-95_landscape.jpg",
+                    "updateDate": "19-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/parivar-ka-tyohaar-1090498228?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "94",
+                    "duration": "71m",
+                    "episodeCode": "S17-E94",
+                    "episodeName": "Kartik And Ananya On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012532/17660639691607_KAUN-BANEGA-CROREPATI-S17-EP-94_landscape.jpg",
+                    "updateDate": "18-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kartik-and-ananya-on-the-hot-seat-1090498114?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "93",
+                    "duration": "75m",
+                    "episodeCode": "S17-E93",
+                    "episodeName": "Jeevan Ka Saathi",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012505/1765977660055664_KAUN-BANEGA-CROREPATI-S17-EP-93_landscape.jpg",
+                    "updateDate": "17-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeevan-ka-saathi-1090498019?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "92",
+                    "duration": "72m",
+                    "episodeCode": "S17-E92",
+                    "episodeName": "Rishto Ke Emotions",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012477/1765892252601678_KAUN-BANEGA-CROREPATI-S17-EP-92_landdscape.jpg",
+                    "updateDate": "16-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/rishto-ke-emotions-1090497929?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "91",
+                    "duration": "65m",
+                    "episodeCode": "S17-E91",
+                    "episodeName": "Jeet Ki Khushi",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012445/1765811365662143_KAUN-BANEGA-CROREPATI-S17-EP-91_landscape.jpg",
+                    "updateDate": "15-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeet-ki-khushi-1090497797?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "90",
+                    "duration": "77m",
+                    "episodeCode": "S17-E90",
+                    "episodeName": "Gyaan Ka Warehouse",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012329/1765549097614965_KAUN-BANEGA-CROREPATI-S17-EP-90_landscape.jpg",
+                    "updateDate": "12-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-warehouse-1090497391?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "89",
+                    "duration": "82m",
+                    "episodeCode": "S17-E89",
+                    "episodeName": "Gyaan Aur Yog",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012263/1765463915909980_KAUN-BANEGA-CROREPATI-S17-EP-89_landscape.jpg",
+                    "updateDate": "11-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-aur-yog-1090497206?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "88",
+                    "duration": "71m",
+                    "episodeCode": "S17-E88",
+                    "episodeName": "Jeene Ka Password",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012203/1765363223458685_KAUN-BANEGA-CROREPATI-S17-EP-88_landscape.jpg",
+                    "updateDate": "10-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeene-ka-password-1090497089?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "87",
+                    "duration": "77m",
+                    "episodeCode": "S17-E87",
+                    "episodeName": "Digital India Ki Kalpana",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012166/1765290540816627_KAUN-BANEGA-CROREPATI-S17-EP-87_landscape.jpg",
+                    "updateDate": "09-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/digital-india-ki-kalpana-1090496959?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "86",
+                    "duration": "73m",
+                    "episodeCode": "S17-E86",
+                    "episodeName": "Krishna And Sheetal Take On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012135/1765198941527988_KAUN-BANEGA-CROREPATI-S17-EP-86_landscape.jpg",
+                    "updateDate": "08-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/krishna-and-sheetal-take-on-the-hot-seat-1090496880?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "85",
+                    "duration": "89m",
+                    "episodeCode": "S17-E85",
+                    "episodeName": "Bharat Ki Sherniyan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012074/1764945663344969_KAUN-BANEGA-CROREPATI-S17-EP-85_landscape.jpg",
+                    "updateDate": "05-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bharat-ki-sherniyan-1090496721?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "84",
+                    "duration": "81m",
+                    "episodeCode": "S17-E84",
+                    "episodeName": "Bhartiya Nav Sena Diwas",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012045/1764857311034496_KAUN-BANEGA-CROREPATI-S17-EP-84_landscape.jpg",
+                    "updateDate": "04-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bhartiya-nav-sena-diwas-1090496650?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "83",
+                    "duration": "74m",
+                    "episodeCode": "S17-E83",
+                    "episodeName": "Gyaan Aur Dhyaan Ka Khel",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012012/176476945740749_KAUN-BANEGA-CROREPATI-S17-EP-83_landscape.jpg",
+                    "updateDate": "03-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-aur-dhyaan-ka-khel-1090496578?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "82",
+                    "duration": "71m",
+                    "episodeCode": "S17-E82",
+                    "episodeName": "Sawal Karne Ki Takat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011982/1764687489205401_KAUN-BANEGA-CROREPATI-S17-EP-82_Landscap_thumb.jpg",
+                    "updateDate": "02-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sawal-karne-ki-takat-1090496465?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "81",
+                    "duration": "79m",
+                    "episodeCode": "S17-E81",
+                    "episodeName": "Safalta Ya Asafalta",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011950/1764603473355665_KAUN-BANEGA-CROREPATI-S17-EP-81_1dec_landscape_thumbnail.jpg",
+                    "updateDate": "01-12-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/safalta-ya-asafalta-1090496418?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "80",
+                    "duration": "71m",
+                    "episodeCode": "S17-E80",
+                    "episodeName": "Kiku And Sudesh Take The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011889/1764334207669249_KAUN-BANEGA-CROREPATI-S17-EP-80_landscape.jpg",
+                    "updateDate": "28-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kiku-and-sudesh-take-the-hot-seat-1090496306?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "79",
+                    "duration": "87m",
+                    "episodeCode": "S17-E79",
+                    "episodeName": "Fresh Faces, High Stakes",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011857/1764251137702417_KAUN-BANEGA-CROREPATI-S17-EP-79_landscape.jpg",
+                    "updateDate": "27-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/fresh-faces-high-stakes-1090496232?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "78",
+                    "duration": "73m",
+                    "episodeCode": "S17-E78",
+                    "episodeName": "Gyaan Ka Tarazu",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011814/1764166696065125_KAUN-BANEGA-CROREPATI-S17-EP-78_landscape.jpg",
+                    "updateDate": "26-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-tarazu-1090496111?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "77",
+                    "duration": "74m",
+                    "episodeCode": "S17-E77",
+                    "episodeName": "Dhan, Sampatti Aur Vaibhav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011785/1764082394170961_KAUN_BANEGA_CROREPATI_S17_EP77_landscape_thumb.jpg",
+                    "updateDate": "25-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/dhan-sampatti-aur-vaibhav-1090496011?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "76",
+                    "duration": "70m",
+                    "episodeCode": "S17-E76",
+                    "episodeName": "Monday Blessing",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011765/1763995879798547_KAUN-BANEGA-CROREPATI-S17-EP-76_landscape.jpg",
+                    "updateDate": "24-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/monday-blessing-1090495927?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "75",
+                    "duration": "68m",
+                    "episodeCode": "S17-E75",
+                    "episodeName": "Manoj Bajpayee On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011652/1763725284242304_KAUN-BANEGA-CROREPATI-S17-EP-75_landscape.jpg",
+                    "updateDate": "21-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/manoj-bajpayee-on-the-hot-seat-1090495680?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "74",
+                    "duration": "90m",
+                    "episodeCode": "S17-E74",
+                    "episodeName": "Suro Ke Mahanayak",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011624/1763643784215413_KAUN-BANEGA-CROREPATI-S17-EP-74_landscape.jpg",
+                    "updateDate": "20-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/suro-ke-mahanayak-1090495615?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "73",
+                    "duration": "70m",
+                    "episodeCode": "S17-E73",
+                    "episodeName": "Gyaan Se Mila Kaushal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011584/1763562830019934_KAUN-BANEGA-CROREPATI-S17-EP-73_landscape.jpg",
+                    "updateDate": "19-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-se-mila-kaushal-1090495509?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "72",
+                    "duration": "70m",
+                    "episodeCode": "S17-E72",
+                    "episodeName": "Jeevan Ki Purani Kitaab",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011518/1763473425108137_KAUN-BANEGA-CROREPATI-S17-EP-72_landscape.jpg",
+                    "updateDate": "18-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeevan-ki-purani-kitaab-1090495360?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "71",
+                    "duration": "71m",
+                    "episodeCode": "S17-E71",
+                    "episodeName": "Gyaan Ka Janm",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011460/17633840199766_KAUN-BANEGA-CROREPATI-S17-EP-71_landscape.jpg",
+                    "updateDate": "17-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-janm-1090495213?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "70",
+                    "duration": "86m",
+                    "episodeCode": "S17-E70",
+                    "episodeName": "Stand-Up Comedians Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011277/1763136247377435_KAUN_BANEGA_CROREPATI_S17_EP70_landscape_thumb.jpg",
+                    "updateDate": "14-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/stand-up-comedians-special-1090494743?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "69",
+                    "duration": "82m",
+                    "episodeCode": "S17-E69",
+                    "episodeName": "Atmanirbharta Aur Samarpan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011219/1763049833408422_KAUN_BANEGA_CROREPATI_S17_EP69_landscape_thumb.jpg",
+                    "updateDate": "13-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/atmanirbharta-aur-samarpan-1090494641?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "68",
+                    "duration": "79m",
+                    "episodeCode": "S17-E68",
+                    "episodeName": "Himmat Ki Misaal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011151/1762954956325891_KAUN-BANEGA-CROREPATI-S17-EP-68_landscape.jpg",
+                    "updateDate": "12-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/himmat-ki-misaal-1090494537?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "67",
+                    "duration": "66m",
+                    "episodeCode": "S17-E67",
+                    "episodeName": "Sapne, Mehnat Aur Jeet",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011114/1762867059671585_KAUN-BANEGA-CROREPATI-S17-EP-67_landscape.jpg",
+                    "updateDate": "11-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapne-mehnat-aur-jeet-1090494497?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "66",
+                    "duration": "77m",
+                    "episodeCode": "S17-E66",
+                    "episodeName": "Multipurpose And Multidimensional",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011082/1762771023915822_KBC-S17-EP-66-SOMA-SHARMA_landscape.jpg",
+                    "updateDate": "10-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/multipurpose-and-multidimensional-1090494431?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "65",
+                    "duration": "80m",
+                    "episodeCode": "S17-E65",
+                    "episodeName": "Behtar Jeevan Ki Masterclass",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010993/1762524831865210_KAUN-BANEGA-CROREPATI-S17-EP-65_landscape.jpg",
+                    "updateDate": "07-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/behtar-jeevan-ki-masterclass-1090494244?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "64",
+                    "duration": "77m",
+                    "episodeCode": "S17-E64",
+                    "episodeName": "Uddeshya Aur Lakshya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010952/1762436765824760_KAUN-BANEGA-CROREPATI-S17-EP-64_landscape.jpg",
+                    "updateDate": "06-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/uddeshya-aur-lakshya-1090494174?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "63",
+                    "duration": "70m",
+                    "episodeCode": "S17-E63",
+                    "episodeName": "Zindagi Ka Anmol Khazana",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010873/1762321918975229_KAUN-BANEGA-CROREPATI-S17-EP-63_landscape.jpg",
+                    "updateDate": "05-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/zindagi-ka-anmol-khazana-1090494023?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "62",
+                    "duration": "76m",
+                    "episodeCode": "S17-E62",
+                    "episodeName": "Zindagi Ka Hisaab",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010831/1762258263669524_KAUN-BANEGA-CROREPATI-S17-EP-62-INTERNATIONAL_Landscape.jpg",
+                    "updateDate": "04-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/zindagi-ka-hisaab-1090493826?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "61",
+                    "duration": "73m",
+                    "episodeCode": "S17-E61",
+                    "episodeName": "Insaan Ki Asli Pehchaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010799/1762176223909381_KAUN-BANEGA-CROREPATI-S17-EP-61_landscape.jpg",
+                    "updateDate": "03-11-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/insaan-ki-asli-pehchaan-1090493772?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "60",
+                    "duration": "81m",
+                    "episodeCode": "S17-E60",
+                    "episodeName": "Global Icon Diljit On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010706/1761916673772506_KAUN-BANEGA-CROREPATI-S17-EP-60_landscape.jpg",
+                    "updateDate": "31-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/global-icon-diljit-on-the-hot-seat-1090493577?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "59",
+                    "duration": "81m",
+                    "episodeCode": "S17-E59",
+                    "episodeName": "Choti Choti Khushiyan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010658/1761826431496566_KAUN-BANEGA-CROREPATI-S17-EP-59_landscape.jpg",
+                    "updateDate": "30-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/choti-choti-khushiyan-1090493525?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "58",
+                    "duration": "70m",
+                    "episodeCode": "S17-E58",
+                    "episodeName": "Dreams, Desires And Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010628/1761746151168951_KAUN-BANEGA-CROREPATI-S17-EP-58_landscape.jpg",
+                    "updateDate": "29-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/dreams-desires-and-hot-seat-1090493465?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "57",
+                    "duration": "78m",
+                    "episodeCode": "S17-E57",
+                    "episodeName": "Aap Aur Waqt",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010576/1761652786802237_KAUN-BANEGA-CROREPATI-S17-EP-57_landscape.jpg",
+                    "updateDate": "28-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/aap-aur-waqt-1090493379?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "56",
+                    "duration": "68m",
+                    "episodeCode": "S17-E56",
+                    "episodeName": "Jeevan Ka Map",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010570/176156301399753_KBC-S17-EP-56_27102025_landscape.jpg",
+                    "updateDate": "27-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeevan-ka-map-1090493326?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "55",
+                    "duration": "91m",
+                    "episodeCode": "S17-E55",
+                    "episodeName": "Comedy Superstars On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010503/176129179318855_KBC-S17-EP-55_landscape.jpg",
+                    "updateDate": "24-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/comedy-superstars-on-the-hot-seat-1090493164?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "54",
+                    "duration": "72m",
+                    "episodeCode": "S17-E54",
+                    "episodeName": "Gyaan Ka Deepak",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010490/1761226435515936_KAUN-BANEGA-CROREPATI-S17-EP-54_landscape.jpg",
+                    "updateDate": "23-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-deepak-1090493089?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "53",
+                    "duration": "73m",
+                    "episodeCode": "S17-E53",
+                    "episodeName": "Shiksha Ki Kalam",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010444/1761131935065928_KAUN-BANEGA-CROREPATI-S17-EP-53_landscape.jpg",
+                    "updateDate": "22-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/shiksha-ki-kalam-1090492977?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "52",
+                    "duration": "76m",
+                    "episodeCode": "S17-E52",
+                    "episodeName": "Hausla, Himmat Aur Manobal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010409/1761044489586805_KAUN-BANEGA-CROREPATI-S17-EP-52_landscape_thumbn.jpg",
+                    "updateDate": "21-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/hausla-himmat-aur-manobal-1090492878?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "51",
+                    "duration": "64m",
+                    "episodeCode": "S17-E51",
+                    "episodeName": "Deepawali Ka Parv",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010402/1760965961924613_KAUN_BANEGA_CROREPATI_S17_EP51_landscape_thumb.jpg",
+                    "updateDate": "20-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/deepawali-ka-parv-1090492814?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "50",
+                    "duration": "82m",
+                    "episodeCode": "S17-E50",
+                    "episodeName": "Vasubaras Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010362/1760775472830512_KAUN-BANEGA-CROREPATI-S17-EP-50_landscape_RE.jpg",
+                    "updateDate": "17-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/vasubaras-special-1090492585?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "49",
+                    "duration": "75m",
+                    "episodeCode": "S17-E49",
+                    "episodeName": "Snakes And Ladders Of Life",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010312/1760617131003856_KAUN-BANEGA-CROREPATI-S17-EP-49_landscape.jpg",
+                    "updateDate": "16-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/snakes-and-ladders-of-life-1090492541?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "48",
+                    "duration": "77m",
+                    "episodeCode": "S17-E48",
+                    "episodeName": "Screen Ki Roshni Aur Gyaan Ki Roshni",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010283/176053569387345_KAUN-BANEGA-CROREPATI-S17-EP-48_landscape.jpg",
+                    "updateDate": "15-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/screen-ki-roshni-aur-gyaan-ki-roshni-1090492472?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "47",
+                    "duration": "72m",
+                    "episodeCode": "S17-E47",
+                    "episodeName": "Gauravshaali Bachhe",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010247/1760449019660125_KAUN-BANEGA-CROREPATI-S17-EP-47_landscape.jpg",
+                    "updateDate": "14-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gauravshaali-bachhe-1090492370?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "46",
+                    "duration": "92m",
+                    "episodeCode": "S17-E46",
+                    "episodeName": "AB Birthday Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010204/1760367221007786_KAUN_BANEGA_CROREPATI_S17_EP46_landscape_thumb.jpg",
+                    "updateDate": "13-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ab-birthday-special-1090492303?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "45",
+                    "duration": "102m",
+                    "episodeCode": "S17-E45",
+                    "episodeName": "Happy Birthday AB",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010092/176010800551458_KAUN-BANEGA-CROREPATI-S17-EP-45-INTERNATIONAL-MASTER_Landscape_thumb.jpg",
+                    "updateDate": "10-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/happy-birthday-ab-1090492096?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "44",
+                    "duration": "81m",
+                    "episodeCode": "S17-E44",
+                    "episodeName": "Baccho Ki Curiosity ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010199/1760363175272507_KBC-S17_EP_44_landscape.jpg",
+                    "updateDate": "09-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/baccho-ki-curiosity-1090492040?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "43",
+                    "duration": "83m",
+                    "episodeCode": "S17-E43",
+                    "episodeName": "Bachho Ka Utsaah",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010011/1759932813125812_KBC_S17_EP_43_landscape.jpg",
+                    "updateDate": "08-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bachho-ka-utsaah-1090491960?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "42",
+                    "duration": "81m",
+                    "episodeCode": "S17-E42",
+                    "episodeName": "Bachho Ke Anubhav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009972/1759845572509340_KBC_S17_EP_42_landscape.jpg",
+                    "updateDate": "07-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bachho-ke-anubhav-1090491916?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "41",
+                    "duration": "80m",
+                    "episodeCode": "S17-E41",
+                    "episodeName": "Chote Chote Dhamake",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009939/1759764724802481_KAUN-BANEGA-CROREPATI-S17-EP-41-landscape_humb.jpg",
+                    "updateDate": "06-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/chote-chote-dhamake-1090491850?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "40",
+                    "duration": "85m",
+                    "episodeCode": "S17-E40",
+                    "episodeName": "Darr, Sapne Aur Bhavishya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009821/1759498187930109_KBC_S17_EP40_03102025_landscape.jpg",
+                    "updateDate": "03-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/darr-sapne-aur-bhavishya-1090491654?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "39",
+                    "duration": "69m",
+                    "episodeCode": "S17-E39",
+                    "episodeName": "Nyaay Ka Prateek",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009781/1759416062457164_KAUN_BANEGA_CROREPATI_S17_EP39_tv_bg.jpg",
+                    "updateDate": "02-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/nyaay-ka-prateek-1090491564?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "38",
+                    "duration": "80m",
+                    "episodeCode": "S17-E38",
+                    "episodeName": "Shastra Aur Shaastra",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009714/175931632201373_KBC_S17_EP_38_landscape.jpg",
+                    "updateDate": "01-10-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/shastra-aur-shaastra-1090491436?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "37",
+                    "duration": "72m",
+                    "episodeCode": "S17-E37",
+                    "episodeName": "Gyaan Ki Pitch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009647/1759239245988852_Show_set_Kaun_Banega_Crorepati_Season_17_E0037_IND_30092025_landscape.jpg",
+                    "updateDate": "30-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ki-pitch-1090491249?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "36",
+                    "duration": "79m",
+                    "episodeCode": "S17-E36",
+                    "episodeName": "Rishto Ki Dor Aur Sapno Ki Udaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009619/1759158518089264_KAUN-BANEGA-CROREPATI-S17-EP-36_landscape_thumb.jpg",
+                    "updateDate": "29-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/rishto-ki-dor-aur-sapno-ki-udaan-1090491205?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "35",
+                    "duration": "74m",
+                    "episodeCode": "S17-E35",
+                    "episodeName": "Shakti Aur Gyaan Ka Utsav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009427/1758897321129602_KBC_S17_EP_35_landscape.jpg",
+                    "updateDate": "26-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/shakti-aur-gyaan-ka-utsav-1090490894?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "34",
+                    "duration": "76m",
+                    "episodeCode": "S17-E34",
+                    "episodeName": "Jeevan Ki Visheshtaaye",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009327/1758796937620483_KBC_S17_EP_34_25092025_landscape.jpg",
+                    "updateDate": "25-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeevan-ki-visheshtaaye-1090490780?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "33",
+                    "duration": "79m",
+                    "episodeCode": "S17-E33",
+                    "episodeName": "Utsav Ki Jhalak",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009241/1758713271761108_KBC_S17_EP33_24092025_landscape.jpg",
+                    "updateDate": "24-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/utsav-ki-jhalak-1090490642?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "32",
+                    "duration": "71m",
+                    "episodeCode": "S17-E32",
+                    "episodeName": "Khiladiyon Ki Farmaish",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009161/1758631661269900_KBC_S17_EP32_23092025_Landscaep.jpg",
+                    "updateDate": "23-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/khiladiyon-ki-farmaish-1090490521?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "31",
+                    "duration": "76m",
+                    "episodeCode": "S17-E31",
+                    "episodeName": "Shakti, Gyaan Aur Karuna",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009136/175854659611321_KBC_S17_EP_31_22092025_landscape.jpg",
+                    "updateDate": "22-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/shakti-gyaan-aur-karuna-1090490457?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "30",
+                    "duration": "70m",
+                    "episodeCode": "S17-E30",
+                    "episodeName": "Dhyaan Ki Daulat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008855/1758288122668933_KBC_S17_EP_30_19092025_landscape.jpg",
+                    "updateDate": "19-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/dhyaan-ki-daulat-1090490100?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "29",
+                    "duration": "79m",
+                    "episodeCode": "S17-E29",
+                    "episodeName": "Ek Pavitra Bandhan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008767/1758210295672809_KBC_S17_EP29_landscape.jpg",
+                    "updateDate": "18-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ek-pavitra-bandhan-1090489953?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "28",
+                    "duration": "72m",
+                    "episodeCode": "S17-E28",
+                    "episodeName": "Udaan Ka Naya Tareeka",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008649/1758119950983598_KBC_S17_EP_28_landscape.jpg",
+                    "updateDate": "17-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/udaan-ka-naya-tareeka-1090489779?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "27",
+                    "duration": "75m",
+                    "episodeCode": "S17-E27",
+                    "episodeName": "Bhavishya Dekhne Ka Nazariya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008541/1758031788906557_KBC_S17_EP_27_landscape.jpg",
+                    "updateDate": "16-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bhavishya-dekhne-ka-nazariya-1090489595?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "26",
+                    "duration": "69m",
+                    "episodeCode": "S17-E26",
+                    "episodeName": "Andar Ki Chupi Shakti",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008423/1757947156964496_Show_set_Kaun_Banega_Crorepati_Season_17_E0026_IND_15092025_landscape.jpg",
+                    "updateDate": "15-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/andar-ki-chupi-shakti-1090489436?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "25",
+                    "duration": "73m",
+                    "episodeCode": "S17-E25",
+                    "episodeName": "Desh Ke Karndhaar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008078/1757688312801256_KBC_S17_EP_25_landscape.jpg",
+                    "updateDate": "12-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/desh-ke-karndhaar-1090488978?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "24",
+                    "duration": "66m",
+                    "episodeCode": "S17-E24",
+                    "episodeName": "Yuva Ki Awaaz",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007953/1757598991717891_KBC_S17_EP_24_landscape.jpg",
+                    "updateDate": "11-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yuva-ki-awaaz-1090488875?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "23",
+                    "duration": "67m",
+                    "episodeCode": "S17-E23",
+                    "episodeName": "Gyaani Yuvapeedi",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007840/1757512617465688_KBC_S17_EP_23_landscape.jpg",
+                    "updateDate": "10-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaani-yuvapeedi-1090488734?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "22",
+                    "duration": "71m",
+                    "episodeCode": "S17-E22",
+                    "episodeName": "Sochne Ka Andaaz",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007729/175742761424868_KBC_S17_EP22_landscape.jpg",
+                    "updateDate": "09-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sochne-ka-andaaz-1090488549?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "21",
+                    "duration": "69m",
+                    "episodeCode": "S17-E21",
+                    "episodeName": "Yuva Shakti",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007675/1757340061949174_KBC_S17_EP21_landscape.jpg",
+                    "updateDate": "08-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yuva-shakti-1090488465?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "20",
+                    "duration": "85m",
+                    "episodeCode": "S17-E20",
+                    "episodeName": "Sapno Se Haqeeqat Tak",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007501/1757080697704324_KBC_S17_EP20_landscape.jpg",
+                    "updateDate": "05-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapno-se-haqeeqat-tak-1090488146?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "19",
+                    "duration": "79m",
+                    "episodeCode": "S17-E19",
+                    "episodeName": "Soch, Sapne Aur Pehchaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007452/1756995259988504_KBC_S17_EP_19_landscape.jpg",
+                    "updateDate": "04-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/soch-sapne-aur-pehchaan-1090488008?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "18",
+                    "duration": "65m",
+                    "episodeCode": "S17-E18",
+                    "episodeName": "Barabari Ka Manch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007412/1756907269646667_KBC_S17_EP18_landscape.jpg",
+                    "updateDate": "03-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/barabari-ka-manch-1090487923?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "17",
+                    "duration": "70m",
+                    "episodeCode": "S17-E17",
+                    "episodeName": "Himmat Ka Fuel",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007379/1756832064216664_KBC_S17_EP17_landscape_thumb.jpg",
+                    "updateDate": "02-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/himmat-ka-fuel-1090487859?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "16",
+                    "duration": "66m",
+                    "episodeCode": "S17-E16",
+                    "episodeName": "Akad Aur Atmasamman",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007322/1756743086721103_KBC-S17-EP-16_1sep_landscape_thumb.jpg",
+                    "updateDate": "01-09-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/akad-aur-atmasamman-1090487797?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "15",
+                    "duration": "72m",
+                    "episodeCode": "S17-E15",
+                    "episodeName": "Ek Asadharan Yatra",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007198/1756479696265761_KBC_S17_EP15_landscape.jpg",
+                    "updateDate": "29-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ek-asadharan-yatra-1090487639?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "14",
+                    "duration": "80m",
+                    "episodeCode": "S17-E14",
+                    "episodeName": "Achhe Bhavishya Ki Recipe",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007147/1756396012021288_KAUN_BANEGA_CROREPATI_S17_EP14_landscape_thumb.jpg",
+                    "updateDate": "28-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/achhe-bhavishya-ki-recipe-1090487541?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "13",
+                    "duration": "79m",
+                    "episodeCode": "S17-E13",
+                    "episodeName": "Gyaan Ka Mahamanthan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007088/1756303577046360_KBC_S17_EP13_INTERNATIONAL_landscape.jpg",
+                    "updateDate": "27-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-mahamanthan-1090487471?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "12",
+                    "duration": "72m",
+                    "episodeCode": "S17-E12",
+                    "episodeName": "Badalte Bharat Ki Jhalak",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007040/1756215408519703_KAUN_BANEGA_CROREPATIS17_EP12_PRIME_MASTER_R2_landscape.jpg",
+                    "updateDate": "26-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/badalte-bharat-ki-jhalak-1090487382?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "11",
+                    "duration": "72m",
+                    "episodeCode": "S17-E11",
+                    "episodeName": "Sapno Ko Sach Karne Ki Raah",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007003/1756133954427589_KAUN_BANEGA_CROREPATI_S17_EP11_landscape_thumb.jpg",
+                    "updateDate": "25-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapno-ko-sach-karne-ki-raah-1090487310?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "10",
+                    "duration": "74m",
+                    "episodeCode": "S17-E10",
+                    "episodeName": "Doosra Mauka",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006868/1755878953355650_KAUN-BANEGA-CROREPATI-S17-EP-10-OFF-PRIME-WITHOUT-SPONSOR-MASTER_Landscape_thumb.jpg",
+                    "updateDate": "22-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/doosra-mauka-1090487097?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "9",
+                    "duration": "68m",
+                    "episodeCode": "S17-E9",
+                    "episodeName": "Crorepati Soch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006817/175578973626343_KAUN-BANEGA-CROREPATI-S17-EP-09-INTERNATIONAL-SONY-LIV-VOD-MASTER_Landscape_thumb.jpg",
+                    "updateDate": "21-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/crorepati-soch-1090487055?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "8",
+                    "duration": "74m",
+                    "episodeCode": "S17-E8",
+                    "episodeName": "Crorepati Banne Ka Tag",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006742/1755693761402422_clip_set_kbc_s17_ep08_landscape.jpg",
+                    "updateDate": "20-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/crorepati-banne-ka-tag-1090486947?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "7",
+                    "duration": "69m",
+                    "episodeCode": "S17-E7",
+                    "episodeName": "Zindagi Ke Asli Khazane",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006693/175560855742076_show_set_KBC_S17_EP07_INDIA_19082025_landscape.jpg",
+                    "updateDate": "19-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/zindagi-ke-asli-khazane-1090486908?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "6",
+                    "duration": "78m",
+                    "episodeCode": "S17-E6",
+                    "episodeName": "Gyaan Aur Swabhimaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006625/1755523692244139_KAUN-BANEGA-CROREPATI-S17-EP-06_landscape.jpg",
+                    "updateDate": "18-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-aur-swabhimaan-1090486820?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "5",
+                    "duration": "105m",
+                    "episodeCode": "S17-E5",
+                    "episodeName": "Independence Day Maha Utsav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006472/1755262199211626_KAUN_BANEGA_CROREPATI_S17_EP-05_PRIMEMASTER_landscape.jpg",
+                    "updateDate": "15-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/independence-day-maha-utsav-1090486649?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "4",
+                    "duration": "79m",
+                    "episodeCode": "S17-E4",
+                    "episodeName": "Gyaan, Dhyaan Aur Toofan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006408/1755170922604546_show_set_KBC_S17_EP04_INDIA_14082025_landscape.jpg",
+                    "updateDate": "14-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-dhyaan-aur-toofan-1090486593?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "3",
+                    "duration": "81m",
+                    "episodeCode": "S17-E3",
+                    "episodeName": "Gyaan Ka Mahayagya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006375/1755099771565628_Show_set_KBC_S17_EP03_INDIA_13082025_landscape_thumb.jpg",
+                    "updateDate": "13-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-mahayagya-1090486518?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "2",
+                    "duration": "86m",
+                    "episodeCode": "S17-E2",
+                    "episodeName": "Sawal Aur Jawab",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006304/1755000486056128_show_set_KBC_S17_EP02_INDIA_12082025_landscape.jpg",
+                    "updateDate": "12-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sawal-aur-jawab-1090486455?watch=true"
+                },
+                {
+                    "seasonNumber": "17",
+                    "episodeNumber": "1",
+                    "duration": "77m",
+                    "episodeCode": "S17-E1",
+                    "episodeName": "Gyaan Ki Silver Jubilee",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006260/1754931138661884_KBC25_ep1_11aug25_landscape_thumb.jpg",
+                    "updateDate": "11-08-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ki-silver-jubilee-1090486389?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "152",
+                    "duration": "47m",
+                    "episodeCode": "S16-E152",
+                    "episodeName": "Vidai Ki Bela",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000220/1741696852703610_show_set_kbc_s16_ep152_india_11032025_landscape.jpg",
+                    "updateDate": "11-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/vidai-ki-bela-1090472679?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "151",
+                    "duration": "63m",
+                    "episodeCode": "S16-E151",
+                    "episodeName": "Har Ghar Gyaan Ka Deep",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000184/1741612394426199_show_set_kbc_s16_ep151_india_100322025_landscape.jpg",
+                    "updateDate": "10-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/har-ghar-gyaan-ka-deep-1090471598?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "150",
+                    "duration": "55m",
+                    "episodeCode": "S16-E150",
+                    "episodeName": "Hardwork And Smart Thinking",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000073/1741352026735316_show_set_kbc_s16_ep150_07032025_landscape.jpg",
+                    "updateDate": "07-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/hardwork-and-smart-thinking-1090470888?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "149",
+                    "duration": "64m",
+                    "episodeCode": "S16-E149",
+                    "episodeName": "Umeedo Ki Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090470756/thumbnail/1741266319156_show_set_kbc_s16_ep149_ind_060322025_landscape.jpg",
+                    "updateDate": "06-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/umeedo-ki-hot-seat-1090470756?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "148",
+                    "duration": "49m",
+                    "episodeCode": "S16-E148",
+                    "episodeName": "Badi Uplabdhiyaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep148_intl_050322025_landscape.jpg",
+                    "updateDate": "05-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/badi-uplabdhiyaan-1090470619?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "147",
+                    "duration": "50m",
+                    "episodeCode": "S16-E147",
+                    "episodeName": "Parivartan Ki Lehar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep147_04032025_landscape.jpg",
+                    "updateDate": "04-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/parivartan-ki-lehar-1090470492?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "146",
+                    "duration": "51m",
+                    "episodeCode": "S16-E146",
+                    "episodeName": "Bachpan Ke Sapne",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep146_intl_030322025_landscape.jpg",
+                    "updateDate": "03-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bachpan-ke-sapne-1090470382?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "145",
+                    "duration": "50m",
+                    "episodeCode": "S16-E145",
+                    "episodeName": "Anant Sambhavnao Ka Kshitij",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep145_india_280222025_landscape.jpg",
+                    "updateDate": "28-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/anant-sambhavnao-ka-kshitij-1090470155?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "144",
+                    "duration": "67m",
+                    "episodeCode": "S16-E144",
+                    "episodeName": "Soch Badalne Ki Takat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep144_int_270222025_landscape.jpg",
+                    "updateDate": "27-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/soch-badalne-ki-takat-1090470108?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "143",
+                    "duration": "62m",
+                    "episodeCode": "S16-E143",
+                    "episodeName": "Ek Koshish Aur",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep143_26022025_landscape.jpg",
+                    "updateDate": "26-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ek-koshish-aur-1090469759?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "142",
+                    "duration": "48m",
+                    "episodeCode": "S16-E142",
+                    "episodeName": "Sai Prudhvi Takes The Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep141_india_250222025_landscape.jpg",
+                    "updateDate": "25-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sai-prudhvi-takes-the-seat-1090469684?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "141",
+                    "duration": "63m",
+                    "episodeCode": "S16-E141",
+                    "episodeName": "Naye Vichar Aur Nayi Soch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep141_intl_24022025_landscape.jpg",
+                    "updateDate": "24-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/naye-vichar-aur-nayi-soch-1090469596?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "140",
+                    "duration": "47m",
+                    "episodeCode": "S16-E140",
+                    "episodeName": "Naye Bharat Ki Nayi Pehchan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep140_intl_210222025_landscape_thumb.jpg",
+                    "updateDate": "21-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/naye-bharat-ki-nayi-pehchan-1090469433?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "139",
+                    "duration": "64m",
+                    "episodeCode": "S16-E139",
+                    "episodeName": "Kal Se Behtar Aaj",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep139_intl_200222025_landscape.jpg",
+                    "updateDate": "20-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kal-se-behtar-aaj-1090469359?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "138",
+                    "duration": "37m",
+                    "episodeCode": "S16-E138",
+                    "episodeName": "Yuvao Ka Bharat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep138_intl_190222025_landscape.jpg",
+                    "updateDate": "19-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yuvao-ka-bharat-1090469243?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "137",
+                    "duration": "56m",
+                    "episodeCode": "S16-E137",
+                    "episodeName": "Quiz Master Takes The Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep137_intl_180222025_landscape_thumb.jpg",
+                    "updateDate": "18-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/quiz-master-takes-the-seat-1090469169?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "136",
+                    "duration": "47m",
+                    "episodeCode": "S16-E136",
+                    "episodeName": "Mehnat Ke Naye Mauke",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep136_intl_170222025_landscape.jpg",
+                    "updateDate": "17-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/mehnat-ke-naye-mauke-1090469094?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "135",
+                    "duration": "49m",
+                    "episodeCode": "S16-E135",
+                    "episodeName": "Naye Hindustan Ki Neev",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep135_india_140222025_land_thumb.jpg",
+                    "updateDate": "14-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/naye-hindustan-ki-neev-1090468897?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "134",
+                    "duration": "43m",
+                    "episodeCode": "S16-E134",
+                    "episodeName": "Yuvao Ka Bol Bala",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep134_intl_130222025_land_thumb.jpg",
+                    "updateDate": "13-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yuvao-ka-bol-bala-1090468795?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "133",
+                    "duration": "50m",
+                    "episodeCode": "S16-E133",
+                    "episodeName": "Yuvao Ka Josh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep133_sony_liv_seg01_land_thumb.jpg",
+                    "updateDate": "12-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yuvao-ka-josh-1090468686?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "132",
+                    "duration": "52m",
+                    "episodeCode": "S16-E132",
+                    "episodeName": "Yuva Shakti",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep132_10022025_land_thumb.jpg",
+                    "updateDate": "11-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yuva-shakti-1090468549?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "131",
+                    "duration": "65m",
+                    "episodeCode": "S16-E131",
+                    "episodeName": "India At 25",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep131_ind_100222025_land_thumb.jpg",
+                    "updateDate": "10-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/india-at-25-1090468459?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "130",
+                    "duration": "70m",
+                    "episodeCode": "S16-E130",
+                    "episodeName": "Kahani Jeet Ki",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep130_int_070222025_land_thumb.jpg",
+                    "updateDate": "07-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kahani-jeet-ki-1090468186?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "129",
+                    "duration": "82m",
+                    "episodeCode": "S16-E129",
+                    "episodeName": "Bachpan Ki Seekh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep129_ind_060222025_land_thumb.jpg",
+                    "updateDate": "06-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bachpan-ki-seekh-1090468096?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "128",
+                    "duration": "74m",
+                    "episodeCode": "S16-E128",
+                    "episodeName": "Kudrat Ka Perfection",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep128_ind_050222025_land_thumb.jpg",
+                    "updateDate": "05-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kudrat-ka-perfection-1090468018?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "127",
+                    "duration": "79m",
+                    "episodeCode": "S16-E127",
+                    "episodeName": "Gyaan Ki Khadan Ke Anmol Heere",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep127_int_040222025_landscape_thumb.jpg",
+                    "updateDate": "04-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ki-khadan-ke-anmol-heere-1090467965?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "126",
+                    "duration": "79m",
+                    "episodeCode": "S16-E126",
+                    "episodeName": "Aaj Ki Taakat Aur Shakti",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep126_india_03012025_land_thumb.jpg",
+                    "updateDate": "03-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/aaj-ki-taakat-aur-shakti-1090467888?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "125",
+                    "duration": "95m",
+                    "episodeCode": "S16-E125",
+                    "episodeName": "Influencer Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep125_31012025_land_thumb.jpg",
+                    "updateDate": "31-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/influencer-special-1090467610?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "124",
+                    "duration": "84m",
+                    "episodeCode": "S16-E124",
+                    "episodeName": "Shaheed Diwas",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep124_30012025_landscape_thumb.jpg",
+                    "updateDate": "30-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/shaheed-diwas-1090467519?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "123",
+                    "duration": "74m",
+                    "episodeCode": "S16-E123",
+                    "episodeName": "Khwaishein Aur Umeedein",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep123_india_29012025_land_thumb.jpg",
+                    "updateDate": "29-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/khwaishein-aur-umeedein-1090467068?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "122",
+                    "duration": "76m",
+                    "episodeCode": "S16-E122",
+                    "episodeName": "Khiladiyon Ki Jeet Aur Haar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep122_int_28012025_land_thumb.jpg",
+                    "updateDate": "28-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/khiladiyon-ki-jeet-aur-haar-1090466947?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "121",
+                    "duration": "87m",
+                    "episodeCode": "S16-E121",
+                    "episodeName": "Haq Ka Aasmaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep121_india_27012025_land_thumb.jpg",
+                    "updateDate": "27-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/haq-ka-aasmaan-1090443833?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "120",
+                    "duration": "72m",
+                    "episodeCode": "S16-E120",
+                    "episodeName": "Desh Prem",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep120_land_thumb.jpg",
+                    "updateDate": "24-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/desh-prem-1090431590?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "119",
+                    "duration": "70m",
+                    "episodeCode": "S16-E119",
+                    "episodeName": "Bhavishya Ki Nayi Imarat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep119_23012025_landscape_thumb.jpg",
+                    "updateDate": "23-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bhavishya-ki-nayi-imarat-1090431407?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "118",
+                    "duration": "70m",
+                    "episodeCode": "S16-E118",
+                    "episodeName": "Gyaan Ki Kitaab",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep118_22012025_landscape_thumb.jpg",
+                    "updateDate": "22-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ki-kitaab-1090431268?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "117",
+                    "duration": "74m",
+                    "episodeCode": "S16-E117",
+                    "episodeName": "Hindustan Ka Manch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep117_landscape_thumb.jpg",
+                    "updateDate": "21-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/hindustan-ka-manch-1090431051?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "116",
+                    "duration": "76m",
+                    "episodeCode": "S16-E116",
+                    "episodeName": "25th Anniversary Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep116_ind_20012025_landscape_thumb.jpg",
+                    "updateDate": "20-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/25th-anniversary-special-1090430850?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "115",
+                    "duration": "72m",
+                    "episodeCode": "S16-E115",
+                    "episodeName": "Safalta Ki Khaas Baat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep115_sony_liv_seg01_landscape_thumb.jpg",
+                    "updateDate": "17-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/safalta-ki-khaas-baat-1090430199?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "114",
+                    "duration": "67m",
+                    "episodeCode": "S16-E114",
+                    "episodeName": "Bachpan Waali Nidarta",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep114_landscape_thumb.jpg",
+                    "updateDate": "16-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bachpan-waali-nidarta-1090429448?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "113",
+                    "duration": "73m",
+                    "episodeCode": "S16-E113",
+                    "episodeName": "Gaurav Ka Jashn",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep113_landscape_thumb.jpg",
+                    "updateDate": "15-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gaurav-ka-jashn-1090429165?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "112",
+                    "duration": "67m",
+                    "episodeCode": "S16-E112",
+                    "episodeName": "Utsav Ka Mahaul",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/set_kbc_s16_ep112_14012025_landscape_thumb.jpg",
+                    "updateDate": "14-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/utsav-ka-mahaul-1090428928?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "111",
+                    "duration": "74m",
+                    "episodeCode": "S16-E111",
+                    "episodeName": "Vishwas Ki Goli",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep111_sony_liv_seg01_landscape_thumb.jpg",
+                    "updateDate": "13-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/vishwas-ki-goli-1090428624?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "110",
+                    "duration": "74m",
+                    "episodeCode": "S16-E110",
+                    "episodeName": "Choti Si Soch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep110_int_10012025_landscape_thumb.jpg",
+                    "updateDate": "10-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/choti-si-soch-1090427968?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "109",
+                    "duration": "63m",
+                    "episodeCode": "S16-E109",
+                    "episodeName": "Sapno Ki Titliyaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep109_landscape.jpg",
+                    "updateDate": "09-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapno-ki-titliyaan-1090427883?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "108",
+                    "duration": "78m",
+                    "episodeCode": "S16-E108",
+                    "episodeName": "Sapno Ka Dayra",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep108_int_08012025_landscape_thumb.jpg",
+                    "updateDate": "08-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapno-ka-dayra-1090427775?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "107",
+                    "duration": "67m",
+                    "episodeCode": "S16-E107",
+                    "episodeName": "Sapna, Rishta Aur Lakshya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep107_int_07012025_landscape_thumb.jpg",
+                    "updateDate": "07-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapna-rishta-aur-lakshya-1090427649?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "106",
+                    "duration": "73m",
+                    "episodeCode": "S16-E106",
+                    "episodeName": "Naye Saal Ke Naye Sapne",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep106_int_06012025_landscape_thumb.jpg",
+                    "updateDate": "06-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/naye-saal-ke-naye-sapne-1090427568?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "105",
+                    "duration": "62m",
+                    "episodeCode": "S16-E105",
+                    "episodeName": "Nayapan, Naveenta Aur Newness",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep105_india_03012025_landscape_thumb.jpg",
+                    "updateDate": "03-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/nayapan-naveenta-aur-newness-1090427397?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "104",
+                    "duration": "72m",
+                    "episodeCode": "S16-E104",
+                    "episodeName": "Duao Ki Shakti",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/set_kbc_s16_ep104_02012025_landscape_thumb.jpg",
+                    "updateDate": "02-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/duao-ki-shakti-1090427301?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "103",
+                    "duration": "74m",
+                    "episodeCode": "S16-E103",
+                    "episodeName": "Naye Varsh Ki Muskurahat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep103_int_01012025_landscape_thumb.jpg",
+                    "updateDate": "01-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/naye-varsh-ki-muskurahat-1090427237?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "102",
+                    "duration": "126m",
+                    "episodeCode": "S16-E102",
+                    "episodeName": "Jashn Ka Din",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep102_int_31122024_rev01_landscape_thumb.jpg",
+                    "updateDate": "31-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jashn-ka-din-1090427176?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "101",
+                    "duration": "70m",
+                    "episodeCode": "S16-E101",
+                    "episodeName": "Anjaan Rishton Ka Jadoo",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep101_int_30122024_landscape_thumb.jpg",
+                    "updateDate": "30-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/anjaan-rishton-ka-jadoo-1090427108?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "100",
+                    "duration": "87m",
+                    "episodeCode": "S16-E100",
+                    "episodeName": "Gyaan Ka Shatak",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep100_india_27122024_landscape_thumb.jpg",
+                    "updateDate": "27-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-shatak-1090426875?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "99",
+                    "duration": "83m",
+                    "episodeCode": "S16-E99",
+                    "episodeName": "Adarsh Aur Prerna",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep99_int_27122024_landscape_thumb.jpg",
+                    "updateDate": "26-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/adarsh-aur-prerna-1090426836?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "98",
+                    "duration": "80m",
+                    "episodeCode": "S16-E98",
+                    "episodeName": "Gyaan Ka Gift Box",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep98_landscape_thumb.jpg",
+                    "updateDate": "25-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-gift-box-1090426799?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "97",
+                    "duration": "77m",
+                    "episodeCode": "S16-E97",
+                    "episodeName": "Samarpan Ki Nayi Paribhasha",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_97_landscape.jpg",
+                    "updateDate": "24-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/samarpan-ki-nayi-paribhasha-1090426765?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "96",
+                    "duration": "75m",
+                    "episodeCode": "S16-E96",
+                    "episodeName": "Gyaan Ka Uchit Inaam",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep96_india_23122024_landscape_thumb.jpg",
+                    "updateDate": "23-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-uchit-inaam-1090426701?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "95",
+                    "duration": "70m",
+                    "episodeCode": "S16-E95",
+                    "episodeName": "Maksad Mein Sachhai",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep95_landscape_thumb.jpg",
+                    "updateDate": "20-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/maksad-mein-sachhai-1090425389?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "94",
+                    "duration": "81m",
+                    "episodeCode": "S16-E94",
+                    "episodeName": "Mehnat Aur Atmavishwas Ka Sundar Parinaam",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_94_landscape.jpg",
+                    "updateDate": "19-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/mehnat-aur-atmavishwas-ka-sundar-parinaam-1090425178?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "93",
+                    "duration": "75m",
+                    "episodeCode": "S16-E93",
+                    "episodeName": "Safalta Ki Kahaniyaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep93_int_18122024_landscape_thumb.jpg",
+                    "updateDate": "18-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/safalta-ki-kahaniyaan-1090424981?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "92",
+                    "duration": "76m",
+                    "episodeCode": "S16-E92",
+                    "episodeName": "Courage And Confidence",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep92_17122024_landscape_thumb.jpg",
+                    "updateDate": "17-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/courage-and-confidence-1000301695?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "91",
+                    "duration": "73m",
+                    "episodeCode": "S16-E91",
+                    "episodeName": "Umeedo Ki Mashal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep91_int_16122024_landscape_thumb.jpg",
+                    "updateDate": "16-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/umeedo-ki-mashal-1000301503?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "90",
+                    "duration": "92m",
+                    "episodeCode": "S16-E90",
+                    "episodeName": "Khiladiyon Ke Gunn",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep90_int_13122024_landscape_thumb.jpg",
+                    "updateDate": "13-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/khiladiyon-ke-gunn-1000301002?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "89",
+                    "duration": "68m",
+                    "episodeCode": "S16-E89",
+                    "episodeName": "Jeet Ke Aansu",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep89_landscape.jpg",
+                    "updateDate": "12-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeet-ke-aansu-1000300829?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "88",
+                    "duration": "76m",
+                    "episodeCode": "S16-E88",
+                    "episodeName": "Ek Nayi Subah Ka Sapna",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep88_int_11122024_landscape_thumb.jpg",
+                    "updateDate": "11-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ek-nayi-subah-ka-sapna-1000300707?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "87",
+                    "duration": "68m",
+                    "episodeCode": "S16-E87",
+                    "episodeName": "Rishton Ki Taakat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep87_int_10122024_landscape_thumb.jpg",
+                    "updateDate": "10-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/rishton-ki-taakat-1000300578?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "86",
+                    "duration": "70m",
+                    "episodeCode": "S16-E86",
+                    "episodeName": "Nirantar Prayaas Aur Junoon",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep86_int_09122024_landscape_thumb.jpg",
+                    "updateDate": "09-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/nirantar-prayaas-aur-junoon-1000300408?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "85",
+                    "duration": "63m",
+                    "episodeCode": "S16-E85",
+                    "episodeName": "Ek Mehatvapurn Mauka",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep85_landscape_thumb.jpg",
+                    "updateDate": "06-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ek-mehatvapurn-mauka-1000300112?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "84",
+                    "duration": "76m",
+                    "episodeCode": "S16-E84",
+                    "episodeName": "Soch Aur Sankalp",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_84_landscape_thumb.jpg",
+                    "updateDate": "05-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/soch-aur-sankalp-1000299945?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "83",
+                    "duration": "71m",
+                    "episodeCode": "S16-E83",
+                    "episodeName": "Gyaan Ka Super Sawaal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_83_landscape_thumb.jpg",
+                    "updateDate": "04-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-super-sawaal-1000299873?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "82",
+                    "duration": "66m",
+                    "episodeCode": "S16-E82",
+                    "episodeName": "Yaadgaar Tasveerein",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep82_landscape_thumb.jpg",
+                    "updateDate": "03-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yaadgaar-tasveerein-1000299708?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "81",
+                    "duration": "78m",
+                    "episodeCode": "S16-E81",
+                    "episodeName": "Buddhimaan Aur Dhanvaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_81_landscape_thumb.jpg",
+                    "updateDate": "02-12-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/buddhimaan-aur-dhanvaan-1000299567?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "80",
+                    "duration": "67m",
+                    "episodeCode": "S16-E80",
+                    "episodeName": "Lagataar Prayaas",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep80_int_29112024_landscape_thumb.jpg",
+                    "updateDate": "29-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/lagataar-prayaas-1000299096?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "79",
+                    "duration": "78m",
+                    "episodeCode": "S16-E79",
+                    "episodeName": "Gyaan Ka Khazana",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_79_landscape_thumb.jpg",
+                    "updateDate": "28-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-khazana-1000298885?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "78",
+                    "duration": "68m",
+                    "episodeCode": "S16-E78",
+                    "episodeName": "Gyaan Ka Connection",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_78_landscap_thumb.jpg",
+                    "updateDate": "27-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-connection-1000298729?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "77",
+                    "duration": "87m",
+                    "episodeCode": "S16-E77",
+                    "episodeName": "Remembering The Martyrs Of 26/11",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep77_landscape.jpg",
+                    "updateDate": "26-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/remembering-the-martyrs-of-26-11-1000298567?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "76",
+                    "duration": "81m",
+                    "episodeCode": "S16-E76",
+                    "episodeName": "Jigyasa Ka Beej",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep76_landscape_thumb.jpg",
+                    "updateDate": "25-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jigyasa-ka-beej-1000298277?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "75",
+                    "duration": "76m",
+                    "episodeCode": "S16-E75",
+                    "episodeName": "Anmol Baatein",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_s16_ep75_landscape_thumb.jpg",
+                    "updateDate": "22-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/anmol-baatein-1000298043?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "74",
+                    "duration": "72m",
+                    "episodeCode": "S16-E74",
+                    "episodeName": "Grahni Hone Ka Garv",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_s16_ep74_landscape_thumb.jpg",
+                    "updateDate": "21-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/grahni-hone-ka-garv-1000297930?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "73",
+                    "duration": "69m",
+                    "episodeCode": "S16-E73",
+                    "episodeName": "Prarthana Aur Prayaas",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep73_landscap_thumb.jpg",
+                    "updateDate": "20-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/prarthana-aur-prayaas-1000297864?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "72",
+                    "duration": "71m",
+                    "episodeCode": "S16-E72",
+                    "episodeName": "Gyaan Paane Ki Laalsa",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep72_landscape_thumb.jpg",
+                    "updateDate": "19-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-paane-ki-laalsa-1000297721?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "71",
+                    "duration": "57m",
+                    "episodeCode": "S16-E71",
+                    "episodeName": "Jeevan Ke Badlav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_71_landscape_thumb.jpg",
+                    "updateDate": "18-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeevan-ke-badlav-1000297563?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "70",
+                    "duration": "86m",
+                    "episodeCode": "S16-E70",
+                    "episodeName": "Bachpan Ke Beete Hue Din",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_s16_ep70_landscape_thumb.jpg",
+                    "updateDate": "15-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bachpan-ke-beete-hue-din-1000297198?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "69",
+                    "duration": "76m",
+                    "episodeCode": "S16-E69",
+                    "episodeName": "Baal Divas Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_s16_ep69_landscape_thumb.jpg",
+                    "updateDate": "14-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/baal-divas-special-1000296955?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "68",
+                    "duration": "74m",
+                    "episodeCode": "S16-E68",
+                    "episodeName": "Bhavnao Ki Tsunami",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep68_intl_13112024_landscape_thumb.jpg",
+                    "updateDate": "13-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bhavnao-ki-tsunami-1000296821?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "67",
+                    "duration": "70m",
+                    "episodeCode": "S16-E67",
+                    "episodeName": "Bachcho Ke Sanskaar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep67_intl_12112024_landscape_thumb.jpg",
+                    "updateDate": "12-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bachcho-ke-sanskaar-1000296704?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "66",
+                    "duration": "74m",
+                    "episodeCode": "S16-E66",
+                    "episodeName": "Bachcho Ka Mann",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep66_intl_11112024_landscape_thumb.jpg",
+                    "updateDate": "11-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bachcho-ka-mann-1000296603?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "65",
+                    "duration": "72m",
+                    "episodeCode": "S16-E65",
+                    "episodeName": "12th Fail On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_s16_ep65_landscape_thumb.jpg",
+                    "updateDate": "08-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/12th-fail-on-the-hot-seat-1000296325?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "64",
+                    "duration": "78m",
+                    "episodeCode": "S16-E64",
+                    "episodeName": "Aajkal Ke Adhbhut Bachche",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep64_landscape_thumb.jpg",
+                    "updateDate": "07-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/aajkal-ke-adhbhut-bachche-1000296233?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "63",
+                    "duration": "74m",
+                    "episodeCode": "S16-E63",
+                    "episodeName": "Number Ninjas",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep63_intl_06112024_landscape_thumb.jpg",
+                    "updateDate": "06-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/number-ninjas-1000296131?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "62",
+                    "duration": "71m",
+                    "episodeCode": "S16-E62",
+                    "episodeName": "Bachpan Ke Rishtey",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_s16_ep62_landscap_thumb.jpg",
+                    "updateDate": "05-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bachpan-ke-rishtey-1000296009?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "61",
+                    "duration": "73m",
+                    "episodeCode": "S16-E61",
+                    "episodeName": "Nayi Rangat Aur Sangat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_s16_ep61_landscap_thumb.jpg",
+                    "updateDate": "04-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/nayi-rangat-aur-sangat-1000295933?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "60",
+                    "duration": "71m",
+                    "episodeCode": "S16-E60",
+                    "episodeName": "Roshni Aur Jagmagahat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep60_landscap_thumb.jpg",
+                    "updateDate": "01-11-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/roshni-aur-jagmagahat-1000295730?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "59",
+                    "duration": "71m",
+                    "episodeCode": "S16-E59",
+                    "episodeName": "Gyaan Se Bharpoor Diwali",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep59_landscap_thumb.jpg",
+                    "updateDate": "31-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-se-bharpoor-diwali-1000295658?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "58",
+                    "duration": "72m",
+                    "episodeCode": "S16-E58",
+                    "episodeName": "Diwali Bash With Varun Dhawan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep58_landscape_thumb.jpg",
+                    "updateDate": "30-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/diwali-bash-with-varun-dhawan-1000295610?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "57",
+                    "duration": "63m",
+                    "episodeCode": "S16-E57",
+                    "episodeName": "Aashayein",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep57_landscape_thumb.jpg",
+                    "updateDate": "29-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/aashayein-1000295535?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "56",
+                    "duration": "67m",
+                    "episodeCode": "S16-E56",
+                    "episodeName": "Tyohaar Ki Raunak",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep56_landscap_thumb.jpg",
+                    "updateDate": "28-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/tyohaar-ki-raunak-1000295466?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "55",
+                    "duration": "71m",
+                    "episodeCode": "S16-E55",
+                    "episodeName": "Fantastic Friday With Boman And Farah",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep55_landscape_thumb.jpg",
+                    "updateDate": "25-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/fantastic-friday-with-boman-and-farah-1000295273?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "54",
+                    "duration": "67m",
+                    "episodeCode": "S16-E54",
+                    "episodeName": "Dil Ki Duniya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep54_india_landscape_thumb.jpg",
+                    "updateDate": "24-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/dil-ki-duniya-1000295175?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "53",
+                    "duration": "61m",
+                    "episodeCode": "S16-E53",
+                    "episodeName": "Jeet Ka Prayaas",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep53_landscape_thumb.jpg",
+                    "updateDate": "23-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeet-ka-prayaas-1000295034?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "52",
+                    "duration": "69m",
+                    "episodeCode": "S16-E52",
+                    "episodeName": "Gyaan Ka Dum",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep52_landscape_thumb.jpg",
+                    "updateDate": "22-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-dum-1000294909?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "51",
+                    "duration": "69m",
+                    "episodeCode": "S16-E51",
+                    "episodeName": "Gyaan Ka Sahara",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kbc_s16_ep51_landscape_thumb.jpg",
+                    "updateDate": "21-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-sahara-1000294846?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "50",
+                    "duration": "80m",
+                    "episodeCode": "S16-E50",
+                    "episodeName": "Vidya Balan And Kartik Aaryan On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep50_landscape_thumb.jpg",
+                    "updateDate": "18-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/vidya-balan-and-kartik-aaryan-on-the-hot-seat-1000294646?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "49",
+                    "duration": "74m",
+                    "episodeCode": "S16-E49",
+                    "episodeName": "Baatcheet",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep49_landscape_thumb.jpg",
+                    "updateDate": "17-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/baatcheet-1000294607?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "48",
+                    "duration": "66m",
+                    "episodeCode": "S16-E48",
+                    "episodeName": "Hot Seat Aur Khiladi Ka Rishta",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep48_landscape_thumb.jpg",
+                    "updateDate": "16-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/hot-seat-aur-khiladi-ka-rishta-1000294531?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "47",
+                    "duration": "72m",
+                    "episodeCode": "S16-E47",
+                    "episodeName": "Vatavaran Ka Prabhaav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep47_landscape_thumb.jpg",
+                    "updateDate": "15-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/vatavaran-ka-prabhaav-1000294473?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "46",
+                    "duration": "72m",
+                    "episodeCode": "S16-E46",
+                    "episodeName": "Hot Seat Ka Chamatkaar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep46_landscape_thumb.jpg",
+                    "updateDate": "14-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/hot-seat-ka-chamatkaar-1000294333?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "45",
+                    "duration": "98m",
+                    "episodeCode": "S16-E45",
+                    "episodeName": "Mahanayak Ka Janmutsav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep45_landscap_thumb.jpg",
+                    "updateDate": "11-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/mahanayak-ka-janmutsav-1000294086?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "44",
+                    "duration": "84m",
+                    "episodeCode": "S16-E44",
+                    "episodeName": "National Crush - Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep44_landscape_thumb.jpg",
+                    "updateDate": "10-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/national-crush-hot-seat-1000293978?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "43",
+                    "duration": "71m",
+                    "episodeCode": "S16-E43",
+                    "episodeName": "Gyaan Ki Super Power",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep43_landscape_thumb.jpg",
+                    "updateDate": "09-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ki-super-power-1000293836?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "42",
+                    "duration": "70m",
+                    "episodeCode": "S16-E42",
+                    "episodeName": "Mehnat, Aashayein Aur Sapne",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep42_landscape_thumb.jpg",
+                    "updateDate": "08-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/mehnat-aashayein-aur-sapne-1000293734?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "41",
+                    "duration": "69m",
+                    "episodeCode": "S16-E41",
+                    "episodeName": "Sapne Se Sach Tak Ki Doori",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep41_landscape_thumb.jpg",
+                    "updateDate": "07-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapne-se-sach-tak-ki-doori-1000293681?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "40",
+                    "duration": "85m",
+                    "episodeCode": "S16-E40",
+                    "episodeName": "Paralympics Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep40_landscape_thumb.jpg",
+                    "updateDate": "04-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/paralympics-special-1000293432?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "39",
+                    "duration": "67m",
+                    "episodeCode": "S16-E39",
+                    "episodeName": "Asambhav Ko Sambhav Karne Ki Siddhi",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep39_landscape_thumb.jpg",
+                    "updateDate": "03-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/asambhav-ko-sambhav-karne-ki-siddhi-1000293309?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "38",
+                    "duration": "75m",
+                    "episodeCode": "S16-E38",
+                    "episodeName": "Gandhi Ji Aur Shastri Ji Ko Naman",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep38_landscape_thumb.jpg",
+                    "updateDate": "02-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gandhi-ji-aur-shastri-ji-ko-naman-1000293172?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "37",
+                    "duration": "68m",
+                    "episodeCode": "S16-E37",
+                    "episodeName": "Abhaav Aur Prabhaav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep37_landscape_thumb.jpg",
+                    "updateDate": "01-10-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/abhaav-aur-prabhaav-1000293068?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "36",
+                    "duration": "68m",
+                    "episodeCode": "S16-E36",
+                    "episodeName": "Drishtikon Aur Soch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep36_landscape_thumb.jpg",
+                    "updateDate": "30-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/drishtikon-aur-soch-1000292992?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "35",
+                    "duration": "67m",
+                    "episodeCode": "S16-E35",
+                    "episodeName": "Khiladiyon Ke Liye Adbhut Mauka",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_35_270924_landscape_thumb.jpg",
+                    "updateDate": "27-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/khiladiyon-ke-liye-adbhut-mauka-1000292726?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "34",
+                    "duration": "69m",
+                    "episodeCode": "S16-E34",
+                    "episodeName": "Crorepati Banne Ka Gaurav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep34_landscap_thumb.jpg",
+                    "updateDate": "26-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/crorepati-banne-ka-gaurav-1000292609?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "33",
+                    "duration": "73m",
+                    "episodeCode": "S16-E33",
+                    "episodeName": "Mann Ka Vishwas",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep33_landscape_thumb.jpg",
+                    "updateDate": "25-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/mann-ka-vishwas-1000292517?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "32",
+                    "duration": "71m",
+                    "episodeCode": "S16-E32",
+                    "episodeName": "Gyaan Aur Dharm",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep32_landscape_thumb.jpg",
+                    "updateDate": "24-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-aur-dharm-1000292429?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "31",
+                    "duration": "65m",
+                    "episodeCode": "S16-E31",
+                    "episodeName": "Khud Ko Parakhne Ka Mauka",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_31_landscape_thumb.jpg",
+                    "updateDate": "23-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/khud-ko-parakhne-ka-mauka-1000292352?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "30",
+                    "duration": "76m",
+                    "episodeCode": "S16-E30",
+                    "episodeName": "Gyaan Ko Mila Suro Ka Saath",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_30_landscape_thumb.jpg",
+                    "updateDate": "20-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ko-mila-suro-ka-saath-1000292027?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "29",
+                    "duration": "73m",
+                    "episodeCode": "S16-E29",
+                    "episodeName": "Sambhaavnao Ka Mahasagar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep29_rev_landscape_thumb.jpg",
+                    "updateDate": "19-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sambhaavnao-ka-mahasagar-1000291876?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "28",
+                    "duration": "68m",
+                    "episodeCode": "S16-E28",
+                    "episodeName": "Hawa Mein Sher-O-Shayri",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep28_landscape_thumb.jpg",
+                    "updateDate": "18-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/hawa-mein-sher-o-shayri-1000291732?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "27",
+                    "duration": "68m",
+                    "episodeCode": "S16-E27",
+                    "episodeName": "Parivar Ka Sthaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep27_ind_17092024_landscape_thumb.jpg",
+                    "updateDate": "17-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/parivar-ka-sthaan-1000291587?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "26",
+                    "duration": "68m",
+                    "episodeCode": "S16-E26",
+                    "episodeName": "Sapno Ke Pankh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_26_landscape_thumb.jpg",
+                    "updateDate": "16-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapno-ke-pankh-1000291498?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "25",
+                    "duration": "74m",
+                    "episodeCode": "S16-E25",
+                    "episodeName": "Samarpit Bharat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep25_rev_landscape_thumb.jpg",
+                    "updateDate": "13-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/samarpit-bharat-1000291059?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "24",
+                    "duration": "67m",
+                    "episodeCode": "S16-E24",
+                    "episodeName": "Ek Kadam Se Shuruat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep24_landscape_thumb.jpg",
+                    "updateDate": "12-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ek-kadam-se-shuruat-1000290979?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "23",
+                    "duration": "75m",
+                    "episodeCode": "S16-E23",
+                    "episodeName": "Khush Rehne Ki Kala",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep23_landscape_thumb.jpg",
+                    "updateDate": "11-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/khush-rehne-ki-kala-1000290824?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "22",
+                    "duration": "70m",
+                    "episodeCode": "S16-E22",
+                    "episodeName": "Yuvao Ka Desh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep22_india_landscape_thumb.jpg",
+                    "updateDate": "10-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/yuvao-ka-desh-1000290666?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "21",
+                    "duration": "63m",
+                    "episodeCode": "S16-E21",
+                    "episodeName": "Ganesh Utsav Ka Shubh Aarambh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep21_landscape_thumb.jpg",
+                    "updateDate": "09-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ganesh-utsav-ka-shubh-aarambh-1000290544?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "20",
+                    "duration": "75m",
+                    "episodeCode": "S16-E20",
+                    "episodeName": "Tyoharo Ka Mausam",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_20_landscape_thumb.jpg",
+                    "updateDate": "06-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/tyoharo-ka-mausam-1000290028?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "19",
+                    "duration": "87m",
+                    "episodeCode": "S16-E19",
+                    "episodeName": "Sapna Aur Hausla",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep19_landscape_thumb.jpg",
+                    "updateDate": "05-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapna-aur-hausla-1000289829?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "18",
+                    "duration": "68m",
+                    "episodeCode": "S16-E18",
+                    "episodeName": "Sapno Ke Liye Unchi Challang",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep18_040924_landscape_thumb.jpg",
+                    "updateDate": "04-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/sapno-ke-liye-unchi-challang-1000289617?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "17",
+                    "duration": "69m",
+                    "episodeCode": "S16-E17",
+                    "episodeName": "Ek Avasar Ki Talash",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep17_ind_landscape_thumb.jpg",
+                    "updateDate": "03-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ek-avasar-ki-talash-1000289444?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "16",
+                    "duration": "65m",
+                    "episodeCode": "S16-E16",
+                    "episodeName": "Khel Ka Uddeshya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_16_landscape_thumb.jpg",
+                    "updateDate": "02-09-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/khel-ka-uddeshya-1000289254?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "15",
+                    "duration": "71m",
+                    "episodeCode": "S16-E15",
+                    "episodeName": "Women Take The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s15_ep15_india_landscape_thumb.jpg",
+                    "updateDate": "30-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/women-take-the-hot-seat-1000288419?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "14",
+                    "duration": "68m",
+                    "episodeCode": "S16-E14",
+                    "episodeName": "New Challenges On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_14_landcsape_thumb.jpg",
+                    "updateDate": "29-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/new-challenges-on-the-hot-seat-1000288169?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "13",
+                    "duration": "65m",
+                    "episodeCode": "S16-E13",
+                    "episodeName": "Chunautiyon Ka Dariya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep13_ind_landscape_thumb.jpg",
+                    "updateDate": "28-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/chunautiyon-ka-dariya-1000287918?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "12",
+                    "duration": "70m",
+                    "episodeCode": "S16-E12",
+                    "episodeName": "Shakti, Vishwas Aur Josh",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep12_ind_landscape_thumb.jpg",
+                    "updateDate": "27-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/shakti-vishwas-aur-josh-1000287642?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "11",
+                    "duration": "65m",
+                    "episodeCode": "S16-E11",
+                    "episodeName": "Kadam Kadam Par Chunautiyaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep11_landscape_thumb.jpg",
+                    "updateDate": "26-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kadam-kadam-par-chunautiyaan-1000287424?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "10",
+                    "duration": "65m",
+                    "episodeCode": "S16-E10",
+                    "episodeName": "Gyaan Ka Zariya",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep10_landscape_thumb.jpg",
+                    "updateDate": "23-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-zariya-1000287176?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "9",
+                    "duration": "70m",
+                    "episodeCode": "S16-E9",
+                    "episodeName": "Jeevan Ke Afsar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_09_landscape_thumb.jpg",
+                    "updateDate": "22-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/jeevan-ke-afsar-1000287081?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "8",
+                    "duration": "69m",
+                    "episodeCode": "S16-E8",
+                    "episodeName": "Laksh Ke Liye Spashtata",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_08_landscape_thumb.jpg",
+                    "updateDate": "21-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/laksh-ke-liye-spashtata-1000287016?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "7",
+                    "duration": "70m",
+                    "episodeCode": "S16-E7",
+                    "episodeName": "Gyaan Ke Vidvaan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/kaun_banega_crorepati_s16_ep_07_landscape_thumb.jpg",
+                    "updateDate": "20-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ke-vidvaan-1000286941?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "6",
+                    "duration": "70m",
+                    "episodeCode": "S16-E6",
+                    "episodeName": "Raksha Aur Vishwas Ka Uddharan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep06_ind_landscape_thumb.jpg",
+                    "updateDate": "19-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/raksha-aur-vishwas-ka-uddharan-1000286866?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "5",
+                    "duration": "70m",
+                    "episodeCode": "S16-E5",
+                    "episodeName": "Gyaan Ka Ittar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep05_landscape_thumb.jpg",
+                    "updateDate": "16-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-ittar-1000286569?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "4",
+                    "duration": "71m",
+                    "episodeCode": "S16-E4",
+                    "episodeName": "77 Years Of Indian Independence",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep04_landscap_thumb.jpg",
+                    "updateDate": "15-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/77-years-of-indian-independence-1000286485?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "3",
+                    "duration": "74m",
+                    "episodeCode": "S16-E3",
+                    "episodeName": "Aashayein Aur Akankshayein",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_kbc_s16_ep03_rev_landscap_thumb.jpg",
+                    "updateDate": "14-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/aashayein-aur-akankshayein-1000286395?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "2",
+                    "duration": "65m",
+                    "episodeCode": "S16-E2",
+                    "episodeName": "Gyaan Ka Haq",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep02_landscap_thumb.jpg",
+                    "updateDate": "13-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/gyaan-ka-haq-1000286290?watch=true"
+                },
+                {
+                    "seasonNumber": "16",
+                    "episodeNumber": "1",
+                    "duration": "72m",
+                    "episodeCode": "S16-E1",
+                    "episodeName": "Phir Se Saja Hain Gyaan Ka Manch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_set_kbc_s16_ep01_landscap_thumb.jpg",
+                    "updateDate": "12-08-2024",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/phir-se-saja-hain-gyaan-ka-manch-1000286174?watch=true"
+                }
+            ]
+        }
+    ]
+}
