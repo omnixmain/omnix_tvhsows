@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "115",
+                    "duration": "22m",
+                    "episodeCode": "S2-E115",
+                    "episodeName": "Radheya’s Fight To Save His Family",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026233/179188627569936_Hastinapur-Ke-Veer-Ep-115_landscape.jpg",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheyas-fight-to-save-his-family-1090547993?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "114",
                     "duration": "21m",
                     "episodeCode": "S2-E114",
