@@ -2,56 +2,216 @@
     "tvShows": [
         {
             "name": "Crime Patrol 2026",
-            "banner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-            "genre": "Drama, Entertainment",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024548/179015790076797_CRIME_PETROL_TAPE_web_detail_coverbg_V2.jpg",
+            "genre": "Crime",
             "rating": "8.0",
             "year": "2026",
-            "ageRating": "U/A 13+",
-            "streaming": "Sony TV",
-            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "ageRating": "U/A 16+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
             "language": "Hindi",
-            "ottReleaseDate": "September 30, 2026",
-            "description": "Sony LIV - Top premium streaming platform where you can watch popular TV Shows, Movies, Sports, Web Series. Enjoy your favourite Live TV Channels online",
+            "ottReleaseDate": "October 13, 2026",
+            "description": "Crime Patrol 2026 explores chilling crimes born from ordinary emotions that spiral into irreversible acts. Inspired by real cases that shocked the nation, each story reveals how a single lapse can devastate many lives. In a world stripped of fear, patience, and remorse, the show examines the thin line between human vulnerability and criminal intent, from Insaaniyat Se Haivaaniyat Tak.",
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "4",
+                    "episodeNumber": "20",
+                    "duration": "46m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": " Parcel Bomb - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025523/1790842523721472_Crime_Patrol_2026_EP_20_landscape_thumb.jpeg",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/parcel-bomb-part-2-1090546203?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
                     "duration": "45m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Watch In Your Language",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+                    "episodeCode": "S1-E19",
+                    "episodeName": " Parcel Bomb - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025393/1790755489519456_Crime_Patrol_2026_EP_19_landscape_thumb.jpeg",
                     "updateDate": "30-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/hastinapur-ke-veer-30th-september-2026/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/parcel-bomb-part-1-1090545845?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "47m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Aakrosh - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025257/1790669960826933_Crime_Patrol_2026_EP_18_landscape_thumb.jpeg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/aakrosh-part-2-1090545571?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "48m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Aakrosh - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025142/1790584266315317_Crime_Patrol_2026_EP_17_landscape_thumb.jpeg",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/aakrosh-part-1-1090545310?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "42m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Babli Aur Paakhi - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024645/1790244321704478_Crime-Patrol-2026_EP_16_landscape.jpg",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/babli-aur-paakhi-part-2-1090544087?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "42m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Babli aur Paakhi - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024538/1790148036767288_Crime-Patrol-2026_EP_15_landscape.jpg",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/babli-aur-paakhi-part-1-1090543868?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "46m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Katil Ishq - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024459/1790067293387771_Crime-Patrol-2026_EP_14_landscape.jpg",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/katil-ishq-part-2-1090543557?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "44m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Katil Ishq - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024355/1789979783457598_Crime-Patrol-2026_EP_13_landscape.jpg",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/katil-ishq-part-1-1090543344?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "45m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Daraar - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024071/1789626500910757_Crime-Patrol-2026_EP_12_landscape.jpg",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/daraar-part-2-1090542765?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "48m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Daraar - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024019/178954005857429_Crime-Patrol-2026_EP_11_landscape.jpg",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/daraar-part-1-1090542661?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "50m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Dafan - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023976/1789465440876286_Crime-Patrol-2026_EP_10_landscaep.jpg",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/dafan-part-2-1090542560?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "46m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Dafan - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023961/1789384565058738_Crime_Patrol_2026_EP_09_landscape_thumb.jpg",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/dafan-part-1-1090542521?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "47m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "#Love #Tu meri life hai ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023763/1789039411279119_Crime_Patrol_2026_EP_08_landscape_thumb.jpg",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/love-tu-meri-life-hai-1090542094?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "48m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Vishwaasghaat - Part 3",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023704/1788947009124728_Crime-Patrol-2026_EP_07_landscape.jpg",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/vishwaasghaat-part-3-1090541935?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "42m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Vishwaasghaat - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023651/1788856021312214_Crime-Patrol-2026_EP_06_landscape.jpg",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/vishwaasghaat-part-2-1090541809?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "45m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Vishwaasghaat - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023645/1788809038166860_Crime-Patrol-2026_EP_05_landscape_thumb.jpg",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/vishwaasghaat-part-1-1090541715?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "46m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Intezaar - Part 2 ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023404/1788420034466469_Crime-Patrol-2026_EP_04_landscape.jpg",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/intezaar-part-2-1090541359?watch=true"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "3",
                     "duration": "45m",
                     "episodeCode": "S1-E3",
-                    "episodeName": "Watch KBC Episodes for Free",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/hastinapur-ke-veer-30th-september-2026/"
+                    "episodeName": " Intezaar - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023371/178834884366854_Crime-Patrol-2026_EP_03_landscape.jpg",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/intezaar-part-1-1090541281?watch=true"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "2",
-                    "duration": "45m",
+                    "duration": "44m",
                     "episodeCode": "S1-E2",
-                    "episodeName": "Watch for Free",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/hastinapur-ke-veer-30th-september-2026/"
+                    "episodeName": "Bagaavat - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023314/1788262027885218_Crime-Patrol-2026_EP_02_landscape.jpg",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/bagaavat-part-2-1090541208?watch=true"
                 },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "1",
-                    "duration": "45m",
+                    "duration": "43m",
                     "episodeCode": "S1-E1",
-                    "episodeName": "Watch Now",
-                    "episodeBanner": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
-                    "updateDate": "30-09-2026",
-                    "episodeUrl": "https://serialtvmaza.net/hastinapur-ke-veer-30th-september-2026/"
+                    "episodeName": "Bagaavat - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023235/1788170023069112_Crime-Patrol-2026_EP_01_landscape.jpg",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/crime-patrol-2026-1790007847/bagaavat-part-1-1090541077?watch=true"
                 }
             ]
         }
