@@ -1,0 +1,559 @@
+{
+    "tvShows": [
+        {
+            "name": "Vashikaranam - Kis Par Rakhe Vishwas",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1790006788/detailCoverBgV2/1774335006337_./Vashikaran_3_web_detail_coverbg_V2.jpg",
+            "genre": "Drama",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 13, 2026",
+            "description": "In a remote Maharashtra village, Suman, a feared matriarch, secretly practices Vashikaran - an occult ritual believed to control people, situations, and even spirits. When a farm worker's mother publicly humiliates her, the woman is mysteriously found dead the next day. Soon, Suman's tantric mentor is discovered hanging from a tree.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "23m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "The Final Truth",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018601/1779959102759945_Vashirnam-EPISODE-54_landscape.jpg",
+                    "updateDate": "29-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/the-final-truth-1090532345?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "24m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Police Crack The Case",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018520/1779888773460534_Vashirnam-EPISODE-53_landscape.jpg",
+                    "updateDate": "28-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/police-crack-the-case-1090531888?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "23m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "A Big Warning From Aayi",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018444/1779806864235309_Vashirnam-EPISODE-52_landscape_thumb.jpg",
+                    "updateDate": "27-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/a-big-warning-from-aayi-1090531659?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "23m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Aayi’s Firm Decision",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018373/1779718607526675_Vashirnam-EPISODE-51_landscape.jpg",
+                    "updateDate": "26-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/aayis-firm-decision-1090531498?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "24m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Possessed Mandar Emerges",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018288/1779626029092253_Vashirnam-EPISODE-50_landscape.jpg",
+                    "updateDate": "25-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/possessed-mandar-emerges-1090531302?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "24m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Malti’s Hidden Joy",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018193/1779377130479748_Vashirnam_EPISODE_49_landscape_thumb.jpg",
+                    "updateDate": "22-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/maltis-hidden-joy-1090530964?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "23m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "Aai Doubts Malti",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018154/1779281222871127_Vashirnam-EPISODE-48_landscape.jpg",
+                    "updateDate": "21-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/aai-doubts-malti-1090530841?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "23m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Malti’s Confession",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018143/1779204563433796_Vashirnam_EPISODE_47_landscape_thumb.jpg",
+                    "updateDate": "20-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/maltis-confession-1090530669?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "24m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Tatya’s Call",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018124/1779119049466890_Vashirnam-EPISODE-46_landscape_thumb.jpg",
+                    "updateDate": "19-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/tatyas-call-1090530639?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "22m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Baburao's Secret Revealed?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018098/177902778521820_Vashikarnam-EPISODE-45_landscape_thumb.jpg",
+                    "updateDate": "18-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/baburaos-secret-revealed-1090530611?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "23m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "The Mystery of Baburao",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018014/1778767763027290_Vashirnam-EPISODE-44_landscape.jpg",
+                    "updateDate": "15-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/the-mystery-of-baburao-1090530325?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "24m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "Accusations Against Suman",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017998/1778684795588498_Vashirnam-EPISODE-43_landscape_thumb.jpg",
+                    "updateDate": "14-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/accusations-against-suman-1090530263?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "23m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Mystery Of Surekha's Weakness",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017969/1778599483146460_Vashikarnam_EP42_landscape_thumb.jpg",
+                    "updateDate": "13-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/mystery-of-surekhas-weakness-1090530203?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "23m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Suman’s Next Move",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017948/1778561405198380_Vashirnam_EPISODE41_landscape_thumb.jpg",
+                    "updateDate": "12-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/sumans-next-move-1090530169?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "24m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Madhav’s Crucial Conversation",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017943/1778509372103162_Vashirnam-EPISODE-40_landscape.jpg",
+                    "updateDate": "11-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/madhavs-crucial-conversation-1090530161?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "23m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Suman’s Outburst",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017860/1778234545741890_Vashirnam-EPISODE-39_landscape.jpg",
+                    "updateDate": "08-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/sumans-outburst-1090529989?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "24m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Trapped Soul",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017820/1778150723801107_Vashirnam-EPISODE-38_landscape.jpg",
+                    "updateDate": "07-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/trapped-soul-1090529889?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "23m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Tatya’s Appeal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017793/1778076956547877_Vashikranam_Season_01_EP_37_landscape.jpg",
+                    "updateDate": "06-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/tatyas-appeal-1090529826?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "24m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Suman Is Under Arrest ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017756/1777991056573104_Vashirnam-EPISODE-36_landscape_thumb.jpg",
+                    "updateDate": "05-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/suman-is-under-arrest-1090529777?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "25m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "The Family Land Debate",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017729/1777909217127848_Vashirnam_EPISODE_35_landscape_thumb.jpg",
+                    "updateDate": "04-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/the-family-land-debate-1090529733?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "23m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Nilesh Meets Surekha ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017664/1777626019248779_Vashirnam-EPISODE-34_landscape.jpg",
+                    "updateDate": "01-05-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/nilesh-meets-surekha-1090529598?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "24m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "A Taste Of Betrayal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017626/1777553303777390_Vashirnam-EPISODE-33_landscape.jpg",
+                    "updateDate": "30-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/a-taste-of-betrayal-1090529506?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "23m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Munjya’s Mischief",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017593/1777471706934878_Vashirnam-EPISODE-32_landscape.jpg",
+                    "updateDate": "29-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/munjyas-mischief-1090529430?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "24m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Surekha Summons Anna ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017559/1777387143384153_Vashirnam_EP_31_landscape_thumb.jpg",
+                    "updateDate": "28-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/surekha-summons-anna-1090529233?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "23m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Malti’s Silent Wish",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017460/177702485854376_Vashirnam-EPISODE-30_landscape.jpg",
+                    "updateDate": "24-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/maltis-silent-wish-1090528827?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "22m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Suman's Vow ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017452/1776953008790792_Vashirnam_EPISODE_29_landscape_thumb.jpg",
+                    "updateDate": "23-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/sumans-vow-1090528778?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "25m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Mandar Sets Out To Find Pankaj ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017430/1776865535710178_Vashirnam_EPISODE28_landscape_thumb.jpg",
+                    "updateDate": "22-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/mandar-sets-out-to-find-pankaj-1090528675?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "24m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "The Unidentified Body ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017407/1776781730301646_Vashikrnam_EPISODE_27_landscape_thumb.jpg",
+                    "updateDate": "21-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/the-unidentified-body-1090528610?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "24m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Madhav Confronts Suman",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017383/1776696063383150_VASHIKRNAM-EPISODE-26_landscape.jpg",
+                    "updateDate": "20-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/madhav-confronts-suman-1090528571?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "23m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "Aai’s Shocking Decision ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017322/1776435670584912_Vashirnam-EPISODE-25_landscape.jpg",
+                    "updateDate": "17-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/aais-shocking-decision-1090528325?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "23m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Property Ki Jaankaari",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017276/1776342460293242_Vashirnam-EPISODE-24_landscape.jpg",
+                    "updateDate": "16-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/property-ki-jaankaari-1090528191?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "24m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Ghar Ki Jaydaad",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017248/1776255457603470_Vashikarnam_EP_23_landscape.jpg",
+                    "updateDate": "15-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/ghar-ki-jaydaad-1090528113?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "23m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Anjali's Revelation",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017213/1776173257715521_Vashikranam_Season_01_EP_22_landscape_thumb.jpg",
+                    "updateDate": "14-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/anjalis-revelation-1090528017?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "23m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Surekha Confronts Madhav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017179/1776084598755376_Vashikarnam-EPISODE-21_landscape.jpg",
+                    "updateDate": "13-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/surekha-confronts-madhav-1090526918?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "21m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Anjali Returns Home",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017112/1775820950375650_Vashikarnam_EP_20_landscape.jpg",
+                    "updateDate": "10-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/anjali-returns-home-1090526623?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "22m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Mandar's Bride To Be",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017066/1775739736520473_Vashikranam_Season_01_EP_19_landscape.jpg",
+                    "updateDate": "09-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/mandars-bride-to-be-1090526362?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "24m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Suitable Bride For Mandar",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017017/1775646085646798_Vashikranam_Season_01_EP_18_landscape.jpg",
+                    "updateDate": "08-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/suitable-bride-for-mandar-1090525218?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "24m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Suman Meets Madhav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016986/1775559407242374_Vashikarnam_EP_17__tv_background.jpg",
+                    "updateDate": "07-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/suman-meets-madhav-1090524982?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "23m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Madhav Gets The Keys",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016962/177547778768367_Vashikarnam_EP_16_landscape.jpg",
+                    "updateDate": "06-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/madhav-gets-the-keys-1090522166?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "23m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Allegations On Suman",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016868/1775221117382936_Vashikranam-Episode-15_landscape.jpg",
+                    "updateDate": "03-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/allegations-on-suman-1090512680?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "24m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Surekha In Danger",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016830/1775133337582234_Vashikranam-Episode-14_landscape.jpg",
+                    "updateDate": "02-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/surekha-in-danger-1090509692?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "24m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Surekha Confronts Suman ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016802/1775054957197280_VASHIRANAM_EPISODE_13_landscape_thumb.jpg",
+                    "updateDate": "01-04-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/surekha-confronts-suman-1090508117?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "23m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Suman's Good News",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016755/1774967106621945_Vashikranam-EPISODE-12_landscape.jpg",
+                    "updateDate": "31-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/sumans-good-news-1090508001?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "24m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Police Waalo Ki Puja",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016720/1774867879200724_Vashikranam_Season_01_EP_11_landscape.jpg",
+                    "updateDate": "30-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/police-waalo-ki-puja-1090507948?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "24m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Dilip's Revelation",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016637/1774614277571677_Vashikranam-EPISODE-10_landscape.jpg",
+                    "updateDate": "27-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/dilips-revelation-1090507750?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "24m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Madhav Comes To Meet Suman",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016608/1774529287646229_Vashikranam-EPISODE-09_landscape.jpg",
+                    "updateDate": "26-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/madhav-comes-to-meet-suman-1090507687?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "25m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Dilip Is Interrogated",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016584/17744436443228_Vashikarnam_EP_08_landscape.jpg",
+                    "updateDate": "25-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/dilip-is-interrogated-1090507629?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "24m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Police Arrives At Suman's House",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016533/1774359500532498_VASHIKRANAM-EP-07_landscape_thumb.jpg",
+                    "updateDate": "24-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/police-arrives-at-sumans-house-1090507543?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "23m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Gurav's Interrogation",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016497/177426612935118_VASHIKARNAM_Ep06_landscape_thumb.jpg",
+                    "updateDate": "23-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/guravs-interrogation-1090507512?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "25m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "The Family Speaks To Suman",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016447/1774010661478338_Vashikranam-Season-1-Ep-05_landscape_thumb.jpg",
+                    "updateDate": "20-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/the-family-speaks-to-suman-1090507298?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "25m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Death In The Village",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016396/1773924387126715_Vashikarnam_EPISDOE_04_landscape.jpg",
+                    "updateDate": "19-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/death-in-the-village-1090507187?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "24m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Madhav Is Made To Promise",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016354/1773842339376976_Vashikranam-Season-01-EP-03-International-Master-NEW_landscape.jpg",
+                    "updateDate": "18-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/madhav-is-made-to-promise-1090507079?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "24m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Prasad's Request",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016313/1773753631596233_Vashikranam_Ep_02_landscape.jpg",
+                    "updateDate": "17-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/prasads-request-1090506914?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Satta Ka Mahatva",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016264/1773666676427870_Vashikarnam_Ep_01_landscape.jpg",
+                    "updateDate": "16-03-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/vashikaranam-kis-par-rakhe-vishwas-1790006788/satta-ka-mahatva-1090506798?watch=true"
+                }
+            ]
+        }
+    ]
+}
