@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "18m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Maa Chandraghanta",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026246/1791896141112551_Mahostav-Adi-Shakti-Ka_EP03__Tv_bg.jpg",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/mahotsav-aadi-shakti-ka-1790007885/maa-chandraghanta-1090548009?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "2",
                     "duration": "21m",
                     "episodeCode": "S1-E2",
