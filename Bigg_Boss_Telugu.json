@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "38",
+                    "duration": "45m",
+                    "episodeCode": "S10-E38",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "37",
                     "duration": "1h 12m",
                     "episodeCode": "S10-E37",
