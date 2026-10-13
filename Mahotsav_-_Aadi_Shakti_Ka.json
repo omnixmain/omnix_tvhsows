@@ -1,0 +1,39 @@
+{
+    "tvShows": [
+        {
+            "name": "Mahotsav - Aadi Shakti Ka",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026095/1791612308744243_Mohatsav_Aadi_Shakti_Ka_web_detail_coverbg_V2.jpg",
+            "genre": "Devotional",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 7+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 13, 2026",
+            "description": "Celebrate the spirit of Navratri with the special festive series, hosted by Shruti Anand. Journey through the inspiring stories of Goddess Durga's nine divine avatars as mythology, sacred traditions and soulful music come together. Each episode unveils the rich cultural essence of Navratri, leading to the grand celebration of Dussehra.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "21m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Maa Brahmacharini",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026183/1791804744611773_Mahostav-Adi-Shakti-Ka_EP02_landscape.jpg",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/mahotsav-aadi-shakti-ka-1790007885/maa-brahmacharini-1090547882?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "21m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Maa Shailputri",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026145/1791715614893352_Mahostav-Adi-Shakti-Ka_EP01_landscape_thumb.jpg",
+                    "updateDate": "11-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/mahotsav-aadi-shakti-ka-1790007885/maa-shailputri-1090547781?watch=true"
+                }
+            ]
+        }
+    ]
+}
