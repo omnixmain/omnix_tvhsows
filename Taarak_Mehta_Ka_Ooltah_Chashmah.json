@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4840",
+                    "duration": "19m",
+                    "episodeCode": "S49-E4840",
+                    "episodeName": "The Perfect Ending",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026255/1791901540029873_Taarak_Mehta_Ka_Oolta_Chashmah_4840_landscape.jpg",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/the-perfect-ending-1090548003?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4839",
                     "duration": "21m",
                     "episodeCode": "S49-E4839",
