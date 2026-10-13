@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 12, 2026",
+            "ottReleaseDate": "October 13, 2026",
             "description": "Mahadev's 'perfect' family is breaking apart, all because of Mogra, his beloved daughter-in-law. Can Rajji and Dheeraj protect the family and Mahadev's legacy? Watch Mahadev & Sons - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "215",
+                    "duration": "27m",
+                    "episodeCode": "S1-E215",
+                    "episodeName": "Dheeraj Comforts Rajji",
+                    "episodeBanner": "https://img10.hotstar.com/image/upload/f_auto,h_1080/sources/r1/cms/prod/6701/1791825216701-h",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/mahadev-and-sons-13th-october-2026-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "214",
