@@ -15,8 +15,18 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "39",
+                    "duration": "1h 8m",
+                    "episodeCode": "S8-E39",
+                    "episodeName": "BBMal Day 38: The Murder Mystery Deepens",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/598/1791984190598-h",
+                    "updateDate": "14-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "38",
-                    "duration": "1h 7m",
+                    "duration": "1h 5m",
                     "episodeCode": "S8-E38",
                     "episodeName": "BBMal Day 37: A Deadly Twist in the Underworld",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/91/1791895960091-h",
