@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "116",
+                    "duration": "22m",
+                    "episodeCode": "S2-E116",
+                    "episodeName": "Radheya’s Journey To Hastinapur",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026305/1791966871286576_Hastinapur_Ke_Veer_Ep_116_SONY_landscape_thumbnail.jpeg",
+                    "updateDate": "14-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheyas-journey-to-hastinapur-1090548203?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "115",
                     "duration": "22m",
                     "episodeCode": "S2-E115",
