@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "19m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Maa Skandamata",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026430/1792066777547602_Mahostav_Adi_Shakti_Ka_EP05_landscape_thumbnail.jpg",
+                    "updateDate": "15-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/mahotsav-aadi-shakti-ka-1790007885/maa-skandamata-1090548528?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "4",
                     "duration": "19m",
                     "episodeCode": "S1-E4",
