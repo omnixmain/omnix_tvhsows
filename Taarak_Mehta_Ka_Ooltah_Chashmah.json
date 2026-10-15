@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4842",
+                    "duration": "22m",
+                    "episodeCode": "S49-E4842",
+                    "episodeName": "Champaklal's Generous Donation",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026419/1792062596038744_Taarak_Mehta_Ka_Oolta_Chashmah_4842_landscape.jpg",
+                    "updateDate": "15-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/champaklals-generous-donation-1090548467?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4841",
                     "duration": "21m",
                     "episodeCode": "S49-E4841",
