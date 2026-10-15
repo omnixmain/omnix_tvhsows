@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "88",
+                    "duration": "22m",
+                    "episodeCode": "S1-E88",
+                    "episodeName": "EP 88 | KAISI TERI DILLAGI",
+                    "episodeBanner": "https://dt87jj20glo1t.cloudfront.net/images/KTD_1920x1080_Ep%2088-15102026175745",
+                    "updateDate": "15-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "87",
                     "duration": "22m",
                     "episodeCode": "S1-E87",
