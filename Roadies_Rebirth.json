@@ -1,0 +1,449 @@
+{
+    "tvShows": [
+        {
+            "name": "Roadies Rebirth",
+            "banner": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTAR_DTH/SERIES/6a5fcd26a3ce58b7ec9f6149/images/PORTRAIT/1767008842913-v?o=production",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 16, 2026",
+            "description": "A new era begins as Roadies returns with Rebirth! 6 Gang Leaders, 2 gangs and the ultimate OGs vs NewGs showdown. Who will rule the road? Watch Roadies - Rebirth - Hindi Reality Adventure serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "21",
+                    "episodeNumber": "1",
+                    "duration": "1h 37m",
+                    "episodeCode": "S21-E1",
+                    "episodeName": "Let the Auditions Begin!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2138/1792157892138-h",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/mtv-roadies-rebirth-16th-october-2026-video/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "42",
+                    "duration": "1h 52m",
+                    "episodeCode": "S20-E42",
+                    "episodeName": "The Grand Finale",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9203/1748617059203-h",
+                    "updateDate": "01-06-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "41",
+                    "duration": "2h 7m",
+                    "episodeCode": "S20-E41",
+                    "episodeName": "Agni Pariksha",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7188/1748508487188-h",
+                    "updateDate": "31-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "40",
+                    "duration": "1h 28m",
+                    "episodeCode": "S20-E40",
+                    "episodeName": "Patta Galat, Pasa Palat",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5368/1748068535368-h",
+                    "updateDate": "25-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "39",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E39",
+                    "episodeName": "Ticket to Finale",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2899/1747977172899-h",
+                    "updateDate": "24-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "38",
+                    "duration": "1h 23m",
+                    "episodeCode": "S20-E38",
+                    "episodeName": "Do Teer, Do Nishaane",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3323/1747559393323-h",
+                    "updateDate": "18-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "37",
+                    "duration": "1h 2m",
+                    "episodeCode": "S20-E37",
+                    "episodeName": "Chhal aur Bal",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2730/1747398012730-h",
+                    "updateDate": "17-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "36",
+                    "duration": "1h 15m",
+                    "episodeCode": "S20-E36",
+                    "episodeName": "Alliance Pe No Reliance",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6174/1746960576174-h",
+                    "updateDate": "11-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "35",
+                    "duration": "1h 1m",
+                    "episodeCode": "S20-E35",
+                    "episodeName": "Leap of Faith",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4718/1746861164718-h",
+                    "updateDate": "10-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "34",
+                    "duration": "1h 28m",
+                    "episodeCode": "S20-E34",
+                    "episodeName": "Boli Ke Peeche Kya Hai!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5585/1746348035585-h",
+                    "updateDate": "04-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "33",
+                    "duration": "1h 14m",
+                    "episodeCode": "S20-E33",
+                    "episodeName": "Potli Se Loot Li",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9033/1746265829033-h",
+                    "updateDate": "03-05-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "32",
+                    "duration": "1h 37m",
+                    "episodeCode": "S20-E32",
+                    "episodeName": "The Beginning of the End",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9105/1745651899105-h",
+                    "updateDate": "27-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "31",
+                    "duration": "57m",
+                    "episodeCode": "S20-E31",
+                    "episodeName": "Bluffmasters",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9555/1745651789555-h",
+                    "updateDate": "26-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "30",
+                    "duration": "1h 5m",
+                    "episodeCode": "S20-E30",
+                    "episodeName": "Chappal Chapait!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8874/1745134668874-h",
+                    "updateDate": "20-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "29",
+                    "duration": "1h 28m",
+                    "episodeCode": "S20-E29",
+                    "episodeName": "Luck aur Lifafa",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/318/1745052250318-h",
+                    "updateDate": "19-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "28",
+                    "duration": "58m",
+                    "episodeCode": "S20-E28",
+                    "episodeName": "Sher aur Shikaar",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7681/1744532567681-h",
+                    "updateDate": "13-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "27",
+                    "duration": "1h 12m",
+                    "episodeCode": "S20-E27",
+                    "episodeName": "Hal, Haalat, aur Haalaat",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/959/1744442600959-h",
+                    "updateDate": "12-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "26",
+                    "duration": "1h 6m",
+                    "episodeCode": "S20-E26",
+                    "episodeName": "Peeth pe Vaar",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9530/1743828299530-h",
+                    "updateDate": "06-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "25",
+                    "duration": "59m",
+                    "episodeCode": "S20-E25",
+                    "episodeName": "Anjar, Panjar, Khanjar",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9738/1743827349738-h",
+                    "updateDate": "05-04-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "24",
+                    "duration": "1h 3m",
+                    "episodeCode": "S20-E24",
+                    "episodeName": "Jolly Jolly Entertainment",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2267/1743319052267-h",
+                    "updateDate": "30-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "23",
+                    "duration": "1h 28m",
+                    "episodeCode": "S20-E23",
+                    "episodeName": "Wildest Wildcard",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/476/1743229560476-h",
+                    "updateDate": "29-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "22",
+                    "duration": "1h 20m",
+                    "episodeCode": "S20-E22",
+                    "episodeName": "Knock Knock aur Lock",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9844/1742626859844-h",
+                    "updateDate": "23-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "21",
+                    "duration": "1h 35m",
+                    "episodeCode": "S20-E21",
+                    "episodeName": "Dushman Ya Dost",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5418/1742625695418-h",
+                    "updateDate": "22-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "20",
+                    "duration": "1h 21m",
+                    "episodeCode": "S20-E20",
+                    "episodeName": "Kela Jhamela",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6964/1742116346964-h",
+                    "updateDate": "16-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "19",
+                    "duration": "1h 5m",
+                    "episodeCode": "S20-E19",
+                    "episodeName": "Waris Ya Laawaris",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7997/1742036787997-h",
+                    "updateDate": "15-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "18",
+                    "duration": "1h 17m",
+                    "episodeCode": "S20-E18",
+                    "episodeName": "Ghar ka Bhedi",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6326/1741504256326-h",
+                    "updateDate": "09-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "17",
+                    "duration": "1h 5m",
+                    "episodeCode": "S20-E17",
+                    "episodeName": "Kaata, Baata, aur Matka",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/162/1741421530162-h",
+                    "updateDate": "08-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "16",
+                    "duration": "1h 5m",
+                    "episodeCode": "S20-E16",
+                    "episodeName": "Hunter Phatack, Roadiums Jhatack",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3902/1740909603902-h",
+                    "updateDate": "02-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "15",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E15",
+                    "episodeName": "Deal de Diya Hai...",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3946/1740806923946-h",
+                    "updateDate": "01-03-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "14",
+                    "duration": "1h 28m",
+                    "episodeCode": "S20-E14",
+                    "episodeName": "Chhal, Chalaaki, aur Champions",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4844/1740309154844-h",
+                    "updateDate": "23-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "13",
+                    "duration": "1h 5m",
+                    "episodeCode": "S20-E13",
+                    "episodeName": "Clash of Kishkindha",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2846/1740144322846-h",
+                    "updateDate": "22-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "12",
+                    "duration": "1h 16m",
+                    "episodeCode": "S20-E12",
+                    "episodeName": "Jhol aur Jury List",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3629/1739629883629-h",
+                    "updateDate": "16-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "11",
+                    "duration": "56m",
+                    "episodeCode": "S20-E11",
+                    "episodeName": "Ghoom Barabar Ghoom",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9312/1739532029312-h",
+                    "updateDate": "15-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "10",
+                    "duration": "51m",
+                    "episodeCode": "S20-E10",
+                    "episodeName": "O BhaiSabu!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8026/1739211218026-h",
+                    "updateDate": "09-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "9",
+                    "duration": "56m",
+                    "episodeCode": "S20-E9",
+                    "episodeName": "Haan Main Roadie Hoon",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/153/1739211400153-h",
+                    "updateDate": "08-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "8",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E8",
+                    "episodeName": "Salute, Stories, aur Strength",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1682/1739389281682-h",
+                    "updateDate": "02-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "7",
+                    "duration": "53m",
+                    "episodeCode": "S20-E7",
+                    "episodeName": "Bhaichara on Top ya Flop",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9926/1738668159926-h",
+                    "updateDate": "01-02-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "6",
+                    "duration": "1h 0m",
+                    "episodeCode": "S20-E6",
+                    "episodeName": "Dhoka aur Doobti Nauka",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4674/1737889214674-h",
+                    "updateDate": "26-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "5",
+                    "duration": "1h 17m",
+                    "episodeCode": "S20-E5",
+                    "episodeName": "Systumm Pe Sawaal",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3617/1739389123617-h",
+                    "updateDate": "25-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "4",
+                    "duration": "57m",
+                    "episodeCode": "S20-E4",
+                    "episodeName": "Gangleaders Got Talent",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5836/1739389005836-h",
+                    "updateDate": "19-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "3",
+                    "duration": "56m",
+                    "episodeCode": "S20-E3",
+                    "episodeName": "Ilzaam pe ilzaam, Elvish ke naam",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7669/1738838617669-h",
+                    "updateDate": "18-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "2",
+                    "duration": "52m",
+                    "episodeCode": "S20-E2",
+                    "episodeName": "Kya Vaat, Kya Vaat, Kya Vaat!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9196/1738838479196-h",
+                    "updateDate": "12-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "1",
+                    "duration": "56m",
+                    "episodeCode": "S20-E1",
+                    "episodeName": "Roadies XX: The Grand Premiere",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9322/1738838479322-h",
+                    "updateDate": "11-01-2025",
+                    "episodeUrl": "https://serialtvmaza.to/mtv-roadies-rebirth-16th-october-2026-video/"
+                }
+            ]
+        }
+    ]
+}
