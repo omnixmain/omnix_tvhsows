@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "45m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4998/1792246054998-i",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sa-re-ga-ma-pa-2026-17th-october-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "48",
                     "duration": "1h 3m",
                     "episodeCode": "S1-E48",
@@ -81,7 +91,7 @@
                     "episodeName": "BBBan Day 41: Dada’s Reality Check",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9848/1791641609848-h",
                     "updateDate": "10-10-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-17th-october-2026-watch-online-full-episode-42/"
                 },
                 {
                     "seasonNumber": "1",
@@ -321,7 +331,7 @@
                     "episodeName": "BBBan Day 17: A Royal Battle for Luxury Budget",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6743/1789563706743-h",
                     "updateDate": "16-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/108-base-hospital-uri-17th-october-2026-watch-online-full-episode-18/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -491,7 +501,7 @@
                     "episodeName": "Grand Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3125/1788162843125-h",
                     "updateDate": "30-08-2026",
-                    "episodeUrl": "https://serialtvmaza.to/indian-idol-legends-return-17th-october-2026-watch-online-full-episode-1/"
+                    "episodeUrl": ""
                 }
             ]
         }
