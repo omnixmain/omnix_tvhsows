@@ -10,9 +10,19 @@
             "streaming": "SonyLIV",
             "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 16, 2026",
+            "ottReleaseDate": "October 17, 2026",
             "description": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
             "episodes": [
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "50",
+                    "duration": "100m",
+                    "episodeCode": "S18-E50",
+                    "episodeName": "Mika Singh And Falguni Pathak Take The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026485/1792151387484733_KAUN_BANEGA_CROREPATI_S18_EP_50_landscape_thumbnail.jpeg",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/mika-singh-and-falguni-pathak-take-the-hot-seat-1090548743?watch=true"
+                },
                 {
                     "seasonNumber": "18",
                     "episodeNumber": "49",
