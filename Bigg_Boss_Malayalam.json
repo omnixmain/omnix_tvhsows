@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "42",
+                    "duration": "45m",
+                    "episodeCode": "S8-E42",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-17th-october-2026-watch-online-full-episode-42/"
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "41",
                     "duration": "1h 12m",
                     "episodeCode": "S8-E41",
@@ -251,7 +261,7 @@
                     "episodeName": "BBMal Day 17: Bans, Brawls and Blockades",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5826/1790172065826-h",
                     "updateDate": "23-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/108-base-hospital-uri-17th-october-2026-watch-online-full-episode-18/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "8",
@@ -341,7 +351,7 @@
                     "episodeName": "BBMal Day 8: Re-Election and Red Paint Revenge",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7495/1789383817495-h",
                     "updateDate": "14-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/india-ke-top-1-17th-october-2026-watch-online-full-episode-9/"
                 },
                 {
                     "seasonNumber": "8",
@@ -421,7 +431,7 @@
                     "episodeName": "BBMal: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6273/1788698896273-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/indian-idol-legends-return-17th-october-2026-watch-online-full-episode-1/"
+                    "episodeUrl": ""
                 }
             ]
         }
