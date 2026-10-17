@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "19m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Maa Kaalratri",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026562/1792232175297812_Mahostav_Adi_Shakti_Ka_EP07_landscape_thumbnail.jpg",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/mahotsav-aadi-shakti-ka-1790007885/maa-kaalratri-1090548938?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "6",
                     "duration": "22m",
                     "episodeCode": "S1-E6",
