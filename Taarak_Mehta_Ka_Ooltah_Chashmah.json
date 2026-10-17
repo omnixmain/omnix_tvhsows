@@ -10,9 +10,19 @@
             "streaming": "SonyLIV",
             "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 16, 2026",
+            "ottReleaseDate": "October 17, 2026",
             "description": "Taarak Mehta Ka Ooltah Chashmah is a SAB Comedy Show inspired from the famous humorous column, Duniya Ne Undha Chashmah written by the eminent Gujarati writer, Mr. Tarak Mehta.",
             "episodes": [
+                {
+                    "seasonNumber": "49",
+                    "episodeNumber": "4843",
+                    "duration": "21m",
+                    "episodeCode": "S49-E4843",
+                    "episodeName": "Jethalal's Investment Nightmare",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026487/1792152746091647_Taarak_Mehta_Ka_Oolta_Chashmah_4843_landscape.jpg",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/jethalals-investment-nightmare-1090548660?watch=true"
+                },
                 {
                     "seasonNumber": "49",
                     "episodeNumber": "4842",
