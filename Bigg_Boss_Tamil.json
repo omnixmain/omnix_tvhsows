@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "October 16, 2026",
+            "ottReleaseDate": "October 17, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "41",
-                    "duration": "1h 10m",
+                    "duration": "1h 9m",
                     "episodeCode": "S10-E41",
                     "episodeName": "BBTam Day 40: Bigg Boss Award Night",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/564/1792150490564-h",
