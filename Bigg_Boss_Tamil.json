@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "42",
+                    "duration": "45m",
+                    "episodeCode": "S10-E42",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "41",
                     "duration": "1h 9m",
                     "episodeCode": "S10-E41",
@@ -1481,6 +1491,66 @@
                     "episodeName": "BBTam: Grand Launch",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/726/1759663820726-h",
                     "updateDate": "05-10-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "106",
+                    "duration": "3h 54m",
+                    "episodeCode": "S8-E106",
+                    "episodeName": "Day 105: Grand Finale",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9701/1737291369701-h",
+                    "updateDate": "19-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "105",
+                    "duration": "1h 16m",
+                    "episodeCode": "S8-E105",
+                    "episodeName": "Day 104: The Last Day in BB House",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5295/1737204695295-h",
+                    "updateDate": "18-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "104",
+                    "duration": "1h 50m",
+                    "episodeCode": "S8-E104",
+                    "episodeName": "Day 103: Let's Rewind",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2216/1737132932216-h",
+                    "updateDate": "17-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "103",
+                    "duration": "1h 39m",
+                    "episodeCode": "S8-E103",
+                    "episodeName": "Day 102: Final Race for the Money Box",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7122/1737039437122-h",
+                    "updateDate": "16-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "102",
+                    "duration": "1h 17m",
+                    "episodeCode": "S8-E102",
+                    "episodeName": "Day 101: Ma Ka Pa in the House!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6829/1736955856829-h",
+                    "updateDate": "15-01-2025",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "101",
+                    "duration": "1h 35m",
+                    "episodeCode": "S8-E101",
+                    "episodeName": "Day 100: Pongalo Pongal!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7651/1736868217651-h",
+                    "updateDate": "14-01-2025",
                     "episodeUrl": ""
                 },
                 {
