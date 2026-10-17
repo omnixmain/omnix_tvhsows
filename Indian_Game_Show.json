@@ -2,15 +2,15 @@
     "tvShows": [
         {
             "name": "Indian Game Show",
-            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026009/1791448636615483_INDIAN_GAME_SHOW_2026_web_detail_coverbg_V2.jpg",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026009/1791448636568483_INDIAN_GAME_SHOW_2026_poster-image.jpg",
             "genre": "Game show, Comedy",
             "rating": "8.0",
             "year": "2021",
             "ageRating": "U/A 13+",
             "streaming": "SonyLIV",
-            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 17, 2026",
+            "ottReleaseDate": "August 11, 2026",
             "description": "Indian Game Show with Bharti and Harssh is a lively entertainment game show hosted by the popular duo. Celebrities take on fun physical, comedy and skill-based challenges, competing for exciting prizes while facing amusing punishments. With audience participation, engaging interactions and Harssh-Bharti's signature humour, each episode delivers laughter, surprises and family entertainment.",
             "episodes": [
                 {
