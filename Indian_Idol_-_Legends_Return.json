@@ -1,0 +1,29 @@
+{
+    "tvShows": [
+        {
+            "name": "Indian Idol - Legends Return",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026303/1791964741330862_Indian_Idol_New_Image_1920x1080_clean_Airtel_Landscape.jpg",
+            "genre": "Reality, Music",
+            "rating": "8.0",
+            "year": "2004",
+            "ageRating": "U",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 17, 2026",
+            "description": "Indian Idol - Legends Return features a unique two-phase journey. Phase 1 features Himesh Reshammiya and 24 former contestants competing in duets evaluated by peer scores and a secret judge score, forming a winning jodi. This pair becomes mentors in Phase 2, guiding fresh aspirants through auditions alongside the returning judges.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "82m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "The Grand Premiere",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026569/1792244779761511_INDIAN_IDOL_LEGENDS_RETURN_EP_01_landscape_thumb.jpg",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/the-grand-premiere-1090548965?watch=true"
+                }
+            ]
+        }
+    ]
+}
