@@ -10,9 +10,19 @@
             "streaming": "SonyLIV",
             "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 16, 2026",
+            "ottReleaseDate": "October 17, 2026",
             "description": "Hastinapur Ke Veer explores how no child is born into war but shaped into it. Told through a child-centric lens, it delves into Duryodhan's need for validation, Yudhishthira's burden of righteousness, Arjun's longing for approval, Bheem's instinctive justice, and Karna's abandonment.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "118",
+                    "duration": "22m",
+                    "episodeCode": "S2-E118",
+                    "episodeName": "The Secret of Kunti’s Past",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026480/1792146502214193_Hastinapur_Ke_Veer_Ep_118_landscape_thumbnail.jpeg",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/the-secret-of-kuntis-past-1090548661?watch=true"
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "117",
