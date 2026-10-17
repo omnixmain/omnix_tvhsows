@@ -10,16 +10,16 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "October 17, 2026",
+            "ottReleaseDate": "October 18, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "42",
-                    "duration": "45m",
+                    "duration": "1h 15m",
                     "episodeCode": "S10-E42",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "episodeName": "BBTam Day 41: Vimal Joins Vijay Onstage",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/704/1792245980704-h",
                     "updateDate": "17-10-2026",
                     "episodeUrl": ""
                 },
@@ -431,66 +431,6 @@
                     "episodeName": "BBTam: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5574/1788700215574-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "9",
-                    "episodeNumber": "106",
-                    "duration": "3h 24m",
-                    "episodeCode": "S9-E106",
-                    "episodeName": "BBTam Day 105: Grand Finale",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4811/1768806174811-h",
-                    "updateDate": "18-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "9",
-                    "episodeNumber": "105",
-                    "duration": "1h 4m",
-                    "episodeCode": "S9-E105",
-                    "episodeName": "BBTam Day 104: The Final Night in the House",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8902/1768652318902-h",
-                    "updateDate": "17-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "9",
-                    "episodeNumber": "104",
-                    "duration": "51m",
-                    "episodeCode": "S9-E104",
-                    "episodeName": "BBTam Day 103: A Blast from the Past",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2069/1768569622069-h",
-                    "updateDate": "16-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "9",
-                    "episodeNumber": "103",
-                    "duration": "51m",
-                    "episodeCode": "S9-E103",
-                    "episodeName": "BBTam Day 102: Pongalo Pongal!",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1694/1768483251694-h",
-                    "updateDate": "15-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "9",
-                    "episodeNumber": "102",
-                    "duration": "51m",
-                    "episodeCode": "S9-E102",
-                    "episodeName": "BBTam Day 101: Friendship, Fights and Feelings",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4659/1768396794659-h",
-                    "updateDate": "14-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "9",
-                    "episodeNumber": "101",
-                    "duration": "42m",
-                    "episodeCode": "S9-E101",
-                    "episodeName": "BBTam Day 100: Celebrating the Bigg Milestone",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1857/1768306711857-h",
-                    "updateDate": "13-01-2026",
                     "episodeUrl": ""
                 },
                 {
