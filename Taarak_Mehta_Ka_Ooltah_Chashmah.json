@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4844",
+                    "duration": "22m",
+                    "episodeCode": "S49-E4844",
+                    "episodeName": "Jethalal Seeks Help",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026552/1792229797680851_Taarak_Mehta_Ka_Oolta_Chashmah_4844_landscape.jpg",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/jethalal-seeks-help-1090548928?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4843",
                     "duration": "21m",
                     "episodeCode": "S49-E4843",
