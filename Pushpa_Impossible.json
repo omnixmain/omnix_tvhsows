@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1366",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1366",
+                    "episodeName": "A Secretive Agreement",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026535/1792222724405956_PUSHPA_IMPOSSIBLE_EP_1366_landscape_thumbnail.jpeg",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/a-secretive-agreement-1090548931?watch=true"
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1365",
                     "duration": "22m",
                     "episodeCode": "S14-E1365",
@@ -12826,12 +12836,12 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "84",
-                    "duration": "43m",
+                    "duration": "22m",
                     "episodeCode": "S1-E84",
-                    "episodeName": "Golu Hua Lapata - Maha Episode Part 1",
-                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_1_landscape_thumb.jpg",
-                    "updateDate": "12-09-2022",
-                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/golu-hua-lapata-maha-episode-part-1-1000188435?watch=true"
+                    "episodeName": "Mock Fire Drill",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_Landscape_thumb.jpg",
+                    "updateDate": "10-09-2022",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/mock-fire-drill-1000188082?watch=true"
                 },
                 {
                     "seasonNumber": "1",
