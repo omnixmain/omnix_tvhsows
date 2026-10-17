@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "3",
+                    "duration": "45m",
+                    "episodeCode": "S2-E3",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTAR_DTH/SERIES/690e0b58e8538d5c8a62bdb5/images/PORTRAIT/1790752263770-v?o=production",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "2",
                     "duration": "1h 14m",
                     "episodeCode": "S2-E2",
