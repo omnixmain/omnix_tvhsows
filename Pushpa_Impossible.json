@@ -10,9 +10,19 @@
             "streaming": "SonyLIV",
             "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 16, 2026",
+            "ottReleaseDate": "October 17, 2026",
             "description": "Pushpa Impossible is the story about a feisty middle-aged woman having studied until class 9 in a Gujarati medium school and going back to school at the age of 44! She is boisterous, uncouth, impulsive, hardworking and an endearingly loveable mother of three children. She is Pushpa Patel hailing from a small town Patan in Gujarat and now residing at Bapodra Chawl in Mumbai.",
             "episodes": [
+                {
+                    "seasonNumber": "14",
+                    "episodeNumber": "1365",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1365",
+                    "episodeName": "A New Twist In The Story",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026486/1792151966156622_PUSHPA_IMPOSSIBLE_EP_1365_landscape_thumbnail.jpeg",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/a-new-twist-in-the-story-1090548663?watch=true"
+                },
                 {
                     "seasonNumber": "14",
                     "episodeNumber": "1364",
@@ -12816,12 +12826,12 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "84",
-                    "duration": "43m",
+                    "duration": "22m",
                     "episodeCode": "S1-E84",
-                    "episodeName": "Golu Hua Lapata - Maha Episode Part 1",
-                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_1_landscape_thumb.jpg",
-                    "updateDate": "12-09-2022",
-                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/golu-hua-lapata-maha-episode-part-1-1000188435?watch=true"
+                    "episodeName": "Mock Fire Drill",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_Landscape_thumb.jpg",
+                    "updateDate": "10-09-2022",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/mock-fire-drill-1000188082?watch=true"
                 },
                 {
                     "seasonNumber": "1",
