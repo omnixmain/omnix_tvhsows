@@ -1,0 +1,249 @@
+{
+    "tvShows": [
+        {
+            "name": "Kyunki Papa Kehte Hain",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025865/179119251785018_Papa_kahte_Hai_2026_web_detail_coverbg_V2.jpg",
+            "genre": "Comedy",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 7+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 17, 2026",
+            "description": "After their free-spirited parents die unexpectedly, five siblings are left to face life alone. At 24, eldest brother Pawan becomes their reluctant guardian as strict relatives impose traditional values. Amid financial hardship, conflict and growing pains, the siblings rely on one another, redefining family, responsibility and resilience while holding on to the love and freedom that shaped them.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "22m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Pawan's Secret Plan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026536/1792222791123426_KYUNKI_PAPA_KEHTE_HAIN_EP_23_landscape_thumbnail.jpeg",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-secret-plan-1090548933?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "21m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Pawan’s Winning Formula",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026479/1792145742497640_KYUNKI_PAPA_KEHTE_HAIN_EP_22_landscape_thumbnail.jpeg",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-winning-formula-1090548723?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "22m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "An Unexpected Team Switch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026403/1792050948970724_KYUNKI_PAPA_KEHTE_HAIN_EP_21_landscape_thumbnail.jpeg",
+                    "updateDate": "15-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/an-unexpected-team-switch-1090548469?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "22m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Simran Challenges Pawan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026321/1791974877432731_KYUNKI_PAPA_KEHTE_HAIN_EP_20_landscape_thumbnail.jpeg",
+                    "updateDate": "14-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/simran-challenges-pawan-1090548208?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "22m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Pawan's Navratri Dilemma",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026235/1791888343402876_KYUNKI_PAPA_KEHTE_HAIN_EP_19_landscape.jpg",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-navratri-dilemma-1090548006?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "22m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Simaran Seeks Kakaji’s Help",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026178/1791799955892843_KYUNKI_PAPA_KEHTE_HAIN_EP_18_landscape.jpg",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/simaran-seeks-kakajis-help-1090547867?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "22m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Pawan Misunderstands Simran",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026092/1791612437188256_KYUNKI_PAPA_KEHTE_HAIN_EP_17_landscape_thumb.jpg",
+                    "updateDate": "10-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-misunderstands-simran-1090547691?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "22m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "The Shoe Polish Machine Mishap",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026052/1791531091834892_KYUNKI_PAPA_KEHTE_HAIN_EP_16_landscape.jpg",
+                    "updateDate": "09-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/the-shoe-polish-machine-mishap-1090547613?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "22m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Kaki's Big Misunderstanding",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026003/1791444372664486_KYUNKI_PAPA_KEHTE_HAIN_EP_15_landscape.jpg",
+                    "updateDate": "08-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/kakis-big-misunderstanding-1090547554?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "22m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Simran's Surprise Move",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025972/1791368598952869_KYUNKI_PAPA_KEHTE_HAIN_EP_14_landscape.jpg",
+                    "updateDate": "07-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/simrans-surprise-move-1090547479?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "22m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "A Secret Kept From Pawan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025926/1791280344010858_KYUNKI_PAPA_KEHTE_HAIN_EP_13_landscape.jpg",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/a-secret-kept-from-pawan-1090547315?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "22m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Simran's Search For Independence",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025874/1791196247795599_KYUNKI_PAPA_KEHTE_HAIN_EP-12_landscape.jpg",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/simrans-search-for-independence-1090547181?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "22m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Pawan Faces Fresh Trouble",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025751/1791015834689743_KYUNKI_PAPA_KEHTE_HAIN_EP_11_landscape_thumb.jpg",
+                    "updateDate": "03-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-faces-fresh-trouble-1090546634?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "24m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Pawan Uncovers The Truth",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025619/1790920845593214_KYUNKI_PAPA_KEHTE_HAIN_EP_10_landscape_thumb.jpeg",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-uncovers-the-truth-1090546592?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "22m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Will Kakaji Learn The Truth?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025523/1790842148896472_KYUNKI_PAPA_KEHTE_HAIN_EP_09_landscape_thumb.jpeg",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/will-kakaji-learn-the-truth-1090546218?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "23m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Pawan Under Suspicion",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025393/1790755474485456_KYUNKI_PAPA_KEHTE_HAIN_EP_08__landscape_thumb.jpeg",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-under-suspicion-1090545857?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "23m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Pawan Hides The Truth",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025257/1790669944122933_KYUNKI_PAPA_KEHTE_HAIN_EP_07_landscape_thumb.jpeg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-hides-the-truth-1090545552?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "24m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Lakshya Goes Missing",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025142/1790584274751317_KYUNKI_PAPA_KEHTE_HAIN_EP_06_landscape_thumb.jpeg",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/lakshya-goes-missing-1090545309?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "25m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "A New Beginning For Pawan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024913/1790419902351913_KYUNKI_PAPA_KEHTE_HAIN_EP_05_landscape.jpg",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/a-new-beginning-for-pawan-1090544795?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "25m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Pawan’s New Business Plan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024780/1790335628871692_KYUNKI_PAPA_KEHTE_HAIN_EP_04_landscape.jpg",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-new-business-plan-1090544499?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "25m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Chachaji's Cricket Pitch Threat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024645/1790244382685478_KYUNKI_PAPA_KEHTE_HAIN_EP_03_landscape.jpg",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/chachajis-cricket-pitch-threat-1090544079?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "23m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Amber Stuns The Family",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024549/1790158499233171_KYUNKI_PAPA_KEHTE_HAIN_EP_02_landscape.jpg",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/amber-stuns-the-family-1090543876?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "30m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Pawan Steps Up For His Family",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024468/1790074247497342_KYUNKI_PAPA_KEHTE_HAIN_EP_01_landscape.jpg",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-steps-up-for-his-family-1090543643?watch=true"
+                }
+            ]
+        }
+    ]
+}
