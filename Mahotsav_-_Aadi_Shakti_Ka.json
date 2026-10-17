@@ -10,9 +10,19 @@
             "streaming": "SonyLIV",
             "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 16, 2026",
+            "ottReleaseDate": "October 17, 2026",
             "description": "Celebrate the spirit of Navratri with the special festive series, hosted by Shruti Anand. Journey through the inspiring stories of Goddess Durga's nine divine avatars as mythology, sacred traditions and soulful music come together. Each episode unveils the rich cultural essence of Navratri, leading to the grand celebration of Dussehra.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "22m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Maa Katyayani",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026471/1792138736906355_Mahostav_Adi_Shakti_Ka_EP06_landscape_thumbnail.jpg",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/mahotsav-aadi-shakti-ka-1790007885/maa-katyayani-1090548726?watch=true"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "5",
