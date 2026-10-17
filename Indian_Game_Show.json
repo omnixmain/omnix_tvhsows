@@ -1,0 +1,1169 @@
+{
+    "tvShows": [
+        {
+            "name": "Indian Game Show",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026009/1791448636615483_INDIAN_GAME_SHOW_2026_web_detail_coverbg_V2.jpg",
+            "genre": "Game show, Comedy",
+            "rating": "8.0",
+            "year": "2021",
+            "ageRating": "U/A 13+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 17, 2026",
+            "description": "Indian Game Show with Bharti and Harssh is a lively entertainment game show hosted by the popular duo. Celebrities take on fun physical, comedy and skill-based challenges, competing for exciting prizes while facing amusing punishments. With audience participation, engaging interactions and Harssh-Bharti's signature humour, each episode delivers laughter, surprises and family entertainment.",
+            "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "44",
+                    "duration": "56m",
+                    "episodeCode": "S2-E44",
+                    "episodeName": "Balance Or Bust!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026482/1792146357822713_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_44_landscape_thumbnail.jpeg",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/balance-or-bust-1090548656?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "43",
+                    "duration": "53m",
+                    "episodeCode": "S2-E43",
+                    "episodeName": "Bounce, Balance, Multiply!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026401/1792050488905295_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_43_landscape_thumbnail.jpeg",
+                    "updateDate": "15-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/bounce-balance-multiply-1090548463?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "42",
+                    "duration": "55m",
+                    "episodeCode": "S2-E42",
+                    "episodeName": "The Sling Shot Showdown",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026320/1791974287157381_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_42_landscape_thumbnail.jpeg",
+                    "updateDate": "14-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-sling-shot-showdown-1090548213?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "41",
+                    "duration": "56m",
+                    "episodeCode": "S2-E41",
+                    "episodeName": "Jump, Swing, Score",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026233/179188599801736_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_41_landscape.jpg",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/jump-swing-score-1090547990?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "40",
+                    "duration": "54m",
+                    "episodeCode": "S2-E40",
+                    "episodeName": "Ready, Set, Search!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026174/1791796786154311_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_40_landscape.jpg",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/ready-set-search-1090547870?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "39",
+                    "duration": "54m",
+                    "episodeCode": "S2-E39",
+                    "episodeName": "Heads Up, Suitcases Incoming!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026052/1791531077279892_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_39_landscape.jpg",
+                    "updateDate": "09-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/heads-up-suitcases-incoming-1090547605?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "38",
+                    "duration": "55m",
+                    "episodeCode": "S2-E38",
+                    "episodeName": "Buzzing Into The Challenge!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026003/1791444389311486_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_38_landscape.jpg",
+                    "updateDate": "08-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/buzzing-into-the-challenge-1090547541?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "37",
+                    "duration": "57m",
+                    "episodeCode": "S2-E37",
+                    "episodeName": "Swing, Aim & Score!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025958/179135627024749_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_37_landscape.jpg",
+                    "updateDate": "07-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/swing-aim-score-1090547426?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "36",
+                    "duration": "55m",
+                    "episodeCode": "S2-E36",
+                    "episodeName": "New Faces In The Arena",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025910/1791266576581890_IGS_06_landscape_thumb.jpg",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/new-faces-in-the-arena-1090547300?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "35",
+                    "duration": "56m",
+                    "episodeCode": "S2-E35",
+                    "episodeName": "Bucket Blast Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025883/1791203870826241_IGS_35_landscape_thumb.jpg",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/bucket-blast-challenge-1090547167?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "34",
+                    "duration": "57m",
+                    "episodeCode": "S2-E34",
+                    "episodeName": "X-O Board Battle",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025415/1790767866837199_IGS_34_landscape_thumb.jpg",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/x-o-board-battle-1090546575?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "33",
+                    "duration": "52m",
+                    "episodeCode": "S2-E33",
+                    "episodeName": "The Pillar Knockdown",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025415/1790767768837199_IGS_33_landscape_thumb.jpg",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-pillar-knockdown-1090546190?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "32",
+                    "duration": "52m",
+                    "episodeCode": "S2-E32",
+                    "episodeName": "Zorb Ball Showdown",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025307/1790690435156264_IGS_32_landscape_thumb.jpg",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/zorb-ball-showdown-1090545837?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "31",
+                    "duration": "56m",
+                    "episodeCode": "S2-E31",
+                    "episodeName": "The Great Balloon Blast",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025261/1790673908278483_IGS_29_landscape_thumb.jpg",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-great-balloon-blast-1090545567?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "30",
+                    "duration": "53m",
+                    "episodeCode": "S2-E30",
+                    "episodeName": " The Glass Pyramid Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025133/1790575512305246_IGS_28_landscape_thumb.jpg",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-glass-pyramid-challenge-1090545339?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "29",
+                    "duration": "53m",
+                    "episodeCode": "S2-E29",
+                    "episodeName": "The Ultimate Music Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024757/1790325946564654_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_29_landscape.jpg",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-ultimate-music-challenge-1090544482?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "28",
+                    "duration": "55m",
+                    "episodeCode": "S2-E28",
+                    "episodeName": "The Floating Mat Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024657/1790250724934139_IGS_24_09_landscape_thumb.jpg",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-floating-mat-challenge-1090544085?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "27",
+                    "duration": "56m",
+                    "episodeCode": "S2-E27",
+                    "episodeName": "Slide Tambola Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024538/1790147989262288_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_27_landscape.jpg",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/slide-tambola-challenge-1090543863?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "26",
+                    "duration": "55m",
+                    "episodeCode": "S2-E26",
+                    "episodeName": "Jaa Simran Jaa With A Twist",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024459/1790067253676771_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_26_landscape.jpg",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/jaa-simran-jaa-with-a-twist-1090543546?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "25",
+                    "duration": "55m",
+                    "episodeCode": "S2-E25",
+                    "episodeName": "The Ultimate Conveyor Basketball Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024364/1789988089384948_IGS_21_09_landscape_thumb.jpg",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-ultimate-conveyor-basketball-challenge-1090543363?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "24",
+                    "duration": "55m",
+                    "episodeCode": "S2-E24",
+                    "episodeName": "The Slippery Water Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024145/1789737655748384_IGS_18_09_landscape_thumb.jpg",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-slippery-water-challenge-1090542909?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "23",
+                    "duration": "55m",
+                    "episodeCode": "S2-E23",
+                    "episodeName": "Harssh Ke Hathode vs Bharti Ke Bulldozer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024071/1789626461123757_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_23_landscape.jpg",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/harssh-ke-hathode-vs-bharti-ke-bulldozer-1090542762?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "22",
+                    "duration": "55m",
+                    "episodeCode": "S2-E22",
+                    "episodeName": "Wobbly Tic Tac Toe Showdown",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024024/1789551524181626_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_22_landscape.jpg",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/wobbly-tic-tac-toe-showdown-1090542659?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "21",
+                    "duration": "55m",
+                    "episodeCode": "S2-E21",
+                    "episodeName": "The Zorb Ball Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023980/1789473417492576_INDIAN_GAME_SHOW-WITH-BHARTI-AND-HARSSH_EP_21_landscaep.jpg",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-zorb-ball-challenge-1090542558?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "20",
+                    "duration": "50m",
+                    "episodeCode": "S2-E20",
+                    "episodeName": "The Blumber Wall Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023962/1789387998349723_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_EP_20_landscape_thumb.jpg",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-blumber-wall-challenge-1090542534?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "19",
+                    "duration": "56m",
+                    "episodeCode": "S2-E19",
+                    "episodeName": "The Bowl And Ball Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023907/1789280757255599_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_19_landscape_thumb.jpg",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-bowl-and-ball-challenge-1090542443?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "18",
+                    "duration": "53m",
+                    "episodeCode": "S2-E18",
+                    "episodeName": "Treadmill Challenge Begins",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023883/1789208294060519_INDIAN_GAME_SHOW-WITH-BHARTI-AND-HARSSH_EP_18_landscape.jpg",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/treadmill-challenge-begins-1090542402?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "17",
+                    "duration": "57m",
+                    "episodeCode": "S2-E17",
+                    "episodeName": "Neena And Arjun Join The Fun",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023826/1789123197209735_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_17_landscape.jpg",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/neena-and-arjun-join-the-fun-1090542238?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "16",
+                    "duration": "55m",
+                    "episodeCode": "S2-E16",
+                    "episodeName": "Fresh Talent Takes Center Stage",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023757/1789025283368703_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_16_landscape.jpg",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/fresh-talent-takes-center-stage-1090542109?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "15",
+                    "duration": "49m",
+                    "episodeCode": "S2-E15",
+                    "episodeName": "Ball Quiz On Pool ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023704/1788947369895728_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_15_landscape.jpg",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/ball-quiz-on-pool-1090541962?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "14",
+                    "duration": "53m",
+                    "episodeCode": "S2-E14",
+                    "episodeName": "Alibaba Chor ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023651/1788856055881214_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_14_landscape.jpg",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/alibaba-chor-1090541817?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "13",
+                    "duration": "49m",
+                    "episodeCode": "S2-E13",
+                    "episodeName": "Pizza Parlour Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023608/1788769232483826_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_13_landscape.jpg",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/pizza-parlour-challenge-1090541717?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "12",
+                    "duration": "54m",
+                    "episodeCode": "S2-E12",
+                    "episodeName": "Teachers' Day Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023574/1788686666202739_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_12_landscape_thumb.jpg",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/teachers-day-special-1090541668?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "11",
+                    "duration": "53m",
+                    "episodeCode": "S2-E11",
+                    "episodeName": "Janmashtami Games Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023524/1788608461821271_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_11_landscape.jpg",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/janmashtami-games-special-1090541610?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "10",
+                    "duration": "57m",
+                    "episodeCode": "S2-E10",
+                    "episodeName": "Level Up The Splash",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023478/1788506816780178_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_10_landscape.jpg",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/level-up-the-splash-1090541507?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "9",
+                    "duration": "54m",
+                    "episodeCode": "S2-E9",
+                    "episodeName": "Construction Special Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023404/1788420114614469_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_09_landscape.jpg",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/construction-special-challenge-1090541357?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "8",
+                    "duration": "48m",
+                    "episodeCode": "S2-E8",
+                    "episodeName": "Mukke Pe Mukka",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023365/1788340902763103_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_08_landscape.jpg",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/mukke-pe-mukka-1090541279?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "7",
+                    "duration": "54m",
+                    "episodeCode": "S2-E7",
+                    "episodeName": "Horror Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023302/1788251561482394_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_07_landscape.jpg",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/horror-special-1090541199?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "6",
+                    "duration": "59m",
+                    "episodeCode": "S2-E6",
+                    "episodeName": "Double The Fun",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023235/1788169879582112_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_06_landscape.jpg",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/double-the-fun-1090541071?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "5",
+                    "duration": "50m",
+                    "episodeCode": "S2-E5",
+                    "episodeName": "Rakhi Special Game Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023097/1787908809097221_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_05_landscape.jpg",
+                    "updateDate": "28-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/rakhi-special-game-challenge-1090540772?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "4",
+                    "duration": "53m",
+                    "episodeCode": "S2-E4",
+                    "episodeName": "Level Up The Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023009/1787812427769230_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_04_landscape.jpg",
+                    "updateDate": "27-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/level-up-the-challenge-1090540628?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "3",
+                    "duration": "56m",
+                    "episodeCode": "S2-E3",
+                    "episodeName": "The Ultimate Pair Battle",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022941/1787732725644491_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_03_landscape_thumb.jpg",
+                    "updateDate": "26-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-ultimate-pair-battle-1090540459?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "2",
+                    "duration": "54m",
+                    "episodeCode": "S2-E2",
+                    "episodeName": "Celebrities Battle It Out",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022888/1787653304231841_INDIAN_GAME_SHOW_EP_02_landscape.jpg",
+                    "updateDate": "25-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/celebrities-battle-it-out-1090540334?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "1",
+                    "duration": "56m",
+                    "episodeCode": "S2-E1",
+                    "episodeName": "A Star-Studded Start",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022796/1787564317006414_INDIAN_GAME_SHOW_EP_01_landscape.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/a-star-studded-start-1090540220?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "71",
+                    "duration": "10m",
+                    "episodeCode": "S1-E71",
+                    "episodeName": "Episode 71",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022829/1787579677203156_IGS-EP_71_landscape.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-71-1090540213?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "70",
+                    "duration": "10m",
+                    "episodeCode": "S1-E70",
+                    "episodeName": "Episode 70",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022829/1787579659155156_IGS-EP_70_landscape.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-70-1090540212?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "69",
+                    "duration": "10m",
+                    "episodeCode": "S1-E69",
+                    "episodeName": "Episode 69",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022829/1787579640616156_IGS-EP_69_landscape.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-69-1090540211?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "68",
+                    "duration": "10m",
+                    "episodeCode": "S1-E68",
+                    "episodeName": "Episode 68",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022829/1787579618212156_IGS-EP_68_landscape.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-68-1090540210?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "67",
+                    "duration": "10m",
+                    "episodeCode": "S1-E67",
+                    "episodeName": "Episode 67",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022829/1787578023266156_IGS-EP_67_landscape.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-67-1090540209?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "66",
+                    "duration": "10m",
+                    "episodeCode": "S1-E66",
+                    "episodeName": "Episode 66",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022829/1787578006044156_IGS-EP_66_landscape.jpg",
+                    "updateDate": "24-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-66-1090540208?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "10m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "Episode 65",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022745/1787491295928189_IGS-EP_65_landscape_thumb.jpg",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-65-1090540168?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "64",
+                    "duration": "10m",
+                    "episodeCode": "S1-E64",
+                    "episodeName": "Episode 64",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022742/1787488028598274_IGS-EP_64_landscape_thumb.jpg",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-64-1090540167?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "10m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "Episode 63",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022742/1787487995765274_IGS-EP_63_landscape_thumb.jpg",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-63-1090540166?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "10m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "Episode 62",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022742/1787487968316274_IGS-EP_62_landscape_thumb.jpg",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-62-1090540157?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "10m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "Episode 61",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022742/1787488048781274_IGS-EP_61_landscape_thumb.jpg",
+                    "updateDate": "23-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-61-1090540155?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "10m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Episode 60",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022646/1787301255368958_IGS-EP_60_landscape.jpg",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-60-1090540074?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "10m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Episode 59",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022646/1787301302578958_IGS-EP_59_landscape.jpg",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-59-1090540073?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "10m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Episode 58",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022646/1787301332689958_IGS-EP_58_landscape.jpg",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-58-1090540072?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "10m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Episode 57",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022646/1787301363743958_IGS-EP_57_landscape.jpg",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-57-1090540071?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "10m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Episode 56",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022646/1787301397947958_IGS-EP_56_landscape.jpg",
+                    "updateDate": "22-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-56-1090540070?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "10m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Episode 55",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022646/1787301472027958_IGS-EP_55_landscape.jpg",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-55-1090539969?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "10m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Episode 54",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022646/1787301517060958_IGS-EP_54_landscape.jpg",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-54-1090539968?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "10m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Episode 53",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022588/1787219280775291_IGS-EP_50_landscape.jpg",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-53-1090539967?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "9m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Episode 52",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022646/1787301588567958_IGS-EP_52_landscape.jpg",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-52-1090539966?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "9m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Episode 51",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022646/1787301611939958_IGS-EP_51_landscape.jpg",
+                    "updateDate": "21-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-51-1090539965?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "10m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Episode 50",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022588/1787219280775291_IGS-EP_50_landscape.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-50-1090539872?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "10m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Episode 49",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022587/1787214915736364_IGS-EP_49_landscape.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-49-1090539871?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "10m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "Episode 48",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022586/1787214762070262_IGS-EP_48_landscape.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-48-1090539870?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "9m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Episode 47",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022586/1787214778317262_IGS-EP_47_landscape.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-47-1090539869?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "10m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Episode 46",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022586/1787214795489262_IGS-EP_46_landscape.jpg",
+                    "updateDate": "20-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-46-1090539868?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "10m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Episode 45",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022499/1787127261090997_IGS-EP_45_landscape.jpg",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-45-1090539748?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "10m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Episode 44",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022499/1787127273155997_IGS-EP_44_landscape.jpg",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-44-1090539747?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "10m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "Episode 43",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022499/1787127223089997_IGS-EP_43_landscape.jpg",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-43-1090539746?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "11m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Episode 42",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022499/1787127238468997_IGS-EP_42_landscape.jpg",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-42-1090539745?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "10m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Episode 41",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022499/1787127315617997_IGS-EP_41_landscape.jpg",
+                    "updateDate": "19-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-41-1090539744?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "10m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Episode 40",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022426/1787047033045752_IGS-EP_40_landscape.jpg",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-40-1090539619?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "9m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Episode 39",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022426/1787047250104752_IGS-EP_39_landscape.jpg",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-39-1090539618?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "10m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Episode 38",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022426/1787047283981752_IGS-EP_38_landscape.jpg",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-38-1090539617?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "11m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Episode 37",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022426/1787047302187752_IGS-EP_37_landscape.jpg",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-37-1090539616?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "10m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Episode 36",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022426/1787047321066752_IGS-EP_36_landscape.jpg",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-36-1090539615?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "12m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Episode 35",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022375/1786976509215923_IGS-EP_35_landscape_thumb.jpg",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-35-1090539558?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "11m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Episode 34",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022375/1786976466892923_IGS-EP_34_landscpae_thumb.jpg",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-34-1090539559?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "9m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Episode 33",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022375/1786976435086923_IGS-EP_33_landscape_thumb.jpg",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-33-1090539560?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "10m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Episode 32",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022375/1786976398776923_IGS-EP_32_landscpae_thumb.jpg",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-32-1090539561?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "11m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Episode 31",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022375/1786976368659923_IGS-EP_31_landscpae_thumb.jpg",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-31-1090539562?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "10m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Episode 30",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022298/1786878916042793_IGS_EP_30_landscape_thumb.jpg",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-30-1090539417?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "10m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Episode 29",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022298/1786878901992793_IGS_EP_29_landscape_thumb.jpg",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-29-1090539416?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "11m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Episode 28",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022298/1786878888130793_IGS_EP_28_landscape_thumb.jpg",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-28-1090539415?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "10m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "Episode 27",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022298/1786878881149793_IGS_EP_27_landscape_thumb.jpg",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-27-1090539414?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "11m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Episode 26",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022298/1786878932520793_IGS_EP_26_landscape_thumb.jpg",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-26-1090539413?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "8m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "Episode 25",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022258/1786798792569665_IGS-EP_25_landscape_thumb.jpg",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-25-1090539279?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "10m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Episode 24",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022258/1786798779063665_IGS-EP_24_landscape_thumb.jpg",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-24-1090539278?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "10m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Episode 23",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022258/1786798805767665_IGS-EP_23_landscape_thumb.jpg",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-23-1090539277?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "10m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Episode 22",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022258/1786798766532665_IGS-EP_22_landscape_thumb.jpg",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-22-1090539276?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "10m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Episode 21",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022258/1786798753416665_IGS-EP_21_landscape_thumb.jpg",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-21-1090539275?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "10m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Episode 20",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022203/1786715900823360_IGS_BEAUTIFUL-BHARTI_20_landscape_thumb.jpg",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-20-1090539229?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "12m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Episode 19",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022203/1786715809671360_IGS-EP_19_landscape_thumb.jpg",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-19-1090539228?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "10m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Episode 18",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022203/1786715763744360_IGS-EP_18_landscape_thumb.jpg",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-18-1090539227?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "11m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Episode 17",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022203/1786715740595360_IGS-EP_17_landscape_thumb.jpg",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-17-1090539226?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "10m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Episode 16",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022203/1786715464292360_IGS-EP_16_landscape_thumb.jpg",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-16-1090539225?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "10m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Episode 15",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022141/1786616550643631_IGS-EP_15_landscape.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-15-1090539189?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "11m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Episode 14",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022141/1786616434261631_IGS-EP_14_landscape.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-14-1090539186?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "10m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Episode 13",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022141/1786616455758631_IGS-EP_13_landscape.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-13-1090539185?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "12m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Episode 12",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022141/1786616491910631_IGS-EP_12_landscape.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-12-1090539184?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "11m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Episode 11",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022141/1786616529313631_IGS-EP_11_landscape.jpg",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-11-1090539183?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "12m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Episode 10",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022101/1786539121661127_IGS-EP_10_landscpae.jpg",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-10-1090539120?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "12m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Episode 9",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022101/1786539098218127_IGS-EP_09_landscpae.jpg",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-9-1090539119?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "14m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Episode 8",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022101/1786539076130127_IGS-EP_08_landscpae.jpg",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-8-1090539118?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "12m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Episode 7",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022101/1786539045711127_IGS-EP_07_landscpae.jpg",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-7-1090539117?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "12m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Episode 6",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022101/1786539020208127_IGS-EP_06_landscpae.jpg",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-6-1090539116?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "12m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Episode 5",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022058/178645459719535_IGS_EP_05_landscape_thumb.jpg",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-5-1090539066?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "12m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Episode 4",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022058/178645457875535_IGS_EP_04_landscape_thumb.jpg",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-4-1090539067?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "12m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Episode 3",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022058/178645455343635_IGS_EP_03_landscape_thumb.jpg",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-3-1090539068?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "14m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Episode 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022058/178645453255335_IGS_EP_02_landscape_thumb.jpg",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-2-1090539069?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "13m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Episode 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022058/178645451508435_IGS_EP_01_landscape_thumb.jpg",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/episode-1-1090539065?watch=true"
+                }
+            ]
+        }
+    ]
+}
