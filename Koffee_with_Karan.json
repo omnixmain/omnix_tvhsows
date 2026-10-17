@@ -15,9 +15,9 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "32",
+                    "episodeNumber": "28",
                     "duration": "49m",
-                    "episodeCode": "S1-E32",
+                    "episodeCode": "S1-E28",
                     "episodeName": "Saif Ali Khan and Sara Ali Khan",
                     "episodeBanner": "https://m.media-amazon.com/images/M/MV5BMmUxMGNmNTEtNjlhMS00MTk1LTg4NTktMGVjZDY1NjI2ZjUxXkEyXkFqcGc@._V1_.jpg",
                     "updateDate": "17-10-2026",
@@ -25,9 +25,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "31",
+                    "episodeNumber": "27",
                     "duration": "41m",
-                    "episodeCode": "S1-E31",
+                    "episodeCode": "S1-E27",
                     "episodeName": "Badshah and Diljit",
                     "episodeBanner": "https://m.media-amazon.com/images/M/MV5BMmUxMGNmNTEtNjlhMS00MTk1LTg4NTktMGVjZDY1NjI2ZjUxXkEyXkFqcGc@._V1_.jpg",
                     "updateDate": "17-10-2026",
@@ -35,9 +35,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "30",
+                    "episodeNumber": "26",
                     "duration": "39m",
-                    "episodeCode": "S1-E30",
+                    "episodeCode": "S1-E26",
                     "episodeName": "Akshay Kumar, Twinkle Khanna",
                     "episodeBanner": "https://m.media-amazon.com/images/M/MV5BMmUxMGNmNTEtNjlhMS00MTk1LTg4NTktMGVjZDY1NjI2ZjUxXkEyXkFqcGc@._V1_.jpg",
                     "updateDate": "17-10-2026",
@@ -45,9 +45,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "29",
+                    "episodeNumber": "25",
                     "duration": "45m",
-                    "episodeCode": "S1-E29",
+                    "episodeCode": "S1-E25",
                     "episodeName": "46m",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/7379/1000167379/1000167379-h",
                     "updateDate": "17-10-2026",
@@ -55,9 +55,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "28",
+                    "episodeNumber": "24",
                     "duration": "45m",
-                    "episodeCode": "S1-E28",
+                    "episodeCode": "S1-E24",
                     "episodeName": "1h 9m",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7742/1617742-h-0cc5a96085e3",
                     "updateDate": "17-10-2026",
@@ -65,9 +65,9 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "27",
+                    "episodeNumber": "23",
                     "duration": "45m",
-                    "episodeCode": "S1-E27",
+                    "episodeCode": "S1-E23",
                     "episodeName": "1h 4m",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3941/1293941-h-7757dbcc1032",
                     "updateDate": "17-10-2026",
@@ -75,9 +75,19 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "26",
+                    "episodeNumber": "22",
                     "duration": "45m",
-                    "episodeCode": "S1-E26",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "1h 6m",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/4966/1000004966/1000004966-h",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "45m",
+                    "episodeCode": "S1-E21",
                     "episodeName": "50m",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/4253/1000004253/1000004253-h",
                     "updateDate": "17-10-2026",
@@ -1372,56 +1382,6 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/4206/1000004206/1000004206-h",
                     "updateDate": "11-02-2007",
                     "episodeUrl": "https://serialtvmaza.to/koffee-with-karan-season-9-episode-1/"
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "25",
-                    "duration": "1h 6m",
-                    "episodeCode": "S1-E25",
-                    "episodeName": "KWK S1 Special Episode - 2",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/4966/1000004966/1000004966-h",
-                    "updateDate": "28-05-2005",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "24",
-                    "duration": "45m",
-                    "episodeCode": "S1-E24",
-                    "episodeName": "KWK S1 Special Episode - 1",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/4965/1000004965/1000004965-h",
-                    "updateDate": "19-05-2005",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "23",
-                    "duration": "45m",
-                    "episodeCode": "S1-E23",
-                    "episodeName": "Hema Malini and Zeenat Aman",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/4964/1000004964/1000004964-h",
-                    "updateDate": "14-05-2005",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "22",
-                    "duration": "45m",
-                    "episodeCode": "S1-E22",
-                    "episodeName": "Esha Deol and Shahid Kapoor",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/4963/1000004963/1000004963-h",
-                    "updateDate": "07-05-2005",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "21",
-                    "duration": "45m",
-                    "episodeCode": "S1-E21",
-                    "episodeName": "Rishi Kapoor and Neetu Singh",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/4962/1000004962/1000004962-h",
-                    "updateDate": "30-04-2005",
-                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
