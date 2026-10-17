@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "119",
+                    "duration": "22m",
+                    "episodeCode": "S2-E119",
+                    "episodeName": "Kunti's Fateful Choice",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026537/1792223046679216_Hastinapur_Ke_Veer_Ep_119_landscape_thumbnail.jpeg",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/kuntis-fateful-choice-1090548929?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "118",
                     "duration": "22m",
                     "episodeCode": "S2-E118",
