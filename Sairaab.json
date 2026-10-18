@@ -10,9 +10,139 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 18, 2026",
+            "ottReleaseDate": "October 19, 2026",
             "description": "Single mother Dr. Nayanika lives a serene life with her daughter, Ujjaini. Then enters pop star Ishaan, reigniting her world, albeit with uncalled chaos! Watch Sairaab - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "113",
+                    "duration": "20m",
+                    "episodeCode": "S1-E113",
+                    "episodeName": "Rayan: A New Dawn",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7922/1790050407922-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-22nd-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "112",
+                    "duration": "20m",
+                    "episodeCode": "S1-E112",
+                    "episodeName": "Angana's Change of Heart",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8934/1790069808934-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-21st-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "111",
+                    "duration": "21m",
+                    "episodeCode": "S1-E111",
+                    "episodeName": "Ishaan, Nayanika's Wedding Night",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6/1789864680006-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-20th-september-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "110",
+                    "duration": "21m",
+                    "episodeCode": "S1-E110",
+                    "episodeName": "Ishaan Supports Gabloo's Decision",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3639/1789779213639-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-19th-september-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "109",
+                    "duration": "20m",
+                    "episodeCode": "S1-E109",
+                    "episodeName": "Jaya Opposes Indrani's Harsh Decision",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2450/1789692862450-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-18th-september-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "108",
+                    "duration": "21m",
+                    "episodeCode": "S1-E108",
+                    "episodeName": "Ujjaini Accepts Nayanika's Marriage",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2522/1789539872522-h",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-17th-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "107",
+                    "duration": "22m",
+                    "episodeCode": "S1-E107",
+                    "episodeName": "Ujjaini Defies Indrani's Orders",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3926/1789522723926-h",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-16th-september-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "106",
+                    "duration": "21m",
+                    "episodeCode": "S1-E106",
+                    "episodeName": "Ujjaini Leaves for Mumbai",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3329/1789439143329-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-15th-september-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "105",
+                    "duration": "21m",
+                    "episodeCode": "S1-E105",
+                    "episodeName": "Indranil's Confession to Nayanika",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/742/1789349020742-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-14th-september-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "104",
+                    "duration": "20m",
+                    "episodeCode": "S1-E104",
+                    "episodeName": "Rusha Confronts Indranil",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9094/1789261839094-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-13th-september-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "103",
+                    "duration": "20m",
+                    "episodeCode": "S1-E103",
+                    "episodeName": "Ishaan's Gesture for Ujjaini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/792/1789178350792-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-12th-september-2026-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "102",
+                    "duration": "20m",
+                    "episodeCode": "S1-E102",
+                    "episodeName": "Ujjaini Is Hurt by Shesho's Words",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5825/1789091035825-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-11th-september-2026-full-episode-written-update/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "101",
+                    "duration": "21m",
+                    "episodeCode": "S1-E101",
+                    "episodeName": "Ujjaini Faces Rusha's Wrath",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8441/1788939348441-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sairaab-10th-september-2026-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "100",
