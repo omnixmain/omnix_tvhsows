@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "71m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Neha Kakkar And Abhijeet Sawant Take The Spotlight",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026646/1792326747229402_FAMILY_FULL_HOUSE_WITH_ROHIT_SHARMA_EP_10_landscape_thumbnail.jpeg",
+                    "updateDate": "18-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/neha-kakkar-and-abhijeet-sawant-take-the-spotlight-1090549138?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "9",
                     "duration": "54m",
                     "episodeCode": "S1-E9",
