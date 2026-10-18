@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "17m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Maa Mahagauri",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026628/1792252290844183_Mahostav_Adi_Shakti_Ka_EP08_landscape_thumbnail.jpg",
+                    "updateDate": "18-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/mahotsav-aadi-shakti-ka-1790007885/maa-mahagauri-1090548993?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "7",
                     "duration": "19m",
                     "episodeCode": "S1-E7",
