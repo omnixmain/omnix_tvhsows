@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "70m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "The Grand Premiere Continues",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026662/1792343300919927_INDIAN_IDOL_LEGENDS_RETURN_EP_02_landscape_thumb.jpg",
+                    "updateDate": "18-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/the-grand-premiere-continues-1090548972?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "1",
                     "duration": "82m",
                     "episodeCode": "S1-E1",
