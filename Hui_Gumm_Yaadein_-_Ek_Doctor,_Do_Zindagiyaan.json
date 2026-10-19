@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "169",
+                    "duration": "22m",
+                    "episodeCode": "S1-E169",
+                    "episodeName": "Dr. Dev's Proposal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026681/1792398792721408_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_169_landscape_thumbnail.jpeg",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/dr-devs-proposal-1090549031?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "168",
                     "duration": "22m",
                     "episodeCode": "S1-E168",
