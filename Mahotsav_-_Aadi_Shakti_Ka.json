@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "20m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Maa Siddhidatri",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026700/1792336573284764_Mahostav_Adi_Shakti_Ka_EP09_landscape_thumbnail.png",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/mahotsav-aadi-shakti-ka-1790007885/maa-siddhidatri-1090549225?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "8",
                     "duration": "17m",
                     "episodeCode": "S1-E8",
