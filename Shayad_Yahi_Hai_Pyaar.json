@@ -15,6 +15,56 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "23m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Aarav's Concern for Preeti Grows",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9237/1792351769237-h",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/shayad-yahi-hai-pyaar-episode-20/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "24m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Aarav Is Hurt by Preeti's Silence",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2574/1792209352574-h",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/shayad-yahi-hai-pyaar-episode-19/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "26m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Shanti Evicts Aarav",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9080/1792164769080-h",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/shayad-yahi-hai-pyaar-episode-18-19th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "24m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Gaurav Exposes Preeti and Aarav",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9244/1792164769244-h",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/shayad-yahi-hai-pyaar-episode-17-19th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "24m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Aarav Helps Preeti Shop",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7296/1792165727296-h",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/shayad-yahi-hai-pyaar-episode-16/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "15",
                     "duration": "25m",
                     "episodeCode": "S1-E15",
