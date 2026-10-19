@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Kannada",
-            "ottReleaseDate": "October 19, 2026",
+            "ottReleaseDate": "October 20, 2026",
             "description": "Watch Bigg Boss Kannada on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "44",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E44",
+                    "episodeName": "BBKan Day 43: Lights, Camera, Ration!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2710/1792419442710-h",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-19th-october-2026-video-episode-44/"
+                },
                 {
                     "seasonNumber": "13",
                     "episodeNumber": "43",
@@ -211,7 +221,7 @@
                     "episodeName": "BBKan Day 23: Captaincy Showdown!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2673/1790681222673-h",
                     "updateDate": "29-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-19th-october-2026/"
                 },
                 {
                     "seasonNumber": "13",
@@ -1081,7 +1091,7 @@
                     "episodeName": "BBKan Day 43: Drama Peaks in Chilli Challenge",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3517/1762780333517-h",
                     "updateDate": "10-11-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-19th-october-2026-video-episode-44/"
                 },
                 {
                     "seasonNumber": "12",
@@ -1281,7 +1291,7 @@
                     "episodeName": "BBKan Day 23: Hearts on the Line",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1275/1761043261275-h",
                     "updateDate": "21-10-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-19th-october-2026/"
                 },
                 {
                     "seasonNumber": "12",
