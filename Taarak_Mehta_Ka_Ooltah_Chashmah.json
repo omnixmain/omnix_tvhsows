@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4845",
+                    "duration": "20m",
+                    "episodeCode": "S49-E4845",
+                    "episodeName": "Nattu Kaka And Bagha's Quick Fix",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026698/1792408312060821_Taarak_Mehta_Ka_Oolta_Chashmah_4845_Sonyliv_landscape_thumbnail.jpg",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/nattu-kaka-and-baghas-quick-fix-1090549042?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4844",
                     "duration": "22m",
                     "episodeCode": "S49-E4844",
