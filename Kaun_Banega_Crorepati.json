@@ -15,6 +15,26 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "51",
+                    "duration": "77m",
+                    "episodeCode": "S18-E51",
+                    "episodeName": "Rajlaxmi Swain On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026672/1792393949220804_KAUN_BANEGA_CROREPATI_S18_EP_51_landscape_thumbnail.jpeg",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/rajlaxmi-swain-on-the-hot-seat-1090549222?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "",
+                    "duration": "22m",
+                    "episodeCode": "S18-E",
+                    "episodeName": "Kaun Banega Crorepati",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789112795931380_KBC_S18_simulcast_11sep_landscape_thumb.jpg",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kaun-banega-crorepati-1090548557?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "50",
                     "duration": "100m",
                     "episodeCode": "S18-E50",
