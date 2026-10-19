@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "120",
+                    "duration": "22m",
+                    "episodeCode": "S2-E120",
+                    "episodeName": "Radheya Earns His Place",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026686/1792401426656780_Hastinapur_Ke_Veer_Ep_120_landscape_thumbnail.jpeg",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheya-earns-his-place-1090549061?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "119",
                     "duration": "22m",
                     "episodeCode": "S2-E119",
