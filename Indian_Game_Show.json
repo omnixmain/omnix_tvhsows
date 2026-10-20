@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "46",
+                    "duration": "56m",
+                    "episodeCode": "S2-E46",
+                    "episodeName": "The Ultimate Basket Shot",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026737/1792432290734389_IGS_dusshera_spl_landscape_thumb.jpg",
+                    "updateDate": "20-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-ultimate-basket-shot-1090549241?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "45",
                     "duration": "60m",
                     "episodeCode": "S2-E45",
