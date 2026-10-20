@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "75",
+                    "duration": "26m",
+                    "episodeCode": "S1-E75",
+                    "episodeName": "Cookies for Jeet",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8493/1792446418493-h",
+                    "updateDate": "20-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-20th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "74",
                     "duration": "25m",
                     "episodeCode": "S1-E74",
@@ -511,7 +521,7 @@
                     "episodeName": "Saumya Exposes Roop",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7692/1787964117692-h",
                     "updateDate": "29-08-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-20th-october-2026/"
                 },
                 {
                     "seasonNumber": "1",
@@ -591,7 +601,7 @@
                     "episodeName": "Roop's Master Plan",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2029/1787272102029-h",
                     "updateDate": "21-08-2026",
-                    "episodeUrl": "https://serialtvmaza.to/shayad-yahi-hai-pyaar-episode-17-19th-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -601,7 +611,7 @@
                     "episodeName": "Saumya Finds Courage to Speak",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2705/1787187762705-h",
                     "updateDate": "20-08-2026",
-                    "episodeUrl": "https://serialtvmaza.to/shayad-yahi-hai-pyaar-episode-16/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
