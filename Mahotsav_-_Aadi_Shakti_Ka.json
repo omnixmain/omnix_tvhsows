@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "21m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Vijayadashami Special",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026758/1792435856939121_Mahostav_Adi_Shakti_Ka_EP10_landscape_thumbnail.jpg",
+                    "updateDate": "20-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/mahotsav-aadi-shakti-ka-1790007885/vijayadashami-special-1090549308?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "9",
                     "duration": "20m",
                     "episodeCode": "S1-E9",
