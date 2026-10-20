@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "45",
+                    "duration": "45m",
+                    "episodeCode": "S8-E45",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "20-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/dilon-ki-ram-leela-20th-october-2026/"
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "44",
                     "duration": "1h 14m",
                     "episodeCode": "S8-E44",
@@ -211,7 +221,7 @@
                     "episodeName": "BBMal Day 24: Secret Tasks and Prank Drama",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/991/1790776340991-h",
                     "updateDate": "30-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-20th-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "8",
