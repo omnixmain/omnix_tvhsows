@@ -1,0 +1,619 @@
+{
+    "tvShows": [
+        {
+            "name": "Celebrity MasterChef",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1790006208/imgPoster2000x3000/1753339580431_1753305746530896_Celebrity_Master_Chef_Transactional_Movies_Cover_2000x3000.jpg",
+            "genre": "Reality, Cookery",
+            "rating": "8.0",
+            "year": "2025",
+            "ageRating": "U",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "January 27, 2025",
+            "description": "Celebrities from different walks of life - actors, singer and more - don their chef's hats and showcase their culinary skills to win the coveted MasterChef title.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "60",
+                    "duration": "38m",
+                    "episodeCode": "S1-E60",
+                    "episodeName": "Lost Recipes",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001613/1744972547749174_CELEBRITY_MASTERCHEF_S01_EP_60_land_thumb.jpg",
+                    "updateDate": "18-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/lost-recipes-1090477085?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "59",
+                    "duration": "40m",
+                    "episodeCode": "S1-E59",
+                    "episodeName": "Sounds Of Chocolate ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001567/1744888183535689_CELEBRITY_MASTERCHEF_S01_EP_59_landscape.jpg",
+                    "updateDate": "17-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/sounds-of-chocolate-1090477021?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "40m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "Celebrating School Tiffin Box",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001532/1744808268460262_show_cmc_s01_ep58_landscape.jpg",
+                    "updateDate": "16-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/celebrating-school-tiffin-box-1090476966?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "50m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Party Platter",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001487/1744715788423233_show_cmc_s01_ep57_india_15042025_landscape.jpg",
+                    "updateDate": "15-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/party-platter-1090476909?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "43m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Chef Khanna Ki Masterclass",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001456/1744628694965332_CELEBRITY_MASTERCHEF_S01_EP56_landscape.jpg",
+                    "updateDate": "14-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/chef-khanna-ki-masterclass-1090476858?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "60m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Two-Course Signature Meal Challenge - Grand Finale Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001364/1744378800107526_cmc_s01_ep55_LANDSCAPE.jpg",
+                    "updateDate": "11-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/two-course-signature-meal-challenge-grand-finale-part-2-1090476717?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "51m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Two-Course Signature Meal Challenge - Grand Finale Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001315/1744288937109256_show_cmc_s01_ep54_india_10042025_landscape.jpg",
+                    "updateDate": "10-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/two-course-signature-meal-challenge-grand-finale-part-1-1090476660?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "53",
+                    "duration": "75m",
+                    "episodeCode": "S1-E53",
+                    "episodeName": "Home Cooks Vs Chefs",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001252/1744191036757542_show_cmc_s01_ep53_india_09042025_landscape.jpg",
+                    "updateDate": "09-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/home-cooks-vs-chefs-1090476573?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "72m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Pressure Test By Chef Rahul Rana",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001204/1744110793338422_show_cmc_s01_ep52_india_08042025_landscape.jpg",
+                    "updateDate": "08-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/pressure-test-by-chef-rahul-rana-1090476488?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "72m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Face Your Fears Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001179/1744028944016786_show_cmc_s01_ep51_india_07042025_landscape.jpg",
+                    "updateDate": "07-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/face-your-fears-challenge-1090476411?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "66m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Mystery Box Challenge By Chef Saransh Goila - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001097/1743773049755564_show_cmc_s01_ep50_india_04042025_rev_landscape.jpg",
+                    "updateDate": "04-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/mystery-box-challenge-by-chef-saransh-goila-part-2-1090476265?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "65m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Mystery Box Challenge By Chef Saransh Goila - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001060/1743671832002230_show_cmc_s01_ep49_india_03042025_landscape.jpg",
+                    "updateDate": "03-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/mystery-box-challenge-by-chef-saransh-goila-part-1-1090476206?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "48",
+                    "duration": "65m",
+                    "episodeCode": "S1-E48",
+                    "episodeName": "On Cloud Nine Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000001041/1743599120927782_show_cmc_s01_ep48_india_02042025_landscape.jpg",
+                    "updateDate": "02-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/on-cloud-nine-challenge-1090476144?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "66m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "Celebrating International Street Food",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000996/1743509527163911_show_cmc_s01_ep47_india_01042025_landscape.jpg",
+                    "updateDate": "01-04-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/celebrating-international-street-food-1090476007?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "69m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Barter Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000972/1743426031454628_show_cmc_s01_ep46_landscape_thumb.jpg",
+                    "updateDate": "31-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/barter-challenge-1090475981?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "45",
+                    "duration": "53m",
+                    "episodeCode": "S1-E45",
+                    "episodeName": "Sai Seva Service Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000868/1743154781726934_show_cmc_s01_ep45_india_28032025_landscape.jpg",
+                    "updateDate": "28-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/sai-seva-service-challenge-1090475792?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "41m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Aloo Superstar Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000821/1743069024352906_show_cmc_s01_ep44_india_27032025_landscape.jpg",
+                    "updateDate": "27-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/aloo-superstar-challenge-1090475759?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "64m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "Odisha Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000791/1742988749511428_show_cmc_s01_ep43_india_26032025_landscape.jpg",
+                    "updateDate": "26-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/odisha-challenge-1090475694?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "60m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Futuristic Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000745/1742895819866486_show_cmc_s01_ep42_india_25032025_landscape.jpg",
+                    "updateDate": "25-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/futuristic-challenge-1090475624?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "53m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Delhi Special Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000717/1742822293933264_show_cmc_s01_ep41_india_24032025_landscape.jpg",
+                    "updateDate": "24-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/delhi-special-challenge-1090475563?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "54m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Delhi Chaat Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000584/1742550543479179_show_cmc_s01_ep40_india_21032025_landscape.jpg",
+                    "updateDate": "21-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/delhi-chaat-challenge-1090475278?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "53m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Delhi Spice Test",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000549/1742477042393452_show_cmc_s01_ep39_india_20032025_landscape.jpg",
+                    "updateDate": "20-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/delhi-spice-test-1090475134?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "38",
+                    "duration": "50m",
+                    "episodeCode": "S1-E38",
+                    "episodeName": "Black Apron Challenge ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000517/1742384837110225_show_cmc_s01_ep38_india_19032025_landscape.jpg",
+                    "updateDate": "19-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/black-apron-challenge-1090475083?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "49m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Holi Special Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000497/1742297623592320_show_cmc_s01_ep37_18032025_landscape.jpg",
+                    "updateDate": "18-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/holi-special-challenge-1090475031?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "49m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Veeba Taste Test",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000470/1742216505790305_show_cmc_s01_ep36_india_17032025_landscape.jpg",
+                    "updateDate": "17-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/veeba-taste-test-1090474921?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "53m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Hina And Rocky's Wedding Menu Challenge - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000379/1741950368734106_show_cmc_s01_ep35_landscape.jpg",
+                    "updateDate": "14-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/hina-and-rockys-wedding-menu-challenge-part-2-1090474678?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "55m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Hina And Rocky's Wedding Menu Challenge - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000332/1741864220558197_show_cmc_s01_ep34_india_13032025_landscape.jpg",
+                    "updateDate": "13-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/hina-and-rockys-wedding-menu-challenge-part-1-1090474507?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "54m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Wheel Of Fortune Pair Challenge By Chef Ajay Chopra - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000280/1741786001589341_show_cmc_s01_ep33_india_12032025_landscape.jpg",
+                    "updateDate": "12-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/wheel-of-fortune-pair-challenge-by-chef-ajay-chopra-part-2-1090474002?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "32",
+                    "duration": "48m",
+                    "episodeCode": "S1-E32",
+                    "episodeName": "Wheel Of Fortune Pair Challenge By Chef Ajay Chopra - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000218/1741696388230861_show_cmc_s01_ep32_india_11032025_landscape_thumb.jpg",
+                    "updateDate": "11-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/wheel-of-fortune-pair-challenge-by-chef-ajay-chopra-part-1-1090472675?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "51m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Chef Manu Chandra's Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000185/1741612640120976_show_cmc_s01_ep31_int_10032025_landscape.jpg",
+                    "updateDate": "10-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/chef-manu-chandras-challenge-1090471592?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "73m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Lucky Dip Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000067/174134123005219_show_cmc_s01_ep30_india_07032025_landscape.jpg",
+                    "updateDate": "07-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/lucky-dip-challenge-1090470884?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "65m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "MasterChef Taste Test",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090470747/thumbnail/1741263156142_show_cmc_s01_ep29_india_06032025_landscape.jpg",
+                    "updateDate": "06-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/masterchef-taste-test-1090470747?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "62m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Phool Aur Kaante Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep28_india_05032025_landscape.jpg",
+                    "updateDate": "05-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/phool-aur-kaante-challenge-1090470601?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "74m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "Coconut Team Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep27_india_04032025_landscape.jpg",
+                    "updateDate": "04-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/coconut-team-challenge-1090470484?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "72m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Replica Dish Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep26_india_03032025_landscape.jpg",
+                    "updateDate": "03-03-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/replica-dish-challenge-1090470367?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "70m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "Overnight Cooking Challenge By Chef Romy Gill",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep25_india_28022025_landscape.jpg",
+                    "updateDate": "28-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/overnight-cooking-challenge-by-chef-romy-gill-1090470136?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "58m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "Healthy Food Challenge - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep24_india_27022025_landscape.jpg",
+                    "updateDate": "27-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/healthy-food-challenge-part-2-1090470101?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "23",
+                    "duration": "58m",
+                    "episodeCode": "S1-E23",
+                    "episodeName": "Healthy Food Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep23_india_26022025_landscape.jpg",
+                    "updateDate": "26-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/healthy-food-challenge-1090469752?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "22",
+                    "duration": "73m",
+                    "episodeCode": "S1-E22",
+                    "episodeName": "Pasta Making Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep22_india_25022025_landscape.jpg",
+                    "updateDate": "25-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/pasta-making-challenge-1090469677?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "69m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Immunity Pin Challenge ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/celebrity_masterchef_s01_ep21_24022025_landscape.jpg",
+                    "updateDate": "24-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/immunity-pin-challenge-1090469587?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "59m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Elimination Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep20_india_21022025_landscape.jpg",
+                    "updateDate": "21-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/elimination-challenge-1090469431?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "68m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Team Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep19_india_20022025_landscape.jpg",
+                    "updateDate": "20-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/team-challenge-1090469357?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "48m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Blind Fold Challenge - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep18_india_19022025_landscape.jpg",
+                    "updateDate": "19-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/blind-fold-challenge-part-2-1090469240?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "55m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "Blind Fold Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep17_india_18022025_landscape.jpg",
+                    "updateDate": "18-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/blind-fold-challenge-1090469161?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "57m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Festival Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/celebrity_masterchef_s01_ep_16_sony_landscape.jpg",
+                    "updateDate": "17-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/festival-challenge-1090469075?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "66m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Pooja Dhingra's Elimination Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep15_india_14022025_land_thumb.jpg",
+                    "updateDate": "14-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/pooja-dhingras-elimination-challenge-1090468890?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "56m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Golden Mystery Box Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/celebrity_masterchef_s01_ep_14_sony_liv_seg_land_thumb.jpg",
+                    "updateDate": "13-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/golden-mystery-box-challenge-1090468779?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "48m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Double Trouble Team Challenge - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep13_india_12022025_land_thumb.jpg",
+                    "updateDate": "12-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/double-trouble-team-challenge-part-2-1090468683?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "48m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Double Trouble Team Challenge - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep12_intl_11022025_land_thumb.jpg",
+                    "updateDate": "11-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/double-trouble-team-challenge-part-1-1090468540?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "55m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "Liquid To Solid Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep11_ind_10022025_land_thumb.jpg",
+                    "updateDate": "10-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/liquid-to-solid-challenge-1090468452?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "55m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "First Elimination Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep10_ind_07022025_land_thumb.jpg",
+                    "updateDate": "07-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/first-elimination-challenge-1090468180?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "56m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "First-Ever Team Service Challenge - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/celebrity_masterchef_s01_ep_09_land_thumb.jpg",
+                    "updateDate": "06-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/first-ever-team-service-challenge-part-2-1090468092?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "54m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "First-Ever Team Service Challenge - Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep07_ind_05022025_land_thumb.jpg",
+                    "updateDate": "05-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/first-ever-team-service-challenge-part-1-1090468014?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "54m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Winter On A Plate",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep07_ind_04022025_land_thumb.jpg",
+                    "updateDate": "04-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/winter-on-a-plate-1090467941?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "55m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Tribute To The Loved Ones",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/celebrity_masterchef_s01_ep_06_sony_liv_land_thumb.jpg",
+                    "updateDate": "03-02-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/tribute-to-the-loved-ones-1090467870?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "54m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "Vikas Khanna Replication Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep05_int_31012025_land_thumb.jpg",
+                    "updateDate": "31-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/vikas-khanna-replication-challenge-1090467601?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "53m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "State And Country Fusion Challenge - Part 2",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/cmc_s01_ep_04_rev_landscape_thumb.jpg",
+                    "updateDate": "30-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/state-and-country-fusion-challenge-part-2-1090467496?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "50m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "State And Country Fusion Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep03_india_29012025_land_thumb.jpg",
+                    "updateDate": "29-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/state-and-country-fusion-challenge-1090467025?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "56m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Messy Egg Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/show_cmc_s01_ep02_int_28012025_land_thumb.jpg",
+                    "updateDate": "28-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/messy-egg-challenge-1090466919?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "55m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Kitchen Is Set",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/cmc_s01_ep_01_sony_liv_landscape_thumb.jpg",
+                    "updateDate": "27-01-2025",
+                    "episodeUrl": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208/kitchen-is-set-1090431895?watch=true"
+                }
+            ]
+        }
+    ]
+}
