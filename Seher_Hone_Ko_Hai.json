@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "249",
+                    "duration": "31m",
+                    "episodeCode": "S2-E249",
+                    "episodeName": "Mahid and Seher Get a Lead",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8098/1792435818098-h",
+                    "updateDate": "20-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "248",
                     "duration": "29m",
                     "episodeCode": "S2-E248",
