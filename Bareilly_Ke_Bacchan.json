@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "112",
+                    "duration": "32m",
+                    "episodeCode": "S1-E112",
+                    "episodeName": "Krishna Helps Ganga Face His Pain",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5736/1792446875736-h",
+                    "updateDate": "20-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/bareilly-ke-bachchan-20th-october-2026/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "111",
                     "duration": "29m",
                     "episodeCode": "S1-E111",
