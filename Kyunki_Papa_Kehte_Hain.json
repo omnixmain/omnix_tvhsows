@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "25",
+                    "duration": "22m",
+                    "episodeCode": "S1-E25",
+                    "episodeName": "A Plan To Scare Simran",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026778/1792491951704971_KYUNKI_PAPA_KEHTE_HAIN_EP_25_landscape_thumbnail.jpeg",
+                    "updateDate": "20-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/a-plan-to-scare-simran-1090549106?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "24",
                     "duration": "21m",
                     "episodeCode": "S1-E24",
