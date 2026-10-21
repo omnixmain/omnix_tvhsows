@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "122",
+                    "duration": "22m",
+                    "episodeCode": "S2-E122",
+                    "episodeName": "Radheya’s Bold Proposal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026853/1792569632771694_Hastinapur_Ke_Veer_Ep_122_landscape_thumbnail.jpeg",
+                    "updateDate": "21-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheyas-bold-proposal-1090549063?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "121",
                     "duration": "22m",
                     "episodeCode": "S2-E121",
