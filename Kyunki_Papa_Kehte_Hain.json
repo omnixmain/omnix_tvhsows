@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "22m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Pawan's Spooky Plan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026869/1792576400184592_KYUNKI_PAPA_KEHTE_HAIN_EP_26_landscape_thumbnail.jpeg",
+                    "updateDate": "21-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-spooky-plan-1090549107?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "25",
                     "duration": "22m",
                     "episodeCode": "S1-E25",
