@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "13",
+                    "episodeNumber": "46",
+                    "duration": "45m",
+                    "episodeCode": "S13-E46",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "updateDate": "21-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
                     "episodeNumber": "45",
                     "duration": "1h 5m",
                     "episodeCode": "S13-E45",
@@ -91,7 +101,7 @@
                     "episodeName": "BBKan Day 37: Solo vs Team!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8593/1791889278593-h",
                     "updateDate": "13-10-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-malayalam-season-8-13th-october-2026-watch-online-video-episode-38/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "13",
@@ -211,7 +221,7 @@
                     "episodeName": "BBKan Day 25: No Electricty in the House!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1323/1790859501323-h",
                     "updateDate": "01-10-2026",
-                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-21st-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "13",
@@ -421,7 +431,7 @@
                     "episodeName": "BBKan Day 4: Flight Swap Fight",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1887/1789042291887-h",
                     "updateDate": "10-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-13-kannada-10th-september-2026-full-episode-5/#respond"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "13",
@@ -451,7 +461,7 @@
                     "episodeName": "BBKan Day 1: Sweet Garlands, Brutal Kicks!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8957/1788793288957-h",
                     "updateDate": "07-09-2026",
-                    "episodeUrl": "https://serialtvmaza.to/koffee-with-karan-season-9-21st-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "13",
@@ -1081,7 +1091,7 @@
                     "episodeName": "BBKan Day 45: Victory Sparks Heated Team Clash",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6007/1762956186007-h",
                     "updateDate": "12-11-2025",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-20-21st-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "12",
@@ -1161,7 +1171,7 @@
                     "episodeName": "BBKan Day 37: An Unexpected Twist",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5565/1762262495565-h",
                     "updateDate": "04-11-2025",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-malayalam-season-8-13th-october-2026-watch-online-video-episode-38/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "12",
@@ -1281,7 +1291,7 @@
                     "episodeName": "BBKan Day 25: Diwali Lights, Heated Fights",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4864/1761228344864-h",
                     "updateDate": "23-10-2025",
-                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-21st-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "12",
@@ -1481,7 +1491,7 @@
                     "episodeName": "BBKan Day 4: Blame Game",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8749/1759411448749-h",
                     "updateDate": "02-10-2025",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-13-kannada-10th-september-2026-full-episode-5/#respond"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "12",
@@ -1511,7 +1521,7 @@
                     "episodeName": "BBKan Day 1: Early Eviction Shocker!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9416/1759157699416-h",
                     "updateDate": "29-09-2025",
-                    "episodeUrl": "https://serialtvmaza.to/koffee-with-karan-season-9-21st-october-2026/"
+                    "episodeUrl": ""
                 }
             ]
         }
