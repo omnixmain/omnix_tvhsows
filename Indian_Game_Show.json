@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "47",
+                    "duration": "57m",
+                    "episodeCode": "S2-E47",
+                    "episodeName": "Basketball Beam Battle",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026865/1792574439523269_IGS_21st_Oct_Ep47_landscape_thumb.jpg",
+                    "updateDate": "21-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/basketball-beam-battle-1090549406?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "46",
                     "duration": "56m",
                     "episodeCode": "S2-E46",
