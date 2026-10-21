@@ -10,18 +10,18 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Bengali",
-            "ottReleaseDate": "October 20, 2026",
+            "ottReleaseDate": "October 21, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "52",
-                    "duration": "45m",
+                    "duration": "1h 4m",
                     "episodeCode": "S1-E52",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9993/1792404759993-i",
+                    "episodeName": "BBBan Day 51: Thakur Barir Durgotsav",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4919/1792503594919-h",
                     "updateDate": "20-10-2026",
-                    "episodeUrl": "https://serialtvmaza.to/divya-prem-20th-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -281,7 +281,7 @@
                     "episodeName": "BBBan Day 25: A Final Shot at Luxury Budget",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8539/1790259808539-h",
                     "updateDate": "24-09-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-21st-october-2026/"
                 },
                 {
                     "seasonNumber": "1",
