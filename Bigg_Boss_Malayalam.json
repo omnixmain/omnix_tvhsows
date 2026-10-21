@@ -10,18 +10,18 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "October 20, 2026",
+            "ottReleaseDate": "October 21, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "45",
-                    "duration": "45m",
+                    "duration": "1h 9m",
                     "episodeCode": "S8-E45",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "episodeName": "BBMal Day 44: Ahoy! It's Gold!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1131/1792497001131-h",
                     "updateDate": "20-10-2026",
-                    "episodeUrl": "https://serialtvmaza.to/dilon-ki-ram-leela-20th-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "8",
@@ -211,7 +211,7 @@
                     "episodeName": "BBMal Day 25: Twisted Mind Games and Team Swaps",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4990/1790861394990-h",
                     "updateDate": "01-10-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-21st-october-2026/"
                 },
                 {
                     "seasonNumber": "8",
