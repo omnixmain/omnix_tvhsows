@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 20, 2026",
+            "ottReleaseDate": "October 21, 2026",
             "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "21m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "Maya Questions Saanvi's Character",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9094/1792545179094-h",
+                    "updateDate": "21-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/sayonee-21st-october-2026/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "28",
