@@ -10,18 +10,18 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Kannada",
-            "ottReleaseDate": "October 20, 2026",
+            "ottReleaseDate": "October 21, 2026",
             "description": "Watch Bigg Boss Kannada on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "13",
                     "episodeNumber": "45",
-                    "duration": "45m",
+                    "duration": "1h 5m",
                     "episodeCode": "S13-E45",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "episodeName": "BBKan Day 44: Nominees Turn Thieves",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7573/1792496947573-h",
                     "updateDate": "20-10-2026",
-                    "episodeUrl": "https://serialtvmaza.to/dilon-ki-ram-leela-20th-october-2026/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "13",
@@ -211,7 +211,7 @@
                     "episodeName": "BBKan Day 25: No Electricty in the House!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1323/1790859501323-h",
                     "updateDate": "01-10-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-21st-october-2026/"
                 },
                 {
                     "seasonNumber": "13",
@@ -1281,7 +1281,7 @@
                     "episodeName": "BBKan Day 25: Diwali Lights, Heated Fights",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4864/1761228344864-h",
                     "updateDate": "23-10-2025",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.to/rise-and-fall-season-2-21st-october-2026/"
                 },
                 {
                     "seasonNumber": "12",
