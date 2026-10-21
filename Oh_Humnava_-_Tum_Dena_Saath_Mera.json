@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 20, 2026",
+            "ottReleaseDate": "October 21, 2026",
             "description": "Aparajita is an artist with a bitter past, and our hero Rakshit—a reserved businessman with no place for love! These two hearts meet, but will romance bloom? Watch Oh Humnava - Tum Dena Saath Mera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "182",
+                    "duration": "21m",
+                    "episodeCode": "S1-E182",
+                    "episodeName": "Rashmi Is Pregnant",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2384/1792540152384-h",
+                    "updateDate": "21-10-2026",
+                    "episodeUrl": "https://serialtvmaza.to/o-humnava-tum-dena-saath-mera-21st-october-2026/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "181",
@@ -1811,6 +1821,16 @@
                     "episodeName": "Rakshit's Return Shocks the Family",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/457/1776784780457-h",
                     "updateDate": "21-04-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "23m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Meet Rakshit, Aparajita",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7817/1776632057817-h",
+                    "updateDate": "20-04-2026",
                     "episodeUrl": ""
                 }
             ]
