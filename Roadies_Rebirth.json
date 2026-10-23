@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "21",
+                    "episodeNumber": "3",
+                    "duration": "1h 37m",
+                    "episodeCode": "S21-E3",
+                    "episodeName": "Lights, Camera, Emotions!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3378/1792751913378-h",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "21",
                     "episodeNumber": "2",
                     "duration": "1h 45m",
                     "episodeCode": "S21-E2",
