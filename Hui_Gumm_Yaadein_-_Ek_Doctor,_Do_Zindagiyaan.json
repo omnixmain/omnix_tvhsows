@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "172",
+                    "duration": "22m",
+                    "episodeCode": "S1-E172",
+                    "episodeName": "A Harsh Verdict for Dr. Dev",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026920/179260591856958_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_172_landscape_thumb.jpg",
+                    "updateDate": "22-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/a-harsh-verdict-for-dr-dev-1090549034?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "171",
                     "duration": "22m",
                     "episodeCode": "S1-E171",
