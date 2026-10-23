@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4849",
+                    "duration": "21m",
+                    "episodeCode": "S49-E4849",
+                    "episodeName": "Jethalal's High Stakes Gold Deal",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027142/179275439019697_Taarak_Mehta_Ka_Oolta_Chashmah_4849_Sonyliv_landscape_thumbnail.jpg",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/jethalals-high-stakes-gold-deal-1090549046?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4848",
                     "duration": "20m",
                     "episodeCode": "S49-E4848",
