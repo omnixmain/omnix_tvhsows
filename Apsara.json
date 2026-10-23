@@ -1,0 +1,49 @@
+{
+    "tvShows": [
+        {
+            "name": "Apsara",
+            "banner": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTAR_DTH/SERIES/6ad7c59b5b6f2245be87f326/images/PORTRAIT/1791389250568-v",
+            "genre": "Drama, Entertainment",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 13+",
+            "streaming": "JioHotstar",
+            "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "October 24, 2026",
+            "description": "Braving modern-day evils, power-blessed Sunheri is the sole protector of her celestial clan! But her blood sister Dhara stands in her way! Can she fight her? Watch Apsara - Hindi Fantasy Thriller Romance serial on JioHotstar now.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "20m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "Saira's Scheme for Divyalok",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7697/1792716417697-h",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-23rd-october-2026-watch-online-video-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "22m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "Saira's Deceptive Care for Dhara",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3946/1792631313946-h",
+                    "updateDate": "22-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-22nd-october-2026-watch-online-video-episode/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "45m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "The Birth of Sunheri and Dhara",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/352/1792545190352-h",
+                    "updateDate": "21-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-21st-october-2026-watch-online-video-episode/"
+                }
+            ]
+        }
+    ]
+}
