@@ -10,13 +10,23 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "October 21, 2026",
+            "ottReleaseDate": "October 23, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "10",
-                    "episodeNumber": "46",
+                    "episodeNumber": "47",
                     "duration": "1h 13m",
+                    "episodeCode": "S10-E47",
+                    "episodeName": "BBTel Day 46: The GOAT of Endurance",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4713/1792674704713-h",
+                    "updateDate": "22-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "46",
+                    "duration": "1h 11m",
                     "episodeCode": "S10-E46",
                     "episodeName": "BBTel Day 45: Celebrations and Destiny Box",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9288/1792588009288-h",
