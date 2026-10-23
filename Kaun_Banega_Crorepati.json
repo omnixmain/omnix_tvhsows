@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "55",
+                    "duration": "22m",
+                    "episodeCode": "S18-E55",
+                    "episodeName": "Kaun Banega Crorepati",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789112795931380_KBC_S18_simulcast_11sep_landscape_thumb.jpg",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/kaun-banega-crorepati-1090538390?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "54",
                     "duration": "44m",
                     "episodeCode": "S18-E54",
