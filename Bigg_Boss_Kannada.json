@@ -10,16 +10,16 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Kannada",
-            "ottReleaseDate": "October 23, 2026",
+            "ottReleaseDate": "October 24, 2026",
             "description": "Watch Bigg Boss Kannada on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "13",
                     "episodeNumber": "48",
-                    "duration": "45m",
+                    "duration": "1h 5m",
                     "episodeCode": "S13-E48",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "episodeName": "BBKan Day 47: Soundharya Wins Ultimate Power",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6687/1792759486687-h",
                     "updateDate": "23-10-2026",
                     "episodeUrl": ""
                 },
@@ -491,156 +491,6 @@
                     "episodeName": "BBKan: Grand Take Off",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2126/1788688232126-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "113",
-                    "duration": "4h 7m",
-                    "episodeCode": "S12-E113",
-                    "episodeName": "BBKan Day 112: Grand Finale",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9384/1768810749384-h",
-                    "updateDate": "18-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "111",
-                    "duration": "1h 4m",
-                    "episodeCode": "S12-E111",
-                    "episodeName": "BBKan Day 110: A House Full of Emotions",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6942/1768565496942-h",
-                    "updateDate": "16-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "110",
-                    "duration": "1h 3m",
-                    "episodeCode": "S12-E110",
-                    "episodeName": "BBKan Day 109: Festive Fun and Apology Letters",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2130/1768481522130-h",
-                    "updateDate": "15-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "109",
-                    "duration": "1h 5m",
-                    "episodeCode": "S12-E109",
-                    "episodeName": "BBKan Day 108: Mid-week Eviction Twist",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9391/1768394119391-h",
-                    "updateDate": "14-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "108",
-                    "duration": "1h 5m",
-                    "episodeCode": "S12-E108",
-                    "episodeName": "BBKan Day 107: Vote Appeals Stir Deep Emotions",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1829/1768306551829-h",
-                    "updateDate": "13-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "107",
-                    "duration": "1h 3m",
-                    "episodeCode": "S12-E107",
-                    "episodeName": "BBKan Day 106: Make a Wish!",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8703/1768224428703-h",
-                    "updateDate": "12-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "106",
-                    "duration": "1h 26m",
-                    "episodeCode": "S12-E106",
-                    "episodeName": "BBKan Day 105: Sudeep Reveals the Top 7",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4760/1768138394760-h",
-                    "updateDate": "11-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "105",
-                    "duration": "1h 25m",
-                    "episodeCode": "S12-E105",
-                    "episodeName": "BBKan Day 104: Kichchana Panchayati",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/979/1768047340979-h",
-                    "updateDate": "10-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "104",
-                    "duration": "1h 4m",
-                    "episodeCode": "S12-E104",
-                    "episodeName": "BBKan Day 103: Meet the First Finalist",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7634/1767967047634-h",
-                    "updateDate": "09-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "103",
-                    "duration": "1h 6m",
-                    "episodeCode": "S12-E103",
-                    "episodeName": "BBKan Day 102: Who Will Earn the Top 6 Spot?",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5967/1767875495967-h",
-                    "updateDate": "08-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "102",
-                    "duration": "1h 5m",
-                    "episodeCode": "S12-E102",
-                    "episodeName": "BBKan Day 101: Fight for the Top 6 Continues",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5417/1767790275417-h",
-                    "updateDate": "07-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "101",
-                    "duration": "1h 3m",
-                    "episodeCode": "S12-E101",
-                    "episodeName": "BBKan Day 100: Ticket to Top 6!",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8481/1767705748481-h",
-                    "updateDate": "06-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "100",
-                    "duration": "1h 5m",
-                    "episodeCode": "S12-E100",
-                    "episodeName": "BBKan Day 99: The Last Chance to Nominate",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2738/1767618912738-h",
-                    "updateDate": "05-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "99",
-                    "duration": "1h 24m",
-                    "episodeCode": "S12-E99",
-                    "episodeName": "BBKan Day 98: Exciting Games and Eviction",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8362/1767532958362-h",
-                    "updateDate": "04-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "12",
-                    "episodeNumber": "98",
-                    "duration": "1h 25m",
-                    "episodeCode": "S12-E98",
-                    "episodeName": "BBKan Day 97: Resolutions and Reflections",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7742/1767442927742-h",
-                    "updateDate": "03-01-2026",
                     "episodeUrl": ""
                 },
                 {
