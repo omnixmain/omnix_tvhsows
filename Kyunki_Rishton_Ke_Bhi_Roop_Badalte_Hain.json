@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 23, 2026",
+            "ottReleaseDate": "October 24, 2026",
             "description": "Years after a harrowing separation, Angad and Vrinda’s paths cross again! Navigating lost love, is there a hope for VridAng’s reunion? Watch Kyunki Rishton Ke Bhi Roop Badalte Hain - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "217",
+                    "duration": "26m",
+                    "episodeCode": "S1-E217",
+                    "episodeName": "Dev Doubts Mitali",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3209/1792716383209-h",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "216",
