@@ -10,16 +10,26 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Bengali",
-            "ottReleaseDate": "October 21, 2026",
+            "ottReleaseDate": "October 23, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "1h 5m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "BBBan Day 53: Who Will Win the Luxury Budget?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7066/1792677857066-h",
+                    "updateDate": "22-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "53",
-                    "duration": "45m",
+                    "duration": "1h 4m",
                     "episodeCode": "S1-E53",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9993/1792404759993-i",
+                    "episodeName": "BBBan Day 52: Celebrations, Coins and Clashes",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3049/1792591123049-h",
                     "updateDate": "21-10-2026",
                     "episodeUrl": ""
                 },
