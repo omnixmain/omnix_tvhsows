@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4848",
+                    "duration": "20m",
+                    "episodeCode": "S49-E4848",
+                    "episodeName": "Mission Locker Key",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026990/1792666803552579_Taarak_Mehta_Ka_Oolta_Chashmah_4848_Sonyliv_mxf_002_landscape_thumbnail.jpg",
+                    "updateDate": "22-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/mission-locker-key-1090549045?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4847",
                     "duration": "21m",
                     "episodeCode": "S49-E4847",
