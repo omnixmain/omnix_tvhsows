@@ -10,9 +10,509 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 21, 2026",
+            "ottReleaseDate": "October 23, 2026",
             "description": "Shivprasad and Shalini juggle middle-class family life with their two kids. But hush! Shivprasad is also a secret agent, how long can he keep up his cover? Watch Mr. and Mrs. Parshuram - Hindi Drama Action serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "162",
+                    "duration": "24m",
+                    "episodeCode": "S1-E162",
+                    "episodeName": "Sheetal Attempts to Flee",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/248/1784167590248-h",
+                    "updateDate": "16-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "161",
+                    "duration": "20m",
+                    "episodeCode": "S1-E161",
+                    "episodeName": "Sheetal Walks Into Shalini's Trap",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6977/1784080486977-h",
+                    "updateDate": "15-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "160",
+                    "duration": "21m",
+                    "episodeCode": "S1-E160",
+                    "episodeName": "Shalini Stuns Sheetal",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3183/1783992973183-h",
+                    "updateDate": "14-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "159",
+                    "duration": "21m",
+                    "episodeCode": "S1-E159",
+                    "episodeName": "Shashank Investigates About Sheetal",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7143/1783904617143-h",
+                    "updateDate": "13-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "158",
+                    "duration": "21m",
+                    "episodeCode": "S1-E158",
+                    "episodeName": "Parshuram Hints at Deeper Links",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6591/1783817476591-h",
+                    "updateDate": "12-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "157",
+                    "duration": "21m",
+                    "episodeCode": "S1-E157",
+                    "episodeName": "Shalini's Secret Plan for Vicky",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6512/1783731256512-h",
+                    "updateDate": "11-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "156",
+                    "duration": "21m",
+                    "episodeCode": "S1-E156",
+                    "episodeName": "Shalini Agrees to Marry Vicky",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4797/1783646324797-h",
+                    "updateDate": "10-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "155",
+                    "duration": "21m",
+                    "episodeCode": "S1-E155",
+                    "episodeName": "Shalini Finds Shivprasad Alive",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6606/1783571966606-h",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "154",
+                    "duration": "21m",
+                    "episodeCode": "S1-E154",
+                    "episodeName": "Shivprasad Learns the Truth",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8422/1783479548422-h",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "153",
+                    "duration": "21m",
+                    "episodeCode": "S1-E153",
+                    "episodeName": "Parshuram Hunts for the Shooter",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2113/1783388512113-h",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "152",
+                    "duration": "21m",
+                    "episodeCode": "S1-E152",
+                    "episodeName": "Vicky Faces Shalini's Wrath",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1568/1783347381568-h",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "151",
+                    "duration": "21m",
+                    "episodeCode": "S1-E151",
+                    "episodeName": "Shalini's Dance Shocks Shivprasad",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6688/1783212356688-h",
+                    "updateDate": "05-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "150",
+                    "duration": "20m",
+                    "episodeCode": "S1-E150",
+                    "episodeName": "Vicky Stuns the Dixit Family",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1209/1783123591209-h",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "149",
+                    "duration": "21m",
+                    "episodeCode": "S1-E149",
+                    "episodeName": "Shalini's Life in Danger?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4367/1783043014367-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "148",
+                    "duration": "21m",
+                    "episodeCode": "S1-E148",
+                    "episodeName": "Shivprasad Tests Vicky",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7527/1783001547527-h",
+                    "updateDate": "02-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "147",
+                    "duration": "21m",
+                    "episodeCode": "S1-E147",
+                    "episodeName": "Shalini's Stern Warning",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2268/1782857322268-h",
+                    "updateDate": "01-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "146",
+                    "duration": "21m",
+                    "episodeCode": "S1-E146",
+                    "episodeName": "Vicky Alerts Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2933/1782760042933-h",
+                    "updateDate": "30-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "145",
+                    "duration": "21m",
+                    "episodeCode": "S1-E145",
+                    "episodeName": "Shivprasad Interrogates Raju",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8353/1782682098353-h",
+                    "updateDate": "29-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "144",
+                    "duration": "21m",
+                    "episodeCode": "S1-E144",
+                    "episodeName": "Shalini's Troubles Deepen",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6678/1782591636678-h",
+                    "updateDate": "28-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "143",
+                    "duration": "22m",
+                    "episodeCode": "S1-E143",
+                    "episodeName": "Shivprasad Hunts Shalini's Truth",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/171/1782506300171-h",
+                    "updateDate": "27-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "142",
+                    "duration": "21m",
+                    "episodeCode": "S1-E142",
+                    "episodeName": "Shivprasad Places Trust in Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3233/1782442583233-h",
+                    "updateDate": "26-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "141",
+                    "duration": "21m",
+                    "episodeCode": "S1-E141",
+                    "episodeName": "Abhay's Death Deepens the Mystery",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6062/1782350706062-h",
+                    "updateDate": "25-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "140",
+                    "duration": "21m",
+                    "episodeCode": "S1-E140",
+                    "episodeName": "Shivprasad Comes Home in Disguise",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2625/1782262702625-h",
+                    "updateDate": "24-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "139",
+                    "duration": "21m",
+                    "episodeCode": "S1-E139",
+                    "episodeName": "Malhar Breaks Ties with Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7509/1782175867509-h",
+                    "updateDate": "23-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "138",
+                    "duration": "21m",
+                    "episodeCode": "S1-E138",
+                    "episodeName": "Shalini Stands Up for Herself",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9988/1782102269988-h",
+                    "updateDate": "22-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "137",
+                    "duration": "21m",
+                    "episodeCode": "S1-E137",
+                    "episodeName": "Vicky's Claim Targets Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8439/1782069438439-h",
+                    "updateDate": "21-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "136",
+                    "duration": "21m",
+                    "episodeCode": "S1-E136",
+                    "episodeName": "Shivprasad Assigns Balram a Mission",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8732/1781908338732-h",
+                    "updateDate": "20-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "135",
+                    "duration": "20m",
+                    "episodeCode": "S1-E135",
+                    "episodeName": "Karan Creates Trouble for Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9533/1781833719533-h",
+                    "updateDate": "19-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "134",
+                    "duration": "20m",
+                    "episodeCode": "S1-E134",
+                    "episodeName": "Deepali Stands by Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7961/1781755167961-h",
+                    "updateDate": "18-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "133",
+                    "duration": "20m",
+                    "episodeCode": "S1-E133",
+                    "episodeName": "Sheetal Plots to Frame Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4358/1781671524358-h",
+                    "updateDate": "17-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "132",
+                    "duration": "21m",
+                    "episodeCode": "S1-E132",
+                    "episodeName": "Shalini Confronts Allegations",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8345/1781622898345-h",
+                    "updateDate": "16-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "131",
+                    "duration": "30m",
+                    "episodeCode": "S1-E131",
+                    "episodeName": "Can Shivprasad Trace the Truth?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/558/1781482590558-h",
+                    "updateDate": "15-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "130",
+                    "duration": "21m",
+                    "episodeCode": "S1-E130",
+                    "episodeName": "Sheetal's Master Plan",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4619/1781385554619-h",
+                    "updateDate": "14-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "129",
+                    "duration": "20m",
+                    "episodeCode": "S1-E129",
+                    "episodeName": "Sheetal Influences Shivprasad",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6168/1781323596168-h",
+                    "updateDate": "13-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "128",
+                    "duration": "21m",
+                    "episodeCode": "S1-E128",
+                    "episodeName": "Nandini Stands by Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7042/1781228787042-h",
+                    "updateDate": "12-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "127",
+                    "duration": "20m",
+                    "episodeCode": "S1-E127",
+                    "episodeName": "Sheetal's Secret Plan",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2852/1781133682852-h",
+                    "updateDate": "11-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "126",
+                    "duration": "21m",
+                    "episodeCode": "S1-E126",
+                    "episodeName": "A Tragic Turn for Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7494/1781055137494-h",
+                    "updateDate": "10-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "125",
+                    "duration": "21m",
+                    "episodeCode": "S1-E125",
+                    "episodeName": "Shivprasad's Holiday Harmony",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4838/1780964404838-h",
+                    "updateDate": "09-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "124",
+                    "duration": "21m",
+                    "episodeCode": "S1-E124",
+                    "episodeName": "Kabir's Master Plan",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1954/1780913481954-h",
+                    "updateDate": "08-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "123",
+                    "duration": "21m",
+                    "episodeCode": "S1-E123",
+                    "episodeName": "Sheetal Vows Revenge on Shivprasad",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7199/1780793647199-h",
+                    "updateDate": "07-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "122",
+                    "duration": "21m",
+                    "episodeCode": "S1-E122",
+                    "episodeName": "Kabir's Bail Brings Joy to Karan",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2570/1780710632570-h",
+                    "updateDate": "06-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "121",
+                    "duration": "20m",
+                    "episodeCode": "S1-E121",
+                    "episodeName": "Shalini Confronts Shivprasad",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6248/1780637466248-h",
+                    "updateDate": "05-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "120",
+                    "duration": "20m",
+                    "episodeCode": "S1-E120",
+                    "episodeName": "Parshuram Shields Shalini",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6225/1780544906225-h",
+                    "updateDate": "04-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "119",
+                    "duration": "34m",
+                    "episodeCode": "S1-E119",
+                    "episodeName": "Sankalp Targets Shalini's Kids",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8526/1780460128526-h",
+                    "updateDate": "03-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "118",
+                    "duration": "14m",
+                    "episodeCode": "S1-E118",
+                    "episodeName": "Malhar Spots Shivprasad",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3195/1790171323195-h",
+                    "updateDate": "02-06-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "117",
+                    "duration": "21m",
+                    "episodeCode": "S1-E117",
+                    "episodeName": "Chintu and Pihu in Danger?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3054/1780175233054-h",
+                    "updateDate": "31-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "116",
+                    "duration": "21m",
+                    "episodeCode": "S1-E116",
+                    "episodeName": "Manish Pleads for Aradhya's Life",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7982/1780088897982-h",
+                    "updateDate": "30-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "115",
+                    "duration": "20m",
+                    "episodeCode": "S1-E115",
+                    "episodeName": "Bhargavi Denies Aradhya's Request",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8637/1780017598637-h",
+                    "updateDate": "29-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "114",
+                    "duration": "21m",
+                    "episodeCode": "S1-E114",
+                    "episodeName": "Shivprasad Faces Danger",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9957/1779941279957-h",
+                    "updateDate": "28-05-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "113",
+                    "duration": "20m",
+                    "episodeCode": "S1-E113",
+                    "episodeName": "Shivprasad's Birthday Celebration",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5896/1779841525896-h",
+                    "updateDate": "27-05-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "112",
@@ -761,7 +1261,7 @@
                     "episodeName": "Nandini Alerts Shalini",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/604/1773306360604-h",
                     "updateDate": "12-03-2026",
-                    "episodeUrl": "https://serialtvmaza.to/bigg-boss-malayalam-season-8-13th-october-2026-watch-online-video-episode-38/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
