@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "49",
+                    "duration": "54m",
+                    "episodeCode": "S2-E49",
+                    "episodeName": "The Ring Jump Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027168/1792760316056546_IGS_23rd_Oct_Ep49_landscape_thumb.jpg",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-ring-jump-challenge-1090549546?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "48",
                     "duration": "57m",
                     "episodeCode": "S2-E48",
