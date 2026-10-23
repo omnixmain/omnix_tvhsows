@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1370",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1370",
+                    "episodeName": "The Mystery Hero",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026920/179260590790158_PUSHPA_IMPOSSIBLE_EP_1370_landscape_thumb.jpg",
+                    "updateDate": "22-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/the-mystery-hero-1090549096?watch=true"
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1369",
                     "duration": "22m",
                     "episodeCode": "S14-E1369",
@@ -12866,12 +12876,12 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "84",
-                    "duration": "44m",
+                    "duration": "43m",
                     "episodeCode": "S1-E84",
-                    "episodeName": "Golu Pahucha Sai Darshan Heights - Maha Episode Part 2",
-                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_landscape_thumb_revised2.jpg",
-                    "updateDate": "13-09-2022",
-                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/golu-pahucha-sai-darshan-heights-maha-episode-part-2-1000188532?watch=true"
+                    "episodeName": "Golu Hua Lapata - Maha Episode Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_1_landscape_thumb.jpg",
+                    "updateDate": "12-09-2022",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/golu-hua-lapata-maha-episode-part-1-1000188435?watch=true"
                 },
                 {
                     "seasonNumber": "1",
