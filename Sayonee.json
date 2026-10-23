@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "18m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "Kabir's Sincere Apology",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5115/1792716395115-h",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "30",
                     "duration": "18m",
                     "episodeCode": "S1-E30",
