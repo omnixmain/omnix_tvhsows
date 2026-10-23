@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Mahadev and Sons",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1922/1781778601922-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8794/1792764468794-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -13,6 +13,16 @@
             "ottReleaseDate": "October 23, 2026",
             "description": "Mahadev's 'perfect' family is breaking apart, all because of Mogra, his beloved daughter-in-law. Can Rajji and Dheeraj protect the family and Mahadev's legacy? Watch Mahadev & Sons - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "224",
+                    "duration": "29m",
+                    "episodeCode": "S1-E224",
+                    "episodeName": "Bhanu Vows to Take Revenge",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5359/1792741235359-h",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "223",
@@ -801,116 +811,6 @@
                     "episodeName": "Vidya Faces Police Inquiry",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/230/1784770950230-h",
                     "updateDate": "23-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "144",
-                    "duration": "22m",
-                    "episodeCode": "S1-E144",
-                    "episodeName": "Vishwa, Yash Create Trouble",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9754/1784686989754-h",
-                    "updateDate": "22-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "143",
-                    "duration": "22m",
-                    "episodeCode": "S1-E143",
-                    "episodeName": "Rajji, Narmada Suspect a Plot",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5864/1784601195864-h",
-                    "updateDate": "21-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "142",
-                    "duration": "21m",
-                    "episodeCode": "S1-E142",
-                    "episodeName": "Vidya Bags a Big Contract",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8843/1784481638843-h",
-                    "updateDate": "20-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "141",
-                    "duration": "34m",
-                    "episodeCode": "S1-E141",
-                    "episodeName": "Extra Family Time",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5492/1784332675492-h",
-                    "updateDate": "18-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "140",
-                    "duration": "23m",
-                    "episodeCode": "S1-E140",
-                    "episodeName": "Vidya Starts a New Journey",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6475/1784252966475-h",
-                    "updateDate": "17-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "139",
-                    "duration": "22m",
-                    "episodeCode": "S1-E139",
-                    "episodeName": "Mogra Warns Mahadev",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8705/1784168818705-h",
-                    "updateDate": "16-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "138",
-                    "duration": "22m",
-                    "episodeCode": "S1-E138",
-                    "episodeName": "Dheeraj Falls Sick",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9209/1784079389209-h",
-                    "updateDate": "15-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "137",
-                    "duration": "21m",
-                    "episodeCode": "S1-E137",
-                    "episodeName": "Mahadev Makes Amends to Ketan",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/59/1783997530059-h",
-                    "updateDate": "14-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "136",
-                    "duration": "20m",
-                    "episodeCode": "S1-E136",
-                    "episodeName": "Mahadev and Vidya's Fierce Clash",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5974/1783910135974-h",
-                    "updateDate": "13-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "135",
-                    "duration": "20m",
-                    "episodeCode": "S1-E135",
-                    "episodeName": "Vidya's Struggle for Employment",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/856/1783646430856-h",
-                    "updateDate": "10-07-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "134",
-                    "duration": "21m",
-                    "episodeCode": "S1-E134",
-                    "episodeName": "Vidya Stands Up to Mahadev",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9880/1783571989880-h",
-                    "updateDate": "09-07-2026",
                     "episodeUrl": ""
                 }
             ]
