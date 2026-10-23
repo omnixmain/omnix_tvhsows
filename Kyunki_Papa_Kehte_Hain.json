@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "22m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Simran Refuses To Leave",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027116/1792749023027846_KYUNKI_PAPA_KEHTE_HAIN_EP_28_landscape_thumbnail.jpeg",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/simran-refuses-to-leave-1090549108?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "27",
                     "duration": "22m",
                     "episodeCode": "S1-E27",
