@@ -10,16 +10,26 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "October 21, 2026",
+            "ottReleaseDate": "October 23, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "47",
+                    "duration": "1h 14m",
+                    "episodeCode": "S8-E47",
+                    "episodeName": "BBMal Day 46: Rule Breaks and Luxury Budget Cut",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6197/1792675186197-h",
+                    "updateDate": "22-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "46",
-                    "duration": "45m",
+                    "duration": "1h 17m",
                     "episodeCode": "S8-E46",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+                    "episodeName": "BBMal Day 45: Gold, Greed and a New Captain",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4019/1792588304019-h",
                     "updateDate": "21-10-2026",
                     "episodeUrl": ""
                 },
