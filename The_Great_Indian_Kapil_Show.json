@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "The Great Indian Kapil Show",
-            "banner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABYjN-Gc-oA-dLWPF-646WaJ_Me_dIm-lHcFTvrykZ8PZ932diE-D7BRve9jpLQ91RzoajFGqsPnU-EFxAGdpRftz_7CpvmE5HXIJXkMxPNYiCdXSo8-_i3iw7Q.webp?r=e73",
+            "banner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABaRWqwL8-Gc4KdGDDjfgjHm-mHLvqgq1arfG00gFhiIXJKQmUE_9FnQcFH1soySkeDQA5T8w9CIbXrlDXRAFY8H_2eFe_eot_-nLyGTNk-KYNU-mXzpfwAKiWg.webp?r=d85",
             "genre": "Talk Shows, Comedies, Variety TV",
             "rating": "8.2",
             "year": "2026",
@@ -13,6 +13,16 @@
             "ottReleaseDate": "March 30, 2024",
             "description": "Comedian Kapil Sharma hosts this laugh-out-loud variety talk show with celebrity guests, hilarious antics and his signature supporting cast.",
             "episodes": [
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "5",
+                    "duration": "1h 4m",
+                    "episodeCode": "S5-E5",
+                    "episodeName": "Music Ke Dhurandhar - With Rishabh Rikiram, Jasmine Sandlas, Satinder Sartaj and Shashwat Sachdeva",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/a3hnUaZnndQ4IeGOdnyRTW4nDRA/AAAABSkDZl1E07m-TaZvOVyTZW6dvjPbdRVWt0QNzy74n_xyOF_vzhZ7g6P8GtJs_uWRwrC706dyFEffma21GtFsdKt_yy9lEB5FmY_K2gga_75xB9trJikXFBnZ.webp?r=457",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "5",
                     "episodeNumber": "4",
