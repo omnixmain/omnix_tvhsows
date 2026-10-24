@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Bigg Boss Malayalam",
-            "banner": "https://via.placeholder.com/800x450.png?text=Banner+Not+Found",
+            "banner": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/5921/1789147755921-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -491,6 +491,16 @@
                     "episodeName": "BBMal: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6273/1788698896273-h",
                     "updateDate": "06-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "49",
+                    "duration": "45m",
+                    "episodeCode": "S8-E49",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5921/1789147755921-i",
+                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
