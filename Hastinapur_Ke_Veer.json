@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "125",
+                    "duration": "21m",
+                    "episodeCode": "S2-E125",
+                    "episodeName": "Radheya’s Sacrifice",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027188/1792781983139673_Hastinapur-Ke-Veer-Ep-125_landscape_thumb.jpg",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheyas-sacrifice-1090549066?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "124",
                     "duration": "22m",
                     "episodeCode": "S2-E124",
