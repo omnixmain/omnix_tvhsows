@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "185",
+                    "duration": "23m",
+                    "episodeCode": "S1-E185",
+                    "episodeName": "Rakshit Defends Aparajita's Dignity",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5165/1792802105165-h",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/o-humnava-tum-dena-saath-mera-24th-october-2026-watch-online-video-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "184",
                     "duration": "21m",
                     "episodeCode": "S1-E184",
