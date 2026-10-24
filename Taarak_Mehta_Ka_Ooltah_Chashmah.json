@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4850",
+                    "duration": "18m",
+                    "episodeCode": "S49-E4850",
+                    "episodeName": "A New Financial Lesson for Gokuldham",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027254/1792841854419903_Taarak_Mehta_Ka_Oolta_Chashmah_4850_Sonyliv_mxf_001_landscape_thumbnail.jpg",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/a-new-financial-lesson-for-gokuldham-1090549047?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4849",
                     "duration": "21m",
                     "episodeCode": "S49-E4849",
