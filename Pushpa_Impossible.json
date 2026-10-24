@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1372",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1372",
+                    "episodeName": "Pushpa's Growing Worries",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027188/1792781990719673_PUSHPA_IMPOSSIBLE_EP_1372_landscape_thumb.jpg",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/pushpas-growing-worries-1090549098?watch=true"
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1371",
                     "duration": "21m",
                     "episodeCode": "S14-E1371",
