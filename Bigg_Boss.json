@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "49",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E49",
+                    "episodeName": "BBHin Day 48: Rohit Shetty Drops Truth Bombs",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1620/1792849491620-h",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-24th-october-2026/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "48",
                     "duration": "1h 9m",
                     "episodeCode": "S20-E48",
@@ -491,16 +501,6 @@
                     "episodeName": "BBHin Grand Premiere: Vardaan ya Toofan?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6945/1788707656945-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "20",
-                    "episodeNumber": "49",
-                    "duration": "45m",
-                    "episodeCode": "S20-E49",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2516/1792832772516-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
