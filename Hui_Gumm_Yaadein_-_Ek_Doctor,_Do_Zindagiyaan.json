@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "174",
+                    "duration": "22m",
+                    "episodeCode": "S1-E174",
+                    "episodeName": "Will Dev And Srishty Reconcile?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027182/1792773640503457_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_174_landscape_thumb.jpg",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/will-dev-and-srishty-reconcile-1090549036?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "173",
                     "duration": "22m",
                     "episodeCode": "S1-E173",
