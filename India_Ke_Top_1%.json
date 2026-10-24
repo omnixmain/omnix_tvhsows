@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "1h 7m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "A Nostalgic Surprise",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5746/1792833675746-h",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/india-ke-top-1-24th-october-2026-watch-online-full-episode-11/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "10",
                     "duration": "1h 7m",
                     "episodeCode": "S1-E10",
