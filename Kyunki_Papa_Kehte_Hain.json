@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "29",
+                    "duration": "22m",
+                    "episodeCode": "S1-E29",
+                    "episodeName": "A Night Full Of Frights",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027188/1792781958901673_KYUNKI_PAPA_KEHTE_HAIN_EP_29_landscape_thumb.jpg",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/a-night-full-of-frights-1090549110?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "28",
                     "duration": "22m",
                     "episodeCode": "S1-E28",
