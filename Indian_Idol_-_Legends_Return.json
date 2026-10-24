@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "70m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "A Night of Musical Legends",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027212/1792830602935865_INDIAN_IDOL_LEGENDS_RETURN_EP_03_landscape_thumbnail.jpeg",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/a-night-of-musical-legends-1090550064?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "2",
                     "duration": "70m",
                     "episodeCode": "S1-E2",
