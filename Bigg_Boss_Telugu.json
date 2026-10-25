@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "50",
+                    "duration": "1h 45m",
+                    "episodeCode": "S10-E50",
+                    "episodeName": "BBTel Day 49: Guests and Double Eviction",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8516/1792930468516-h",
+                    "updateDate": "25-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "49",
                     "duration": "1h 23m",
                     "episodeCode": "S10-E49",
