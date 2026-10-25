@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "50",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E50",
+                    "episodeName": "BBHin Day 49: Surprise Guests and Reality Checks",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9853/1792937599853-h",
+                    "updateDate": "25-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-25th-october-2026/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "49",
                     "duration": "1h 8m",
                     "episodeCode": "S20-E49",
