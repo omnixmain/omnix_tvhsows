@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "22m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Family Full House With Rohit Sharma",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024210/178982077723193_FFH_Red_Creative_Promo_landscape_thumb_simulcast.jpg",
+                    "updateDate": "25-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/family-full-house-with-rohit-sharma-1090542016?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "11",
                     "duration": "64m",
                     "episodeCode": "S1-E11",
