@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "70m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "Ritika Raj & Swaroop Khan Set The Stage Ablaze",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027315/1792915756604857_INDIAN_IDOL_LEGENDS_RETURN_EP_04_landscape_thumb.jpg",
+                    "updateDate": "25-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/ritika-raj-swaroop-khan-set-the-stage-ablaze-1090550211?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "3",
                     "duration": "70m",
                     "episodeCode": "S1-E3",
