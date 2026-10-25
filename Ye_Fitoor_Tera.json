@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 24, 2026",
+            "ottReleaseDate": "October 25, 2026",
             "description": "Reclusive Saumya finds the strength to reclaim her life when she meets Jeet, a free-spirited rebel. A passionate love story blooms in the heart of Prayagraj. Watch Yeh Fitoor Tera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "80",
+                    "duration": "24m",
+                    "episodeCode": "S1-E80",
+                    "episodeName": "Does Jeet Love Saumya?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2249/1792888832249-h",
+                    "updateDate": "25-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-25th-october-2026-video-episode-watch-online/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "79",
@@ -41,7 +51,7 @@
                     "episodeName": "Jeet Decides to Leave Prayagraj",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/866/1792626520866-h",
                     "updateDate": "22-10-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/ye-fitoor-tera-22nd-october-2026-watch-online-video-episode/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
