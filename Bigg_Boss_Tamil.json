@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "October 25, 2026",
+            "ottReleaseDate": "October 26, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "50",
+                    "duration": "1h 1m",
+                    "episodeCode": "S10-E50",
+                    "episodeName": "BBTam Day 49: Eviction Shock at the Halfway Mark",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2750/1792930582750-h",
+                    "updateDate": "25-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "49",
@@ -501,16 +511,6 @@
                     "episodeName": "BBTam: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5574/1788700215574-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "50",
-                    "duration": "45m",
-                    "episodeCode": "S10-E50",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2780/1789128742780-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
