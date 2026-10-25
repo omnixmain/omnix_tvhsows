@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 24, 2026",
+            "ottReleaseDate": "October 25, 2026",
             "description": "Fresh jodis, fresh chemistry, and full-on pange! Get ready for a fun-filled new season, where love meets nok-jhok, and the end result—bang-on dhamaal. Watch Dhamaal with Pati Patni Aur Panga - Jodiyon Ka Reality Check - Hindi Reality Comedy serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "5",
+                    "duration": "1h 15m",
+                    "episodeCode": "S2-E5",
+                    "episodeName": "Ghar-Ghar Ki Baatein",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5084/1792749765084-h",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/dhamaal-with-pati-patni-aur-panga-season-2-24th-october-2026-watch-online-video-episode-5/"
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "4",
@@ -51,16 +61,6 @@
                     "episodeName": "Grand Premiere: Let the Panga Begin!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6758/1791556356758-h",
                     "updateDate": "10-10-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "5",
-                    "duration": "45m",
-                    "episodeCode": "S2-E5",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTAR_DTH/SERIES/690e0b58e8538d5c8a62bdb5/images/PORTRAIT/1790752263770-v?o=production",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
