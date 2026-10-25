@@ -502,6 +502,16 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2126/1788688232126-h",
                     "updateDate": "06-09-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "50",
+                    "duration": "45m",
+                    "episodeCode": "S13-E50",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8098/1788701208098-i",
+                    "updateDate": "",
+                    "episodeUrl": ""
                 }
             ]
         }
