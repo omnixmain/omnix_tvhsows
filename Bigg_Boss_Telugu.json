@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "October 24, 2026",
+            "ottReleaseDate": "October 25, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "49",
+                    "duration": "1h 23m",
+                    "episodeCode": "S10-E49",
+                    "episodeName": "BBTel Day 48: Aman Becomes the First GOAT",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7057/1792850507057-h",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "48",
@@ -491,16 +501,6 @@
                     "episodeName": "BBTel: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3531/1788692933531-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "49",
-                    "duration": "45m",
-                    "episodeCode": "S10-E49",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1367/1792060211367-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
