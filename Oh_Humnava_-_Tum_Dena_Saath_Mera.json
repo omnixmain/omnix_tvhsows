@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 24, 2026",
+            "ottReleaseDate": "October 25, 2026",
             "description": "Aparajita is an artist with a bitter past, and our hero Rakshit—a reserved businessman with no place for love! These two hearts meet, but will romance bloom? Watch Oh Humnava - Tum Dena Saath Mera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "186",
+                    "duration": "23m",
+                    "episodeCode": "S1-E186",
+                    "episodeName": "Aparajita to Return Home",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3806/1792888843806-h",
+                    "updateDate": "25-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/o-humnava-tum-dena-saath-mera-25th-october-2026-video-episode-watch-online/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "185",
@@ -1801,66 +1811,6 @@
                     "episodeName": "Rakshit's Painful Past",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6555/1777172726555-h",
                     "updateDate": "26-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "6",
-                    "duration": "22m",
-                    "episodeCode": "S1-E6",
-                    "episodeName": "Rakshit Lifts the Party",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/821/1777127610821-h",
-                    "updateDate": "25-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "5",
-                    "duration": "21m",
-                    "episodeCode": "S1-E5",
-                    "episodeName": "Pramila Humiliates Aparajita",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1227/1776992481227-h",
-                    "updateDate": "24-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "21m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Aparajita Haunted by the Past",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1128/1776912541128-h",
-                    "updateDate": "23-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "21m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Aparajita and Rakshit's Clash",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9677/1776822819677-h",
-                    "updateDate": "22-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "21m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Rakshit's Return Shocks the Family",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/457/1776784780457-h",
-                    "updateDate": "21-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "23m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Meet Rakshit, Aparajita",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7817/1776632057817-h",
-                    "updateDate": "20-04-2026",
                     "episodeUrl": ""
                 }
             ]
