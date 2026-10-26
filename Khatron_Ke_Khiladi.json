@@ -21,7 +21,7 @@
                     "episodeName": "Rewind: The Blockbuster Season",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1362/1792230971362-h",
                     "updateDate": "18-10-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.sbs/108-base-hospital-uri-18th-october-2026-video-episode/"
                 },
                 {
                     "seasonNumber": "15",
@@ -211,6 +211,16 @@
                     "episodeName": "Fear Gets Personal",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1078/1785514301078-h",
                     "updateDate": "02-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "15",
+                    "episodeNumber": "1",
+                    "duration": "1h 19m",
+                    "episodeCode": "S15-E1",
+                    "episodeName": "Grand Premiere: Darr Ka Naya Daur!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1790/1785514181790-h",
+                    "updateDate": "01-08-2026",
                     "episodeUrl": ""
                 }
             ]
