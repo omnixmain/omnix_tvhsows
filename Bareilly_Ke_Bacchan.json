@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "117",
+                    "duration": "24m",
+                    "episodeCode": "S1-E117",
+                    "episodeName": "Ganga and Aarti Set to Marry",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6680/1792984416680-h",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bareilly-ke-bachchan-26th-october-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "116",
                     "duration": "25m",
                     "episodeCode": "S1-E116",
