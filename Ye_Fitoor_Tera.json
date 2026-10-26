@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 25, 2026",
+            "ottReleaseDate": "October 26, 2026",
             "description": "Reclusive Saumya finds the strength to reclaim her life when she meets Jeet, a free-spirited rebel. A passionate love story blooms in the heart of Prayagraj. Watch Yeh Fitoor Tera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "81",
+                    "duration": "23m",
+                    "episodeCode": "S1-E81",
+                    "episodeName": "Jeet's Confession to Sanjeev",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4366/1792975744366-h",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-26th-october-2026-watch-online-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "80",
@@ -41,7 +51,7 @@
                     "episodeName": "Saumya Pours Her Heart Out to Jeet",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/127/1792716440127-h",
                     "updateDate": "23-10-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-23rd-october-2026-watch-online-video-episode/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -81,7 +91,7 @@
                     "episodeName": "Uma and Krish Motivate Saumya",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2480/1792373372480-h",
                     "updateDate": "19-10-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://serialtvmaza.sbs/udne-ki-aasha-19th-october-2026-video-episode-today-full-show/"
                 },
                 {
                     "seasonNumber": "1",
@@ -801,16 +811,6 @@
                     "episodeName": "Jeet's Arrival Shocks Sanjeev",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7332/1785909837332-h",
                     "updateDate": "06-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "27m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Saumya Faces Her Greatest Fear",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2735/1785873022735-h",
-                    "updateDate": "05-08-2026",
                     "episodeUrl": ""
                 }
             ]
