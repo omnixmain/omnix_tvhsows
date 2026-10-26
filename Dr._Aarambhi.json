@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "222",
+                    "duration": "24m",
+                    "episodeCode": "S1-E222",
+                    "episodeName": "Soundarya Agrees to Testify",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8520/1792984588520-h",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/dr-aarambhi-26th-october-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "221",
                     "duration": "29m",
                     "episodeCode": "S1-E221",
