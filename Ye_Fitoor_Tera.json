@@ -812,6 +812,16 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7332/1785909837332-h",
                     "updateDate": "06-08-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "27m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Saumya Faces Her Greatest Fear",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2735/1785873022735-h",
+                    "updateDate": "05-08-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
