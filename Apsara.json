@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "23m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Chitra's Claims Shock Sunheri",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9496/1792975709496-h",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-26th-october-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "5",
                     "duration": "23m",
                     "episodeCode": "S1-E5",
