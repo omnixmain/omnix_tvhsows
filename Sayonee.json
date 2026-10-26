@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 25, 2026",
+            "ottReleaseDate": "October 26, 2026",
             "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "20m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Aditya Defends Saanvi's Honour",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5423/1792975735423-h",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-26th-october-2026-watch-online-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "33",
