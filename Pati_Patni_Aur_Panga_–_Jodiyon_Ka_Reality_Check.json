@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 25, 2026",
+            "ottReleaseDate": "October 26, 2026",
             "description": "Fresh jodis, fresh chemistry, and full-on pange! Get ready for a fun-filled new season, where love meets nok-jhok, and the end result—bang-on dhamaal. Watch Dhamaal with Pati Patni Aur Panga - Jodiyon Ka Reality Check - Hindi Reality Comedy serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "6",
+                    "duration": "1h 13m",
+                    "episodeCode": "S2-E6",
+                    "episodeName": "Party Toh Banti Hai!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9191/1792749979191-h",
+                    "updateDate": "25-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/dhamaal-with-pati-patni-aur-panga-season-2-25th-october-2026-video-episode-6-watch-online/"
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "5",
