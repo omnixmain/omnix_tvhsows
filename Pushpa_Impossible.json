@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1373",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1373",
+                    "episodeName": "Chirag's Growing Resentment",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027361/1793008910197184_PUSHPA_IMPOSSIBLE_EP_1373_landscape_thumbnail.jpeg",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/chirags-growing-resentment-1090550712?watch=true"
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1372",
                     "duration": "22m",
                     "episodeCode": "S14-E1372",
