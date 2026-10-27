@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Kaun Banega Crorepati",
-            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023833/1789128836501288_KBC25_26_3_poster-image.jpg",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027384/1793019017811354_KBC__poster_image.jpg",
             "genre": "Game show",
             "rating": "8.0",
             "year": "2000",
@@ -13,6 +13,16 @@
             "ottReleaseDate": "August 19, 2019",
             "description": "Kaun Banega Crorepati Season 18 is here on Sony LIV! Join Amitabh Bachchan as India's biggest quiz show returns, championing the power of applied knowledge with the new theme, “Sochna Padega.” In a world where information is everywhere, what matters is how you apply it. Watch every episode, play along live on Sony LIV, answer questions in real time, and stand a chance to win exciting prizes.",
             "episodes": [
+                {
+                    "seasonNumber": "18",
+                    "episodeNumber": "56",
+                    "duration": "34m",
+                    "episodeCode": "S18-E56",
+                    "episodeName": "The Ultimate Contest Of Champions",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027356/1793006986646117_KAUN_BANEGA_CROREPATI_S18_EP_56_landscape_thumbnail.jpeg",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/the-ultimate-contest-of-champions-1090550714?watch=true"
+                },
                 {
                     "seasonNumber": "18",
                     "episodeNumber": "55",
