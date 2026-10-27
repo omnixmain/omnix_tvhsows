@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 27, 2026",
+            "ottReleaseDate": "October 28, 2026",
             "description": "Years after a harrowing separation, Angad and Vrinda’s paths cross again! Navigating lost love, is there a hope for VridAng’s reunion? Watch Kyunki Rishton Ke Bhi Roop Badalte Hain - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "221",
+                    "duration": "25m",
+                    "episodeCode": "S1-E221",
+                    "episodeName": "Angad's Story of Betrayal",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3456/1793062153456-h",
+                    "updateDate": "27-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/kyunki-rishton-ke-bhi-roop-badalte-hai-27th-october-2026-watch-online-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "220",
@@ -2101,56 +2111,6 @@
                     "episodeName": "Ram Navami Preparations",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9060/1775662079060-h",
                     "updateDate": "26-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "5",
-                    "duration": "17m",
-                    "episodeCode": "S1-E5",
-                    "episodeName": "Vrinda Recruits Angad",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5463/1776666205463-h",
-                    "updateDate": "24-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "17m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Nandu Confronts Angad",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3940/1776085713940-h",
-                    "updateDate": "23-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "17m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Angad's Tough Choice",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7079/1775662007079-h",
-                    "updateDate": "22-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "17m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Mangal Strikes Angad",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2691/1775660582691-h",
-                    "updateDate": "21-03-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "17m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "A New Path for Angad, Vrinda",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1398/1775660541398-h",
-                    "updateDate": "20-03-2026",
                     "episodeUrl": ""
                 }
             ]
