@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "October 26, 2026",
+            "ottReleaseDate": "October 27, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "51",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E51",
+                    "episodeName": "BBMal Day 50: Ticket to Week 12 Dilemma",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1849/1793022271849-h",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "50",
