@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "57",
+                    "duration": "33m",
+                    "episodeCode": "S18-E57",
+                    "episodeName": "Battle For The Champion's Crown",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027477/1793093421585519_KAUN_BANEGA_CROREPATI_S18_EP_57_landscape_thumbnail.jpeg",
+                    "updateDate": "27-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/battle-for-the-champions-crown-1090550842?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "56",
                     "duration": "34m",
                     "episodeCode": "S18-E56",
