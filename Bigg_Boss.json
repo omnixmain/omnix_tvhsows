@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 26, 2026",
+            "ottReleaseDate": "October 27, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "51",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E51",
+                    "episodeName": "BBHin Day 50: Ek Bawaal, Many Sawaal!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4330/1793026574330-h",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-26th-october-2026/"
+                },
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "50",
@@ -411,6 +421,106 @@
                     "episodeName": "BBHin Day 10: Loyalties Put to the Test",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2935/1789573502935-h",
                     "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "10",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E10",
+                    "episodeName": "BBHin Day 09: Rang Mein Bhang, Ghar Mein Jung",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8595/1789480088595-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "9",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E9",
+                    "episodeName": "BBHin Day 08: Secrets Out! Sparks Fly",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8077/1789392778077-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "8",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E8",
+                    "episodeName": "BBHin Day 07: Gajab Beizzati, Peak Masti",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/501/1789311930501-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "7",
+                    "duration": "1h 6m",
+                    "episodeCode": "S20-E7",
+                    "episodeName": "BBHin Day 06: Pehla Vaar! Ft. OG Rockstar",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7013/1789223207013-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "6",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E6",
+                    "episodeName": "BBHin Day 05: Rule Break? Discipline Check!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9882/1789135299882-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "5",
+                    "duration": "1h 11m",
+                    "episodeCode": "S20-E5",
+                    "episodeName": "BBHin Day 04: Rewind! 20 Years of Bigg Boss",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1800/1789050551800-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "4",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E4",
+                    "episodeName": "BBHin Day 03: All Eyes on 'Pehla Kaptaan'",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5405/1788964455405-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "3",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E3",
+                    "episodeName": "BBHin Day 02: Sanchalan Gone Wrong?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3491/1788879743491-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "2",
+                    "duration": "1h 6m",
+                    "episodeCode": "S20-E2",
+                    "episodeName": "BBHin Day 01: Kanika’s Boon, Housemates’ Bane!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5982/1788793195982-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "1",
+                    "duration": "1h 33m",
+                    "episodeCode": "S20-E1",
+                    "episodeName": "BBHin Grand Premiere: Vardaan ya Toofan?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6945/1788707656945-h",
+                    "updateDate": "06-09-2026",
                     "episodeUrl": ""
                 }
             ]
