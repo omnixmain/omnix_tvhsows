@@ -522,6 +522,16 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6273/1788698896273-h",
                     "updateDate": "06-09-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "52",
+                    "duration": "45m",
+                    "episodeCode": "S8-E52",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5921/1789147755921-i",
+                    "updateDate": "",
+                    "episodeUrl": ""
                 }
             ]
         }
