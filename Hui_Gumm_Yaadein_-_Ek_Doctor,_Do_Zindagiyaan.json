@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "175",
+                    "duration": "22m",
+                    "episodeCode": "S1-E175",
+                    "episodeName": "A Little Advice For Dev",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027358/1793008919600861_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_175_landscape_thumbnail.jpeg",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/a-little-advice-for-dev-1090550669?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "174",
                     "duration": "22m",
                     "episodeCode": "S1-E174",
