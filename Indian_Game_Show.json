@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "50",
+                    "duration": "64m",
+                    "episodeCode": "S2-E50",
+                    "episodeName": "Celebrating 50 Episodes",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027373/1793013429695435_IGS_ep50_landscape_thumb.jpg",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/celebrating-50-episodes-1090550667?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "49",
                     "duration": "54m",
                     "episodeCode": "S2-E49",
