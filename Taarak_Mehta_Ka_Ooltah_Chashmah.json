@@ -15,6 +15,26 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4852",
+                    "duration": "21m",
+                    "episodeCode": "S49-E4852",
+                    "episodeName": "A Surprise Before Navratri",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027469/1793091660716202_Taarak_Mehta_Ka_Oolta_Chashmah_4852_SONYLIV_landscape_thumbnail.jpg",
+                    "updateDate": "27-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/a-surprise-before-navratri-1090550834?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
+                    "episodeNumber": "4851",
+                    "duration": "22m",
+                    "episodeCode": "S49-E4851",
+                    "episodeName": "Tappu Sena's Festive Dilemma",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027362/1793009328903789_Taarak_Mehta_Ka_Oolta_Chashmah_4851_Sonyliv_mxf_001_landscape_thumbnail.jpg",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/tappu-senas-festive-dilemma-1090550670?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4850",
                     "duration": "18m",
                     "episodeCode": "S49-E4850",
