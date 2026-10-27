@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "31",
+                    "duration": "22m",
+                    "episodeCode": "S1-E31",
+                    "episodeName": "The Truth Shocks Pawan",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027471/1793091887212999_KYUNKI_PAPA_KEHTE_HAIN_EP_31_landscape_thumbnail.jpeg",
+                    "updateDate": "27-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/the-truth-shocks-pawan-1090550843?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "30",
                     "duration": "22m",
                     "episodeCode": "S1-E30",
