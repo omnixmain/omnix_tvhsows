@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Kannada",
-            "ottReleaseDate": "October 27, 2026",
+            "ottReleaseDate": "October 28, 2026",
             "description": "Watch Bigg Boss Kannada on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "52",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E52",
+                    "episodeName": "BBKan Day 51: A Wild Wedding",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8391/1793121498391-h",
+                    "updateDate": "27-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "13",
                     "episodeNumber": "51",
@@ -521,16 +531,6 @@
                     "episodeName": "BBKan: Grand Take Off",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2126/1788688232126-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "13",
-                    "episodeNumber": "52",
-                    "duration": "45m",
-                    "episodeCode": "S13-E52",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8098/1788701208098-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
