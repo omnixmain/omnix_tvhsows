@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 27, 2026",
+            "ottReleaseDate": "October 28, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "52",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E52",
+                    "episodeName": "BBHin Day 51: Absolute Chaos",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6924/1793113026924-h",
+                    "updateDate": "27-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-27th-october-2026-watch-online-full-episode-52/"
+                },
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "51",
@@ -521,16 +531,6 @@
                     "episodeName": "BBHin Grand Premiere: Vardaan ya Toofan?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6945/1788707656945-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "20",
-                    "episodeNumber": "52",
-                    "duration": "45m",
-                    "episodeCode": "S20-E52",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2516/1792832772516-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
