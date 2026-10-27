@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "October 27, 2026",
+            "ottReleaseDate": "October 28, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "52",
+                    "duration": "1h 8m",
+                    "episodeCode": "S10-E52",
+                    "episodeName": "BBTam Day 51: Cowboys Raid and Loot Food",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4703/1793104614703-h",
+                    "updateDate": "27-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "51",
@@ -521,16 +531,6 @@
                     "episodeName": "BBTam: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5574/1788700215574-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "52",
-                    "duration": "45m",
-                    "episodeCode": "S10-E52",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2780/1789128742780-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
