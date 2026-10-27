@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "October 26, 2026",
+            "ottReleaseDate": "October 27, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "51",
+                    "duration": "1h 10m",
+                    "episodeCode": "S10-E51",
+                    "episodeName": "BBTel Day 50: GOAT Nominations Create a Stir",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/740/1793022550740-h",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "50",
