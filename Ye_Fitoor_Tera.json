@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "83",
+                    "duration": "23m",
+                    "episodeCode": "S1-E83",
+                    "episodeName": "Saumya's Tender Care for Jeet",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1354/1793123741354-h",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-28th-october-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "82",
                     "duration": "23m",
                     "episodeCode": "S1-E82",
@@ -41,7 +51,7 @@
                     "episodeName": "Does Jeet Love Saumya?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2249/1792888832249-h",
                     "updateDate": "25-10-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-25th-october-2026-video-episode-watch-online/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
