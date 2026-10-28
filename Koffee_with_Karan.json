@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "9",
+                    "episodeNumber": "3",
+                    "duration": "58m",
+                    "episodeCode": "S9-E3",
+                    "episodeName": "Varun Dhawan and Janhvi Kapoor",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2821/1793182602821-h",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "9",
                     "episodeNumber": "2",
                     "duration": "55m",
                     "episodeCode": "S9-E2",
