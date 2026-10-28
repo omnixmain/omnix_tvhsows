@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "19m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Kabir Slaps Yuvraj",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8893/1793104338893-h",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-28th-october-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "35",
                     "duration": "20m",
                     "episodeCode": "S1-E35",
