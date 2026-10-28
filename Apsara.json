@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "21m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Sunahri Finds Dhara",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4460/1793132734460-h",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-28th-october-2026-watch-online-full-episode-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "7",
                     "duration": "21m",
                     "episodeCode": "S1-E7",
