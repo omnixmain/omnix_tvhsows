@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "128",
+                    "duration": "22m",
+                    "episodeCode": "S2-E128",
+                    "episodeName": "Radheya vs. Bheem",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027569/1793123791947675_Hastinapur-Ke-Veer-Ep-128_landscape_thumb.jpg",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheya-vs-bheem-1090551062?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "127",
                     "duration": "21m",
                     "episodeCode": "S2-E127",
