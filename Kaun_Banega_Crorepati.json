@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "58",
+                    "duration": "28m",
+                    "episodeCode": "S18-E58",
+                    "episodeName": "Can Rajlaxmi Surpass Abhishek's Target?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027569/1793123873306675_KAUN-BANEGA-CROREPATI-S18-EP-58_landscape_thumb.jpg",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/can-rajlaxmi-surpass-abhisheks-target-1090551134?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "57",
                     "duration": "33m",
                     "episodeCode": "S18-E57",
