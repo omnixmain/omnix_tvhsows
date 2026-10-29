@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "33",
+                    "duration": "22m",
+                    "episodeCode": "S1-E33",
+                    "episodeName": "Simran's Plan Backfires",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027671/1793267741338877_KYUNKI_PAPA_KEHTE_HAIN_EP_33_landscae_thumbnail.jpeg",
+                    "updateDate": "29-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/simrans-plan-backfires-1090551217?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "32",
                     "duration": "22m",
                     "episodeCode": "S1-E32",
