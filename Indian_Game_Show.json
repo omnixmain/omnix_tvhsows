@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "52",
+                    "duration": "59m",
+                    "episodeCode": "S2-E52",
+                    "episodeName": "A Test of Perfect Coordination",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027610/1793185199927406_IGS26_EP52_landscape_thumb.jpg",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/a-test-of-perfect-coordination-1090551056?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "51",
                     "duration": "54m",
                     "episodeCode": "S2-E51",
