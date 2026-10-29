@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "October 28, 2026",
+            "ottReleaseDate": "October 29, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "53",
+                    "duration": "1h 15m",
+                    "episodeCode": "S10-E53",
+                    "episodeName": "BBTel Day 52: Welcome to BB Hotel!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4535/1793195944535-h",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "52",
@@ -301,16 +311,6 @@
                     "episodeName": "BBTel Day 23: Who Will Face the Danger?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5808/1790684285808-h",
                     "updateDate": "29-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "23",
-                    "duration": "1h 8m",
-                    "episodeCode": "S10-E23",
-                    "episodeName": "BBTel Day 22: Daggers and Broken Alliances!",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9025/1790604859025-h",
-                    "updateDate": "28-09-2026",
                     "episodeUrl": ""
                 }
             ]
