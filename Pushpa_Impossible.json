@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1376",
+                    "duration": "21m",
+                    "episodeCode": "S14-E1376",
+                    "episodeName": "Chirag Under the Scanner",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027672/1793267737030850_PUSHPA_IMPOSSIBLE_EP_1376_landscape_thumbnail.jpeg",
+                    "updateDate": "29-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/chirag-under-the-scanner-1090551183?watch=true"
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1375",
                     "duration": "21m",
                     "episodeCode": "S14-E1375",
