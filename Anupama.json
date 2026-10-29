@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 28, 2026",
+            "ottReleaseDate": "October 29, 2026",
             "description": "From broken ambitions to changing relationships, Anupama has seen it all! A new journey brings her to the serene Goa. Will her passion find a new home? Watch Anupama - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2186",
+                    "duration": "28m",
+                    "episodeCode": "S1-E2186",
+                    "episodeName": "Anupama's Unexpected Shock",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8811/1793236218811-h",
+                    "updateDate": "29-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/anupamaa-29th-october-2026-watch-online-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "2185",
@@ -801,116 +811,6 @@
                     "episodeName": "Shruti, Gautam's Scheme Unfolds",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6678/1786410066678-h",
                     "updateDate": "11-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2106",
-                    "duration": "31m",
-                    "episodeCode": "S1-E2106",
-                    "episodeName": "The Shahs Panic Over Ansh's Accident",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/740/1786266710740-h",
-                    "updateDate": "10-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2105",
-                    "duration": "31m",
-                    "episodeCode": "S1-E2105",
-                    "episodeName": "Leela's Dish Wins the Challenge",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6058/1786177136058-h",
-                    "updateDate": "09-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2104",
-                    "duration": "31m",
-                    "episodeCode": "S1-E2104",
-                    "episodeName": "Leela, Vasundhara Get Tied Up",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/702/1786102450702-h",
-                    "updateDate": "08-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2103",
-                    "duration": "31m",
-                    "episodeCode": "S1-E2103",
-                    "episodeName": "Tables Turn at the Food Carnival",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1808/1786020611808-h",
-                    "updateDate": "07-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2102",
-                    "duration": "31m",
-                    "episodeCode": "S1-E2102",
-                    "episodeName": "Leela vs Vasundhara Begins",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3583/1785951933583-h",
-                    "updateDate": "06-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2101",
-                    "duration": "32m",
-                    "episodeCode": "S1-E2101",
-                    "episodeName": "Leela Joins Anupama's Team as Wildcard",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9777/1785892909777-h",
-                    "updateDate": "05-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2100",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2100",
-                    "episodeName": "Anupama Outshines Prem",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6880/1785807396880-h",
-                    "updateDate": "04-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2099",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2099",
-                    "episodeName": "Mahi's Move Stuns Everyone",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7027/1785722057027-h",
-                    "updateDate": "03-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2098",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2098",
-                    "episodeName": "Anupama's Plea to Mahi",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2131/1785633972131-h",
-                    "updateDate": "02-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2097",
-                    "duration": "30m",
-                    "episodeCode": "S1-E2097",
-                    "episodeName": "Mahi's Decision Stuns Anupama",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/758/1785552430758-h",
-                    "updateDate": "01-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2096",
-                    "duration": "26m",
-                    "episodeCode": "S1-E2096",
-                    "episodeName": "Shruti Fumes at Prem, Rahi",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4615/1785445774615-h",
-                    "updateDate": "31-07-2026",
                     "episodeUrl": ""
                 }
             ]
