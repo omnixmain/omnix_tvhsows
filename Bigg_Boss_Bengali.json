@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "1h 4m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "BBBan Day 60: Tike Thakar Lorai-e Jitbe Ke?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3743/1793281883743-h",
+                    "updateDate": "29-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "60",
                     "duration": "1h 3m",
                     "episodeCode": "S1-E60",
