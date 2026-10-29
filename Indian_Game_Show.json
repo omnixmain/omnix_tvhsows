@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "53",
+                    "duration": "57m",
+                    "episodeCode": "S2-E53",
+                    "episodeName": "Hammer Helmet Face-Off",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327244627143_IGS26_EP53_landscape_thumb.jpg",
+                    "updateDate": "29-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/hammer-helmet-face-off-1090551166?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "52",
                     "duration": "59m",
                     "episodeCode": "S2-E52",
