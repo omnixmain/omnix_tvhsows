@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4853",
+                    "duration": "21m",
+                    "episodeCode": "S49-E4853",
+                    "episodeName": "Jethalal Sparks Curiosity",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027569/1793123959257675_Taarak_Mehta_Ka_Oolta_Chashmah_4853_landscape_thumb.jpg",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/jethalal-sparks-curiosity-1090551059?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4852",
                     "duration": "21m",
                     "episodeCode": "S49-E4852",
