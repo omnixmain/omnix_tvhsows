@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "129",
+                    "duration": "22m",
+                    "episodeCode": "S2-E129",
+                    "episodeName": "Radheya’s Courage At Tosham",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027666/1793266122162732_Hastinapur_Ke_Veer_Ep_129_landscape_thumbnail.jpeg",
+                    "updateDate": "29-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheyas-courage-at-tosham-1090551175?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "128",
                     "duration": "22m",
                     "episodeCode": "S2-E128",
