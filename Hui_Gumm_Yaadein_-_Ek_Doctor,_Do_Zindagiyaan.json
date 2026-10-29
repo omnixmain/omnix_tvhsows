@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "177",
+                    "duration": "22m",
+                    "episodeCode": "S1-E177",
+                    "episodeName": "What Is Uditanshu Up To?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027569/1793123817671675_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_177_landscape_thumb.jpg",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/what-is-uditanshu-up-to-1090551058?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "176",
                     "duration": "22m",
                     "episodeCode": "S1-E176",
