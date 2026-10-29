@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "59",
+                    "duration": "73m",
+                    "episodeCode": "S18-E59",
+                    "episodeName": "Ranbir Kapoor & Sai Pallavi On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027674/1793268758731745_KAUN_BANEGA_CROREPATI_S18_EP_59_landscape_thumbnail.jpeg",
+                    "updateDate": "29-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ranbir-kapoor-sai-pallavi-on-the-hot-seat-1090551215?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "58",
                     "duration": "28m",
                     "episodeCode": "S18-E58",
