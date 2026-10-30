@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 29, 2026",
+            "ottReleaseDate": "October 30, 2026",
             "description": "Braving modern-day evils, power-blessed Sunheri is the sole protector of her celestial clan! But her blood sister Dhara stands in her way! Can she fight her? Watch Apsara - Hindi Fantasy Thriller Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "21m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Sunheri's Magic Lesson",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3548/1793328423548-h",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-30th-october-2026-watch-online-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "9",
