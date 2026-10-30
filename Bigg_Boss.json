@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 29, 2026",
+            "ottReleaseDate": "October 30, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "54",
-                    "duration": "1h 10m",
+                    "duration": "1h 11m",
                     "episodeCode": "S20-E54",
                     "episodeName": "BBHin Day 53: Captaincy Race - Andar Ya Bahar?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8648/1793286168648-h",
