@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "October 30, 2026",
+            "ottReleaseDate": "October 31, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "55",
+                    "duration": "1h 9m",
+                    "episodeCode": "S10-E55",
+                    "episodeName": "BBTam Day 54: An Emotional Sentence to Jail",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9403/1793364769403-h",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "54",
