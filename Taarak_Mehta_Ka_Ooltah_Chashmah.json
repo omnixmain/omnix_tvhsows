@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4855",
+                    "duration": "21m",
+                    "episodeCode": "S49-E4855",
+                    "episodeName": "Tappu Sena's Navratri Dilemma",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027770/179335345537225_Taarak_Mehta_Ka_Oolta_Chashmah_4855_SONYLIV_landscape_thumbnail.jpg",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/tappu-senas-navratri-dilemma-1090551174?watch=true"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4854",
                     "duration": "21m",
                     "episodeCode": "S49-E4854",
