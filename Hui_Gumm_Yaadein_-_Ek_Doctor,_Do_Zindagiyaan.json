@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "179",
+                    "duration": "21m",
+                    "episodeCode": "S1-E179",
+                    "episodeName": "A Crucial Conversation",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027768/1793353078833659_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_179_landscape_thumbnail.jpeg",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/a-crucial-conversation-1090551170?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "178",
                     "duration": "22m",
                     "episodeCode": "S1-E178",
