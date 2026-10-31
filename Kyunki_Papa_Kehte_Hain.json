@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "22m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Amber Confesses His True Feelings",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027794/1793358252843775_KYUNKI_PAPA_KEHTE_HAIN_EP_34_landscape_thumbnail.jpeg",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/amber-confesses-his-true-feelings-1090551261?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "33",
                     "duration": "22m",
                     "episodeCode": "S1-E33",
