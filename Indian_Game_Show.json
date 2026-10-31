@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "54",
+                    "duration": "54m",
+                    "episodeCode": "S2-E54",
+                    "episodeName": "A Sticky Halloween Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027769/1793353076173225_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_54_landscape_thumbnail.jpeg",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/a-sticky-halloween-challenge-1090551167?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "53",
                     "duration": "57m",
                     "episodeCode": "S2-E53",
