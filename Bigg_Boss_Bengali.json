@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Bengali",
-            "ottReleaseDate": "October 30, 2026",
+            "ottReleaseDate": "October 31, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "1h 4m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "BBBan Day 61: Luxury-r Chabi, Gopon Treat!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6118/1793369966118-h",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "61",
@@ -511,6 +521,116 @@
                     "episodeName": "BBBan Day 11: Friendships Put to the Test",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5051/1789048315051-h",
                     "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "11",
+                    "duration": "49m",
+                    "episodeCode": "S1-E11",
+                    "episodeName": "BBBan Day 10: Captaincy Battle Turns Fierce",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5017/1788963805017-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "48m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "BBBan Day 09: The 'Hunt' for Captaincy",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8621/1788879098621-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "51m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "BBBan Day 08: Nomination Day Drama!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2390/1788798712390-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "1h 7m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "BBBan Day 07: Dada Unveils the First Wild Card",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4953/1788701764953-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "1h 5m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "BBBan Day 06: The First Dadar Darbar",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2080/1788616442080-h",
+                    "updateDate": "05-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "49m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "BBBan Day 05: Janmashtami Special in the House",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8856/1788526148856-h",
+                    "updateDate": "04-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "48m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "BBBan Day 04: Luxury Budget on the Line!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7879/1788444247879-h",
+                    "updateDate": "03-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "47m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "BBBan Day 03: First Task, New Equations",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6798/1788356416798-h",
+                    "updateDate": "02-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "49m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "BBBan Day 02: Captaincy Sparks a House War",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2250/1788263992250-h",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "48m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "BBBan Day 01: The First Captaincy Battle",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4413/1788176394413-h",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "2h 10m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Grand Premiere",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3125/1788162843125-h",
+                    "updateDate": "30-08-2026",
                     "episodeUrl": ""
                 }
             ]
