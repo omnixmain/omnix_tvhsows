@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 30, 2026",
+            "ottReleaseDate": "October 31, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "55",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E55",
+                    "episodeName": "BBHin Day 54: Ask Salman Anything!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7545/1793371917545-h",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-30th-october-2026-watch-online-full-episode-55/"
+                },
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "54",
@@ -406,7 +416,7 @@
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "15",
-                    "duration": "1h 10m",
+                    "duration": "1h 9m",
                     "episodeCode": "S20-E15",
                     "episodeName": "BBHin Day 14: Entertainment, Elimination, Exposé",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8768/1789915448768-h",
