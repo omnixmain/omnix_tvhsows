@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 30, 2026",
+            "ottReleaseDate": "October 31, 2026",
             "description": "Young and ambitious, Sangam ends up marrying the carefree Krishna Bacchan! But the Bacchans have never lived with a woman, so how will the ‘new Bahu’ fare? Watch Bareilly Ke Bacchan - Hindi Drama Family Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "122",
+                    "duration": "24m",
+                    "episodeCode": "S1-E122",
+                    "episodeName": "Ganga Lets Aarti Go",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8185/1793389058185-h",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bareilly-ke-bachchan-31st-october-2026-watch-online-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "121",
