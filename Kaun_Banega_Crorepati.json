@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "60",
+                    "duration": "66m",
+                    "episodeCode": "S18-E60",
+                    "episodeName": "Ranbir Kapoor, Sai Pallavi & Ravi Dubey Face Tough Questions",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027825/179336440162674_KAUN_BANEGA_CROREPATI_S18_EP_60_landscape_thumbnail.jpeg",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/ranbir-kapoor-sai-pallavi-ravi-dubey-face-tough-questions-1090551214?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "59",
                     "duration": "73m",
                     "episodeCode": "S18-E59",
