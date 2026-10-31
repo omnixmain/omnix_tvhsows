@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 30, 2026",
+            "ottReleaseDate": "October 31, 2026",
             "description": "A new era begins as Roadies returns with Rebirth! 6 Gang Leaders, 2 gangs and the ultimate OGs vs NewGs showdown. Who will rule the road? Watch Roadies - Rebirth - Hindi Reality Adventure serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "21",
+                    "episodeNumber": "5",
+                    "duration": "1h 34m",
+                    "episodeCode": "S21-E5",
+                    "episodeName": "Kalesh Kalesh Kalesh...",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1117/1793270621117-h",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/mtv-roadies-rebirth-30th-october-2026-watch-online-full-episode-5/"
+                },
                 {
                     "seasonNumber": "21",
                     "episodeNumber": "4",
