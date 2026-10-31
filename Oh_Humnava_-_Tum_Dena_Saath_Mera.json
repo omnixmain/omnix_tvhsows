@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 30, 2026",
+            "ottReleaseDate": "October 31, 2026",
             "description": "Aparajita is an artist with a bitter past, and our hero Rakshit—a reserved businessman with no place for love! These two hearts meet, but will romance bloom? Watch Oh Humnava - Tum Dena Saath Mera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "192",
+                    "duration": "26m",
+                    "episodeCode": "S1-E192",
+                    "episodeName": "Aradhya's Baby Plans Upset Vivaan",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8014/1793408118014-h",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/o-humnava-tum-dena-saath-mera-31st-october-2026-watch-online-full-episode-hd/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "191",
@@ -1301,16 +1311,6 @@
                     "episodeName": "Aparajita's Stand Against Rumours",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7527/1782002367527-h",
                     "updateDate": "21-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "62",
-                    "duration": "22m",
-                    "episodeCode": "S1-E62",
-                    "episodeName": "Aparajita's Gesture Thrills Rakshit",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6285/1782376226285-h",
-                    "updateDate": "20-06-2026",
                     "episodeUrl": ""
                 }
             ]
