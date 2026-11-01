@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "24",
+                    "duration": "42m",
+                    "episodeCode": "S1-E24",
+                    "episodeName": "The Conspirators!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/137/1793510610137-h",
+                    "updateDate": "01-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/108-base-hospital-uri-1st-november-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "23",
                     "duration": "45m",
                     "episodeCode": "S1-E23",
