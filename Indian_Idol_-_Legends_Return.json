@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "69m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "A Celebration Of Musical Excellence",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027901/179342691536110_INDIAN_IDOL_LEGENDS_RETURN_EP_05_landscape.jpg",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/a-celebration-of-musical-excellence-1090551284?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "4",
                     "duration": "70m",
                     "episodeCode": "S1-E4",
