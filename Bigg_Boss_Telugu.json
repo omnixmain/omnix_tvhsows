@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "57",
+                    "duration": "1h 23m",
+                    "episodeCode": "S10-E57",
+                    "episodeName": "BBTel Day 56: Eviction Power to Housemates",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/324/1793529910324-h",
+                    "updateDate": "01-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "56",
                     "duration": "1h 21m",
                     "episodeCode": "S10-E56",
