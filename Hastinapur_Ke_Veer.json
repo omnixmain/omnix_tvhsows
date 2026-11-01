@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "131",
+                    "duration": "22m",
+                    "episodeCode": "S2-E131",
+                    "episodeName": " Radheya and Duryodhan’s Growing Bond",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027898/1793389643916776_Hastinapur-Ke-Veer-Ep-131_landscape_thumb.jpg",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheya-and-duryodhans-growing-bond-1090551280?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "130",
                     "duration": "22m",
                     "episodeCode": "S2-E130",
