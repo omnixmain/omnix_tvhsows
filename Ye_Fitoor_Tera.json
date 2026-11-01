@@ -10,15 +10,25 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 31, 2026",
+            "ottReleaseDate": "November 01, 2026",
             "description": "Reclusive Saumya finds the strength to reclaim her life when she meets Jeet, a free-spirited rebel. A passionate love story blooms in the heart of Prayagraj. Watch Yeh Fitoor Tera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "87",
+                    "duration": "27m",
+                    "episodeCode": "S1-E87",
+                    "episodeName": "Sanjeev Falls from the Stairs",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5410/1793502465410-h",
+                    "updateDate": "01-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-1st-november-2026-watch-online-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "86",
                     "duration": "27m",
                     "episodeCode": "S1-E86",
-                    "episodeName": "Saumya Joins Jeet for the Pooja",
+                    "episodeName": "Saumya Stands by Jeet",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6193/1793408166193-h",
                     "updateDate": "31-10-2026",
                     "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-31st-october-2026-watch-online-full-episode-hd/"
@@ -41,7 +51,7 @@
                     "episodeName": "Neeta Targets Saumya, Jeet",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8510/1793236238510-h",
                     "updateDate": "29-10-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-29th-october-2026-watch-online-full-episode/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
