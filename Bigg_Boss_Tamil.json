@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "57",
+                    "duration": "1h 4m",
+                    "episodeCode": "S10-E57",
+                    "episodeName": "BBTam Day 56: Eviction Pass Changes Dynamics",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4571/1793542534571-h",
+                    "updateDate": "01-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "56",
                     "duration": "1h 1m",
                     "episodeCode": "S10-E56",
@@ -571,16 +581,6 @@
                     "episodeName": "BBTam: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5574/1788700215574-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "57",
-                    "duration": "45m",
-                    "episodeCode": "S10-E57",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2780/1789128742780-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
