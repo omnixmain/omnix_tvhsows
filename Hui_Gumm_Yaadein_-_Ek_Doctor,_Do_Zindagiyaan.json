@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "180",
+                    "duration": "22m",
+                    "episodeCode": "S1-E180",
+                    "episodeName": "Dev Throws Down a Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027898/1793389675907776_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_180_landscape_thumb.jpg",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/dev-throws-down-a-challenge-1090551275?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "179",
                     "duration": "21m",
                     "episodeCode": "S1-E179",
