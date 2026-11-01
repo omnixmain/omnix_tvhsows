@@ -10,15 +10,25 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 31, 2026",
+            "ottReleaseDate": "November 01, 2026",
             "description": "Aparajita is an artist with a bitter past, and our hero Rakshit—a reserved businessman with no place for love! These two hearts meet, but will romance bloom? Watch Oh Humnava - Tum Dena Saath Mera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "193",
+                    "duration": "26m",
+                    "episodeCode": "S1-E193",
+                    "episodeName": "Aparajita's Heartbreaking Secret",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8671/1793502488671-h",
+                    "updateDate": "01-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/o-humnava-tum-dena-saath-mera-1st-november-2026-watch-online-full-episode/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "192",
                     "duration": "26m",
                     "episodeCode": "S1-E192",
-                    "episodeName": "Aradhya's Baby Plans Upset Vivaan",
+                    "episodeName": "Aradhya's Question Upsets Vivaan",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8014/1793408118014-h",
                     "updateDate": "31-10-2026",
                     "episodeUrl": "https://serialtvmaza.sbs/o-humnava-tum-dena-saath-mera-31st-october-2026-watch-online-full-episode-hd/"
