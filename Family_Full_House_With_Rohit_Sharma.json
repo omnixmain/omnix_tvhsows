@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "22m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Family Full House With Rohit Sharma",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024210/178982077723193_FFH_Red_Creative_Promo_landscape_thumb_simulcast.jpg",
+                    "updateDate": "01-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/family-full-house-with-rohit-sharma-1090542016?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "13",
                     "duration": "58m",
                     "episodeCode": "S1-E13",
@@ -81,7 +91,7 @@
                     "episodeName": "Krushna And Ankita's Battle Of Fun",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026109/1791631706172467_FAMILY-FULL-HOUSE-WITH-ROHIT-SHARMA_EP_07_landscape_thumb.jpg",
                     "updateDate": "10-10-2026",
-                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/krushna-and-ankitas-battle-of-fun-1090547700?watch=true"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -91,7 +101,7 @@
                     "episodeName": "Bharti and Harssh Join The Fun",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025843/1791114979506172_FFFH_EP_6_landscape_thumb.jpg",
                     "updateDate": "04-10-2026",
-                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/bharti-and-harssh-join-the-fun-1090545956?watch=true"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -101,7 +111,7 @@
                     "episodeName": "Vlogger Family vs Dhurandhar Family",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025739/1791010827016191_FAMILY-FULL-HOUSE-WITH-ROHIT-SHARMA_EP_05_landscape_thumb.jpg",
                     "updateDate": "03-10-2026",
-                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/vlogger-family-vs-dhurandhar-family-1090545957?watch=true"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
@@ -111,7 +121,7 @@
                     "episodeName": "Suniel & Neha Turn Up The Fun",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025024/1790490427712494_FAMILY_FULL_HOUSE_EP_04_LIV_landscape_thumb.jpeg",
                     "updateDate": "27-09-2026",
-                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/suniel-neha-turn-up-the-fun-1090544223?watch=true"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
