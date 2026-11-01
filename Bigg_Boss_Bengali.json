@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Bigg Boss Bengali",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9993/1792404759993-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1871/1793450801871-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Bengali",
-            "ottReleaseDate": "October 31, 2026",
+            "ottReleaseDate": "November 01, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "1h 9m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "BBBan Day 62: Dada’s Lesson on Relationships",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/204/1793454750204-h",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "62",
