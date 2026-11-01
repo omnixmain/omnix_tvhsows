@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "58m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Battle Of The BCL Stars",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027901/179342682993310_FAMILY-FULL-HOUSE-WITH-ROHIT-SHARMA_EP_13_landscape.jpg",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/battle-of-the-bcl-stars-1090551292?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "12",
                     "duration": "64m",
                     "episodeCode": "S1-E12",
