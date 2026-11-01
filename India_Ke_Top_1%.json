@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 31, 2026",
+            "ottReleaseDate": "November 01, 2026",
             "description": "1-2 ka 4, ya 4-2 ka 1? Hosted by Anil Kapoor, this top-tier quiz show is all about logic and reasoning, where 100 contestants vie to enter the elite 1% club! Watch India Ke Top 1% - Hindi Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "13",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E13",
+                    "episodeName": "Ye Contestants Hatke Hain!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2657/1793395272657-h",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/india-ke-top-1-31st-october-2026-watch-online-full-episode-13/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "12",
