@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Kannada",
-            "ottReleaseDate": "October 31, 2026",
+            "ottReleaseDate": "November 01, 2026",
             "description": "Watch Bigg Boss Kannada on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "56",
+                    "duration": "1h 25m",
+                    "episodeCode": "S13-E56",
+                    "episodeName": "BBKan Day 55: Sudeep Questions Soundarya",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/847/1793458120847-h",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "13",
                     "episodeNumber": "55",
