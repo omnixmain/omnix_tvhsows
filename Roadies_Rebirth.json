@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "October 31, 2026",
+            "ottReleaseDate": "November 01, 2026",
             "description": "A new era begins as Roadies returns with Rebirth! 6 Gang Leaders, 2 gangs and the ultimate OGs vs NewGs showdown. Who will rule the road? Watch Roadies - Rebirth - Hindi Reality Adventure serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "21",
+                    "episodeNumber": "6",
+                    "duration": "1h 31m",
+                    "episodeCode": "S21-E6",
+                    "episodeName": "New Dawn, New Day!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1435/1793399931435-h",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/mtv-roadies-rebirth-31st-october-2026-watch-online-full-episode-6/"
+                },
                 {
                     "seasonNumber": "21",
                     "episodeNumber": "5",
