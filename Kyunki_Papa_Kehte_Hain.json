@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "22m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Pawan's Plan Goes Wrong",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027901/179342689875610_KYUNKI_PAPA_KEHTE_HAIN_EP_35_landscape.jpg",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-plan-goes-wrong-1090551283?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "34",
                     "duration": "22m",
                     "episodeCode": "S1-E34",
