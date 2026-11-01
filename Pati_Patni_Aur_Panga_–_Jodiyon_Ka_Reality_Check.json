@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "8",
+                    "duration": "1h 12m",
+                    "episodeCode": "S2-E8",
+                    "episodeName": "The Ultimate Couple Test",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5763/1793468295763-h",
+                    "updateDate": "01-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "7",
                     "duration": "1h 18m",
                     "episodeCode": "S2-E7",
