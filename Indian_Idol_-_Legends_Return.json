@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "69m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Devendra Pal Singh & Mayuri Saha Take The Stage ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027969/1793521227320108_INDIAN_IDOL_LEGENDS_RETURN_EP_06_landscape_thumbnail.jpeg",
+                    "updateDate": "01-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/devendra-pal-singh-mayuri-saha-take-the-stage-1090551317?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "5",
                     "duration": "69m",
                     "episodeCode": "S1-E5",
