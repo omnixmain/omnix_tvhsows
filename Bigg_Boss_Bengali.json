@@ -652,6 +652,16 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3125/1788162843125-h",
                     "updateDate": "30-08-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "45m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9993/1792404759993-i",
+                    "updateDate": "",
+                    "episodeUrl": ""
                 }
             ]
         }
