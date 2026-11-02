@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "55",
+                    "duration": "58m",
+                    "episodeCode": "S2-E55",
+                    "episodeName": "The Ultimate Bell Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028041/1793595100535811_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_55_landscape_thumbnail.jpeg",
+                    "updateDate": "02-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "54",
                     "duration": "54m",
                     "episodeCode": "S2-E54",
