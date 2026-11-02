@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "1h 5m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "BBBan Day 64: A Spooky Twist on Bhoot Choturdoshi",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7350/1793627517350-h",
+                    "updateDate": "02-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "64",
                     "duration": "1h 9m",
                     "episodeCode": "S1-E64",
@@ -651,16 +661,6 @@
                     "episodeName": "Grand Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3125/1788162843125-h",
                     "updateDate": "30-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "65",
-                    "duration": "45m",
-                    "episodeCode": "S1-E65",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9993/1792404759993-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
