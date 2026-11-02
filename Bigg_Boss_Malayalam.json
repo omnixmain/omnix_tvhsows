@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "November 01, 2026",
+            "ottReleaseDate": "November 02, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "57",
-                    "duration": "1h 17m",
+                    "duration": "1h 15m",
                     "episodeCode": "S8-E57",
                     "episodeName": "BBMal Day 56: Tears and Truths with Lalettan",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9459/1793536959459-h",
