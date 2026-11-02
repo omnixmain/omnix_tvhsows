@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "132",
+                    "duration": "22m",
+                    "episodeCode": "S2-E132",
+                    "episodeName": "The Chakravyuh Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028059/1793605076054239_Hastinapur_Ke_Veer_Ep_132_landscape_thumbnail.jpeg",
+                    "updateDate": "02-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "131",
                     "duration": "22m",
                     "episodeCode": "S2-E131",
