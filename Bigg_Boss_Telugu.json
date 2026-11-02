@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "58",
+                    "duration": "1h 16m",
+                    "episodeCode": "S10-E58",
+                    "episodeName": "BBTel Day 57: New Nominees Unveiled",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/121/1793628110121-h",
+                    "updateDate": "02-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "57",
                     "duration": "1h 23m",
                     "episodeCode": "S10-E57",
@@ -581,16 +591,6 @@
                     "episodeName": "BBTel: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3531/1788692933531-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "58",
-                    "duration": "45m",
-                    "episodeCode": "S10-E58",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2710/1792755462710-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
