@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1379",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1379",
+                    "episodeName": "Pushpa Hope For Stronger Bond",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028070/1793609225855426_PUSHPA_IMPOSSIBLE_EP_1379_landscape_thumbnail.jpeg",
+                    "updateDate": "02-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1378",
                     "duration": "21m",
                     "episodeCode": "S14-E1378",
