@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "13",
+                    "episodeNumber": "58",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E58",
+                    "episodeName": "BBKan Day 57: Rajyotsava and Nominations",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1803/1793628221803-h",
+                    "updateDate": "02-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
                     "episodeNumber": "57",
                     "duration": "1h 22m",
                     "episodeCode": "S13-E57",
@@ -581,16 +591,6 @@
                     "episodeName": "BBKan: Grand Take Off",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2126/1788688232126-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "13",
-                    "episodeNumber": "58",
-                    "duration": "45m",
-                    "episodeCode": "S13-E58",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8098/1788701208098-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
