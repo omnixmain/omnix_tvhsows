@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "37",
+                    "duration": "22m",
+                    "episodeCode": "S1-E37",
+                    "episodeName": "Jharna's Dream Opportunity",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028108/1793681454606879_KYUNKI_PAPA_KEHTE_HAIN_EP_37_landscape_thumbnail.jpeg",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "36",
                     "duration": "22m",
                     "episodeCode": "S1-E36",
                     "episodeName": "Amber Goes Missing",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028069/1793608132966265_KYUNKI_PAPA_KEHTE_HAIN_EP_36_landscape_thumbnail.jpeg",
                     "updateDate": "02-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/amber-goes-missing-1090551892?watch=true"
                 },
                 {
                     "seasonNumber": "1",
