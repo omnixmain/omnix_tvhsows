@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "14",
+                    "duration": "21m",
+                    "episodeCode": "S1-E14",
+                    "episodeName": "Chitra Guides Sunheri",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1375/1793667831375-h",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-3rd-november-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "13",
                     "duration": "21m",
                     "episodeCode": "S1-E13",
