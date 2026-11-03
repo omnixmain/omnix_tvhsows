@@ -11,8 +11,589 @@
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
             "ottReleaseDate": "November 03, 2026",
-            "description": "Bigg Boss S20 Episode 49: Rohit Shetty is here with a reality check for the Gharwaales, from Yung and Aasif to Love and Scout. Eviction brings a major twist with two lifelines at stake. Who survives?",
-            "episodes": []
+            "description": "Watch Bigg Boss on JioHotstar.",
+            "episodes": [
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "58",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E58",
+                    "episodeName": "BBHin Day 57: Nominations Ka Khatra",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6362/1793627906362-h",
+                    "updateDate": "02-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-2nd-november-2026-watch-online-full-episode-58/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "57",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E57",
+                    "episodeName": "BBHin Day 56: Who Has the Real Rizz?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3658/1793541933658-h",
+                    "updateDate": "01-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-1st-november-2026-watch-online-full-episode-57/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "56",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E56",
+                    "episodeName": "BBHin Day 55: Salman Exposes the Housemates",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4229/1793456244229-h",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-31st-october-2026-watch-online-full-episode-56/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "55",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E55",
+                    "episodeName": "BBHin Day 54: Ask Salman Anything!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7545/1793371917545-h",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-30th-october-2026-watch-online-full-episode-55/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "54",
+                    "duration": "1h 11m",
+                    "episodeCode": "S20-E54",
+                    "episodeName": "BBHin Day 53: Captaincy Race - Andar Ya Bahar?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8648/1793286168648-h",
+                    "updateDate": "29-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-29th-october-2026-watch-online-full-episode-54/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "53",
+                    "duration": "1h 11m",
+                    "episodeCode": "S20-E53",
+                    "episodeName": "BBHin Day 52: The Decider 2X Room",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2655/1793199282655-h",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-28th-october-2026-watch-online-full-episode-53/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "52",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E52",
+                    "episodeName": "BBHin Day 51: Absolute Chaos",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6924/1793113026924-h",
+                    "updateDate": "27-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-27th-october-2026-watch-online-full-episode-52/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "51",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E51",
+                    "episodeName": "BBHin Day 50: Ek Bawaal, Many Sawaal!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4330/1793026574330-h",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-26th-october-2026/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "50",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E50",
+                    "episodeName": "BBHin Day 49: Surprise Guests and Reality Checks",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9853/1792937599853-h",
+                    "updateDate": "25-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-25th-october-2026/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "49",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E49",
+                    "episodeName": "BBHin Day 48: Rohit Shetty Drops Truth Bombs",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1620/1792849491620-h",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-24th-october-2026/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "48",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E48",
+                    "episodeName": "BBHin Day 47: Ek Vishesh Adhikaar, Kai Dawedaar",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5336/1792765625336-h",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-23rd-october-2026-watch-online-video-episode-48/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "47",
+                    "duration": "1h 11m",
+                    "episodeCode": "S20-E47",
+                    "episodeName": "BBHin Day 46: Dosti Mein Daraar?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/727/1792678690727-h",
+                    "updateDate": "22-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-22nd-october-2026-watch-online-video-episode-47/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "46",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E46",
+                    "episodeName": "BBHin Day 45: Broke a Rule? Get Burnt by BB",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2253/1792594712253-h",
+                    "updateDate": "21-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-21st-october-2026-watch-online-video-episode-46/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "45",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E45",
+                    "episodeName": "BBHin Day 44: Nominations - Kitne Doshi?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9825/1792505859825-h",
+                    "updateDate": "20-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-20th-october-2026-watch-online-video-episode-45/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "44",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E44",
+                    "episodeName": "BBHin Day 43: A Bitter Revenge!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5436/1792421045436-h",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-19th-october-2026-video-episode-44-today-full-show/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "43",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E43",
+                    "episodeName": "BBHin Day 42: Knock, Knock? It’s Time to Exit",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6131/1792335266131-h",
+                    "updateDate": "18-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-18th-october-2026-video-episode-43-today-full-show/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "42",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E42",
+                    "episodeName": "BBHin Day 41: Pehle Expose, Phir Explode",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7598/1792248707598-h",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-17th-october-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "41",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E41",
+                    "episodeName": "BBHin Day 40: BB Says, Take a Life!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8122/1792158478122-h",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "40",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E40",
+                    "episodeName": "BBHin Day 39: Select. Eliminate. Elect!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8380/1792075768380-h",
+                    "updateDate": "15-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "39",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E39",
+                    "episodeName": "BBHin Day 38: Action Ka Reaction, BB-style!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7550/1791987577550-h",
+                    "updateDate": "14-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "38",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E38",
+                    "episodeName": "BBHin Day 37: Gazab Mudde, Gazab Bezzati",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6394/1791899256394-h",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "37",
+                    "duration": "1h 6m",
+                    "episodeCode": "S20-E37",
+                    "episodeName": "BBHin Day 36: Kalesh Trending Hai!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/562/1791816340562-h",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "36",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E36",
+                    "episodeName": "BBHin Day 35: Salman Turns Up the Heat",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7573/1791726087573-h",
+                    "updateDate": "11-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "35",
+                    "duration": "1h 11m",
+                    "episodeCode": "S20-E35",
+                    "episodeName": "BBHin Day 34: Whose Game Needs a Rebirth?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/543/1791642350543-h",
+                    "updateDate": "10-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "34",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E34",
+                    "episodeName": "BBHin Day 33: Love Says, Checkmate!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3787/1791555533787-h",
+                    "updateDate": "09-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "33",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E33",
+                    "episodeName": "BBHin Day 32: The Ration Heist!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2418/1791470972418-h",
+                    "updateDate": "08-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "32",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E32",
+                    "episodeName": "BBHin Day 31: It’s Debate Time",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4802/1791383594802-h",
+                    "updateDate": "07-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "31",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E31",
+                    "episodeName": "BBHin Day 30: No More Pyaar, Only Takraar!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5227/1791296115227-h",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "30",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E30",
+                    "episodeName": "BBHin Day 29: Pack a Nomination Punch!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8763/1791211538763-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "29",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E29",
+                    "episodeName": "BBHin Day 28: Surprise Ya Shock?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9219/1791124349219-h",
+                    "updateDate": "04-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "28",
+                    "duration": "1h 11m",
+                    "episodeCode": "S20-E28",
+                    "episodeName": "BBHin Day 27: Salman Demands Honest Answers",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9379/1791036909379-h",
+                    "updateDate": "03-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "27",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E27",
+                    "episodeName": "BBHin Day 26: Mid-week Eviction!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1488/1790951261488-h",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "26",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E26",
+                    "episodeName": "BBHin Day 25: Darr Ka Mahaul Ft. Dolly",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/146/1790867140146-h",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "25",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E25",
+                    "episodeName": "BBHin Day 24: Rate the Captain! Yea or Nay?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2348/1790778932348-h",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "24",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E24",
+                    "episodeName": "BBHin Day 23: Mission Ration, Phir Captain?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2606/1790693562606-h",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "23",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E23",
+                    "episodeName": "BBHin Day 22: Room 2X - Double the Twists!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9009/1790606189009-h",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "22",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E22",
+                    "episodeName": "BBHin Day 21: Salman’s Star-Studded Evening",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1827/1790520271827-h",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "21",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E21",
+                    "episodeName": "BBHin Day 20: Salman Ka Reality Check!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8699/1790434958699-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "20",
+                    "duration": "1h 12m",
+                    "episodeCode": "S20-E20",
+                    "episodeName": "BBHin Day 19: And the New Captain Is…",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8130/1790348448130-h",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "19",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E19",
+                    "episodeName": "BBHin Day 18: Ulta Prachar, Race Se Bahar!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4980/1790262154980-h",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "18",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E18",
+                    "episodeName": "BBHin Day 17: Diss Battle - Pyaar Se Vaar!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5957/1790177695957-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "17",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E17",
+                    "episodeName": "BBHin Day 16: Kaun Top, Kaun Flop?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5603/1790087625603-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "16",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E16",
+                    "episodeName": "BBHin Day 15: Nominations with a Twist!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7371/1790000657371-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "15",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E15",
+                    "episodeName": "BBHin Day 14: Entertainment, Elimination, Exposé",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8768/1789915448768-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "14",
+                    "duration": "1h 6m",
+                    "episodeCode": "S20-E14",
+                    "episodeName": "BBHin Day 13: Salman Laye Hain 'Sach Ki Topi'",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4261/1789832354261-h",
+                    "updateDate": "19-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "13",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E13",
+                    "episodeName": "BBHin Day 12: A Risky Ration Quiz",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4463/1789741204463-h",
+                    "updateDate": "18-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "12",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E12",
+                    "episodeName": "BBHin Day 11: Captaincy Chaos Erupts",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2603/1789656042603-h",
+                    "updateDate": "17-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "11",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E11",
+                    "episodeName": "BBHin Day 10: Loyalties Put to the Test",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2935/1789573502935-h",
+                    "updateDate": "16-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "10",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E10",
+                    "episodeName": "BBHin Day 09: Rang Mein Bhang, Ghar Mein Jung",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8595/1789480088595-h",
+                    "updateDate": "15-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "9",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E9",
+                    "episodeName": "BBHin Day 08: Secrets Out! Sparks Fly",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8077/1789392778077-h",
+                    "updateDate": "14-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "8",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E8",
+                    "episodeName": "BBHin Day 07: Gajab Beizzati, Peak Masti",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/501/1789311930501-h",
+                    "updateDate": "13-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "7",
+                    "duration": "1h 6m",
+                    "episodeCode": "S20-E7",
+                    "episodeName": "BBHin Day 06: Pehla Vaar! Ft. OG Rockstar",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7013/1789223207013-h",
+                    "updateDate": "12-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "6",
+                    "duration": "1h 8m",
+                    "episodeCode": "S20-E6",
+                    "episodeName": "BBHin Day 05: Rule Break? Discipline Check!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9882/1789135299882-h",
+                    "updateDate": "11-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "5",
+                    "duration": "1h 11m",
+                    "episodeCode": "S20-E5",
+                    "episodeName": "BBHin Day 04: Rewind! 20 Years of Bigg Boss",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1800/1789050551800-h",
+                    "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "4",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E4",
+                    "episodeName": "BBHin Day 03: All Eyes on 'Pehla Kaptaan'",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5405/1788964455405-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "3",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E3",
+                    "episodeName": "BBHin Day 02: Sanchalan Gone Wrong?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3491/1788879743491-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "2",
+                    "duration": "1h 6m",
+                    "episodeCode": "S20-E2",
+                    "episodeName": "BBHin Day 01: Kanika’s Boon, Housemates’ Bane!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5982/1788793195982-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "1",
+                    "duration": "1h 33m",
+                    "episodeCode": "S20-E1",
+                    "episodeName": "BBHin Grand Premiere: Vardaan ya Toofan?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6945/1788707656945-h",
+                    "updateDate": "06-09-2026",
+                    "episodeUrl": ""
+                }
+            ]
         }
     ]
 }
