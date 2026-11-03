@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "56",
+                    "duration": "53m",
+                    "episodeCode": "S2-E56",
+                    "episodeName": "Turntable Showdown",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028103/179364309690019_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_56_landscape_thumb.jpg",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "55",
                     "duration": "58m",
                     "episodeCode": "S2-E55",
                     "episodeName": "The Ultimate Bell Challenge",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028041/1793595100535811_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_55_landscape_thumbnail.jpeg",
                     "updateDate": "02-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-ultimate-bell-challenge-1090551883?watch=true"
                 },
                 {
                     "seasonNumber": "2",
