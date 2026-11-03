@@ -592,6 +592,16 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3531/1788692933531-h",
                     "updateDate": "06-09-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "59",
+                    "duration": "45m",
+                    "episodeCode": "S10-E59",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2710/1792755462710-i",
+                    "updateDate": "",
+                    "episodeUrl": ""
                 }
             ]
         }
