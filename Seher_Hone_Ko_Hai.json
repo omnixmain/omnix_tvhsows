@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "259",
+                    "duration": "22m",
+                    "episodeCode": "S2-E259",
+                    "episodeName": "Seher Seeks Fareed's Help",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2907/1793671642907-h",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "258",
                     "duration": "24m",
                     "episodeCode": "S2-E258",
