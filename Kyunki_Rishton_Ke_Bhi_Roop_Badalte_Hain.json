@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "228",
+                    "duration": "26m",
+                    "episodeCode": "S1-E228",
+                    "episodeName": "Angad Saves Vrinda",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/150/1793682400150-h",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "227",
                     "duration": "26m",
                     "episodeCode": "S1-E227",
