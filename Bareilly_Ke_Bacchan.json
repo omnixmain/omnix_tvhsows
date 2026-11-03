@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "124",
+                    "duration": "23m",
+                    "episodeCode": "S1-E124",
+                    "episodeName": "The Bacchans Plan a Vacation",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7305/1793671677305-h",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bareilly-ke-bachchan-3rd-november-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "123",
                     "duration": "25m",
                     "episodeCode": "S1-E123",
