@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "42",
+                    "duration": "27m",
+                    "episodeCode": "S1-E42",
+                    "episodeName": "Maya Plots to Keep Saanvi Away",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7063/1793667807063-h",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-3rd-november-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "41",
                     "duration": "27m",
                     "episodeCode": "S1-E41",
