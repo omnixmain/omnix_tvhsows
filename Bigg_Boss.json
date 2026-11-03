@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "59",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E59",
+                    "episodeName": "BBHin Day 58: Ghar Se Aaya Pyaar-Samachar!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6313/1793717186313-h",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-3rd-november-2026-watch-online-full-episode-59/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "58",
                     "duration": "1h 9m",
                     "episodeCode": "S20-E58",
@@ -591,16 +601,6 @@
                     "episodeName": "BBHin Grand Premiere: Vardaan ya Toofan?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6945/1788707656945-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "20",
-                    "episodeNumber": "59",
-                    "duration": "45m",
-                    "episodeCode": "S20-E59",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2516/1792832772516-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
