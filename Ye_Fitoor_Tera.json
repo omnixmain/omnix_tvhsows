@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "89",
+                    "duration": "27m",
+                    "episodeCode": "S1-E89",
+                    "episodeName": "Saumya Expresses Her Frustration",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5159/1793667965159-h",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-3rd-november-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "88",
                     "duration": "27m",
                     "episodeCode": "S1-E88",
@@ -41,7 +51,7 @@
                     "episodeName": "Saumya Stands by Jeet",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6193/1793408166193-h",
                     "updateDate": "31-10-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-31st-october-2026-watch-online-full-episode-hd/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
