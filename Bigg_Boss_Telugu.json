@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "November 03, 2026",
+            "ottReleaseDate": "November 04, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "59",
-                    "duration": "1h 16m",
+                    "duration": "1h 15m",
                     "episodeCode": "S10-E59",
                     "episodeName": "BBTel Day 58: Revenge, Rewards and Emotions",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3215/1793712633215-h",
