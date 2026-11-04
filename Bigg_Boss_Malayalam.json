@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Bigg Boss Malayalam",
-            "banner": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/5921/1789147755921-i",
+            "banner": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/3788/1788861863788-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "November 03, 2026",
+            "ottReleaseDate": "November 04, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "59",
+                    "duration": "1h 19m",
+                    "episodeCode": "S8-E59",
+                    "episodeName": "BBMal Day 58: Grabbing Missiles for Money",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6562/1793712906562-h",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "58",
@@ -591,16 +601,6 @@
                     "episodeName": "BBMal: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6273/1788698896273-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "59",
-                    "duration": "45m",
-                    "episodeCode": "S8-E59",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5921/1789147755921-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
