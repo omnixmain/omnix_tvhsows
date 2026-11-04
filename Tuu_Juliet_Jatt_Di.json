@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 04, 2026",
+            "ottReleaseDate": "November 05, 2026",
             "description": "Heer and Nawab's bitter past resurfaces when three juniors face a complicated romance, making them question if their love deserves another chance. Watch Tuu Juliet Jatt Di - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
                 {
@@ -811,6 +811,106 @@
                     "episodeName": "The Brar Family Stands by Heer",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6583/1786914886583-h",
                     "updateDate": "17-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "273",
+                    "duration": "21m",
+                    "episodeCode": "S1-E273",
+                    "episodeName": "Heer, Nawab Expose Daler",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1838/1786817981838-h",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "272",
+                    "duration": "24m",
+                    "episodeCode": "S1-E272",
+                    "episodeName": "Heer Tests Nawab's Love",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5261/1786740355261-h",
+                    "updateDate": "15-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "271",
+                    "duration": "23m",
+                    "episodeCode": "S1-E271",
+                    "episodeName": "Nimrat's Wedding Post Sparks Chaos",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1364/1786642501364-h",
+                    "updateDate": "14-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "270",
+                    "duration": "23m",
+                    "episodeCode": "S1-E270",
+                    "episodeName": "Heer, Nawab's Shocking Discovery",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5039/1786576325039-h",
+                    "updateDate": "13-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "269",
+                    "duration": "21m",
+                    "episodeCode": "S1-E269",
+                    "episodeName": "Heer Hunts for Nimrat's Truth",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4212/1786513374212-h",
+                    "updateDate": "12-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "268",
+                    "duration": "21m",
+                    "episodeCode": "S1-E268",
+                    "episodeName": "Heer Rushes to Save Nawab",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3386/1786416353386-h",
+                    "updateDate": "11-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "267",
+                    "duration": "21m",
+                    "episodeCode": "S1-E267",
+                    "episodeName": "Heer Demands Daler's Resignation",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3612/1786306843612-h",
+                    "updateDate": "10-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "266",
+                    "duration": "21m",
+                    "episodeCode": "S1-E266",
+                    "episodeName": "Heer Gets Suspended",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3058/1786218473058-h",
+                    "updateDate": "09-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "265",
+                    "duration": "21m",
+                    "episodeCode": "S1-E265",
+                    "episodeName": "Heer Blocks Nawab's Race",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/254/1786144750254-h",
+                    "updateDate": "08-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "264",
+                    "duration": "21m",
+                    "episodeCode": "S1-E264",
+                    "episodeName": "Arjun Challenges Nawab",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6058/1786029356058-h",
+                    "updateDate": "07-08-2026",
                     "episodeUrl": ""
                 }
             ]
