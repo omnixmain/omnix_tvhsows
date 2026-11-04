@@ -10,9 +10,39 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 04, 2026",
+            "ottReleaseDate": "November 05, 2026",
             "description": "Shivprasad and Shalini juggle middle-class family life with their two kids. But hush! Shivprasad is also a secret agent, how long can he keep up his cover? Watch Mr. and Mrs. Parshuram - Hindi Drama Action serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "195",
+                    "duration": "21m",
+                    "episodeCode": "S1-E195",
+                    "episodeName": "Parshuram's Final Reunion",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7882/1787016897882-h",
+                    "updateDate": "18-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "194",
+                    "duration": "21m",
+                    "episodeCode": "S1-E194",
+                    "episodeName": "The Truth of Parshuram",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8794/1786880988794-h",
+                    "updateDate": "17-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "193",
+                    "duration": "21m",
+                    "episodeCode": "S1-E193",
+                    "episodeName": "Malhar Seeks Forgiveness",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7281/1786788197281-h",
+                    "updateDate": "16-08-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "192",
