@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "134",
+                    "duration": "22m",
+                    "episodeCode": "S2-E134",
+                    "episodeName": "Radheya Against The Asurs",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028167/1793725366868660_Hastinapur-Ke-Veer-Ep-134_landscape_thumb.jpg",
+                    "updateDate": "04-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "133",
                     "duration": "22m",
                     "episodeCode": "S2-E133",
                     "episodeName": "The Pandavas Reunited",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028103/179364313653319_Hastinapur_Ke_Veer_Ep133_landscape_thumb.jpg",
                     "updateDate": "03-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/the-pandavas-reunited-1090552006?watch=true"
                 },
                 {
                     "seasonNumber": "2",
