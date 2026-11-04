@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1381",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1381",
+                    "episodeName": "Pushpa Sees A Ray Of Hope",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028167/1793725398468660_PUSHPA_IMPOSSIBLE_EP_1381_landscape_thumb.jpg",
+                    "updateDate": "04-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1380",
                     "duration": "22m",
                     "episodeCode": "S14-E1380",
                     "episodeName": "Chirag's Hidden Feelings",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028105/1793679866237177_PUSHPA_IMPOSSIBLE_EP_1380_landscape_thumbnail.jpeg",
                     "updateDate": "03-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/chirags-hidden-feelings-1090552009?watch=true"
                 },
                 {
                     "seasonNumber": "14",
