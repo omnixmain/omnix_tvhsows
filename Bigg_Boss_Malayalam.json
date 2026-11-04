@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "November 04, 2026",
+            "ottReleaseDate": "November 05, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "60",
+                    "duration": "1h 24m",
+                    "episodeCode": "S8-E60",
+                    "episodeName": "BBMal Day 59: Petty Wars and a Missing Bomb",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/476/1793793340476-h",
+                    "updateDate": "04-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "59",
