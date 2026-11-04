@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4859",
+                    "duration": "21m",
+                    "episodeCode": "S49-E4859",
+                    "episodeName": "Vishwasur's Garba Decision Infuriates Residents",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028243/1793781995932278_Taarak_Mehta_Ka_Oolta_Chashmah_4859_landscape_thumbnail.jpg",
+                    "updateDate": "04-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-4th-november-2026-watch-online-full-episode/"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4858",
                     "duration": "22m",
                     "episodeCode": "S49-E4858",
                     "episodeName": "Is Vishwasur Really Genuine?",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028103/179364321809419_Taarak_Mehta_Ka_Oolta_Chashmah_4858_landscape_thumb.jpg",
                     "updateDate": "03-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-3rd-november-2026-watch-online-full-episode/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/is-vishwasur-really-genuine-1090552005?watch=true"
                 },
                 {
                     "seasonNumber": "49",
