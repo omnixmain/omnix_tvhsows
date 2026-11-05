@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "126",
+                    "duration": "26m",
+                    "episodeCode": "S1-E126",
+                    "episodeName": "The Bacchans Check Into the Resort",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4783/1793812414783-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bareilly-ke-bachchan-5th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "125",
                     "duration": "26m",
                     "episodeCode": "S1-E125",
