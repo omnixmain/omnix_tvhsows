@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Bigg Boss Telugu",
-            "banner": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/2710/1792755462710-i",
+            "banner": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/1367/1792060211367-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -13,6 +13,16 @@
             "ottReleaseDate": "November 05, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "61",
+                    "duration": "1h 16m",
+                    "episodeCode": "S10-E61",
+                    "episodeName": "BBTel Day 60: Revenge Shakes the BB House",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8847/1793881498847-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "60",
