@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "39",
+                    "duration": "22m",
+                    "episodeCode": "S1-E39",
+                    "episodeName": "Jharna's Goa Dilemma",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028319/1793812700075156_KYUNKI_PAPA_KEHTE_HAIN_EP_39_landscape_thumb.jpg",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "38",
                     "duration": "22m",
                     "episodeCode": "S1-E38",
                     "episodeName": "Pawan Reluctantly Agrees",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028167/1793725414012660_KYUNKI_PAPA_KEHTE_HAIN_EP_38_landscape_thumb.jpg",
                     "updateDate": "04-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-reluctantly-agrees-1090552145?watch=true"
                 },
                 {
                     "seasonNumber": "1",
