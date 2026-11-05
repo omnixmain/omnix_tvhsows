@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "22m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Sunheri Faces Dhara's Wrath",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1028/1793841151028-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-5th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "15",
                     "duration": "22m",
                     "episodeCode": "S1-E15",
