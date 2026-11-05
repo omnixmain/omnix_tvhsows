@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "22m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "Saanvi's Perfect Reply to Maya",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/762/1793841220762-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-5th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "43",
                     "duration": "27m",
                     "episodeCode": "S1-E43",
