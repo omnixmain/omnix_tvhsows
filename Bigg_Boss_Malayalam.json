@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "61",
+                    "duration": "1h 24m",
+                    "episodeCode": "S8-E61",
+                    "episodeName": "BBMal Day 60: All Bombs Go Missing",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6153/1793881936153-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "60",
                     "duration": "1h 23m",
                     "episodeCode": "S8-E60",
