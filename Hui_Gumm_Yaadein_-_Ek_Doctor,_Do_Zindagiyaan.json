@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "184",
+                    "duration": "21m",
+                    "episodeCode": "S1-E184",
+                    "episodeName": "A Public Trial For Dr. Dev And Dr. Srishty",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028319/1793812632873156_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_184_landscape_thumb.jpg",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "183",
                     "duration": "22m",
                     "episodeCode": "S1-E183",
                     "episodeName": "A Shocking Truth Comes To Light",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028167/1793725347911660_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_183_landscape_thumb.jpg",
                     "updateDate": "04-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/a-shocking-truth-comes-to-light-1090552139?watch=true"
                 },
                 {
                     "seasonNumber": "1",
