@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "61",
+                    "duration": "1h 11m",
+                    "episodeCode": "S10-E61",
+                    "episodeName": "BBTam Day 60: Killers Exposed as Graveyard Fills",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2153/1793881432153-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "60",
                     "duration": "1h 10m",
                     "episodeCode": "S10-E60",
