@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4860",
+                    "duration": "20m",
+                    "episodeCode": "S49-E4860",
+                    "episodeName": "Jethalal Is Left Worried",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028365/1793861864381426_Taarak_Mehta_Ka_Oolta_Chashmah_4860_landscape_thumbnail.jpg",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-5th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4859",
                     "duration": "21m",
                     "episodeCode": "S49-E4859",
                     "episodeName": "Vishwasur's Garba Decision Infuriates Residents",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028243/1793781995932278_Taarak_Mehta_Ka_Oolta_Chashmah_4859_landscape_thumbnail.jpg",
                     "updateDate": "04-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-4th-november-2026-watch-online-full-episode/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/vishwasurs-garba-decision-infuriates-residents-1090552140?watch=true"
                 },
                 {
                     "seasonNumber": "49",
