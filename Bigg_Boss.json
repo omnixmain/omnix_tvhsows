@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "61",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E61",
+                    "episodeName": "BBHin Day 60: Milega Pyaar Ya Vaar?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6508/1793892256508-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-5th-november-2026-watch-online-full-episode-61/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "60",
                     "duration": "1h 11m",
                     "episodeCode": "S20-E60",
