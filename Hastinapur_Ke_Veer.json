@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "135",
+                    "duration": "22m",
+                    "episodeCode": "S2-E135",
+                    "episodeName": "An Unlikely Alliance",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028319/1793812600813156_Hastinapur-Ke-Veer-Ep-135_landscape_thumb.jpg",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "134",
                     "duration": "22m",
                     "episodeCode": "S2-E134",
                     "episodeName": "Radheya Against The Asurs",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028167/1793725366868660_Hastinapur-Ke-Veer-Ep-134_landscape_thumb.jpg",
                     "updateDate": "04-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheya-against-the-asurs-1090552141?watch=true"
                 },
                 {
                     "seasonNumber": "2",
