@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "91",
+                    "duration": "22m",
+                    "episodeCode": "S1-E91",
+                    "episodeName": "Pakhi Strikes Jeet with a Bottle",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5149/1793841185149-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-5th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "90",
                     "duration": "27m",
                     "episodeCode": "S1-E90",
@@ -41,7 +51,7 @@
                     "episodeName": "Saumya Defends Jeet Before Anoop",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8703/1793581508703-h",
                     "updateDate": "02-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-2nd-november-2026-watch-online-full-episode/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
