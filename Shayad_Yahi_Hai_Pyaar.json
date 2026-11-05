@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "25m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Preeti, Aarav Stranded Midway",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2093/1793823192093-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/shayad-yahi-hai-pyaar-5th-november-2026-watch-online-full-episode-30/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "29",
                     "duration": "26m",
                     "episodeCode": "S1-E29",
