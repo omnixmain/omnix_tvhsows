@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "231",
+                    "duration": "24m",
+                    "episodeCode": "S1-E231",
+                    "episodeName": "Vivaan Asks About Aarambhi",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/134/1793830220134-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/dr-aarambhi-5th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "230",
                     "duration": "24m",
                     "episodeCode": "S1-E230",
