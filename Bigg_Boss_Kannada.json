@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "13",
+                    "episodeNumber": "61",
+                    "duration": "1h 4m",
+                    "episodeCode": "S13-E61",
+                    "episodeName": "BBKan Day 60: Smiles, Surprises and Fights",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2956/1793880122956-h",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
                     "episodeNumber": "60",
                     "duration": "1h 3m",
                     "episodeCode": "S13-E60",
