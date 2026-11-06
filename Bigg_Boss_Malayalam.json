@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "November 05, 2026",
+            "ottReleaseDate": "November 06, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "61",
-                    "duration": "1h 24m",
+                    "duration": "1h 23m",
                     "episodeCode": "S8-E61",
                     "episodeName": "BBMal Day 60: All Bombs Go Missing",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6153/1793881936153-h",
