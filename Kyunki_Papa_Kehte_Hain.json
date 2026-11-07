@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "41",
+                    "duration": "22m",
+                    "episodeCode": "S1-E41",
+                    "episodeName": "Jharna Uncovers Rocky's Secret",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028482/1793978091980919_KYUNKI_PAPA_KEHTE_HAIN_EP_41_landscape_thumbnail.jpeg",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "40",
                     "duration": "22m",
                     "episodeCode": "S1-E40",
                     "episodeName": "Pawan Uncovers The Truth",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028410/1793895439556939_KYUNKI_PAPA_KEHTE_HAIN_EP_40_landscape_thumb.jpg",
                     "updateDate": "06-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-uncovers-the-truth-1090552380?watch=true"
                 },
                 {
                     "seasonNumber": "1",
