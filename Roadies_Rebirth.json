@@ -10,16 +10,26 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 07, 2026",
+            "ottReleaseDate": "November 08, 2026",
             "description": "A new era begins as Roadies returns with Rebirth! 6 Gang Leaders, 2 gangs and the ultimate OGs vs NewGs showdown. Who will rule the road? Watch Roadies - Rebirth - Hindi Reality Adventure serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "21",
+                    "episodeNumber": "8",
+                    "duration": "1h 40m",
+                    "episodeCode": "S21-E8",
+                    "episodeName": "Roadies Ki Hustle!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4940/1794052594940-h",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/mtv-roadies-rebirth-7th-november-2026-today-episode-8-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "21",
                     "episodeNumber": "7",
                     "duration": "1h 33m",
                     "episodeCode": "S21-E7",
                     "episodeName": "Waah Ji NewG!",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2550/1793934622550-h",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7311/1794052527311-h",
                     "updateDate": "06-11-2026",
                     "episodeUrl": "https://serialtvmaza.sbs/mtv-roadies-rebirth-6th-november-2026-today-episode-7-watch-online-hd/"
                 },
