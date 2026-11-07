@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "November 07, 2026",
+            "ottReleaseDate": "November 08, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "63",
+                    "duration": "1h 1m",
+                    "episodeCode": "S10-E63",
+                    "episodeName": "BBTam Day 62: VJS Unveils the Killer",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1666/1794053441666-h",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "62",
