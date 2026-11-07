@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "November 06, 2026",
+            "ottReleaseDate": "November 07, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "62",
+                    "duration": "1h 9m",
+                    "episodeCode": "S10-E62",
+                    "episodeName": "BBTel Day 61: Bigg Rewards and a New Captain",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9055/1793973689055-h",
+                    "updateDate": "06-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "61",
