@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "137",
+                    "duration": "22m",
+                    "episodeCode": "S2-E137",
+                    "episodeName": "The Arrival Of Radheya At The Gurukul",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028480/1793978284895453_Hastinapur_Ke_Veer_Ep_137_landscape_thumbnail.jpeg",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "136",
                     "duration": "22m",
                     "episodeCode": "S2-E136",
                     "episodeName": "Radheya’s Sacrifice",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028410/1793895491852939_Hastinapur-Ke-Veer-Ep-136_landscape_thumb.jpg",
                     "updateDate": "06-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/radheyas-sacrifice-1090552319?watch=true"
                 },
                 {
                     "seasonNumber": "2",
