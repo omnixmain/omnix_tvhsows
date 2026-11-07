@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 06, 2026",
+            "ottReleaseDate": "November 07, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "62",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E62",
+                    "episodeName": "BBHin Day 61: The Diwali Bash Begins!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8862/1793976678862-h",
+                    "updateDate": "06-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-6th-november-2026-today-episode-62-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "61",
@@ -611,6 +621,16 @@
                     "episodeName": "BBHin Day 01: Kanika’s Boon, Housemates’ Bane!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5982/1788793195982-h",
                     "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "1",
+                    "duration": "1h 33m",
+                    "episodeCode": "S20-E1",
+                    "episodeName": "BBHin Grand Premiere: Vardaan ya Toofan?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6945/1788707656945-h",
+                    "updateDate": "06-09-2026",
                     "episodeUrl": ""
                 }
             ]
