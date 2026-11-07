@@ -1,0 +1,249 @@
+{
+    "tvShows": [
+        {
+            "name": "Kon Honaar Crorepati",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028384/1793851740000590_KHC_India_poster-image.jpg",
+            "genre": "Game show",
+            "rating": "8.0",
+            "year": "2013",
+            "ageRating": "U",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png",
+            "language": "Marathi",
+            "ottReleaseDate": "October 12, 2026",
+            "description": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
+            "episodes": [
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "23",
+                    "duration": "43m",
+                    "episodeCode": "S5-E23",
+                    "episodeName": "Aayush Baile Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028435/1793937864285288_KON_HONAR_CROREPATI_S05_EP_23_landscape_thumbnail.jpeg",
+                    "updateDate": "06-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/aayush-baile-takes-the-hot-seat-1090551384?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "22",
+                    "duration": "55m",
+                    "episodeCode": "S5-E22",
+                    "episodeName": "Jagdish Kamble Aims for Crorepati Glory",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028364/179386161988393_KON_HONAR_CROREPATI_S05_EP_22_landscape_thumbnail.jpeg",
+                    "updateDate": "05-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/jagdish-kamble-aims-for-crorepati-glory-1090551383?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "21",
+                    "duration": "57m",
+                    "episodeCode": "S5-E21",
+                    "episodeName": "Manish Patil Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028214/1793770005088942_KON_HONAR_CROREPATI_S05_EP_21_landscape_thumbnail.jpeg",
+                    "updateDate": "04-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/manish-patil-takes-the-hot-seat-1090551382?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "20",
+                    "duration": "60m",
+                    "episodeCode": "S5-E20",
+                    "episodeName": "Shravan Kelkar Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028128/1793688616629860_KON_HONAR_CROREPATI_S05_EP_20_landscape_thumbnail.jpeg",
+                    "updateDate": "03-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/shravan-kelkar-takes-the-hot-seat-1090551381?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "19",
+                    "duration": "57m",
+                    "episodeCode": "S5-E19",
+                    "episodeName": "Hrishikesh Madavi On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028071/1793609229295959_KON_HONAR_CROREPATI_S05_EP_19_landscape_thumbnail.jpeg",
+                    "updateDate": "02-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/hrishikesh-madavi-on-the-hot-seat-1090551380?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "18",
+                    "duration": "54m",
+                    "episodeCode": "S5-E18",
+                    "episodeName": "Shiv & Gautami Take The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027909/179343118191571_KON-HONAR-CROREPATI-S05-EP_18_landscape.jpg",
+                    "updateDate": "31-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/shiv-gautami-take-the-hot-seat-1090551298?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "17",
+                    "duration": "44m",
+                    "episodeCode": "S5-E17",
+                    "episodeName": "Ankush Devsant Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027793/1793358257379944_KON_HONAR_CROREPATI_S05_EP_17_landscape_thumbnail.jpeg",
+                    "updateDate": "30-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/ankush-devsant-takes-the-hot-seat-1090551265?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "16",
+                    "duration": "53m",
+                    "episodeCode": "S5-E16",
+                    "episodeName": "Ketaki Prabhudesai On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027675/1793268756164315_KON_HONAR_CROREPATI_S05_EP_16_landscape_thumbnail.jpeg",
+                    "updateDate": "29-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/ketaki-prabhudesai-on-the-hot-seat-1090551235?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "15",
+                    "duration": "54m",
+                    "episodeCode": "S5-E15",
+                    "episodeName": "Samarth Ghuge's Big Moment",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027601/1793182447338743_KON_HONAR_CROREPATI_S05_EP_15_landscape_thumbnail.jpeg",
+                    "updateDate": "28-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/samarth-ghuges-big-moment-1090551148?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "14",
+                    "duration": "60m",
+                    "episodeCode": "S5-E14",
+                    "episodeName": "Ratna Barke Takes The Hot Seat ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027491/1793096426032276_KON_HONAR_CROREPATI_S05_EP_14_landscape_thumbnail.jpeg",
+                    "updateDate": "27-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/ratna-barke-takes-the-hot-seat-1090550840?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "13",
+                    "duration": "48m",
+                    "episodeCode": "S5-E13",
+                    "episodeName": "Sachin Pilgaonkar & Madhurani Take The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027400/1793020601175490_KON_HONAR_CROREPATI_EP_13_landscape_thumbnail.jpeg",
+                    "updateDate": "26-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/sachin-pilgaonkar-madhurani-take-the-hot-seat-1090550717?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "12",
+                    "duration": "61m",
+                    "episodeCode": "S5-E12",
+                    "episodeName": "MHJ Stars Take the Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027213/1792830555822537_KON_HONAR_CROREPATI_EP_12_landscape_thumbnail.jpeg",
+                    "updateDate": "24-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/mhj-stars-take-the-hot-seat-1090550065?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "11",
+                    "duration": "61m",
+                    "episodeCode": "S5-E11",
+                    "episodeName": "Leena Kamble Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027137/1792751848945836_KON_HONAR_CROREPATI_EP_11_SONY_LIV_INTL_VOD_MASTER_mxf_001_landscape_thumbnail.jpeg",
+                    "updateDate": "23-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/leena-kamble-takes-the-hot-seat-1090550029?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "10",
+                    "duration": "57m",
+                    "episodeCode": "S5-E10",
+                    "episodeName": "Sandeep Bhamare On The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026965/1792655143669820_KON_HONAR_CROREPATI_S05_EP_10_landscape_thumbnail.jpeg",
+                    "updateDate": "22-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/sandeep-bhamare-on-the-hot-seat-1090549610?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "9",
+                    "duration": "58m",
+                    "episodeCode": "S5-E9",
+                    "episodeName": "Azhar Mirzha Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026891/1792586203641827_KHC_EP_09_landscape_thumbnail.jpeg",
+                    "updateDate": "21-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/azhar-mirzha-takes-the-hot-seat-1090549415?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "8",
+                    "duration": "47m",
+                    "episodeCode": "S5-E8",
+                    "episodeName": " Mrunmayi Kitukale Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026782/1792492594883278_KHC_S05_EP_08_landscape_thumbnail.jpeg",
+                    "updateDate": "20-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/mrunmayi-kitukale-takes-the-hot-seat-1090549318?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "7",
+                    "duration": "44m",
+                    "episodeCode": "S5-E7",
+                    "episodeName": "Renuka Shahane and Priya Berde Shine on Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026674/1792393893389504_KHC_Ep_07_landscape_thumbnail.jpeg",
+                    "updateDate": "19-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/renuka-shahane-and-priya-berde-shine-on-hot-seat-1090549224?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "6",
+                    "duration": "47m",
+                    "episodeCode": "S5-E6",
+                    "episodeName": "Yami Gautam And Addinath Take Centre Stage",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026565/1792236118377678_KHC_S05_EP_06_landscape_thumbnail.jpeg",
+                    "updateDate": "17-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/yami-gautam-and-addinath-take-centre-stage-1090548936?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "5",
+                    "duration": "50m",
+                    "episodeCode": "S5-E5",
+                    "episodeName": "Swapnil Gadgune's Big Moment",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026506/1792165691284189_KHC_S05_EP05_landscape_thumb.jpg",
+                    "updateDate": "16-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/swapnil-gadgunes-big-moment-1090548745?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "4",
+                    "duration": "50m",
+                    "episodeCode": "S5-E4",
+                    "episodeName": "Pranali Shelke's Moment To Shine",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026441/1792078005764329_KHC_S05_EP_04_landscape_thumbnail.jpeg",
+                    "updateDate": "15-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/pranali-shelkes-moment-to-shine-1090548527?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "3",
+                    "duration": "48m",
+                    "episodeCode": "S5-E3",
+                    "episodeName": "Prajakta Tawade On The Hotseat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026349/1791987996902954_KHC_EP_03_landscape_thumbnail.jpeg",
+                    "updateDate": "14-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/prajakta-tawade-on-the-hotseat-1090548272?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "2",
+                    "duration": "74m",
+                    "episodeCode": "S5-E2",
+                    "episodeName": "Sonali Bendre's KHC Journey Continues",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026311/1791915754500706_KHC_S05_EP_02_landscape_thumbnail.jpg",
+                    "updateDate": "13-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/sonali-bendres-khc-journey-continues-1090548007?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "1",
+                    "duration": "53m",
+                    "episodeCode": "S5-E1",
+                    "episodeName": "Sonali Bendre Joins Madhuri On KHC",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026210/1791824701688433_KHC_S05_EP01_landscape_thumb.jpg",
+                    "updateDate": "12-10-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/sonali-bendre-joins-madhuri-on-khc-1090547632?watch=true"
+                }
+            ]
+        }
+    ]
+}
