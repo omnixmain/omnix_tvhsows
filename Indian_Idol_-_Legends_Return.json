@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "71m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "Karisma Kapoor Joins The Musical Celebration",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028468/1793964396599281_idol_ep_sat_landscape_thumbnail.jpg",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/karisma-kapoor-joins-the-musical-celebration-1090552629?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "6",
                     "duration": "69m",
                     "episodeCode": "S1-E6",
