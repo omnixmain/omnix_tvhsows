@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 06, 2026",
+            "ottReleaseDate": "November 07, 2026",
             "description": "Young and ambitious, Sangam ends up marrying the carefree Krishna Bacchan! But the Bacchans have never lived with a woman, so how will the ‘new Bahu’ fare? Watch Bareilly Ke Bacchan - Hindi Drama Family Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "128",
+                    "duration": "24m",
+                    "episodeCode": "S1-E128",
+                    "episodeName": "The Bacchans' Joyous Trip",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/409/1794021080409-h",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bareilly-ke-bachchan-7th-november-2026-today-episode-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "127",
