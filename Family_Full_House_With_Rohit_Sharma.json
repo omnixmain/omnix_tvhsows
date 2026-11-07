@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "15",
+                    "duration": "66m",
+                    "episodeCode": "S1-E15",
+                    "episodeName": "Team Sharks & Team Comedians Join Rohit’s Fun Quiz",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028519/1794024983195327_FAMILY_FULL_HOUSE_WITH_ROHIT_SHARMA_EP_15_landscape_thumbnail.jpeg",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/team-sharks-team-comedians-join-rohits-fun-quiz-1090552639?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "14",
                     "duration": "77m",
                     "episodeCode": "S1-E14",
