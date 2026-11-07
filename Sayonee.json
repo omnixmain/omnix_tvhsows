@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 06, 2026",
+            "ottReleaseDate": "November 07, 2026",
             "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "23m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Aryan Plots Against Saanvi",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8293/1794012958293-h",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-7th-november-2026-today-episode-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "45",
