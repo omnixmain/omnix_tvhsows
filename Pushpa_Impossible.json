@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1383",
+                    "duration": "19m",
+                    "episodeCode": "S14-E1383",
+                    "episodeName": "Pushpa Tries To Mend Differences",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028410/1793895421908939_PUSHPA_IMPOSSIBLE_EP_1383_landscape_thumb.jpg",
+                    "updateDate": "06-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1382",
                     "duration": "22m",
                     "episodeCode": "S14-E1382",
                     "episodeName": "Shanaya's Secret Comes Out",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028319/1793812726727156_PUSHPA_IMPOSSIBLE_EP_1382_landscape_thumb.jpg",
                     "updateDate": "05-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/shanayas-secret-comes-out-1090552330?watch=true"
                 },
                 {
                     "seasonNumber": "14",
