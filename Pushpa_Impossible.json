@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1384",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1384",
+                    "episodeName": "Bapodra Feels Betrayed",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028483/1793978141769242_PUSHPA_IMPOSSIBLE_EP_1384_landscape_thumbnail.jpeg",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1383",
                     "duration": "19m",
                     "episodeCode": "S14-E1383",
                     "episodeName": "Pushpa Tries To Mend Differences",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028410/1793895421908939_PUSHPA_IMPOSSIBLE_EP_1383_landscape_thumb.jpg",
                     "updateDate": "06-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/pushpa-tries-to-mend-differences-1090552331?watch=true"
                 },
                 {
                     "seasonNumber": "14",
@@ -13006,12 +13016,12 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "84",
-                    "duration": "43m",
+                    "duration": "22m",
                     "episodeCode": "S1-E84",
-                    "episodeName": "Golu Hua Lapata - Maha Episode Part 1",
-                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_1_landscape_thumb.jpg",
-                    "updateDate": "12-09-2022",
-                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/golu-hua-lapata-maha-episode-part-1-1000188435?watch=true"
+                    "episodeName": "Mock Fire Drill",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_Landscape_thumb.jpg",
+                    "updateDate": "10-09-2022",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/mock-fire-drill-1000188082?watch=true"
                 },
                 {
                     "seasonNumber": "1",
