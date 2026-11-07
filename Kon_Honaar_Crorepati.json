@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "24",
+                    "duration": "66m",
+                    "episodeCode": "S5-E24",
+                    "episodeName": "Sonali Kulkarni On The Hotseat ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028600/1794057697901217_KHC_7th_Nov_Ep24_landscape_thumb.jpg",
+                    "updateDate": "07-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/sonali-kulkarni-on-the-hotseat-1090552901?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "23",
                     "duration": "43m",
                     "episodeCode": "S5-E23",
