@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "200",
+                    "duration": "26m",
+                    "episodeCode": "S1-E200",
+                    "episodeName": "Rakshit Wins Aparajita's Heart",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3334/1794098953334-h",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/o-humnava-tum-dena-saath-mera-8th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "199",
                     "duration": "26m",
                     "episodeCode": "S1-E199",
