@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "74m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Team Udti Family Takes On Team Creator Family",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028609/1794064996664437_FAMILY-FULL-HOUSE-WITH-ROHIT-SHARMA_EP_16_landscape_thumb.jpg",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/team-udti-family-takes-on-team-creator-family-1090552638?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "15",
                     "duration": "66m",
                     "episodeCode": "S1-E15",
