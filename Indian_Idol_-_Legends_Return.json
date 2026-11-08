@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "8",
+                    "duration": "70m",
+                    "episodeCode": "S1-E8",
+                    "episodeName": "Karisma Kapoor Lights Up The Legends Stage",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028469/1793964445053457_idol_ep_sun__landscape_thumbnail.jpg",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/karisma-kapoor-lights-up-the-legends-stage-1090552630?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "7",
                     "duration": "71m",
                     "episodeCode": "S1-E7",
