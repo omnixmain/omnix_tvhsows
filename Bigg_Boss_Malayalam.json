@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "64",
+                    "duration": "1h 10m",
+                    "episodeCode": "S8-E64",
+                    "episodeName": "BBMal Day 63: Diwali Delights with Lalettan",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8677/1794144528677-h",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "63",
                     "duration": "1h 11m",
                     "episodeCode": "S8-E63",
@@ -641,16 +651,6 @@
                     "episodeName": "BBMal: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6273/1788698896273-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "64",
-                    "duration": "45m",
-                    "episodeCode": "S8-E64",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5921/1789147755921-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
