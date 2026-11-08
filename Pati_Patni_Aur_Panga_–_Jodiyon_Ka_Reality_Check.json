@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "10",
+                    "duration": "1h 25m",
+                    "episodeCode": "S2-E10",
+                    "episodeName": "Diwali Party with Avinash and Eisha!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/543/1794078110543-h",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/dhamaal-with-pati-patni-aur-panga-season-2-8th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "9",
                     "duration": "1h 18m",
                     "episodeCode": "S2-E9",
