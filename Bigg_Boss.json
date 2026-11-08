@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "64",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E64",
+                    "episodeName": "BBHin Day 63: Diwali Mehfil Ft. Mohit Chauhan",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6082/1794145336082-h",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-8th-november-2026-today-episode-64-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "63",
                     "duration": "1h 9m",
                     "episodeCode": "S20-E63",
@@ -641,16 +651,6 @@
                     "episodeName": "BBHin Grand Premiere: Vardaan ya Toofan?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6945/1788707656945-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "20",
-                    "episodeNumber": "64",
-                    "duration": "45m",
-                    "episodeCode": "S20-E64",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2516/1792832772516-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
