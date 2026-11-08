@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "16",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E16",
+                    "episodeName": "Diwali Dhamaka and Celebrations",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1152/1794076891152-h",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/india-ke-top-1-8th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "15",
                     "duration": "1h 10m",
                     "episodeCode": "S1-E15",
