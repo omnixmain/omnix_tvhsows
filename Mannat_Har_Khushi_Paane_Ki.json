@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "13",
+                    "duration": "24m",
+                    "episodeCode": "S2-E13",
+                    "episodeName": "Tanisha and Jolly at Oberoi House",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2060/1794100962060-h",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "12",
                     "duration": "24m",
                     "episodeCode": "S2-E12",
