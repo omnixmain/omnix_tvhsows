@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "26",
+                    "duration": "44m",
+                    "episodeCode": "S1-E26",
+                    "episodeName": "Sameer Learns Chacha's Secret!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9766/1794073859766-h",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/108-base-hospital-uri-8th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "25",
                     "duration": "44m",
                     "episodeCode": "S1-E25",
