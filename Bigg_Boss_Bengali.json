@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "71",
+                    "duration": "1h 9m",
+                    "episodeCode": "S1-E71",
+                    "episodeName": "BBBan Day 70: It’s Time for the Diwali Party",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3337/1794144813337-h",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "70",
                     "duration": "1h 8m",
                     "episodeCode": "S1-E70",
@@ -711,16 +721,6 @@
                     "episodeName": "Grand Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3125/1788162843125-h",
                     "updateDate": "30-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "71",
-                    "duration": "45m",
-                    "episodeCode": "S1-E71",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1691/1794055801691-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
