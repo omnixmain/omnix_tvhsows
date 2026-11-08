@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "64",
+                    "duration": "1h 6m",
+                    "episodeCode": "S10-E64",
+                    "episodeName": "BBTel Day 63: Nagarjuna Announces Family Week",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7663/1794149587663-h",
+                    "updateDate": "08-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "63",
                     "duration": "1h 13m",
                     "episodeCode": "S10-E63",
@@ -641,16 +651,6 @@
                     "episodeName": "BBTel: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3531/1788692933531-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "64",
-                    "duration": "45m",
-                    "episodeCode": "S10-E64",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2710/1792755462710-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
