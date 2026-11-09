@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Kannada",
-            "ottReleaseDate": "November 09, 2026",
+            "ottReleaseDate": "November 10, 2026",
             "description": "Watch Bigg Boss Kannada on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "65",
+                    "duration": "1h 4m",
+                    "episodeCode": "S13-E65",
+                    "episodeName": "BBKan Day 64: Manja Enters with Special Surprise",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6344/1794234736344-h",
+                    "updateDate": "09-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "13",
                     "episodeNumber": "64",
@@ -611,6 +621,46 @@
                     "episodeName": "BBKan Day 4: Flight Swap Fight",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1887/1789042291887-h",
                     "updateDate": "10-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "4",
+                    "duration": "1h 3m",
+                    "episodeCode": "S13-E4",
+                    "episodeName": "BBKan Day 3: Cooking and Conflicts",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2127/1788961122127-h",
+                    "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "3",
+                    "duration": "1h 3m",
+                    "episodeCode": "S13-E3",
+                    "episodeName": "BBKan Day 2: Path to First VIP!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9572/1788863589572-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "2",
+                    "duration": "1h 7m",
+                    "episodeCode": "S13-E2",
+                    "episodeName": "BBKan Day 1: Sweet Garlands, Brutal Kicks!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8957/1788793288957-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
+                    "episodeNumber": "1",
+                    "duration": "3h 8m",
+                    "episodeCode": "S13-E1",
+                    "episodeName": "BBKan: Grand Take Off",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2126/1788688232126-h",
+                    "updateDate": "06-09-2026",
                     "episodeUrl": ""
                 }
             ]
