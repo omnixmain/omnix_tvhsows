@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "187",
+                    "duration": "21m",
+                    "episodeCode": "S1-E187",
+                    "episodeName": "Dr. Dev Guides The Search For Answers",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028642/17941370678531_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_187_landscape_thumb.jpg",
+                    "updateDate": "09-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "186",
                     "duration": "22m",
                     "episodeCode": "S1-E186",
