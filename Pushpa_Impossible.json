@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1385",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1385",
+                    "episodeName": "Will Bapodra Forgive Shanaya?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028642/17941370296131_PUSHPA_IMPOSSIBLE_EP_1385_landscape_thumb.jpg",
+                    "updateDate": "09-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1384",
                     "duration": "22m",
                     "episodeCode": "S14-E1384",
