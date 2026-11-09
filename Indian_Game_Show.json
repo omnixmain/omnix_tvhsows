@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "60",
+                    "duration": "59m",
+                    "episodeCode": "S2-E60",
+                    "episodeName": "Swing, Slide And Score!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028642/17941370501381_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_60_landscape_thumb.jpg",
+                    "updateDate": "09-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/swing-slide-and-score-1090553148?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "59",
                     "duration": "57m",
                     "episodeCode": "S2-E59",
