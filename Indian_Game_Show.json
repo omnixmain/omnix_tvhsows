@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "61",
+                    "duration": "48m",
+                    "episodeCode": "S2-E61",
+                    "episodeName": "Balance, Aim & Conquer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028708/1794247765947897_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_61_landscape_thumb.jpg",
+                    "updateDate": "10-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/balance-aim-conquer-1090553366?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "60",
                     "duration": "59m",
                     "episodeCode": "S2-E60",
