@@ -10,13 +10,23 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "November 10, 2026",
+            "ottReleaseDate": "November 11, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "66",
+                    "duration": "1h 19m",
+                    "episodeCode": "S8-E66",
+                    "episodeName": "BBMal Day 65: The Return of Season 4 Legends",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9720/1794322659720-h",
+                    "updateDate": "10-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "65",
-                    "duration": "1h 24m",
+                    "duration": "1h 21m",
                     "episodeCode": "S8-E65",
                     "episodeName": "BBMal Day 64: Teddy Drama and Muddy Waters",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7782/1794234547782-h",
