@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "188",
+                    "duration": "21m",
+                    "episodeCode": "S1-E188",
+                    "episodeName": "Will Uditanshu Be Caught?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028708/1794247675317897_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_188_landscape_thumb.jpg",
+                    "updateDate": "10-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "187",
                     "duration": "21m",
                     "episodeCode": "S1-E187",
                     "episodeName": "Dr. Dev Guides The Search For Answers",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028642/17941370678531_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_187_landscape_thumb.jpg",
                     "updateDate": "09-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/dr-dev-guides-the-search-for-answers-1090552622?watch=true"
                 },
                 {
                     "seasonNumber": "1",
