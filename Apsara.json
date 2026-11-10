@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 10, 2026",
+            "ottReleaseDate": "November 11, 2026",
             "description": "Braving modern-day evils, power-blessed Sunheri is the sole protector of her celestial clan! But her blood sister Dhara stands in her way! Can she fight her? Watch Apsara - Hindi Fantasy Thriller Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "21",
+                    "duration": "24m",
+                    "episodeCode": "S1-E21",
+                    "episodeName": "Dhara Plot against Sunheri",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4074/1794271944074-h",
+                    "updateDate": "10-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-10th-november-2026-today-episode-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "20",
