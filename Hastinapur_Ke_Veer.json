@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "139",
+                    "duration": "22m",
+                    "episodeCode": "S2-E139",
+                    "episodeName": "Arjun's Unwavering Focus",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028708/1794247708965897_Hastinapur-Ke-Veer-Ep-139_landscape_thumb.jpg",
+                    "updateDate": "10-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "138",
                     "duration": "22m",
                     "episodeCode": "S2-E138",
                     "episodeName": "The Path To Greatness",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028642/17941370841701_Hastinapur-Ke-Veer-Ep-138_landscape_thumb.jpg",
                     "updateDate": "09-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/the-path-to-greatness-1090553150?watch=true"
                 },
                 {
                     "seasonNumber": "2",
