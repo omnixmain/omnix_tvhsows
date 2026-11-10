@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "43",
+                    "duration": "22m",
+                    "episodeCode": "S1-E43",
+                    "episodeName": "Pawan Hits The Jackpot",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028732/1794291517981368_KYUNKI_PAPA_KEHTE_HAIN_EP_43_landscape_thumbnail.jpeg",
+                    "updateDate": "10-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "42",
                     "duration": "22m",
                     "episodeCode": "S1-E42",
                     "episodeName": "Shocking Electricity Bill",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028655/1794197898303108_KYUNKI_PAPA_KEHTE_HAIN_EP_42_landscape_thumbnail.jpeg",
                     "updateDate": "09-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/shocking-electricity-bill-1090553154?watch=true"
                 },
                 {
                     "seasonNumber": "1",
