@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Bigg Boss Telugu",
-            "banner": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/2710/1792755462710-i",
+            "banner": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/1367/1792060211367-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "November 10, 2026",
+            "ottReleaseDate": "November 11, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "66",
+                    "duration": "1h 11m",
+                    "episodeCode": "S10-E66",
+                    "episodeName": "BBTel Day 65: BB School and Family Reunions",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1980/1794322451980-h",
+                    "updateDate": "10-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "65",
