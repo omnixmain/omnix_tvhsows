@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "26",
+                    "duration": "61m",
+                    "episodeCode": "S5-E26",
+                    "episodeName": "Bobby Gupta Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028731/1794291466623966_KON_HONAR_CROREPATI_S05_EP_26_landscape_thumbnail.jpeg",
+                    "updateDate": "10-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/bobby-gupta-takes-the-hot-seat-1090552957?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "25",
                     "duration": "54m",
                     "episodeCode": "S5-E25",
