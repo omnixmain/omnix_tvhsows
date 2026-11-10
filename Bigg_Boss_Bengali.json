@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Bigg Boss Bengali",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9993/1792404759993-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5530/1794332135530-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,13 +10,23 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Bengali",
-            "ottReleaseDate": "November 10, 2026",
+            "ottReleaseDate": "November 11, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "73",
+                    "duration": "1h 5m",
+                    "episodeCode": "S1-E73",
+                    "episodeName": "BBBan Day 72: A Family Week Full of Surprises",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3384/1794322533384-h",
+                    "updateDate": "10-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "72",
-                    "duration": "1h 4m",
+                    "duration": "1h 3m",
                     "episodeCode": "S1-E72",
                     "episodeName": "BBBan Day 71: Tring, Tring…Nominations!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9597/1794233819597-h",
