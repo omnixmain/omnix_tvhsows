@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 11, 2026",
+            "ottReleaseDate": "November 12, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "67",
+                    "duration": "1h 9m",
+                    "episodeCode": "S20-E67",
+                    "episodeName": "BBHin Day 66: Fights, Fallout and a Rule Violation",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7965/1794405877965-h",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-11th-november-2026-today-episode-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "66",
