@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "44",
+                    "duration": "22m",
+                    "episodeCode": "S1-E44",
+                    "episodeName": "A Lottery Twist For The Family",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028780/1794377484690736_KYUNKI_PAPA_KEHTE_HAIN_EP_44_landscape.jpg",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "43",
                     "duration": "22m",
                     "episodeCode": "S1-E43",
                     "episodeName": "Pawan Hits The Jackpot",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028732/1794291517981368_KYUNKI_PAPA_KEHTE_HAIN_EP_43_landscape_thumbnail.jpeg",
                     "updateDate": "10-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-hits-the-jackpot-1090553374?watch=true"
                 },
                 {
                     "seasonNumber": "1",
