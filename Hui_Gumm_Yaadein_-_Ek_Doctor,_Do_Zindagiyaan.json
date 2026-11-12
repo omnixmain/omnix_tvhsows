@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "189",
+                    "duration": "22m",
+                    "episodeCode": "S1-E189",
+                    "episodeName": "Dr. Dev's Plan Backfires",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028780/1794377030247736_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_189_landscape.jpg",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "188",
                     "duration": "21m",
                     "episodeCode": "S1-E188",
                     "episodeName": "Will Uditanshu Be Caught?",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028708/1794247675317897_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_188_landscape_thumb.jpg",
                     "updateDate": "10-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/will-uditanshu-be-caught-1090553102?watch=true"
                 },
                 {
                     "seasonNumber": "1",
