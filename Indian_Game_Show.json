@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "63",
+                    "duration": "59m",
+                    "episodeCode": "S2-E63",
+                    "episodeName": "Ring, Balance And Score!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028805/179441544104856_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_63_landscape_thumb.jpg",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/ring-balance-and-score-1090553609?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "62",
                     "duration": "62m",
                     "episodeCode": "S2-E62",
