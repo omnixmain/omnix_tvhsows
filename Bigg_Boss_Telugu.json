@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "November 11, 2026",
+            "ottReleaseDate": "November 12, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "67",
+                    "duration": "1h 10m",
+                    "episodeCode": "S10-E67",
+                    "episodeName": "BBTel Day 66: Loved Ones Bring Surprises",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5788/1794402325788-h",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "66",
