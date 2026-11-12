@@ -1312,26 +1312,6 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7463/1781060827463-h",
                     "updateDate": "10-06-2026",
                     "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "25m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Sangam's Dreams Face a Setback",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7435/1780970507435-h",
-                    "updateDate": "09-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "26m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Meet Krishna Bacchan",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8851/1780980748851-h",
-                    "updateDate": "08-06-2026",
-                    "episodeUrl": ""
                 }
             ]
         }
