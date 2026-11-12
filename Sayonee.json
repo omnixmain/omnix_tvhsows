@@ -10,9 +10,29 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 11, 2026",
+            "ottReleaseDate": "November 12, 2026",
             "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "51",
+                    "duration": "22m",
+                    "episodeCode": "S1-E51",
+                    "episodeName": "Aryan, Yuvraj Fear Exposure",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4973/1794445914973-h",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-12th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "24m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Aryan and Yuvraj Cover up Crime",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6173/1794356536173-h",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-11th-november-2026-today-episode-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "49",
