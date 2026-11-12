@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "68",
+                    "duration": "1h 9m",
+                    "episodeCode": "S10-E68",
+                    "episodeName": "BBTam Day 67: The Housemates Miss BB",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4638/1794493404638-h",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "67",
                     "duration": "1h 9m",
                     "episodeCode": "S10-E67",
@@ -681,16 +691,6 @@
                     "episodeName": "BBTam: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5574/1788700215574-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "68",
-                    "duration": "45m",
-                    "episodeCode": "S10-E68",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2780/1789128742780-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
