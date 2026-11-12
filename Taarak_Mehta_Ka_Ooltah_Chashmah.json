@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4866",
+                    "duration": "20m",
+                    "episodeCode": "S49-E4866",
+                    "episodeName": "Diwali Plans Hit A Roadblock",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028850/1794485240955739_Taarak_Mehta_Ka_Oolta_Chashmah_4866_landscape_thumbnail.png",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-12th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4865",
                     "duration": "19m",
                     "episodeCode": "S49-E4865",
                     "episodeName": "Mahila Mandal’s Faral Fest in Gokuldham",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028780/1794376951576736_Taarak_Mehta_Ka_Oolta_Chashmah_4865_landscape.jpg",
                     "updateDate": "11-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-11th-november-2026-today-episode-watch-online-hd/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/mahila-mandals-faral-fest-in-gokuldham-1090553536?watch=true"
                 },
                 {
                     "seasonNumber": "49",
