@@ -10,9 +10,29 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 11, 2026",
+            "ottReleaseDate": "November 12, 2026",
             "description": "Mannat’s life is as colourful as her ‘Dhaba’, which changes when her paths cross with the affluent Kabir. Love blooms, but a past secret shakes their world! Watch Mannat - Har Khushi Paane Ki - Hindi Romance Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "17",
+                    "duration": "23m",
+                    "episodeCode": "S2-E17",
+                    "episodeName": "Mannat Stands by Karan and Tanisha",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8791/1794446068791-h",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "16",
+                    "duration": "24m",
+                    "episodeCode": "S2-E16",
+                    "episodeName": "Mannat Stands by Karan and Tanisha",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1791/1794338541791-h",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "15",
