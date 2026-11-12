@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "141",
+                    "duration": "22m",
+                    "episodeCode": "S2-E141",
+                    "episodeName": "The Secret Of Devgaon's Lost Fire",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028805/179441547570056_Hastinapur-Ke-Veer-Ep-141_landscape_thumb.jpg",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "140",
                     "duration": "22m",
                     "episodeCode": "S2-E140",
                     "episodeName": "Karna And Arjun: A Dangerous Rivalry",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028780/1794376993737736_Hastinapur-Ke-Veer-Ep-140_landscape.jpg",
                     "updateDate": "11-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/karna-and-arjun-a-dangerous-rivalry-1090553553?watch=true"
                 },
                 {
                     "seasonNumber": "2",
