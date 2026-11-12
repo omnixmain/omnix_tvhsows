@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4865",
+                    "duration": "19m",
+                    "episodeCode": "S49-E4865",
+                    "episodeName": "Mahila Mandal’s Faral Fest in Gokuldham",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028780/1794376951576736_Taarak_Mehta_Ka_Oolta_Chashmah_4865_landscape.jpg",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-11th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4864",
                     "duration": "14m",
                     "episodeCode": "S49-E4864",
                     "episodeName": "Diwali Preparations At Gada Electronics",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028733/179429165013899_Taarak_Mehta_Ka_Oolta_Chashmah_4864_landscape_thumbnail.jpg",
                     "updateDate": "10-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-10th-november-2026-today-episode-watch-online-hd/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/diwali-preparations-at-gada-electronics-1090553368?watch=true"
                 },
                 {
                     "seasonNumber": "49",
