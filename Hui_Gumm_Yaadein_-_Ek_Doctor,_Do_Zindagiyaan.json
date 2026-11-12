@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "190",
+                    "duration": "22m",
+                    "episodeCode": "S1-E190",
+                    "episodeName": "Masaan Baba's Lies Are Exposed",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028805/179441545775756_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_190_landscape_thumb.jpg",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "189",
                     "duration": "22m",
                     "episodeCode": "S1-E189",
                     "episodeName": "Dr. Dev's Plan Backfires",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028780/1794377030247736_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_189_landscape.jpg",
                     "updateDate": "11-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/dr-devs-plan-backfires-1090553535?watch=true"
                 },
                 {
                     "seasonNumber": "1",
