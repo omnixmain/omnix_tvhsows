@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1387",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1387",
+                    "episodeName": "A Diwali Lesson For Everyone",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028780/1794377047595736_PUSHPA_IMPOSSIBLE_EP_1387_landscape.jpg",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1386",
                     "duration": "22m",
                     "episodeCode": "S14-E1386",
                     "episodeName": "Shanaya's Concern",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028708/1794247738398897_PUSHPA_IMPOSSIBLE_EP_1386_landscape_thumb.jpg",
                     "updateDate": "10-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/shanayas-concern-1090553372?watch=true"
                 },
                 {
                     "seasonNumber": "14",
