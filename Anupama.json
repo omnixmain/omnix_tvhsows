@@ -10,9 +10,29 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 11, 2026",
+            "ottReleaseDate": "November 12, 2026",
             "description": "From broken ambitions to changing relationships, Anupama has seen it all! A new journey brings her to the serene Goa. Will her passion find a new home? Watch Anupama - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2200",
+                    "duration": "29m",
+                    "episodeCode": "S1-E2200",
+                    "episodeName": "Mohanlal Falls for Anupama's Plan",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7130/1794445937130-h",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/anupamaa-12th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2199",
+                    "duration": "30m",
+                    "episodeCode": "S1-E2199",
+                    "episodeName": "Anupama Urges Digvijay to Act",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9869/1794371769869-h",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/anupamaa-11th-november-2026-today-episode-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "2198",
@@ -591,26 +611,6 @@
                     "episodeName": "Anupama Vows to Fight for Justice",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2336/1789349162336-h",
                     "updateDate": "14-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2140",
-                    "duration": "30m",
-                    "episodeCode": "S1-E2140",
-                    "episodeName": "Anupama Gets Scammed!",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7023/1789261827023-h",
-                    "updateDate": "13-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2139",
-                    "duration": "30m",
-                    "episodeCode": "S1-E2139",
-                    "episodeName": "Ansh, Prerana Share Their Plans",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5024/1789178295024-h",
-                    "updateDate": "12-09-2026",
                     "episodeUrl": ""
                 }
             ]
