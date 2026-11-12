@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "68",
+                    "duration": "1h 11m",
+                    "episodeCode": "S10-E68",
+                    "episodeName": "BBTel Day 67: Love, Laughter and Blessings",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8586/1794491468586-h",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "67",
                     "duration": "1h 10m",
                     "episodeCode": "S10-E67",
@@ -681,16 +691,6 @@
                     "episodeName": "BBTel: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3531/1788692933531-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "68",
-                    "duration": "45m",
-                    "episodeCode": "S10-E68",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1367/1792060211367-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
