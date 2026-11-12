@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1388",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1388",
+                    "episodeName": "Will Tiger Accept Pushpa's Gesture?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028805/179441540818456_PUSHPA_IMPOSSIBLE_EP_1388_landscape_thumb.jpg",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1387",
                     "duration": "22m",
                     "episodeCode": "S14-E1387",
                     "episodeName": "A Diwali Lesson For Everyone",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028780/1794377047595736_PUSHPA_IMPOSSIBLE_EP_1387_landscape.jpg",
                     "updateDate": "11-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/a-diwali-lesson-for-everyone-1090553556?watch=true"
                 },
                 {
                     "seasonNumber": "14",
@@ -13046,12 +13056,12 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "84",
-                    "duration": "22m",
+                    "duration": "43m",
                     "episodeCode": "S1-E84",
-                    "episodeName": "Mock Fire Drill",
-                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_Landscape_thumb.jpg",
-                    "updateDate": "10-09-2022",
-                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/mock-fire-drill-1000188082?watch=true"
+                    "episodeName": "Golu Hua Lapata - Maha Episode Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_1_landscape_thumb.jpg",
+                    "updateDate": "12-09-2022",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/golu-hua-lapata-maha-episode-part-1-1000188435?watch=true"
                 },
                 {
                     "seasonNumber": "1",
