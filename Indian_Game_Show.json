@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "62",
+                    "duration": "62m",
+                    "episodeCode": "S2-E62",
+                    "episodeName": "Gifts, Games And Glory",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028776/1794327239238466_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_62_landscape_thumbnail.jpeg",
+                    "updateDate": "11-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/gifts-games-and-glory-1090553533?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "61",
                     "duration": "48m",
                     "episodeCode": "S2-E61",
