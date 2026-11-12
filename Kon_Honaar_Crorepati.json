@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "28",
+                    "duration": "55m",
+                    "episodeCode": "S5-E28",
+                    "episodeName": "Mrunal Gorwadkar Takes The KHC Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028834/1794473981063952_KON_HONAR_CROREPATI_S05_EP_28_landscape_thumbnail.jpeg",
+                    "updateDate": "12-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/mrunal-gorwadkar-takes-the-khc-hot-seat-1090552955?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "27",
                     "duration": "55m",
                     "episodeCode": "S5-E27",
