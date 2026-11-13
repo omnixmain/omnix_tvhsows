@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "76",
+                    "duration": "1h 5m",
+                    "episodeCode": "S1-E76",
+                    "episodeName": "BBBan Day 75: A New Captain Takes Charge!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5963/1794575015963-h",
+                    "updateDate": "13-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "75",
                     "duration": "1h 5m",
                     "episodeCode": "S1-E75",
@@ -761,16 +771,6 @@
                     "episodeName": "Grand Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3125/1788162843125-h",
                     "updateDate": "30-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "76",
-                    "duration": "45m",
-                    "episodeCode": "S1-E76",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5530/1794332135530-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
