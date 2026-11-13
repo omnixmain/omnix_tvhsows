@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 12, 2026",
+            "ottReleaseDate": "November 13, 2026",
             "description": "Escaping a toxic relationship, 35-year-old Preeti finds love and solace with Aarav. But the age gap stigma follows them everywhere! Can love overpower it all? Watch Shayad Yahi Hai Pyaar - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "26m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Aarav Loses His Temper at Vaibhav",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1554/1794507231554-h",
+                    "updateDate": "13-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/shayad-yahi-hai-pyaar-13th-november-2026-today-episode-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "35",
