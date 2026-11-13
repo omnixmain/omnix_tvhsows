@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "64",
+                    "duration": "55m",
+                    "episodeCode": "S2-E64",
+                    "episodeName": "Balloons And A Splash Of Fun!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028920/1794555025933748_INDIAN_GAME_SHOW_BHARTI_HARSSH_S01_EP_64_SONY_LIV_INDIA_MASTER_R1.jpeg",
+                    "updateDate": "13-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/balloons-and-a-splash-of-fun-1090553610?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "63",
                     "duration": "59m",
                     "episodeCode": "S2-E63",
