@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "69",
+                    "duration": "1h 25m",
+                    "episodeCode": "S8-E69",
+                    "episodeName": "BBMal Day 68: Legendary Challenges and Judgements",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7654/1794577077654-h",
+                    "updateDate": "13-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "68",
                     "duration": "1h 23m",
                     "episodeCode": "S8-E68",
@@ -691,16 +701,6 @@
                     "episodeName": "BBMal: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6273/1788698896273-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "69",
-                    "duration": "45m",
-                    "episodeCode": "S8-E69",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5921/1789147755921-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
