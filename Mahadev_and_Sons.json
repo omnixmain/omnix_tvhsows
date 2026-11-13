@@ -2412,6 +2412,16 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1665/1767667231665-h",
                     "updateDate": "06-01-2026",
                     "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "37m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "The Journey of Mahadev, Vidya",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6123/1767577426123-h",
+                    "updateDate": "05-01-2026",
+                    "episodeUrl": ""
                 }
             ]
         }
