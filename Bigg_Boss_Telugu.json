@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "69",
+                    "duration": "1h 19m",
+                    "episodeCode": "S10-E69",
+                    "episodeName": "BBTel Day 68: BB's Captaincy Challenge",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/545/1794580440545-h",
+                    "updateDate": "13-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "68",
                     "duration": "1h 9m",
                     "episodeCode": "S10-E68",
@@ -691,16 +701,6 @@
                     "episodeName": "BBTel: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3531/1788692933531-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "69",
-                    "duration": "45m",
-                    "episodeCode": "S10-E69",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1367/1792060211367-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
