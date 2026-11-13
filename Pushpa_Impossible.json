@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1389",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1389",
+                    "episodeName": "Chirag And Shanaya Confess Their Love",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090553625/landscapeThumb/1794555381679_./PUSHPA_IMPOSSIBLE_EP_1389_SONYLIV_001.jpeg",
+                    "updateDate": "13-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1388",
                     "duration": "22m",
                     "episodeCode": "S14-E1388",
                     "episodeName": "Will Tiger Accept Pushpa's Gesture?",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028805/179441540818456_PUSHPA_IMPOSSIBLE_EP_1388_landscape_thumb.jpg",
                     "updateDate": "12-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/will-tiger-accept-pushpas-gesture-1090553624?watch=true"
                 },
                 {
                     "seasonNumber": "14",
