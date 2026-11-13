@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 12, 2026",
+            "ottReleaseDate": "November 13, 2026",
             "description": "Once an AIPMT topper, Aarambhi’s life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance? Watch Dr. Aarambhi - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "238",
+                    "duration": "24m",
+                    "episodeCode": "S1-E238",
+                    "episodeName": "Vishwas Manipulates Manju",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7017/1794495537017-h",
+                    "updateDate": "13-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/dr-aarambhi-13th-november-2026-today-episode-watch-online-hd/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "237",
@@ -1501,16 +1511,6 @@
                     "episodeName": "Dhruv Supports Aarambhi",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8617/1780019458617-h",
                     "updateDate": "29-05-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "88",
-                    "duration": "32m",
-                    "episodeCode": "S1-E88",
-                    "episodeName": "Avantika Ends Aarambhi's Tenure",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7886/1779956687886-h",
-                    "updateDate": "28-05-2026",
                     "episodeUrl": ""
                 }
             ]
