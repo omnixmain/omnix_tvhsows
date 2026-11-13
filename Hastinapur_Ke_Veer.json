@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "142",
+                    "duration": "22m",
+                    "episodeCode": "S2-E142",
+                    "episodeName": "Karna’s Unfinished Triumph",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090553620/landscapeThumb/1794556961674_./Hastinapur_Ke_Veer_Ep_142_SONY_LIV001.jpeg",
+                    "updateDate": "13-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "141",
                     "duration": "22m",
                     "episodeCode": "S2-E141",
                     "episodeName": "The Secret Of Devgaon's Lost Fire",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028805/179441547570056_Hastinapur-Ke-Veer-Ep-141_landscape_thumb.jpg",
                     "updateDate": "12-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/the-secret-of-devgaons-lost-fire-1090553619?watch=true"
                 },
                 {
                     "seasonNumber": "2",
