@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "India's Got Latent",
-            "banner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABQLLqsAlzJsojL_flUn5I2YmZ2GblnrWSNyQr0VgSt19K_J-vuPQ2Bu_Yh1PdxubA7mV0FRyjB1I6T9KUpPXGgQZ5CICmN3LAic_l7pAhFC9JT82NSxwqiu8Kw.webp?r=e5d",
+            "banner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABZRPuMavGH2MFSqEbom80nuXWXH4kufsUNpzGI9CToQvsCMunFpqdt7Z1nMgg6zcW6dmF3Si9WCXMXMAzBaZbljbKLEXlMCks2RkR5xypg-pG1ll6vApnNkySQ.webp?r=edc",
             "genre": "Comedies, Reality Programming, Variety TV",
             "rating": "8.2",
             "year": "2026",
@@ -13,6 +13,16 @@
             "ottReleaseDate": "June 20, 2026",
             "description": "Samay Raina returns with a new season of his offbeat comedy competition, where contestants perform for celebrity judges and predict their own scores.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "9",
+                    "duration": "38m",
+                    "episodeCode": "S2-E9",
+                    "episodeName": "Exclusive Episode 9 : Ft.Huma Qureshi, Krushna Abhishek, Aashish Solanki, Balraj Ghai",
+                    "episodeBanner": "https://occ-0-4875-2186.1.nflxso.net/dnm/api/v6/a3hnUaZnndQ4IeGOdnyRTW4nDRA/AAAABZnnV7VmV_CCyru_c3rPR6MfSOcMoOeXYEZJZQClXU-V0611RdcBd-AnVdYIxLd5gKOrV0IpX0rSqEzg5LY1kZkqvZkCQGYjO7rHr2S1K6yhQxKwiAXCy3u1.webp?r=c87",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "8",
