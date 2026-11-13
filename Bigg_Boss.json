@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "69",
+                    "duration": "1h 15m",
+                    "episodeCode": "S20-E69",
+                    "episodeName": "BBHin Day 68: A Shocker for All!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8056/1794578298056-h",
+                    "updateDate": "13-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-13th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "68",
                     "duration": "1h 14m",
                     "episodeCode": "S20-E68",
@@ -691,16 +701,6 @@
                     "episodeName": "BBHin Grand Premiere: Vardaan ya Toofan?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6945/1788707656945-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "20",
-                    "episodeNumber": "69",
-                    "duration": "45m",
-                    "episodeCode": "S20-E69",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2516/1792832772516-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
