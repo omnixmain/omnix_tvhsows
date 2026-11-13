@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 12, 2026",
+            "ottReleaseDate": "November 13, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "68",
-                    "duration": "1h 13m",
+                    "duration": "1h 14m",
                     "episodeCode": "S20-E68",
                     "episodeName": "BBHin Day 67: Yung and Scout's Explosive Fight",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8653/1794493128653-h",
