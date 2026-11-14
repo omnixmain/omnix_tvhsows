@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "9",
+                    "duration": "72m",
+                    "episodeCode": "S1-E9",
+                    "episodeName": "Ayushmann & Sharvari Bring The Magic Of Music",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028982/1794587384383847_INDIAN_IDOL_LEGENDS_RETURN_EP_09_landscape_thumb.jpg",
+                    "updateDate": "14-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/ayushmann-sharvari-bring-the-magic-of-music-1090554144?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "8",
                     "duration": "70m",
                     "episodeCode": "S1-E8",
