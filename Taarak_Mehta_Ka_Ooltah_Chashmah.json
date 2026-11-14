@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Taarak Mehta Ka Ooltah Chashmah",
-            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019540/1781180598665343_TMKOC26_Poster_Image_SP10.jpg",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028979/1794584400564418_TMKOC_poster_image.jpg",
             "genre": "Comedy",
             "rating": "8.0",
             "year": "2008",
@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4868",
+                    "duration": "20m",
+                    "episodeCode": "S49-E4868",
+                    "episodeName": "Will Motibhai End Gokuldham's Power Crisis?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029022/1794652239427599_Taarak_Mehta_Ka_Oolta_Chashmah_4868_liv_landscape_thumbnail.png",
+                    "updateDate": "14-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-14th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4867",
                     "duration": "19m",
                     "episodeCode": "S49-E4867",
                     "episodeName": "A Diwali Without Electricity In Gokuldham!",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028959/1794570367773312_Taarak_Mehta_Ka_Oolta_Chashmah_4867_landscape_thumb.jpg",
                     "updateDate": "13-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-13th-november-2026-today-episode-update/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/a-diwali-without-electricity-in-gokuldham-1090553618?watch=true"
                 },
                 {
                     "seasonNumber": "49",
