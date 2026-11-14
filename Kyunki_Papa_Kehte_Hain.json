@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "47",
+                    "duration": "22m",
+                    "episodeCode": "S1-E47",
+                    "episodeName": "The Truth Behind Prithvi's Feelings",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028982/1794587369073847_KYUNKI_PAPA_KEHTE_HAIN_EP_47_landscape_thumb.jpg",
+                    "updateDate": "14-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "46",
                     "duration": "22m",
                     "episodeCode": "S1-E46",
                     "episodeName": "Simran Grows Worried About Prithvi",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090553627/landscapeThumb/1794557638105_./KYUNKI_PAPA_KEHTE_HAIN_EP_46_SONYLIV_001.jpeg",
                     "updateDate": "13-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/simran-grows-worried-about-prithvi-1090553627?watch=true"
                 },
                 {
                     "seasonNumber": "1",
