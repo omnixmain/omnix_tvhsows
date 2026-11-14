@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "17",
+                    "duration": "65m",
+                    "episodeCode": "S1-E17",
+                    "episodeName": "A Filmy Face-Off With A Funny Twist",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029031/1794657692766663_FAMILY_FULL_HOUSE_WITH_ROHIT_SHARMA_EP_17_landscape_thumbnail.jpeg",
+                    "updateDate": "14-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/a-filmy-face-off-with-a-funny-twist-1090554146?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "16",
                     "duration": "74m",
                     "episodeCode": "S1-E16",
