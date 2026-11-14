@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 13, 2026",
+            "ottReleaseDate": "November 15, 2026",
             "description": "Resilient army doctors at 108 Base Hospital, Uri, navigate personal and professional battles whilst saving lives in a conflict-torn zone. Watch 108 Base Hospital - Uri - Hindi Drama Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "27",
+                    "duration": "46m",
+                    "episodeCode": "S1-E27",
+                    "episodeName": "Bhediya and Panther's Devious Plot",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7767/1794619707767-h",
+                    "updateDate": "14-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/108-base-hospital-uri-14th-november-2026-today-episode-update/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "26",
