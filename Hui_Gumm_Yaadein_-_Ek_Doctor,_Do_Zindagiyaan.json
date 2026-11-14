@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "192",
+                    "duration": "22m",
+                    "episodeCode": "S1-E192",
+                    "episodeName": "Meena Tai Brings Back Dr. Srishty's Past",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028982/1794587402976847_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_192_landscape_thumb.jpg",
+                    "updateDate": "14-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "191",
                     "duration": "22m",
                     "episodeCode": "S1-E191",
                     "episodeName": "A Clever Plan For The Aarogya Kendra",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090553612/landscapeThumb/1794556587606_./HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_191_SONY_LIV_MASTER_001.jpeg",
                     "updateDate": "13-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/a-clever-plan-for-the-aarogya-kendra-1090553612?watch=true"
                 },
                 {
                     "seasonNumber": "1",
