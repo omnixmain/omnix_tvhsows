@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "25m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Saanvi Reveals the Truth to Aditya",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4203/1794702584203-h",
+                    "updateDate": "15-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-15th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "53",
                     "duration": "26m",
                     "episodeCode": "S1-E53",
