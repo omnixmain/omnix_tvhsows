@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "28",
+                    "duration": "45m",
+                    "episodeCode": "S1-E28",
+                    "episodeName": "Panther Takes Over the Hospital",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5522/1794705865522-h",
+                    "updateDate": "15-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/108-base-hospital-uri-15th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "27",
                     "duration": "46m",
                     "episodeCode": "S1-E27",
