@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "10",
+                    "duration": "22m",
+                    "episodeCode": "S1-E10",
+                    "episodeName": "Indian Idol - Legends Return",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029000/1794636446368905_idol_legends_1st_elimination_14nov_simulcast_landscape_thumb.jpg",
+                    "updateDate": "15-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/indian-idol-legends-return-1090553637?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "9",
                     "duration": "72m",
                     "episodeCode": "S1-E9",
