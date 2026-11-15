@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "20",
+                    "duration": "24m",
+                    "episodeCode": "S2-E20",
+                    "episodeName": "Kabir Invites Junejas to His Home",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7110/1794705887110-h",
+                    "updateDate": "15-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "19",
                     "duration": "24m",
                     "episodeCode": "S2-E19",
