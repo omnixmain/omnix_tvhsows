@@ -182,6 +182,16 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3920/1789810533920-h",
                     "updateDate": "19-09-2026",
                     "episodeUrl": "https://serialtvmaza.sbs/india-ke-top-1-19th-september-2026-full-episode-1/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "45m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "Watch Live",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9275/1790660089275-i",
+                    "updateDate": "",
+                    "episodeUrl": ""
                 }
             ]
         }
