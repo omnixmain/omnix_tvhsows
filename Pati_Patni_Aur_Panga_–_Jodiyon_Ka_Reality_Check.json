@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "12",
+                    "duration": "1h 9m",
+                    "episodeCode": "S2-E12",
+                    "episodeName": "Jodiyon Ka Connection",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5567/1794679585567-h",
+                    "updateDate": "15-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/dhamaal-with-pati-patni-aur-panga-season-2-15th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "11",
                     "duration": "1h 9m",
                     "episodeCode": "S2-E11",
@@ -121,16 +131,6 @@
                     "episodeName": "Grand Premiere: Let the Panga Begin!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6758/1791556356758-h",
                     "updateDate": "10-10-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "2",
-                    "episodeNumber": "12",
-                    "duration": "45m",
-                    "episodeCode": "S2-E12",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTAR_DTH/SERIES/690e0b58e8538d5c8a62bdb5/images/PORTRAIT/1790752263770-v?o=production",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
