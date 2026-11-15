@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "18",
+                    "duration": "1h 6m",
+                    "episodeCode": "S1-E18",
+                    "episodeName": "The Great Indian Buddhi League",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7066/1794650307066-h",
+                    "updateDate": "15-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/india-ke-top-1-15th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "17",
                     "duration": "1h 4m",
                     "episodeCode": "S1-E17",
@@ -182,16 +192,6 @@
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3920/1789810533920-h",
                     "updateDate": "19-09-2026",
                     "episodeUrl": "https://serialtvmaza.sbs/india-ke-top-1-19th-september-2026-full-episode-1/"
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "18",
-                    "duration": "45m",
-                    "episodeCode": "S1-E18",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9275/1790660089275-i",
-                    "updateDate": "",
-                    "episodeUrl": ""
                 }
             ]
         }
