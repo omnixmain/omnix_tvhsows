@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "India's Got Latent",
-            "banner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABZRPuMavGH2MFSqEbom80nuXWXH4kufsUNpzGI9CToQvsCMunFpqdt7Z1nMgg6zcW6dmF3Si9WCXMXMAzBaZbljbKLEXlMCks2RkR5xypg-pG1ll6vApnNkySQ.webp?r=edc",
+            "banner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABQAabQJFtUjTdU4IlWeBx4S4R3qI4v19TF8CAaAdoX_KrJmGWMZB27hOeJAdt71IWwZvL1_J2R5Bfb5bd5KeQCfmQgO21ChH0eLLwcgbZnYr4umfcHVYrGU5Pw.webp?r=15f",
             "genre": "Comedies, Reality Programming, Variety TV",
             "rating": "8.2",
             "year": "2026",
@@ -13,6 +13,16 @@
             "ottReleaseDate": "June 20, 2026",
             "description": "Samay Raina returns with a new season of his offbeat comedy competition, where contestants perform for celebrity judges and predict their own scores.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "10",
+                    "duration": "50m",
+                    "episodeCode": "S2-E10",
+                    "episodeName": "Episode 10 : Ft. Raftaar, Sahil Kale, Balraj Ghai",
+                    "episodeBanner": "https://occ-0-4875-2164.1.nflxso.net/dnm/api/v6/a3hnUaZnndQ4IeGOdnyRTW4nDRA/AAAABS1BEczsNVy4U9HQ7D9ZCrn0a77CnOF4pS16SC9mrzU4wWVLiq7JUJTj4TrzkjNQeA_hUxjnMoG_H0Zm7-7MnVOjgl1m_JfQelg_cbGJ-1mgfc2EHkVq2KeG.webp?r=8da",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "9",
