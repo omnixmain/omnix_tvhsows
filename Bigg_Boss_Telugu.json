@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "71",
+                    "duration": "2h 29m",
+                    "episodeCode": "S10-E71",
+                    "episodeName": "BBTel Day 70: Celeb Guests Get Candid",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2288/1794741872288-h",
+                    "updateDate": "15-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "70",
                     "duration": "1h 14m",
                     "episodeCode": "S10-E70",
@@ -711,16 +721,6 @@
                     "episodeName": "BBTel: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3531/1788692933531-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "71",
-                    "duration": "45m",
-                    "episodeCode": "S10-E71",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1367/1792060211367-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
