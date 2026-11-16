@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "72",
+                    "duration": "1h 7m",
+                    "episodeCode": "S20-E72",
+                    "episodeName": "BBHin Day 71: Splash and Clash! Ft. Nominations",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9090/1794839519090-h",
+                    "updateDate": "16-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-16th-november-2026-today-episode-72-update/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "71",
                     "duration": "1h 11m",
                     "episodeCode": "S20-E71",
