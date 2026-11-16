@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "61",
+                    "duration": "85m",
+                    "episodeCode": "S18-E61",
+                    "episodeName": "Neeraj Ladia Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029199/1794822065450595_KAUN-BANEGA-CROREPATI-S18-EP-61_landscape.jpg",
+                    "updateDate": "16-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/neeraj-ladia-takes-the-hot-seat-1090551890?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "60",
                     "duration": "66m",
                     "episodeCode": "S18-E60",
