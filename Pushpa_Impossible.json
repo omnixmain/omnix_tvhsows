@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1391",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1391",
+                    "episodeName": "Shanaya's Heartfelt Moment",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029187/1794812497653158_PUSHPA_IMPOSSIBLE_EP_1391_landscape.jpg",
+                    "updateDate": "16-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1390",
                     "duration": "22m",
                     "episodeCode": "S14-E1390",
@@ -13076,12 +13086,12 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "84",
-                    "duration": "44m",
+                    "duration": "22m",
                     "episodeCode": "S1-E84",
-                    "episodeName": "Golu Pahucha Sai Darshan Heights - Maha Episode Part 2",
-                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_landscape_thumb_revised2.jpg",
-                    "updateDate": "13-09-2022",
-                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/golu-pahucha-sai-darshan-heights-maha-episode-part-2-1000188532?watch=true"
+                    "episodeName": "Mock Fire Drill",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_Landscape_thumb.jpg",
+                    "updateDate": "10-09-2022",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/mock-fire-drill-1000188082?watch=true"
                 },
                 {
                     "seasonNumber": "1",
