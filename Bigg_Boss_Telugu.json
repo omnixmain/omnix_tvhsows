@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "72",
+                    "duration": "1h 12m",
+                    "episodeCode": "S10-E72",
+                    "episodeName": "BBTel Day 71: Dictators Rewrite the Game",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8586/1794832068586-h",
+                    "updateDate": "16-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "71",
                     "duration": "2h 29m",
                     "episodeCode": "S10-E71",
@@ -601,126 +611,6 @@
                     "episodeName": "BBTel Day 12: Clash for First Captaincy",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2131/1789737232131-h",
                     "updateDate": "18-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "12",
-                    "duration": "1h 4m",
-                    "episodeCode": "S10-E12",
-                    "episodeName": "BBTel Day 11: Task Twists Flip Captaincy",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2215/1789658302215-h",
-                    "updateDate": "17-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "11",
-                    "duration": "1h 8m",
-                    "episodeCode": "S10-E11",
-                    "episodeName": "BBTel Day 10: Captaincy Contenders' Race",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3907/1789562733907-h",
-                    "updateDate": "16-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "10",
-                    "duration": "1h 1m",
-                    "episodeCode": "S10-E10",
-                    "episodeName": "BBTel Day 9: Competetive Spirit Sets In",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4930/1789474224930-h",
-                    "updateDate": "15-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "9",
-                    "duration": "1h 10m",
-                    "episodeCode": "S10-E9",
-                    "episodeName": "BBTel Day 8: Power of People Nominations",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/573/1789390260573-h",
-                    "updateDate": "14-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "8",
-                    "duration": "56m",
-                    "episodeCode": "S10-E8",
-                    "episodeName": "BBTel Day 7: The Black Key",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5831/1789300735831-h",
-                    "updateDate": "13-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "7",
-                    "duration": "1h 7m",
-                    "episodeCode": "S10-E7",
-                    "episodeName": "BBTel Day 6: The King Checks In",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2828/1789217682828-h",
-                    "updateDate": "12-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "6",
-                    "duration": "1h 3m",
-                    "episodeCode": "S10-E6",
-                    "episodeName": "BBTel Day 5: Midweek Eviction!",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6014/1789134126014-h",
-                    "updateDate": "11-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "5",
-                    "duration": "1h 6m",
-                    "episodeCode": "S10-E5",
-                    "episodeName": "BBTel Day 4: First Nomination of the Season",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3537/1789050783537-h",
-                    "updateDate": "10-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "4",
-                    "duration": "1h 6m",
-                    "episodeCode": "S10-E4",
-                    "episodeName": "BBTel Day 3: High Risk Zone Unlocked",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6907/1788953926907-h",
-                    "updateDate": "09-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "3",
-                    "duration": "1h 7m",
-                    "episodeCode": "S10-E3",
-                    "episodeName": "BBTel Day 2: Protect the Boss!",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2518/1788876522518-h",
-                    "updateDate": "08-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "2",
-                    "duration": "57m",
-                    "episodeCode": "S10-E2",
-                    "episodeName": "BBTel Day 1: Hidden Power Drop",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9893/1788793999893-h",
-                    "updateDate": "07-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "1",
-                    "duration": "2h 41m",
-                    "episodeCode": "S10-E1",
-                    "episodeName": "BBTel: Season Premiere",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3531/1788692933531-h",
-                    "updateDate": "06-09-2026",
                     "episodeUrl": ""
                 }
             ]
