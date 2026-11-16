@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "31",
+                    "duration": "59m",
+                    "episodeCode": "S5-E31",
+                    "episodeName": "Farah Khan Takes Over The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029199/1794822083515595_KON-HONAR-CROREPATI-S05-EP_31_landscape.jpg",
+                    "updateDate": "16-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/farah-khan-takes-over-the-hot-seat-1090554446?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "30",
                     "duration": "41m",
                     "episodeCode": "S5-E30",
