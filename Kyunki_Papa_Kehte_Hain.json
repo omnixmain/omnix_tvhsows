@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "49",
+                    "duration": "22m",
+                    "episodeCode": "S1-E49",
+                    "episodeName": "Pawan's Digital Detox Challenge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029221/1794849570383523_KYUNKI_PAPA_KEHTE_HAIN_EP_49_landscape_thumb.jpg",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "48",
                     "duration": "22m",
                     "episodeCode": "S1-E48",
                     "episodeName": "Prithvi Realizes The Truth",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029199/1794822050020595_KYUNKI_PAPA_KEHTE_HAIN_EP_48_landscape.jpg",
                     "updateDate": "16-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/prithvi-realizes-the-truth-1090554482?watch=true"
                 },
                 {
                     "seasonNumber": "1",
