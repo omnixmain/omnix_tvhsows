@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "8",
+                    "episodeNumber": "73",
+                    "duration": "1h 25m",
+                    "episodeCode": "S8-E73",
+                    "episodeName": "BBMal Day 72: Who Really Controls the Money Box?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3296/1794923293296-h",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
                     "episodeNumber": "72",
                     "duration": "1h 24m",
                     "episodeCode": "S8-E72",
