@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "194",
+                    "duration": "21m",
+                    "episodeCode": "S1-E194",
+                    "episodeName": "Dr. Dev And Dr. Srishty Get A Second Chance",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029221/1794849488834523_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_194_landscape_thumb.jpg",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "193",
                     "duration": "22m",
                     "episodeCode": "S1-E193",
                     "episodeName": "Dr. Dev's Troubling Discovery",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029187/1794812440095158_HUI_GUMM_YAADEIN_EK_DOCTOR_DO_ZINDAGIYAAN_EP_193_landscape.jpg",
                     "updateDate": "16-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hui-gumm-yaadein-ek-doctor-do-zindagiyaan-1790006770/dr-devs-troubling-discovery-1090554447?watch=true"
                 },
                 {
                     "seasonNumber": "1",
