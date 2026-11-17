@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "62",
+                    "duration": "74m",
+                    "episodeCode": "S18-E62",
+                    "episodeName": "Mahima Yadav Takes Her Shot At Glory",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029241/1794897774173771_KAUN_BANEGA_CROREPATI_S18_EP_62_landscape_thumbnail.jpeg",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/mahima-yadav-takes-her-shot-at-glory-1090554771?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "61",
                     "duration": "85m",
                     "episodeCode": "S18-E61",
