@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "145",
+                    "duration": "21m",
+                    "episodeCode": "S2-E145",
+                    "episodeName": "The Mystery Of Chhayaveer",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029221/1794849509450523_Hastinapur-Ke-Veer-Ep-145_landscape_thumb.jpg",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "144",
                     "duration": "22m",
                     "episodeCode": "S2-E144",
                     "episodeName": "Arjun And Karna's Renewed Rivalry",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029187/1794812457526158_Hastinapur-Ke-Veer-Ep-144_landscape.jpg",
                     "updateDate": "16-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/arjun-and-karnas-renewed-rivalry-1090554461?watch=true"
                 },
                 {
                     "seasonNumber": "2",
