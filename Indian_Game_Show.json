@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "66",
+                    "duration": "58m",
+                    "episodeCode": "S2-E66",
+                    "episodeName": "Ring Toss And Splash Battles",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029221/1794849587504523_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_66_landscape_thumb.jpg",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/ring-toss-and-splash-battles-1090553613?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "65",
                     "duration": "56m",
                     "episodeCode": "S2-E65",
