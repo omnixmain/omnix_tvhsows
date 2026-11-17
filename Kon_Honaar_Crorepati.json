@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "32",
+                    "duration": "42m",
+                    "episodeCode": "S5-E32",
+                    "episodeName": "Shama Shah Embarks On Her Hotseat Journey",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029242/17948976530233_KON_HONAR_CROREPATI_S05_EP_32_landscape_thumbnail.jpeg",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/shama-shah-embarks-on-her-hotseat-journey-1090554445?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "31",
                     "duration": "59m",
                     "episodeCode": "S5-E31",
