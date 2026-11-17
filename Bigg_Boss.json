@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "73",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E73",
+                    "episodeName": "BBHin Day 72: The Post-Nomination Chaos",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8890/1794923368890-h",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-17th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "72",
                     "duration": "1h 7m",
                     "episodeCode": "S20-E72",
