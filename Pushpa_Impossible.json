@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1392",
+                    "duration": "21m",
+                    "episodeCode": "S14-E1392",
+                    "episodeName": "Tiger And Shanaya's Growing Bond",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029221/1794849547685523_PUSHPA_IMPOSSIBLE_EP_1392_landscape_thumb.jpg",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1391",
                     "duration": "22m",
                     "episodeCode": "S14-E1391",
                     "episodeName": "Shanaya's Heartfelt Moment",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029187/1794812497653158_PUSHPA_IMPOSSIBLE_EP_1391_landscape.jpg",
                     "updateDate": "16-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/shanayas-heartfelt-moment-1090554479?watch=true"
                 },
                 {
                     "seasonNumber": "14",
