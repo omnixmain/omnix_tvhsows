@@ -10,16 +10,26 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 16, 2026",
+            "ottReleaseDate": "November 17, 2026",
             "description": "Mahadev's 'perfect' family is breaking apart, all because of Mogra, his beloved daughter-in-law. Can Rajji and Dheeraj protect the family and Mahadev's legacy? Watch Mahadev & Sons - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "245",
+                    "duration": "27m",
+                    "episodeCode": "S1-E245",
+                    "episodeName": "Vishwas's Unexpected Entry",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3983/1794875833983-h",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/mahadev-and-sons-17th-november-2026-today-episode-update/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "244",
                     "duration": "30m",
                     "episodeCode": "S1-E244",
                     "episodeName": "Mahadev's Kindness Towards Vishwa",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2790/1794753202790-h",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8035/1794875788035-h",
                     "updateDate": "16-11-2026",
                     "episodeUrl": "https://serialtvmaza.sbs/mahadev-and-sons-16th-november-2026-today-episode-update/"
                 },
@@ -2401,46 +2411,6 @@
                     "episodeName": "Mahadev Fears Family Divide",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5590/1767931965590-h",
                     "updateDate": "09-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "4",
-                    "duration": "23m",
-                    "episodeCode": "S1-E4",
-                    "episodeName": "Mahadev's Empty Celebration",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/310/1767840060310-h",
-                    "updateDate": "08-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "26m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Dheeraj's Grand Announcement",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9529/1767754089529-h",
-                    "updateDate": "07-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "34m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Bhanu Draws the Battle Line",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1665/1767667231665-h",
-                    "updateDate": "06-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "37m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "The Journey of Mahadev, Vidya",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6123/1767577426123-h",
-                    "updateDate": "05-01-2026",
                     "episodeUrl": ""
                 }
             ]
