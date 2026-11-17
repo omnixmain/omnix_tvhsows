@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "73",
+                    "duration": "1h 9m",
+                    "episodeCode": "S10-E73",
+                    "episodeName": "BBTam Day 72: Mukesh Ruins the Task",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/512/1794924520512-h",
+                    "updateDate": "17-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "72",
                     "duration": "1h 5m",
                     "episodeCode": "S10-E72",
