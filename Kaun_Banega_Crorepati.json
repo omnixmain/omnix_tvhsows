@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "63",
+                    "duration": "84m",
+                    "episodeCode": "S18-E63",
+                    "episodeName": "Akash Pawar Takes On The Hotseat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029288/1794982215710167_KAUN_BANEGA_CROREPATI_S18_EP_63_landscape_thumbnail.jpeg",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/akash-pawar-takes-on-the-hotseat-1090554816?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "62",
                     "duration": "74m",
                     "episodeCode": "S18-E62",
