@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "November 18, 2026",
+            "ottReleaseDate": "November 19, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "74",
+                    "duration": "1h 22m",
+                    "episodeCode": "S8-E74",
+                    "episodeName": "BBMal Day 73: Who Landed the Prize Money?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2609/1795011352609-h",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "73",
@@ -701,46 +711,6 @@
                     "episodeName": "BBMal Day 4: Cooking Chaos Without Gas",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5981/1789041535981-h",
                     "updateDate": "10-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "4",
-                    "duration": "1h 21m",
-                    "episodeCode": "S8-E4",
-                    "episodeName": "BBMal Day 3: Bigg Boss Cuts Off the Basics",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9445/1788961629445-h",
-                    "updateDate": "09-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "3",
-                    "duration": "1h 16m",
-                    "episodeCode": "S8-E3",
-                    "episodeName": "BBMal Day 2: A Leader’s Toughest Choice",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6658/1788873176658-h",
-                    "updateDate": "08-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "2",
-                    "duration": "1h 14m",
-                    "episodeCode": "S8-E2",
-                    "episodeName": "BBMal Day 1: Clashes, Votes, Power Moves",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7150/1788786777150-h",
-                    "updateDate": "07-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "8",
-                    "episodeNumber": "1",
-                    "duration": "3h 9m",
-                    "episodeCode": "S8-E1",
-                    "episodeName": "BBMal: Season Premiere",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6273/1788698896273-h",
-                    "updateDate": "06-09-2026",
                     "episodeUrl": ""
                 }
             ]
