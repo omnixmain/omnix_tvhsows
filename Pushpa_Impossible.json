@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1393",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1393",
+                    "episodeName": "Varun And Shanaya’s Closeness Upsets Chirag",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029294/1794982262581742_PUSHPA_IMPOSSIBLE_EP_1393_landscape_thumbnail.jpeg",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1392",
                     "duration": "21m",
                     "episodeCode": "S14-E1392",
                     "episodeName": "Tiger And Shanaya's Growing Bond",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029221/1794849547685523_PUSHPA_IMPOSSIBLE_EP_1392_landscape_thumb.jpg",
                     "updateDate": "17-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/tiger-and-shanayas-growing-bond-1090554480?watch=true"
                 },
                 {
                     "seasonNumber": "14",
