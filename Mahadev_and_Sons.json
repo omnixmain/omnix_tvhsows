@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "246",
+                    "duration": "26m",
+                    "episodeCode": "S1-E246",
+                    "episodeName": "Bhanu's Plan for Priya",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9626/1794961069626-h",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/mahadev-and-sons-18th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "245",
                     "duration": "27m",
                     "episodeCode": "S1-E245",
@@ -1201,16 +1211,6 @@
                     "episodeName": "Dheeraj Protects Mogra's Secret",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6884/1782764886884-h",
                     "updateDate": "30-06-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "126",
-                    "duration": "23m",
-                    "episodeCode": "S1-E126",
-                    "episodeName": "Mogra's Truth Comes Out",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4171/1782717354171-h",
-                    "updateDate": "29-06-2026",
                     "episodeUrl": ""
                 }
             ]
