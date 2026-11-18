@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "November 18, 2026",
+            "ottReleaseDate": "November 19, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "74",
+                    "duration": "1h 12m",
+                    "episodeCode": "S10-E74",
+                    "episodeName": "BBTam Day 73: Task Turns Brutal",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5162/1795011355162-h",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "73",
@@ -711,6 +721,36 @@
                     "episodeName": "BBTam Day 3: A Shocking Exit",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8170/1788966968170-h",
                     "updateDate": "09-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "3",
+                    "duration": "1h 3m",
+                    "episodeCode": "S10-E3",
+                    "episodeName": "BBTam Day 2: The Power Cards are Here!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5194/1788871595194-h",
+                    "updateDate": "08-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "2",
+                    "duration": "1h 6m",
+                    "episodeCode": "S10-E2",
+                    "episodeName": "BBTam Day 1: Who Deserves to be A Leader?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/198/1788786640198-h",
+                    "updateDate": "07-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "1",
+                    "duration": "2h 58m",
+                    "episodeCode": "S10-E1",
+                    "episodeName": "BBTam: Season Premiere",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5574/1788700215574-h",
+                    "updateDate": "06-09-2026",
                     "episodeUrl": ""
                 }
             ]
