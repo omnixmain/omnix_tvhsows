@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "57",
+                    "duration": "22m",
+                    "episodeCode": "S1-E57",
+                    "episodeName": "Saanvi's Sweet Gesture for Aditya",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3268/1794931603268-h",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-18th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "56",
                     "duration": "23m",
                     "episodeCode": "S1-E56",
