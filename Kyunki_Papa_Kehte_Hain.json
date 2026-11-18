@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "50",
+                    "duration": "23m",
+                    "episodeCode": "S1-E50",
+                    "episodeName": "Can Jassi Recover The Stolen Phones?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029291/1794982135692343_KYUNKI_PAPA_KEHTE_HAIN_EP_50_landscape_thumbnail.jpeg",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "49",
                     "duration": "22m",
                     "episodeCode": "S1-E49",
                     "episodeName": "Pawan's Digital Detox Challenge",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029221/1794849570383523_KYUNKI_PAPA_KEHTE_HAIN_EP_49_landscape_thumb.jpg",
                     "updateDate": "17-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-digital-detox-challenge-1090554483?watch=true"
                 },
                 {
                     "seasonNumber": "1",
