@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "104",
+                    "duration": "25m",
+                    "episodeCode": "S1-E104",
+                    "episodeName": "Jeet's Tune Reaches Saumya's Soul",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7727/1794950447727-h",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-18th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "103",
                     "duration": "24m",
                     "episodeCode": "S1-E103",
@@ -41,7 +51,7 @@
                     "episodeName": "Jeet Cuts Saxena House's Power",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1392/1794702541392-h",
                     "updateDate": "15-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-15th-november-2026-today-episode-update/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
