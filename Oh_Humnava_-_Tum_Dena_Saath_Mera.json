@@ -10,7 +10,7 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 18, 2026",
+            "ottReleaseDate": "November 19, 2026",
             "description": "Aparajita is an artist with a bitter past, and our hero Rakshit—a reserved businessman with no place for love! These two hearts meet, but will romance bloom? Watch Oh Humnava - Tum Dena Saath Mera - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
                 {
@@ -1311,6 +1311,106 @@
                     "episodeName": "Rakshit's Visit Relieves Aparajita",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/37/1783646390037-h",
                     "updateDate": "10-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "80",
+                    "duration": "21m",
+                    "episodeCode": "S1-E80",
+                    "episodeName": "Lalit Gets Arrested",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/503/1783572620503-h",
+                    "updateDate": "09-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "79",
+                    "duration": "21m",
+                    "episodeCode": "S1-E79",
+                    "episodeName": "Aparajita's Sacrifice for Rakshit",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1038/1783480691038-h",
+                    "updateDate": "08-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "78",
+                    "duration": "26m",
+                    "episodeCode": "S1-E78",
+                    "episodeName": "Malti Protests for Aparajita",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2937/1783389642937-h",
+                    "updateDate": "07-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "77",
+                    "duration": "21m",
+                    "episodeCode": "S1-E77",
+                    "episodeName": "Rakshit, Aparajita Outsmart Goons",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2329/1783276802329-h",
+                    "updateDate": "06-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "76",
+                    "duration": "21m",
+                    "episodeCode": "S1-E76",
+                    "episodeName": "Aparajita Confronts Lalit",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1198/1783212571198-h",
+                    "updateDate": "05-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "75",
+                    "duration": "20m",
+                    "episodeCode": "S1-E75",
+                    "episodeName": "Mohit Helps Rakshit Escape",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2506/1783124972506-h",
+                    "updateDate": "04-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "74",
+                    "duration": "21m",
+                    "episodeCode": "S1-E74",
+                    "episodeName": "Lalit Frames Rakshit",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/121/1783048690121-h",
+                    "updateDate": "03-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "73",
+                    "duration": "21m",
+                    "episodeCode": "S1-E73",
+                    "episodeName": "Rakshit's Quest for Aparajita",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/758/1782945130758-h",
+                    "updateDate": "02-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "72",
+                    "duration": "21m",
+                    "episodeCode": "S1-E72",
+                    "episodeName": "Rakshit Defies Sudha's Demand",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5320/1782853655320-h",
+                    "updateDate": "01-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "71",
+                    "duration": "25m",
+                    "episodeCode": "S1-E71",
+                    "episodeName": "Aparajita's Truth Shocks Sudha",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9879/1782768119879-h",
+                    "updateDate": "30-06-2026",
                     "episodeUrl": ""
                 }
             ]
