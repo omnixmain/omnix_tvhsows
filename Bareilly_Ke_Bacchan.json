@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "137",
+                    "duration": "26m",
+                    "episodeCode": "S1-E137",
+                    "episodeName": "Krishna Plans a Renovation",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6376/1794961096376-h",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bareilly-ke-bachchan-18th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "136",
                     "duration": "25m",
                     "episodeCode": "S1-E136",
