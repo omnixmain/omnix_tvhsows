@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "210",
+                    "duration": "23m",
+                    "episodeCode": "S1-E210",
+                    "episodeName": "Rohan Exposes Aradhya's Truth",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7218/1794949157218-h",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/o-humnava-tum-dena-saath-mera-18th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "209",
                     "duration": "26m",
                     "episodeCode": "S1-E209",
