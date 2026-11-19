@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "147",
+                    "duration": "22m",
+                    "episodeCode": "S2-E147",
+                    "episodeName": "Karna’s Unspoken Pain",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029343/179502816939494_Hastinapur-Ke-Veer-Ep-147_landscape_thumb.jpg",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "146",
                     "duration": "22m",
                     "episodeCode": "S2-E146",
                     "episodeName": "Kunti Uncovers Shakuni’s Conspiracy",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029285/1794982297239166_Hastinapur_Ke_Veer_Ep_146_landscape_thumbnail.jpeg",
                     "updateDate": "18-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/kunti-uncovers-shakunis-conspiracy-1090554809?watch=true"
                 },
                 {
                     "seasonNumber": "2",
