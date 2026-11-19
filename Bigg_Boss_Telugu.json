@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "75",
+                    "duration": "1h 14m",
+                    "episodeCode": "S10-E75",
+                    "episodeName": "BBTel Day 74: Power Struggle Continues",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8391/1795089008391-h",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "74",
                     "duration": "1h 9m",
                     "episodeCode": "S10-E74",
