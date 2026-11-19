@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "13",
+                    "episodeNumber": "75",
+                    "duration": "1h 5m",
+                    "episodeCode": "S13-E75",
+                    "episodeName": "BBKan Day 74: The Maharani Takes Charge",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5909/1795084935909-h",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "13",
                     "episodeNumber": "74",
                     "duration": "1h 5m",
                     "episodeCode": "S13-E74",
