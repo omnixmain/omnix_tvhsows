@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "105",
+                    "duration": "24m",
+                    "episodeCode": "S1-E105",
+                    "episodeName": "Saumya Seeks Sanjeev's Help",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9755/1795049289755-h",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-19th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "104",
                     "duration": "25m",
                     "episodeCode": "S1-E104",
@@ -41,7 +51,7 @@
                     "episodeName": "Jeet and Saumya Face a Rift",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7258/1794875357258-h",
                     "updateDate": "16-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-16th-november-2026-today-episode-update/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
