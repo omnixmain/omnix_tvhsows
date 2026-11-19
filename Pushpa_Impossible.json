@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1394",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1394",
+                    "episodeName": "Chirag's Confession",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029343/179502810357394_PUSHPA_IMPOSSIBLE_EP_1394_landscape_thumb.jpg",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1393",
                     "duration": "22m",
                     "episodeCode": "S14-E1393",
                     "episodeName": "Varun And Shanaya’s Closeness Upsets Chirag",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029294/1794982262581742_PUSHPA_IMPOSSIBLE_EP_1393_landscape_thumbnail.jpeg",
                     "updateDate": "18-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/varun-and-shanayas-closeness-upsets-chirag-1090554812?watch=true"
                 },
                 {
                     "seasonNumber": "14",
@@ -13106,12 +13116,12 @@
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "84",
-                    "duration": "22m",
+                    "duration": "43m",
                     "episodeCode": "S1-E84",
-                    "episodeName": "Mock Fire Drill",
-                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_Landscape_thumb.jpg",
-                    "updateDate": "10-09-2022",
-                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/mock-fire-drill-1000188082?watch=true"
+                    "episodeName": "Golu Hua Lapata - Maha Episode Part 1",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/landscape_thumb/show_sab_pushapaimpossible_ep84_1_landscape_thumb.jpg",
+                    "updateDate": "12-09-2022",
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/golu-hua-lapata-maha-episode-part-1-1000188435?watch=true"
                 },
                 {
                     "seasonNumber": "1",
