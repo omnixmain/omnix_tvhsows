@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "68",
+                    "duration": "60m",
+                    "episodeCode": "S2-E68",
+                    "episodeName": "The Long Reach Showdown",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029343/179502814785994_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_68_landscape_thumb.jpg",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/the-long-reach-showdown-1090554906?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "67",
                     "duration": "58m",
                     "episodeCode": "S2-E67",
