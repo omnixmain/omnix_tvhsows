@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "30",
+                    "duration": "24m",
+                    "episodeCode": "S1-E30",
+                    "episodeName": "Saira Expels Sunheri from Her Job",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5589/1795049375589-h",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-19th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "29",
                     "duration": "22m",
                     "episodeCode": "S1-E29",
