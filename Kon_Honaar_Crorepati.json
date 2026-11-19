@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Kon Honaar Crorepati",
-            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028384/1793851740000590_KHC_India_poster-image.jpg",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029411/1795100744487848_KHC_India_poster-image.jpg",
             "genre": "Game show",
             "rating": "8.0",
             "year": "2013",
@@ -13,6 +13,16 @@
             "ottReleaseDate": "October 12, 2026",
             "description": "Hosted by Madhuri Dixit, Kon Honar Crorepati is a thrilling Marathi quiz show where knowledge, courage and smart decisions can change lives. Contestants take on challenging questions for a chance to win a life-changing prize, while the new season raises the stakes with a fresh energy and one promise: Aata Khel Badalnar!",
             "episodes": [
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "34",
+                    "duration": "58m",
+                    "episodeCode": "S5-E34",
+                    "episodeName": "Vishwajit Shirsat’s Moment To Shine",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029362/1795062248871481_KON_HONAR_CROREPATI_S05_EP_34_landscape_thumbnail.jpeg",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/vishwajit-shirsats-moment-to-shine-1090554443?watch=true"
+                },
                 {
                     "seasonNumber": "5",
                     "episodeNumber": "33",
