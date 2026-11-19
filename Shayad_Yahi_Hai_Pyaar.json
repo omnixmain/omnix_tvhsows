@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "40",
+                    "duration": "31m",
+                    "episodeCode": "S1-E40",
+                    "episodeName": "Preeti Beats Gaurav",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9782/1795053859782-h",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/shayad-yahi-hai-pyaar-19th-november-2026-today-episode-40-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "39",
                     "duration": "29m",
                     "episodeCode": "S1-E39",
