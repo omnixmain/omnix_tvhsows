@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "75",
+                    "duration": "1h 9m",
+                    "episodeCode": "S10-E75",
+                    "episodeName": "BBTam Day 74: Contract Killadis in the House",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5840/1795089085840-h",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "74",
                     "duration": "1h 12m",
                     "episodeCode": "S10-E74",
@@ -201,16 +211,6 @@
                     "episodeName": "BBTam Day 55: Is Akshitha Guilty?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3128/1793457243128-h",
                     "updateDate": "31-10-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "55",
-                    "duration": "1h 9m",
-                    "episodeCode": "S10-E55",
-                    "episodeName": "BBTam Day 54: An Emotional Sentence to Jail",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9403/1793364769403-h",
-                    "updateDate": "30-10-2026",
                     "episodeUrl": ""
                 }
             ]
