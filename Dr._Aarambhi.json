@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "243",
+                    "duration": "29m",
+                    "episodeCode": "S1-E243",
+                    "episodeName": "Vishwas Worries About Hearing",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2343/1795053892343-h",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/dr-aarambhi-19th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "242",
                     "duration": "26m",
                     "episodeCode": "S1-E242",
@@ -2401,36 +2411,6 @@
                     "episodeName": "Vishwas Betrays Aarambhi",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7450/1769776467450-h",
                     "updateDate": "30-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "3",
-                    "duration": "28m",
-                    "episodeCode": "S1-E3",
-                    "episodeName": "Aarambhi and Vishwas's Anniversary",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7347/1769620937347-h",
-                    "updateDate": "29-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "2",
-                    "duration": "28m",
-                    "episodeCode": "S1-E2",
-                    "episodeName": "Vishwas's Grand Proposal",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3167/1769532963167-h",
-                    "updateDate": "28-01-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "1",
-                    "duration": "34m",
-                    "episodeCode": "S1-E1",
-                    "episodeName": "Aarambhi's New Beginnings",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4182/1769502564182-h",
-                    "updateDate": "27-01-2026",
                     "episodeUrl": ""
                 }
             ]
