@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1395",
+                    "duration": "21m",
+                    "episodeCode": "S14-E1395",
+                    "episodeName": "Shanaya Questions Her Future",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029420/179511188230751_PUSHPA_IMPOSSIBLE_EP_1395_landscape_thumb.jpg",
+                    "updateDate": "20-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/pushpa-impossible-20th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1394",
                     "duration": "22m",
                     "episodeCode": "S14-E1394",
                     "episodeName": "Chirag's Confession",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029343/179502810357394_PUSHPA_IMPOSSIBLE_EP_1394_landscape_thumb.jpg",
                     "updateDate": "19-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/chirags-confession-1090554916?watch=true"
                 },
                 {
                     "seasonNumber": "14",
