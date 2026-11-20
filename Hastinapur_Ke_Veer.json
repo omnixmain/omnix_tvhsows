@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "148",
+                    "duration": "22m",
+                    "episodeCode": "S2-E148",
+                    "episodeName": "Karna's Secret Mission",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029420/179511176069151_Hastinapur-Ke-Veer-Ep-148_landscape_thumb.jpg",
+                    "updateDate": "20-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/hastinapur-ke-veer-20th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "147",
                     "duration": "22m",
                     "episodeCode": "S2-E147",
                     "episodeName": "Karna’s Unspoken Pain",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029343/179502816939494_Hastinapur-Ke-Veer-Ep-147_landscape_thumb.jpg",
                     "updateDate": "19-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/karnas-unspoken-pain-1090554910?watch=true"
                 },
                 {
                     "seasonNumber": "2",
