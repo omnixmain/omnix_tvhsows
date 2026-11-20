@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "52",
+                    "duration": "19m",
+                    "episodeCode": "S1-E52",
+                    "episodeName": "Has Pawan Gone Too Far?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029420/179511179621251_KYUNKI_PAPA_KEHTE_HAIN_EP_52_landscape_thumb.jpg",
+                    "updateDate": "20-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/kyunki-papa-kehte-hain-20th-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "51",
                     "duration": "22m",
                     "episodeCode": "S1-E51",
                     "episodeName": "Pawan’s Shocking Secret Revealed",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029363/1795064368732388_KYUNKI_PAPA_KEHTE_HAIN_EP_51_landscape_thumbnail.jpeg",
                     "updateDate": "19-11-2026",
-                    "episodeUrl": ""
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-shocking-secret-revealed-1090554923?watch=true"
                 },
                 {
                     "seasonNumber": "1",
