@@ -805,6 +805,36 @@
                 },
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "49m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "BBBan Day 02: Captaincy Sparks a House War",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2250/1788263992250-h",
+                    "updateDate": "01-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "48m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "BBBan Day 01: The First Captaincy Battle",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4413/1788176394413-h",
+                    "updateDate": "31-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "2h 10m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "Grand Premiere",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3125/1788162843125-h",
+                    "updateDate": "30-08-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "83",
                     "duration": "45m",
                     "episodeCode": "S1-E83",
