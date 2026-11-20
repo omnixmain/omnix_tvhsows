@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "65",
+                    "duration": "76m",
+                    "episodeCode": "S18-E65",
+                    "episodeName": "Vrushali Medhe Takes The Hotseat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029452/1795155167980407_KAUN_BANEGA_CROREPATI_S18_EP_65_landscape_thumbnail.jpeg",
+                    "updateDate": "20-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/vrushali-medhe-takes-the-hotseat-1090554997?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "64",
                     "duration": "77m",
                     "episodeCode": "S18-E64",
