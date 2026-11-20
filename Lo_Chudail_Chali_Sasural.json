@@ -1,0 +1,49 @@
+{
+    "tvShows": [
+        {
+            "name": "Lo Chudail Chali Sasural",
+            "banner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029412/1795100913647179_Lo_Chudail_Chali_Sasural_poster-image.jpg",
+            "genre": "Comedy, Drama, Family",
+            "rating": "8.0",
+            "year": "2026",
+            "ageRating": "U/A 7+",
+            "streaming": "SonyLIV",
+            "streamingLogo": "https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png",
+            "language": "Hindi",
+            "ottReleaseDate": "November 18, 2026",
+            "description": "Lo Chudail Chali Sasural is a supernatural family sitcom and the Indian adaptation of Bewitched. Urvashi, a chudail longing for a human family, marries Aarav Patel and joins his lively Gujarati joint family. As her magic causes hilarious mishaps, Aarav struggles to protect her secret while her human-hating mother Kamini fuels the chaos. Amid magical mayhem, and family drama, love finds a way.",
+            "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "3",
+                    "duration": "23m",
+                    "episodeCode": "S1-E3",
+                    "episodeName": "The Truth Spell Chaos",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029420/179511184893851_LO_CHUDAIL_CHALI_SASURAL_EP_03_landscape_thumb.jpg",
+                    "updateDate": "20-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/lo-chudail-chali-sasural-1790007924/the-truth-spell-chaos-1090554991?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "2",
+                    "duration": "23m",
+                    "episodeCode": "S1-E2",
+                    "episodeName": "My Wife Is A Witch",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029343/179502812677594_LO_CHUDAIL_CHALI_SASURAL_EP_02_landscape_thumb.jpg",
+                    "updateDate": "19-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/lo-chudail-chali-sasural-1790007924/my-wife-is-a-witch-1090554908?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "1",
+                    "duration": "28m",
+                    "episodeCode": "S1-E1",
+                    "episodeName": "The Bride's Secret ",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029293/1794982387251154_LO_CHUDAIL_CHALI_SASURAL_EP_01_landscape_thumbnail.jpeg",
+                    "updateDate": "18-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/lo-chudail-chali-sasural-1790007924/the-brides-secret-1090554840?watch=true"
+                }
+            ]
+        }
+    ]
+}
