@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "21",
+                    "episodeNumber": "11",
+                    "duration": "1h 41m",
+                    "episodeCode": "S21-E11",
+                    "episodeName": "Move, Masti and Manipulation!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6665/1795179456665-h",
+                    "updateDate": "20-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/mtv-roadies-rebirth-20th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "21",
                     "episodeNumber": "10",
                     "duration": "1h 45m",
                     "episodeCode": "S21-E10",
