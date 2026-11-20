@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "35",
+                    "duration": "65m",
+                    "episodeCode": "S5-E35",
+                    "episodeName": "Amruta Dale Takes The Hotseat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029451/1795155158918909_KON_HONAR_CROREPATI_S05_EP_35_landscape_thumbnail.jpeg",
+                    "updateDate": "20-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/amruta-dale-takes-the-hotseat-1090554442?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "34",
                     "duration": "58m",
                     "episodeCode": "S5-E34",
