@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "77",
+                    "duration": "1h 1m",
+                    "episodeCode": "S10-E77",
+                    "episodeName": "BBTam Day 76: A Reality Check from VJS",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/593/1795266980593-h",
+                    "updateDate": "21-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "76",
                     "duration": "1h 9m",
                     "episodeCode": "S10-E76",
