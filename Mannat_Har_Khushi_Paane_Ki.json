@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Mannat Har Khushi Paane Ki",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2222/1793664032222-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6289/1795229516289-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 20, 2026",
+            "ottReleaseDate": "November 21, 2026",
             "description": "Mannat’s life is as colourful as her ‘Dhaba’, which changes when her paths cross with the affluent Kabir. Love blooms, but a past secret shakes their world! Watch Mannat - Har Khushi Paane Ki - Hindi Romance Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "26",
+                    "duration": "23m",
+                    "episodeCode": "S2-E26",
+                    "episodeName": "Kabir Wicked Plan Against Mannat",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6366/1795196276366-h",
+                    "updateDate": "21-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "25",
