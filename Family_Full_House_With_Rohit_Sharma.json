@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "19",
+                    "duration": "59m",
+                    "episodeCode": "S1-E19",
+                    "episodeName": "Orange Juice Gang and Garden Gang Face Off",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029526/1795197645283665_FAMILY-FULL-HOUSE-WITH-ROHIT-SHARMA_EP_19_landscape_thumb.jpg",
+                    "updateDate": "21-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/orange-juice-gang-and-garden-gang-face-off-1090555448?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "18",
                     "duration": "52m",
                     "episodeCode": "S1-E18",
