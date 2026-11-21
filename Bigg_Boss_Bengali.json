@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Bengali",
-            "ottReleaseDate": "November 20, 2026",
+            "ottReleaseDate": "November 21, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "83",
+                    "duration": "1h 5m",
+                    "episodeCode": "S1-E83",
+                    "episodeName": "BBBan Day 82: The Final Captaincy Task Begins!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3596/1795185123596-h",
+                    "updateDate": "20-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "82",
@@ -91,16 +101,6 @@
                     "episodeName": "BBBan Day 74: Family Week Gets Dramatic!",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5126/1794488165126-h",
                     "updateDate": "12-11-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "74",
-                    "duration": "1h 5m",
-                    "episodeCode": "S1-E74",
-                    "episodeName": "BBBan Day 73: Loved Ones, Special Choices",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8114/1794403378114-h",
-                    "updateDate": "11-11-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -775,16 +775,6 @@
                 },
                 {
                     "seasonNumber": "1",
-                    "episodeNumber": "6",
-                    "duration": "49m",
-                    "episodeCode": "S1-E6",
-                    "episodeName": "BBBan Day 05: Janmashtami Special in the House",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8856/1788526148856-h",
-                    "updateDate": "04-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
                     "episodeNumber": "5",
                     "duration": "48m",
                     "episodeCode": "S1-E5",
@@ -831,16 +821,6 @@
                     "episodeName": "Grand Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3125/1788162843125-h",
                     "updateDate": "30-08-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "83",
-                    "duration": "45m",
-                    "episodeCode": "S1-E83",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8856/1794905438856-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
