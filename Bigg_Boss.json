@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "77",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E77",
+                    "episodeName": "BBHin Day 76: Who Fails to Take a Stand?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1874/1795273051874-h",
+                    "updateDate": "21-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-21st-november-2026-today-episode-watch-online-hd/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "76",
                     "duration": "1h 8m",
                     "episodeCode": "S20-E76",
