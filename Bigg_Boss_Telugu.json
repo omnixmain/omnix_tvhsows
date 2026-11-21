@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "10",
+                    "episodeNumber": "77",
+                    "duration": "1h 11m",
+                    "episodeCode": "S10-E77",
+                    "episodeName": "BBTel Day 76: No Room for Mistakes",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/236/1795267320236-h",
+                    "updateDate": "21-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
                     "episodeNumber": "76",
                     "duration": "1h 13m",
                     "episodeCode": "S10-E76",
