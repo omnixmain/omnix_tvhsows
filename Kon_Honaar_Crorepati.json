@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "36",
+                    "duration": "52m",
+                    "episodeCode": "S5-E36",
+                    "episodeName": "Sharvari Wagh Lights Up The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029589/1795258599104502_KON_HONAR_CROREPATI_S05_EP_36_landscape_thumbnail.jpg",
+                    "updateDate": "21-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/sharvari-wagh-lights-up-the-hot-seat-1090554441?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "35",
                     "duration": "65m",
                     "episodeCode": "S5-E35",
