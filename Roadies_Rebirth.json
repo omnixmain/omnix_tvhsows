@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "21",
+                    "episodeNumber": "12",
+                    "duration": "1h 55m",
+                    "episodeCode": "S21-E12",
+                    "episodeName": "Cull-Tea!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5087/1795268785087-h",
+                    "updateDate": "21-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/mtv-roadies-rebirth-21st-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "21",
                     "episodeNumber": "11",
                     "duration": "1h 41m",
                     "episodeCode": "S21-E11",
