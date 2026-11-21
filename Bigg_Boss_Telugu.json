@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Telugu",
-            "ottReleaseDate": "November 20, 2026",
+            "ottReleaseDate": "November 21, 2026",
             "description": "Watch Bigg Boss Telugu on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "76",
+                    "duration": "1h 13m",
+                    "episodeCode": "S10-E76",
+                    "episodeName": "BBTel Day 75: Dictatorship Ends",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9157/1795175789157-h",
+                    "updateDate": "20-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "75",
@@ -101,16 +111,6 @@
                     "episodeName": "BBTel Day 66: Loved Ones Bring Surprises",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5788/1794402325788-h",
                     "updateDate": "11-11-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "66",
-                    "duration": "1h 11m",
-                    "episodeCode": "S10-E66",
-                    "episodeName": "BBTel Day 65: BB School and Family Reunions",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1980/1794322451980-h",
-                    "updateDate": "10-11-2026",
                     "episodeUrl": ""
                 },
                 {
@@ -761,16 +761,6 @@
                     "episodeName": "BBTel: Season Premiere",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3531/1788692933531-h",
                     "updateDate": "06-09-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "10",
-                    "episodeNumber": "76",
-                    "duration": "45m",
-                    "episodeCode": "S10-E76",
-                    "episodeName": "Watch Live",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1367/1792060211367-i",
-                    "updateDate": "",
                     "episodeUrl": ""
                 }
             ]
