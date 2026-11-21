@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "4",
+                    "duration": "23m",
+                    "episodeCode": "S1-E4",
+                    "episodeName": "The Great Family Split",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029526/1795197463226665_LO_CHUDAIL_CHALI_SASURAL_EP_04_landscape_thumb.jpg",
+                    "updateDate": "21-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/lo-chudail-chali-sasural-1790007924/the-great-family-split-1090555433?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "3",
                     "duration": "23m",
                     "episodeCode": "S1-E3",
