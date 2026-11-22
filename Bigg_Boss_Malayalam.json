@@ -10,13 +10,13 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "November 21, 2026",
+            "ottReleaseDate": "November 22, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "77",
-                    "duration": "1h 21m",
+                    "duration": "1h 18m",
                     "episodeCode": "S8-E77",
                     "episodeName": "BBMal Day 76: Bluff Master Winner and a Cold Exit",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9624/1795267539624-h",
