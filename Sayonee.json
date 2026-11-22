@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 21, 2026",
+            "ottReleaseDate": "November 22, 2026",
             "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "61",
+                    "duration": "23m",
+                    "episodeCode": "S1-E61",
+                    "episodeName": "Kabir Faces a Painful Truth",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7309/1795315377309-h",
+                    "updateDate": "22-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-22nd-november-2026-today-episode-update/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "60",
