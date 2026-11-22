@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "108",
+                    "duration": "26m",
+                    "episodeCode": "S1-E108",
+                    "episodeName": "Will Jeet Agree to Anoop's Condition?",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6293/1795315366293-h",
+                    "updateDate": "22-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "107",
                     "duration": "31m",
                     "episodeCode": "S1-E107",
