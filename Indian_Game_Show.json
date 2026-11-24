@@ -15,6 +15,26 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "71",
+                    "duration": "58m",
+                    "episodeCode": "S2-E71",
+                    "episodeName": "Kick, Bounce And Catch!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029795/1795458702657957_INDIAN_GAME_SHOW-WITH-BHARTI-AND_HARSSH_S01_EP_71_landscape_thumb.jpg",
+                    "updateDate": "24-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/kick-bounce-and-catch-1090555866?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "70",
+                    "duration": "55m",
+                    "episodeCode": "S2-E70",
+                    "episodeName": "Pedal, Aim And Score!",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029668/1795347527329331_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_70_landscape_thumb.jpg",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/pedal-aim-and-score-1090555725?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "69",
                     "duration": "55m",
                     "episodeCode": "S2-E69",
