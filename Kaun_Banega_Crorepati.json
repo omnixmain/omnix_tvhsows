@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "66",
+                    "duration": "64m",
+                    "episodeCode": "S18-E66",
+                    "episodeName": "Priyanka Ashok Jadhav Embarks On Her Hotseat Journey",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029757/1795427423359513_KAUN-BANEGA-CROREPATI-S18-EP-66_landscape.jpg",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/priyanka-ashok-jadhav-embarks-on-her-hotseat-journey-1090555732?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "65",
                     "duration": "76m",
                     "episodeCode": "S18-E65",
