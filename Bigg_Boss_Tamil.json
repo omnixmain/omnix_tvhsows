@@ -10,9 +10,29 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Tamil",
-            "ottReleaseDate": "November 22, 2026",
+            "ottReleaseDate": "November 24, 2026",
             "description": "Watch Bigg Boss Tamil on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "79",
+                    "duration": "1h 10m",
+                    "episodeCode": "S10-E79",
+                    "episodeName": "BBTam Day 78: Letters at a Cost",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1946/1795442321946-h",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "10",
+                    "episodeNumber": "78",
+                    "duration": "1h 2m",
+                    "episodeCode": "S10-E78",
+                    "episodeName": "BBTam Day 77: The Eviction Shockwave",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9981/1795358099981-h",
+                    "updateDate": "22-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "10",
                     "episodeNumber": "77",
