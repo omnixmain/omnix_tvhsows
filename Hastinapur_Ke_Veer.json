@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "150",
+                    "duration": "22m",
+                    "episodeCode": "S2-E150",
+                    "episodeName": "Dron: The Wisdom Behind His Decision",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029668/1795347557383331_Hastinapur_Ke_Veer_Ep_150_landscape_thumb.jpg",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/hastinapur-ke-veer-23rd-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "149",
                     "duration": "22m",
                     "episodeCode": "S2-E149",
                     "episodeName": "Eklavya's Supreme Sacrifice",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029526/1795197627754665_Hastinapur-Ke-Veer-Ep-149_landscape_thumb.jpg",
                     "updateDate": "21-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/hastinapur-ke-veer-21st-november-2026-today-episode-watch-online-hd/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/eklavyas-supreme-sacrifice-1090555393?watch=true"
                 },
                 {
                     "seasonNumber": "2",
