@@ -15,13 +15,33 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "55",
+                    "duration": "22m",
+                    "episodeCode": "S1-E55",
+                    "episodeName": "Muthuswamy Refuses To Give Up",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029795/1795458672608957_KYUNKI_PAPA_KEHTE_HAIN_EP_55_landscape_thumb.jpg",
+                    "updateDate": "24-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/kyunki-papa-kehte-hain-24th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "54",
+                    "duration": "22m",
+                    "episodeCode": "S1-E54",
+                    "episodeName": "Pawan's New Avatar Creates Chaos",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029668/1795347503749331_KYUNKI_PAPA_KEHTE_HAIN_EP_54_landscape_thumb.jpg",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-new-avatar-creates-chaos-1090555738?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "53",
                     "duration": "22m",
                     "episodeCode": "S1-E53",
                     "episodeName": "Pawan's Southern Surprise",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029526/1795197483116665_KYUNKI_PAPA_KEHTE_HAIN_EP_53_landscape_thumb.jpg",
                     "updateDate": "21-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/kyunki-papa-kehte-hain-21st-november-2026-today-episode-watch-online-hd/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawans-southern-surprise-1090555418?watch=true"
                 },
                 {
                     "seasonNumber": "1",
