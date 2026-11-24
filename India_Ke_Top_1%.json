@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 22, 2026",
+            "ottReleaseDate": "November 24, 2026",
             "description": "1-2 ka 4, ya 4-2 ka 1? Hosted by Anil Kapoor, this top-tier quiz show is all about logic and reasoning, where 100 contestants vie to enter the elite 1% club! Watch India Ke Top 1% - Hindi Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "1h 7m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Naukri Versus Business",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8589/1795353308589-h",
+                    "updateDate": "22-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/india-ke-top-1-22nd-november-2026-today-episode-update/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "19",
