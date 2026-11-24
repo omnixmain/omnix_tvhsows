@@ -2,7 +2,7 @@
     "tvShows": [
         {
             "name": "Bigg Boss Bengali",
-            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/640/1795257670640-i",
+            "banner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3542/1795415673542-i",
             "genre": "Drama, Entertainment",
             "rating": "8.0",
             "year": "2026",
@@ -10,9 +10,29 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Bengali",
-            "ottReleaseDate": "November 22, 2026",
+            "ottReleaseDate": "November 24, 2026",
             "description": "Welcome to the ultimate game of survival! Expect unfiltered drama, unexpected friendships, explosive clashes and shocking twists with Sourav Ganguly! Watch Bigg Boss - Bengali Reality serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "86",
+                    "duration": "1h 8m",
+                    "episodeCode": "S1-E86",
+                    "episodeName": "BBBan Day 85: Top 8 Face the Press",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5098/1795443695098-h",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "85",
+                    "duration": "1h 8m",
+                    "episodeCode": "S1-E85",
+                    "episodeName": "BBBan Day 84: It Is Eviction Time!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2/1795357630002-h",
+                    "updateDate": "22-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "84",
