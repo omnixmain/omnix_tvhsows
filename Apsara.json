@@ -10,9 +10,29 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 22, 2026",
+            "ottReleaseDate": "November 24, 2026",
             "description": "Braving modern-day evils, power-blessed Sunheri is the sole protector of her celestial clan! But her blood sister Dhara stands in her way! Can she fight her? Watch Apsara - Hindi Fantasy Thriller Romance serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "35",
+                    "duration": "23m",
+                    "episodeCode": "S1-E35",
+                    "episodeName": "Sunheri Gets Her Job Back",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5895/1795481525895-h",
+                    "updateDate": "24-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-24th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "34",
+                    "duration": "24m",
+                    "episodeCode": "S1-E34",
+                    "episodeName": "Shaurya Refuses to Marry Dhara",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3003/1795395733003-h",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-23rd-november-2026-today-episode-update/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "33",
