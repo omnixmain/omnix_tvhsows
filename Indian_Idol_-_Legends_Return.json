@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "12",
+                    "duration": "67m",
+                    "episodeCode": "S1-E12",
+                    "episodeName": "Urmila Matondkar Witnesses A Night Of Musical Magic",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029615/1795277924582655_INDIAN_IDOL_LEGENDS_RETURN_EP_12_landscape_thumb.jpg",
+                    "updateDate": "22-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-idol-legends-return-1790007916/urmila-matondkar-witnesses-a-night-of-musical-magic-1090555746?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "11",
                     "duration": "71m",
                     "episodeCode": "S1-E11",
