@@ -10,9 +10,29 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 22, 2026",
+            "ottReleaseDate": "November 24, 2026",
             "description": "Mahadev's 'perfect' family is breaking apart, all because of Mogra, his beloved daughter-in-law. Can Rajji and Dheeraj protect the family and Mahadev's legacy? Watch Mahadev & Sons - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "251",
+                    "duration": "28m",
+                    "episodeCode": "S1-E251",
+                    "episodeName": "Rajji's Lies About Her Pregnancy",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8447/1795470648447-h",
+                    "updateDate": "24-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/mahadev-and-sons-24th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "250",
+                    "duration": "31m",
+                    "episodeCode": "S1-E250",
+                    "episodeName": "Rajji Worries about Vishwa",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7934/1795395857934-h",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/mahadev-and-sons-23rd-november-2026-today-episode-update/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "249",
@@ -1681,26 +1701,6 @@
                     "episodeName": "Maddy Enters the House",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2747/1777342122747-h",
                     "updateDate": "28-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "81",
-                    "duration": "39m",
-                    "episodeCode": "S1-E81",
-                    "episodeName": "Rajji's Job Sparks Chaos",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8211/1777257958211-h",
-                    "updateDate": "27-04-2026",
-                    "episodeUrl": ""
-                },
-                {
-                    "seasonNumber": "1",
-                    "episodeNumber": "80",
-                    "duration": "32m",
-                    "episodeCode": "S1-E80",
-                    "episodeName": "Dheeraj Faces a Harsh Reality",
-                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2483/1776995502483-h",
-                    "updateDate": "24-04-2026",
                     "episodeUrl": ""
                 }
             ]
