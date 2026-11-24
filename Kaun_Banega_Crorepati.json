@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "67",
+                    "duration": "72m",
+                    "episodeCode": "S18-E67",
+                    "episodeName": "Bhushan Thakare Faces The Ultimate Test Of Knowledge",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029811/1795505674659662_KAUN_BANEGA_CROREPATI_S18_EP_67_landscape_thumbnail.jpeg",
+                    "updateDate": "24-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bhushan-thakare-faces-the-ultimate-test-of-knowledge-1090555868?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "66",
                     "duration": "64m",
                     "episodeCode": "S18-E66",
