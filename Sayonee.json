@@ -10,9 +10,29 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 22, 2026",
+            "ottReleaseDate": "November 24, 2026",
             "description": "For young Saanvi, the word mother equals world. When fate brings her close to her long-lost mother, a promise stands between their reunion! But for how long? Watch Sayoneee - Hindi Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "63",
+                    "duration": "23m",
+                    "episodeCode": "S1-E63",
+                    "episodeName": "Yuvraj's Misdeeds Come to Light",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/309/1795481570309-h",
+                    "updateDate": "24-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-24th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "62",
+                    "duration": "23m",
+                    "episodeCode": "S1-E62",
+                    "episodeName": "Sukumani and Maya Clash Over Saanvi",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3424/1795395643424-h",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-23rd-november-2026-today-episode-update/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "61",
