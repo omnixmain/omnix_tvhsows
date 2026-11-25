@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "72",
+                    "duration": "58m",
+                    "episodeCode": "S2-E72",
+                    "episodeName": "Think Fast, Fall Faster",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029901/1795582765575900_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_72_landscape_thumbnail.jpeg",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/think-fast-fall-faster-1090556299?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "71",
                     "duration": "58m",
                     "episodeCode": "S2-E71",
