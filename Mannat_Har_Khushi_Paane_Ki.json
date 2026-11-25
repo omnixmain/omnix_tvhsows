@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "30",
+                    "duration": "27m",
+                    "episodeCode": "S2-E30",
+                    "episodeName": "Jolly's Desperate Move",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7534/1795566427534-h",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "29",
                     "duration": "27m",
                     "episodeCode": "S2-E29",
