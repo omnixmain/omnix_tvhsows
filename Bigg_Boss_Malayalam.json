@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "November 25, 2026",
+            "ottReleaseDate": "November 26, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "81",
+                    "duration": "1h 20m",
+                    "episodeCode": "S8-E81",
+                    "episodeName": "BBMal Day 80: Loved Ones Bring Joy to the House",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1620/1795617351620-h",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "80",
