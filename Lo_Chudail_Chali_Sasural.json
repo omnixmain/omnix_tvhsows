@@ -15,6 +15,26 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "6",
+                    "duration": "22m",
+                    "episodeCode": "S1-E6",
+                    "episodeName": "Love, Apologies And New Troubles",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029795/1795458627097957_LO_CHUDAIL_CHALI_SASURAL_EP_06_landscape_thumb.jpg",
+                    "updateDate": "24-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/lo-chudail-chali-sasural-24th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "5",
+                    "duration": "24m",
+                    "episodeCode": "S1-E5",
+                    "episodeName": "A Love Story Revisited",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029668/1795347306462331_LO_CHUDAIL_CHALI_SASURAL_EP_05_landscape_thumb.jpg",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/lo-chudail-chali-sasural-1790007924/a-love-story-revisited-1090555734?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "4",
                     "duration": "23m",
                     "episodeCode": "S1-E4",
