@@ -15,6 +15,26 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "38",
+                    "duration": "56m",
+                    "episodeCode": "S5-E38",
+                    "episodeName": "Meghana Abhang Begins Her KBC Journey",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029810/1795505693779200_KON_HONAR_CROREPATI_S05_EP_38_landscape_thumbnail.jpeg",
+                    "updateDate": "24-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/meghana-abhang-begins-her-kbc-journey-1090555862?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
+                    "episodeNumber": "37",
+                    "duration": "55m",
+                    "episodeCode": "S5-E37",
+                    "episodeName": "Bhuvan Bam Takes The Hotseat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029721/1795410438023847_KON_HONAR_CROREPATI_S05_EP_37_landscape_thumb.jpg",
+                    "updateDate": "23-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/bhuvan-bam-takes-the-hotseat-1090555723?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "36",
                     "duration": "52m",
                     "episodeCode": "S5-E36",
