@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 25, 2026",
+            "ottReleaseDate": "November 26, 2026",
             "description": "Watch Bigg Boss on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "20",
+                    "episodeNumber": "81",
+                    "duration": "1h 11m",
+                    "episodeCode": "S20-E81",
+                    "episodeName": "BBHin Day 80: Har Chaal Pe Bawaal!",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7010/1795616817010-h",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-25th-november-2026-full-episode-video-watch-online/"
+                },
                 {
                     "seasonNumber": "20",
                     "episodeNumber": "80",
