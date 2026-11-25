@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "7",
+                    "duration": "22m",
+                    "episodeCode": "S1-E7",
+                    "episodeName": "The Two Sides Of Aarav",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029903/1795582773611264_LO_CHUDAIL_CHALI_SASURAL_EP_07_landscape_thumbnail.jpeg",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/lo-chudail-chali-sasural-1790007924/the-two-sides-of-aarav-1090556302?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "6",
                     "duration": "22m",
                     "episodeCode": "S1-E6",
                     "episodeName": "Love, Apologies And New Troubles",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029795/1795458627097957_LO_CHUDAIL_CHALI_SASURAL_EP_06_landscape_thumb.jpg",
                     "updateDate": "24-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/lo-chudail-chali-sasural-24th-november-2026-today-episode-update/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/lo-chudail-chali-sasural-1790007924/love-apologies-and-new-troubles-1090555871?watch=true"
                 },
                 {
                     "seasonNumber": "1",
