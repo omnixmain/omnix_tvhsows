@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "36",
+                    "duration": "24m",
+                    "episodeCode": "S1-E36",
+                    "episodeName": "Dhara's Decision to Wed Shaurya",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1091/1795566571091-h",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/apsara-25th-november-2026-today-full-episode-watch-online/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "35",
                     "duration": "23m",
                     "episodeCode": "S1-E35",
