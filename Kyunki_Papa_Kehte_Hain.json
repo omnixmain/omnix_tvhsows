@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "56",
+                    "duration": "22m",
+                    "episodeCode": "S1-E56",
+                    "episodeName": "Can They Bring Back Pawan?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029902/1795582769617838_KYUNKI_PAPA_KEHTE_HAIN_EP_56_landscape_thumbnail.jpeg",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/kyunki-papa-kehte-hain-25th-november-2026-full-episode-video-watch-online/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "55",
                     "duration": "22m",
                     "episodeCode": "S1-E55",
                     "episodeName": "Muthuswamy Refuses To Give Up",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029795/1795458672608957_KYUNKI_PAPA_KEHTE_HAIN_EP_55_landscape_thumb.jpg",
                     "updateDate": "24-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/kyunki-papa-kehte-hain-24th-november-2026-today-episode-update/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/muthuswamy-refuses-to-give-up-1090555870?watch=true"
                 },
                 {
                     "seasonNumber": "1",
