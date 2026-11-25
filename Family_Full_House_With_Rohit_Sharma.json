@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "20",
+                    "duration": "59m",
+                    "episodeCode": "S1-E20",
+                    "episodeName": "Kesariya Womania Vs Chauhan Family Showdown",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029615/1795277961422655_FAMILY-FULL-HOUSE-WITH-ROHIT-SHARMA_EP_20_landscape_thumb.jpg",
+                    "updateDate": "22-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/family-full-house-with-rohit-sharma-1790007851/kesariya-womania-vs-chauhan-family-showdown-1090555449?watch=true"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "19",
                     "duration": "59m",
                     "episodeCode": "S1-E19",
