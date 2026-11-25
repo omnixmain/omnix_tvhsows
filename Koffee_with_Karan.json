@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "9",
+                    "episodeNumber": "7",
+                    "duration": "56m",
+                    "episodeCode": "S9-E7",
+                    "episodeName": "Akshay Kumar and Ravi Kishan",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9486/1795599979486-h",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/koffee-with-karan-season-9-25th-november-2026-full-episode-video-watch-online/"
+                },
+                {
+                    "seasonNumber": "9",
                     "episodeNumber": "6",
                     "duration": "58m",
                     "episodeCode": "S9-E6",
