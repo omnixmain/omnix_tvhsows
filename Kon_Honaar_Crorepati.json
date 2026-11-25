@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "39",
+                    "duration": "53m",
+                    "episodeCode": "S5-E39",
+                    "episodeName": "Priti Dharmadhikari Takes The Hotseat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029916/1795589690806295_KON_HONAR_CROREPATI_S05_EP_39_landscape_thumbnail.jpeg",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/priti-dharmadhikari-takes-the-hotseat-1090556084?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "38",
                     "duration": "56m",
                     "episodeCode": "S5-E38",
