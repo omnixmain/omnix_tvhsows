@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "111",
+                    "duration": "30m",
+                    "episodeCode": "S1-E111",
+                    "episodeName": "Saumya Puts Marriage on Hold",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/434/1795566360434-h",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-25th-november-2026-today-full-episode-watch-online/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "110",
                     "duration": "28m",
                     "episodeCode": "S1-E110",
@@ -41,7 +51,7 @@
                     "episodeName": "Will Jeet Agree to Anoop's Condition?",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6293/1795315366293-h",
                     "updateDate": "22-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-22nd-november-2026-today-episode-update/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
