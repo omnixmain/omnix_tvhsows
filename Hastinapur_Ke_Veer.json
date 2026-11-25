@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "152",
+                    "duration": "22m",
+                    "episodeCode": "S2-E152",
+                    "episodeName": "Karna's Final Goodbye",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029911/1795587245828578_Hastinapur_Ke_Veer_Ep_152_landscape_thumbnail.jpeg",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/hastinapur-ke-veer-25th-november-2026-full-episode-video-watch-online/"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "151",
                     "duration": "21m",
                     "episodeCode": "S2-E151",
                     "episodeName": "Dushala's Confession",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029795/1795458735779957_Hastinapur-Ke-Veer-Ep-151_landscape_thumb.jpg",
                     "updateDate": "24-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/hastinapur-ke-veer-24th-november-2026-today-episode-update/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/dushalas-confession-1090555873?watch=true"
                 },
                 {
                     "seasonNumber": "2",
