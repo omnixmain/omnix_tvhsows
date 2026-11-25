@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "68",
+                    "duration": "96m",
+                    "episodeCode": "S18-E68",
+                    "episodeName": "Bhushan Thakare's Winning Streak Continues",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029918/1795589687297511_KAUN_BANEGA_CROREPATI_S18_EP_68_landscape_thumbnail.jpeg",
+                    "updateDate": "25-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/bhushan-thakares-winning-streak-continues-1090556309?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "67",
                     "duration": "72m",
                     "episodeCode": "S18-E67",
