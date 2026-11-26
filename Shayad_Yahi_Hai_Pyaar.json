@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "46",
+                    "duration": "32m",
+                    "episodeCode": "S1-E46",
+                    "episodeName": "Sundar Wants Preeti to Open Up",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2484/1795652752484-h",
+                    "updateDate": "26-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/shayad-yahi-hai-pyaar-26th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "45",
                     "duration": "31m",
                     "episodeCode": "S1-E45",
