@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "65",
+                    "duration": "23m",
+                    "episodeCode": "S1-E65",
+                    "episodeName": "Kabir's Shocking Discovery",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1622/1795652821622-h",
+                    "updateDate": "26-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/sayonee-26th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "64",
                     "duration": "22m",
                     "episodeCode": "S1-E64",
