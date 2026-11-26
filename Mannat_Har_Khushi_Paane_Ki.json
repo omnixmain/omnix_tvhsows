@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "31",
+                    "duration": "29m",
+                    "episodeCode": "S2-E31",
+                    "episodeName": "Sarika Reveals Her Decision",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7167/1795652837167-h",
+                    "updateDate": "26-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "30",
                     "duration": "27m",
                     "episodeCode": "S2-E30",
