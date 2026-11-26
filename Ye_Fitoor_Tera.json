@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "112",
+                    "duration": "30m",
+                    "episodeCode": "S1-E112",
+                    "episodeName": "Saumya's Painful Dilemma",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6851/1795652826851-h",
+                    "updateDate": "26-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-26th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "111",
                     "duration": "30m",
                     "episodeCode": "S1-E111",
@@ -41,7 +51,7 @@
                     "episodeName": "Jeet Stands Firm for Saumya",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1075/1795395821075-h",
                     "updateDate": "23-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/yeh-fitoor-tera-23rd-november-2026-today-episode-update/"
+                    "episodeUrl": ""
                 },
                 {
                     "seasonNumber": "1",
