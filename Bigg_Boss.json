@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "20",
+                    "episodeNumber": "82",
+                    "duration": "1h 10m",
+                    "episodeCode": "S20-E82",
+                    "episodeName": "BBHin Day 81: Captain Calls the Shots",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3786/1795701333786-h",
+                    "updateDate": "26-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/bigg-boss-20-26th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "20",
                     "episodeNumber": "81",
                     "duration": "1h 10m",
                     "episodeCode": "S20-E81",
