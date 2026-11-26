@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "89",
+                    "duration": "1h 9m",
+                    "episodeCode": "S1-E89",
+                    "episodeName": "BBBan Day 88: A Celebration to Remember",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7082/1795700677082-h",
+                    "updateDate": "26-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "88",
                     "duration": "1h 8m",
                     "episodeCode": "S1-E88",
