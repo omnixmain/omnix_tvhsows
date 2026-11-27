@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "1",
+                    "episodeNumber": "58",
+                    "duration": "22m",
+                    "episodeCode": "S1-E58",
+                    "episodeName": "A Visit That Worries All",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030120/1795762300930537_KYUNKI_PAPA_KEHTE_HAIN_EP_58_landscape_thumbnail.jpeg",
+                    "updateDate": "27-11-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
                     "episodeNumber": "57",
                     "duration": "22m",
                     "episodeCode": "S1-E57",
                     "episodeName": "Pawan Reveals His Secret",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029987/1795629661694786_KYUNKI_PAPA_KEHTE_HAIN_EP_57_landscape_thumb.jpg",
                     "updateDate": "26-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/kyunki-papa-kehte-hain-26th-november-2026-today-episode-update/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/kyunki-papa-kehte-hain-1790007859/pawan-reveals-his-secret-1090556461?watch=true"
                 },
                 {
                     "seasonNumber": "1",
