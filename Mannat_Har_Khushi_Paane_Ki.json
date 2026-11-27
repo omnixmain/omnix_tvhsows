@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 26, 2026",
+            "ottReleaseDate": "November 27, 2026",
             "description": "Mannat’s life is as colourful as her ‘Dhaba’, which changes when her paths cross with the affluent Kabir. Love blooms, but a past secret shakes their world! Watch Mannat - Har Khushi Paane Ki - Hindi Romance Drama Family serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "2",
+                    "episodeNumber": "32",
+                    "duration": "30m",
+                    "episodeCode": "S2-E32",
+                    "episodeName": "Surinder Announces Mannat as the Owner",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5068/1795739605068-h",
+                    "updateDate": "27-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "2",
                     "episodeNumber": "31",
