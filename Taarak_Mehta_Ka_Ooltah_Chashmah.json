@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "49",
+                    "episodeNumber": "4879",
+                    "duration": "20m",
+                    "episodeCode": "S49-E4879",
+                    "episodeName": "Will Popatlal Impress The Bride's Family?",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030170/17957854721406_Taarak_Mehta_Ka_Oolta_Chashmah_4879_landscape_thumbnail.png",
+                    "updateDate": "27-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-27th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "49",
                     "episodeNumber": "4878",
                     "duration": "20m",
                     "episodeCode": "S49-E4878",
                     "episodeName": "Popatlal’s Marriage Hope Gets A New Twist",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030043/1795695100846687_Taarak_Mehta_Ka_Oolta_Chashmah_4878_landscape_thumbnail.jpg",
                     "updateDate": "26-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/taarak-mehta-ka-ooltah-chashmah-26th-november-2026-today-episode-update/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/taarak-mehta-ka-ooltah-chashmah-1700000084/popatlals-marriage-hope-gets-a-new-twist-1090556465?watch=true"
                 },
                 {
                     "seasonNumber": "49",
