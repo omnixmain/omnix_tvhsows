@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "5",
+                    "episodeNumber": "41",
+                    "duration": "61m",
+                    "episodeCode": "S5-E41",
+                    "episodeName": "Vaishnavi Deshmukh Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030119/1795761878474767_KON_HONAR_CROREPATI_S05_EP_41_landscape_thumbnail.jpeg",
+                    "updateDate": "27-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kon-honaar-crorepati-1790007862/vaishnavi-deshmukh-takes-the-hot-seat-1090556086?watch=true"
+                },
+                {
+                    "seasonNumber": "5",
                     "episodeNumber": "40",
                     "duration": "58m",
                     "episodeCode": "S5-E40",
