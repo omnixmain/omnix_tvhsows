@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "18",
+                    "episodeNumber": "70",
+                    "duration": "86m",
+                    "episodeCode": "S18-E70",
+                    "episodeName": "Santosh Ingle Takes The Hot Seat",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030118/1795761965795105_KAUN_BANEGA_CROREPATI_S18_EP_70_landscape_thumbnail.jpeg",
+                    "updateDate": "27-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/kaun-banega-crorepati-1700000195/santosh-ingle-takes-the-hot-seat-1090556697?watch=true"
+                },
+                {
+                    "seasonNumber": "18",
                     "episodeNumber": "69",
                     "duration": "82m",
                     "episodeCode": "S18-E69",
