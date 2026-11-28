@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Malayalam",
-            "ottReleaseDate": "November 27, 2026",
+            "ottReleaseDate": "November 28, 2026",
             "description": "Watch Bigg Boss Malayalam on JioHotstar.",
             "episodes": [
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "83",
+                    "duration": "1h 19m",
+                    "episodeCode": "S8-E83",
+                    "episodeName": "BBMal Day 82: Family Visits, Pranks and BB Warning",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5856/1795786585856-h",
+                    "updateDate": "27-11-2026",
+                    "episodeUrl": ""
+                },
                 {
                     "seasonNumber": "8",
                     "episodeNumber": "82",
@@ -491,6 +501,196 @@
                     "episodeName": "BBMal Day 32: Bigg Trouble in Candy House",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1931/1791462531931-h",
                     "updateDate": "08-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "32",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E32",
+                    "episodeName": "BBMal Day 31: Candy Clash Saga",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9019/1791376109019-h",
+                    "updateDate": "07-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "31",
+                    "duration": "1h 9m",
+                    "episodeCode": "S8-E31",
+                    "episodeName": "BBMal Day 30: Secret Tasks, Tears and Exit Plea",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2307/1791291112307-h",
+                    "updateDate": "06-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "30",
+                    "duration": "1h 9m",
+                    "episodeCode": "S8-E30",
+                    "episodeName": "BBMal Day 29: Wildcards Seize Captaincy",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6650/1791209606650-h",
+                    "updateDate": "05-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "29",
+                    "duration": "1h 12m",
+                    "episodeCode": "S8-E29",
+                    "episodeName": "BBMal Day 28: Four New Wildcards Shake the House",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7359/1791119317359-h",
+                    "updateDate": "04-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "28",
+                    "duration": "1h 6m",
+                    "episodeCode": "S8-E28",
+                    "episodeName": "BBMal Day 27: Mass Eviction Hits the House",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7102/1791031257102-h",
+                    "updateDate": "03-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "27",
+                    "duration": "1h 8m",
+                    "episodeCode": "S8-E27",
+                    "episodeName": "BBMal Day 26: Leadership Reality Check for Shijin",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7678/1790947697678-h",
+                    "updateDate": "02-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "26",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E26",
+                    "episodeName": "BBMal Day 25: Twisted Mind Games and Team Swaps",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4990/1790861394990-h",
+                    "updateDate": "01-10-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "25",
+                    "duration": "1h 9m",
+                    "episodeCode": "S8-E25",
+                    "episodeName": "BBMal Day 24: Secret Tasks and Prank Drama",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/991/1790776340991-h",
+                    "updateDate": "30-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "24",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E24",
+                    "episodeName": "BBMal Day 23: Vampires, Villagers and Revolt",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3898/1790686193898-h",
+                    "updateDate": "29-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "23",
+                    "duration": "1h 8m",
+                    "episodeCode": "S8-E23",
+                    "episodeName": "BBMal Day 22: Inventory Task Goes Topsy-Turvy",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/738/1790601040738-h",
+                    "updateDate": "28-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "22",
+                    "duration": "1h 4m",
+                    "episodeCode": "S8-E22",
+                    "episodeName": "BBMal Day 21: Lalettan Demands Answers",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4863/1790507234863-h",
+                    "updateDate": "27-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "21",
+                    "duration": "1h 3m",
+                    "episodeCode": "S8-E21",
+                    "episodeName": "BBMal Day 20: Lalettan Issues an Ultimatum",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3649/1790425523649-h",
+                    "updateDate": "26-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "20",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E20",
+                    "episodeName": "BBMal Day 19: Order, Order! Jail Becomes Court",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6286/1790339476286-h",
+                    "updateDate": "25-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "19",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E19",
+                    "episodeName": "BBMal Day 18: Lines Crossed, No Task, Only Trouble",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5395/1790250625395-h",
+                    "updateDate": "24-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "18",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E18",
+                    "episodeName": "BBMal Day 17: Bans, Brawls and Blockades",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5826/1790172065826-h",
+                    "updateDate": "23-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "17",
+                    "duration": "1h 7m",
+                    "episodeCode": "S8-E17",
+                    "episodeName": "BBMal Day 16: Mass Break-In and Massive Food Raid",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2688/1790085682688-h",
+                    "updateDate": "22-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "16",
+                    "duration": "1h 8m",
+                    "episodeCode": "S8-E16",
+                    "episodeName": "BBMal Day 15: Nomination Task and Explosive Fights",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6240/1789994376240-h",
+                    "updateDate": "21-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "15",
+                    "duration": "1h 6m",
+                    "episodeCode": "S8-E15",
+                    "episodeName": "BBMal Day 14: Secrets Out and an Eviction In",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5892/1789902525892-h",
+                    "updateDate": "20-09-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "8",
+                    "episodeNumber": "14",
+                    "duration": "1h 6m",
+                    "episodeCode": "S8-E14",
+                    "episodeName": "BBMal Day 13: Lalettan Confronts Rahul and Azif",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3100/1789820923100-h",
+                    "updateDate": "19-09-2026",
                     "episodeUrl": ""
                 }
             ]
