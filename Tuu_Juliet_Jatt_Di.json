@@ -10,9 +10,19 @@
             "streaming": "JioHotstar",
             "streamingLogo": "https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png",
             "language": "Hindi",
-            "ottReleaseDate": "November 27, 2026",
+            "ottReleaseDate": "November 28, 2026",
             "description": "Heer and Nawab's bitter past resurfaces when three juniors face a complicated romance, making them question if their love deserves another chance. Watch Tuu Juliet Jatt Di - Hindi Romance Drama serial on JioHotstar now.",
             "episodes": [
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "377",
+                    "duration": "25m",
+                    "episodeCode": "S1-E377",
+                    "episodeName": "Heer-Nawab Reunite at the Centre",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2474/1795785992474-h",
+                    "updateDate": "28-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/tu-juliet-jatt-di-28th-november-2026-today-episode-update/"
+                },
                 {
                     "seasonNumber": "1",
                     "episodeNumber": "376",
@@ -1211,6 +1221,96 @@
                     "episodeName": "Nawab Rescues Heer",
                     "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3992/1785436213992-h",
                     "updateDate": "31-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "256",
+                    "duration": "21m",
+                    "episodeCode": "S1-E256",
+                    "episodeName": "Nawab, Heer Sense a Conspiracy",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6696/1785338356696-h",
+                    "updateDate": "30-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "255",
+                    "duration": "21m",
+                    "episodeCode": "S1-E255",
+                    "episodeName": "Nimrat Admits Her Mistake",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6879/1785291116879-h",
+                    "updateDate": "29-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "254",
+                    "duration": "21m",
+                    "episodeCode": "S1-E254",
+                    "episodeName": "Heer's Clever Plan Works",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6840/1785205916840-h",
+                    "updateDate": "28-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "253",
+                    "duration": "21m",
+                    "episodeCode": "S1-E253",
+                    "episodeName": "Heer Doubts Nimrat's Motives",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6138/1785119036138-h",
+                    "updateDate": "27-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "252",
+                    "duration": "21m",
+                    "episodeCode": "S1-E252",
+                    "episodeName": "Heer and Nawab Grow Closer",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2087/1785030602087-h",
+                    "updateDate": "26-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "251",
+                    "duration": "22m",
+                    "episodeCode": "S1-E251",
+                    "episodeName": "Nawab Proves Heer's Innocence",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4494/1784949544494-h",
+                    "updateDate": "25-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "250",
+                    "duration": "22m",
+                    "episodeCode": "S1-E250",
+                    "episodeName": "Heer Gets Arrested",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8987/1784858958987-h",
+                    "updateDate": "24-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "249",
+                    "duration": "22m",
+                    "episodeCode": "S1-E249",
+                    "episodeName": "Nimrat Frames Heer",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5071/1784770905071-h",
+                    "updateDate": "23-07-2026",
+                    "episodeUrl": ""
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodeNumber": "248",
+                    "duration": "22m",
+                    "episodeCode": "S1-E248",
+                    "episodeName": "Nimrat Moves into Brar House",
+                    "episodeBanner": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6364/1784687006364-h",
+                    "updateDate": "22-07-2026",
                     "episodeUrl": ""
                 }
             ]
