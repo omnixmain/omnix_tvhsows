@@ -15,6 +15,16 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "74",
+                    "duration": "56m",
+                    "episodeCode": "S2-E74",
+                    "episodeName": "Fries Collection Race",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030117/1795762356607794_INDIAN_GAME_SHOW_WITH_BHARTI_AND_HARSSH_S01_EP_74_landscape_thumbnail.jpeg",
+                    "updateDate": "27-11-2026",
+                    "episodeUrl": "https://www.sonyliv.com/shows/indian-game-show-1790007836/fries-collection-race-1090556693?watch=true"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "73",
                     "duration": "59m",
                     "episodeCode": "S2-E73",
