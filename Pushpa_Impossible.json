@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "14",
+                    "episodeNumber": "1401",
+                    "duration": "22m",
+                    "episodeCode": "S14-E1401",
+                    "episodeName": "Shanaya Confronts Her Feelings",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030128/179576202630649_PUSHPA_IMPOSSIBLE_EP_1401_landscape_thumbnail.jpeg",
+                    "updateDate": "27-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/pushpa-impossible-27th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "14",
                     "episodeNumber": "1400",
                     "duration": "22m",
                     "episodeCode": "S14-E1400",
                     "episodeName": "Chirag's Fear Grows",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029987/1795629642180786_PUSHPA_IMPOSSIBLE_EP_1400_landscape_thumb.jpg",
                     "updateDate": "26-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/pushpa-impossible-26th-november-2026-today-episode-update/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/pushpa-impossible-1700000921/chirags-fear-grows-1090556467?watch=true"
                 },
                 {
                     "seasonNumber": "14",
