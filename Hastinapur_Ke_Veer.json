@@ -15,13 +15,23 @@
             "episodes": [
                 {
                     "seasonNumber": "2",
+                    "episodeNumber": "154",
+                    "duration": "22m",
+                    "episodeCode": "S2-E154",
+                    "episodeName": "Karna’s Unintended Mistake",
+                    "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030116/1795762099203519_Hastinapur_Ke_Veer_Ep_154_landscape_thumbnail.jpeg",
+                    "updateDate": "27-11-2026",
+                    "episodeUrl": "https://serialtvmaza.sbs/hastinapur-ke-veer-27th-november-2026-today-episode-update/"
+                },
+                {
+                    "seasonNumber": "2",
                     "episodeNumber": "153",
                     "duration": "22m",
                     "episodeCode": "S2-E153",
                     "episodeName": "Arjun Questions Dronacharya",
                     "episodeBanner": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029987/1795629688337786_Hastinapur-Ke-Veer-Ep-153_landscape_thumb.jpg",
                     "updateDate": "26-11-2026",
-                    "episodeUrl": "https://serialtvmaza.sbs/hastinapur-ke-veer-26th-november-2026-today-episode-update/"
+                    "episodeUrl": "https://www.sonyliv.com/shows/hastinapur-ke-veer-1790007734/arjun-questions-dronacharya-1090556466?watch=true"
                 },
                 {
                     "seasonNumber": "2",
